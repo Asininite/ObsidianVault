@@ -1,0 +1,15 @@
+- **Logging In:** You can connect to MySQL using the `mysql -u root -p` command.
+- **Basic Commands:** 
+    - **Creating a Database:** `CREATE DATABASE database_name`
+    - **Using a Database:** `USE database_name` 
+    - **Creating a Table:** Use `CREATE TABLE table_name (varname1 type1 property, varname2 type2 property)`
+    - **Inserting Data:** Use `INSERT INTO table_name (column1, column2, ...) VALUES (value1, value2, ...` 
+    - **Querying Data:** `SELECT * FROM table_name` 
+    - **Updating Data:** `UPDATE table_name SET column = value WHERE column2 = value2`
+    - **Deleting Data:** `DELETE FROM table_name WHERE column1 = value1` 
+    - **Dropping a Table:** `DROP TABLE table_name` 
+    - **Dropping a Database:**  `DROP DATABASE db_name`
+- **MySQL Tools:** 
+    - **MySQL Workbench:** A graphical user interface for designing and managing databases.
+    - **phpMyAdmin:** A web-based interface for managing MySQL databases.
+    - **Command Line Client:** Allows direct interaction with MySQL using text commands.
