@@ -1,6 +1,5 @@
 #CCNA 
 ### **IP Version 4 Addressing Overview**
-
 #### **Introduction**
 
 - **Focus**: Discussion is on IP version 4 (IPv4) addresses, not IP version 6.

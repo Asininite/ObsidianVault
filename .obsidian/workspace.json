@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "457d2f20679fefbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f4d10f9721a394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5e4d46d09a72d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/CCNA/07 IP Addressing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0de0db737c0d0af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f7c65ca20efb51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad115f57a44c449",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2c80646e21560b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afbf018fc03c0e48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2285ec033214da64",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ef3b64343466a6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d92d4bb01261f957",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Vault/CCNA/07 IP Addressing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24214b6a040c3f4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Vault/CCNA/07 IP Addressing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cc8b9ebcfa54c7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "febf3c090e88f84e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Vault/CCNA/07 IP Addressing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b5e4d46d09a72d1e",
+  "lastOpenFiles": [
+    "Obsidian Vault/CCNA/04 TCP IP Model.md",
+    "Obsidian Vault/Computer Networks/Module 1 Syllabus.md",
+    "Obsidian Vault/CCNA/07 IP Addressing.md"
+  ]
+}
