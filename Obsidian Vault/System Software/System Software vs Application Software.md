@@ -2,10 +2,13 @@
 
 - Software is collection of program, procedures, routines associated with the operation of the computer system
 
+	Program : Collection of executable instructions
+	Software : Collection of program, procedures, routines
+
 ### System Software
 - Supports operation of computer
 - User can focus on application or problems without needing to know details of how the machine works
-- ![[Pasted image 20240831200354.png]]
+- ![[Software.png]]
 
 ### System Software vs Application Software
 - System Software interface between application software and system
