@@ -32,5 +32,5 @@ Types of Operating System
 	Processor's time shared among multiple users simultaneously 
 	Processor executes each user program in a short burst or quantum of computation
 - 
-
+helo
 
