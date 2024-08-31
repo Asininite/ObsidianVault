@@ -11,11 +11,28 @@
             "id": "e24230f04881b151",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0788edc9b6ac6700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/System Software/System Software vs Application Software.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian Vault/System Software/System Software vs Application Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian Vault/System Software/System Software vs Application Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian Vault/System Software/System Software vs Application Software.md"
+              }
             }
           },
           {
@@ -146,12 +167,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6cc8b9ebcfa54c7a",
+  "active": "0788edc9b6ac6700",
   "lastOpenFiles": [
-    "Obsidian Vault/DSA/Arrays/Two Pointers.md",
-    "Obsidian Vault/DSA/std tuple, std pair Returning multiple values from a function using Tuple and Pair in C++.md",
-    "Obsidian Vault/DSA/Arrays/Max and Min Of An Array Using Minimum Comparisons.md",
+    "Pasted image 20240831200354.png",
     "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
+    "Obsidian Vault/System Software/System Software vs Application Software.md",
+    "Obsidian Vault/System Software",
+    "Obsidian Vault/DSA/Arrays/Max and Min Of An Array Using Minimum Comparisons.md",
+    "Obsidian Vault/DSA/Arrays/Contains Duplicate.md",
+    "Obsidian Vault/Computer Networks/Module 1/Computer Network Applications.md",
+    "Obsidian Vault/C++/std tuple, std pair Returning multiple values from a function using Tuple and Pair in C++.md",
+    "Obsidian Vault/C++",
+    "Obsidian Vault/DSA/Two Pointers/Valid Palindrome.md",
+    "Obsidian Vault/DSA/Two Pointers/Two Pointers.md",
+    "Obsidian Vault/DSA/Two Pointers",
+    "Obsidian Vault/DSA/Arrays/Untitled",
     "Obsidian Vault/DSA/Arrays",
     "Obsidian Vault/Machine Learning/Pandas Methods and Introduction.md",
     "Obsidian Vault/DSA",
