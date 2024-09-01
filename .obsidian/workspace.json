@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Computer_Networks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,9 +169,18 @@
   },
   "active": "0788edc9b6ac6700",
   "lastOpenFiles": [
+    "Pasted image 20240901180105.png",
+    "Pasted image 20240901172953.png",
+    "Obsidian Vault/Computer Networks/Module 2/Error Detection.md",
+    "Obsidian Vault/Computer Networks/Module 2/Framing.md",
+    "Obsidian Vault/Computer Networks/Module 1 Syllabus.md",
+    "Obsidian Vault/Computer Networks/Module 1/Network Software.md",
+    "Obsidian Vault/Computer Networks/Module 1/OSI Reference Model.md",
+    "Obsidian Vault/Computer Networks/Module 1/MAC Addresses and Medium Access Control sublayer.md",
+    "Obsidian Vault/Computer Networks/Module 1/Medium Access Control sublayer.png",
+    "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
     "Pasted image 20240901131654.png",
     "Obsidian Vault/Computer Networks/Module 1/Computer Network Applications.md",
-    "Obsidian Vault/Computer Networks/Module 2/Framing.md",
     "Obsidian Vault/Computer Networks/Module 2",
     "Obsidian Vault/System Software/Different System Software.md",
     "Obsidian Vault/System Software/System Software vs Application Software.md",
@@ -190,7 +199,6 @@
     "Obsidian Vault/Machine Learning/Pandas Methods and Introduction.md",
     "Obsidian Vault/DSA",
     "Obsidian Vault/CCNA/07 IP Addressing.md",
-    "Obsidian Vault/CCNA/04 TCP IP Model.md",
-    "Obsidian Vault/Computer Networks/Module 1 Syllabus.md"
+    "Obsidian Vault/CCNA/04 TCP IP Model.md"
   ]
 }
