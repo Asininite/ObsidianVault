@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/System Software/Different System Software.md",
+                "file": "Obsidian Vault/Computer Networks/Module 2/Framing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/System Software/Different System Software.md",
+                "file": "Obsidian Vault/Computer Networks/Module 2/Framing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/System Software/Different System Software.md",
+                "file": "Obsidian Vault/Computer Networks/Module 2/Framing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/System Software/Different System Software.md"
+                "file": "Obsidian Vault/Computer Networks/Module 2/Framing.md"
               }
             }
           },
@@ -169,14 +169,17 @@
   },
   "active": "0788edc9b6ac6700",
   "lastOpenFiles": [
+    "Pasted image 20240901131654.png",
+    "Obsidian Vault/Computer Networks/Module 1/Computer Network Applications.md",
+    "Obsidian Vault/Computer Networks/Module 2/Framing.md",
+    "Obsidian Vault/Computer Networks/Module 2",
+    "Obsidian Vault/System Software/Different System Software.md",
     "Obsidian Vault/System Software/System Software vs Application Software.md",
     "Obsidian Vault/System Software/Software.png",
-    "Obsidian Vault/System Software/Different System Software.md",
     "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
     "Obsidian Vault/System Software",
     "Obsidian Vault/DSA/Arrays/Max and Min Of An Array Using Minimum Comparisons.md",
     "Obsidian Vault/DSA/Arrays/Contains Duplicate.md",
-    "Obsidian Vault/Computer Networks/Module 1/Computer Network Applications.md",
     "Obsidian Vault/C++/std tuple, std pair Returning multiple values from a function using Tuple and Pair in C++.md",
     "Obsidian Vault/C++",
     "Obsidian Vault/DSA/Two Pointers/Valid Palindrome.md",
