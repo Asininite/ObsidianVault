@@ -89,4 +89,55 @@ while(true)
 - Stop-And-Wait ARQ = Stop-And-Wait + Timeout Timer + Sequence Number
 - Minimum number of sequence numbers required = Sender Window Size + Receiver Window Size = 2
 - ![[Pasted image 20240902005137.png]]
-- 
+
+
+-------------------------------------------------------------------------------
+
+**1) Stop-and-Wait Protocol:**
+
+- **Concept:** Stop-and-wait is the most basic form of flow control. The sender transmits one frame and then "stops" (halts transmission) and "waits" for an acknowledgment (ACK) from the receiver before sending the next frame.
+    
+- **Sequence Numbers:** Simple 0 and 1 sequence numbers (modulo-2) are used to differentiate frames and identify duplicates.
+    
+- **Error Handling:** The receiver uses a mechanism like a CRC (Cyclic Redundancy Check) to detect errors in received frames.
+    
+    - **Correct Frame:** The receiver sends an ACK with the next expected sequence number.
+        
+    - **Corrupted Frame:** The receiver discards the frame and remains silent (sends no ACK). The sender, after a timeout, retransmits the frame.
+        
+- **Advantages:** Simple, minimal buffer requirements at the sender and receiver.
+    
+- **Disadvantages:** Inefficient - the link is idle for much of the time while the sender waits for ACKs. Very sensitive to propagation delays.
+    
+
+**2) Sliding Window Protocol:**
+
+- **Concept:** The sliding window protocol enhances efficiency by allowing the sender to transmit multiple frames before waiting for acknowledgments.
+    
+- **Window Size:** Both sender and receiver maintain a "window" (a range of sequence numbers). The sender can transmit frames within its window, and the receiver can accept and buffer frames within its window.
+    
+- **Sliding:** When an ACK arrives at the sender, the window "slides" forward, allowing the sender to transmit more frames.
+    
+- **Key Types:**
+    
+    - **Go-Back-N ARQ:** If an error is detected, the receiver discards all subsequent frames until the lost or corrupted frame is correctly received. The sender must retransmit all frames starting from the point of error.
+        
+    - **Selective Repeat ARQ:** If an error occurs, only the corrupted or lost frame is retransmitted. More complex to implement but offers better efficiency.
+        
+
+**3) Go-Back-N ARQ**
+
+- **Builds upon the sliding window:** Leverages a sliding window to transmit multiple frames without waiting for each ACK individually.
+    
+- **Error handling:** If a frame is lost or damaged, the receiver discards it and all subsequent frames in the sequence. It continues to send the last acknowledged frame number (expecting the sender to start re-sending from there).
+    
+- **Sender action:** When the timer expires for a frame, or when it receives duplicate ACKs for an expected sequence number, the sender retransmits all unacknowledged frames starting from the one with the expired timer.
+    
+
+**4) Selective Repeat ARQ**
+
+- **Selective retransmission:** As the name suggests, the receiver only asks for retransmission of specifically missed or corrupted frames, not all subsequent ones.
+    
+- **Out-of-order delivery:** It has the ability to accept frames that arrive out of sequence and can buffer them until the missing frames are received.
+    
+- **Efficiency:** Considered the most efficient protocol but requires more complex logic and larger buffers at the receiver to handle reordering of frames.

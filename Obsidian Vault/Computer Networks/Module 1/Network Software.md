@@ -75,9 +75,10 @@
 - **Connection-Oriented Service Primitives**:
     1. **LISTEN**: Server readiness to accept connections.
     2. **CONNECT**: Client request to establish a connection.
-    3. **RECEIVE**: Server readiness to receive requests.
-    4. **SEND**: Transmit data.
-    5. **DISCONNECT**: Terminate the connection.
+    3. **ACCEPT**: Accept an incoming connection from a peer
+    4. **RECEIVE**: Server readiness to receive requests.
+    5. **SEND**: Transmit data.
+    6. **DISCONNECT**: Terminate the connection.
 
 **Process**:
 
