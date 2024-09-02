@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0788edc9b6ac6700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 2/Flow Control.md",
+                "file": "Obsidian Vault/Computer Networks/Module 2/Hamming Code.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d92d4bb01261f957",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 2/Flow Control.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "24214b6a040c3f4c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 2/Flow Control.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "6cc8b9ebcfa54c7a",
             "type": "leaf",
             "state": {
@@ -131,31 +89,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "febf3c090e88f84e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 2/Flow Control.md"
-              }
-            }
-          },
-          {
-            "id": "82b1c2e64dd938f9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,30 +107,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0788edc9b6ac6700",
+  "active": "e24230f04881b151",
   "lastOpenFiles": [
-    "Pasted image 20240901204417.png",
-    "Pasted image 20240901204319.png",
-    "Pasted image 20240901203420.png",
-    "Pasted image 20240901195338.png",
-    "Obsidian Vault/Computer Networks/Module 2/Framing.md",
     "Obsidian Vault/Computer Networks/Module 2/Flow Control.md",
-    "Pasted image 20240901180105.png",
-    "Pasted image 20240901172953.png",
+    "Obsidian Vault/Computer Networks/Module 2/Hamming Code.md",
+    "Pasted image 20240902005137.png",
+    "Pasted image 20240902004852.png",
+    "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
+    "Obsidian Vault/Computer Networks/Pasted image 20240901221652.png",
+    "Obsidian Vault/Computer Networks/Pasted image 20240901221650.png",
+    "Obsidian Vault/Computer Networks/Pasted image 20240901195338.png",
+    "Obsidian Vault/Computer Networks/Pasted image 20240901180105.png",
+    "Obsidian Vault/Computer Networks/Pasted image 20240901172953.png",
+    "Obsidian Vault/Computer Networks/Pasted image 20240901131654.png",
+    "Obsidian Vault/Computer Networks/Pasted image 20240901204417.png",
+    "Obsidian Vault/Computer Networks/Pasted image 20240901204319.png",
+    "Obsidian Vault/Computer Networks/Module 2/Framing.md",
     "Obsidian Vault/Computer Networks/Module 2/Error Detection.md",
     "Obsidian Vault/Computer Networks/Module 1 Syllabus.md",
     "Obsidian Vault/Computer Networks/Module 1/Network Software.md",
     "Obsidian Vault/Computer Networks/Module 1/OSI Reference Model.md",
     "Obsidian Vault/Computer Networks/Module 1/MAC Addresses and Medium Access Control sublayer.md",
-    "Obsidian Vault/Computer Networks/Module 1/Medium Access Control sublayer.png",
     "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
-    "Pasted image 20240901131654.png",
     "Obsidian Vault/Computer Networks/Module 1/Computer Network Applications.md",
     "Obsidian Vault/Computer Networks/Module 2",
     "Obsidian Vault/System Software/Different System Software.md",
     "Obsidian Vault/System Software/System Software vs Application Software.md",
-    "Obsidian Vault/System Software/Software.png",
-    "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
     "Obsidian Vault/System Software",
     "Obsidian Vault/DSA/Arrays/Max and Min Of An Array Using Minimum Comparisons.md",
     "Obsidian Vault/DSA/Arrays/Contains Duplicate.md",
