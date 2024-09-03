@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 1/OSI Reference Model.md",
+                "file": "Obsidian Vault/System Software/Two Pass Assembler.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,11 +109,17 @@
   },
   "active": "e24230f04881b151",
   "lastOpenFiles": [
+    "Obsidian Vault/System Software/Simple SIC Assembler.md",
+    "Obsidian Vault/System Software/Two Pass Assembler.md",
+    "Obsidian Vault/System Software/Assembler.md",
+    "Obsidian Vault/System Software/SIC (Simplified Instructional Computer).md",
+    "Obsidian Vault/System Software/Different System Software.md",
+    "Obsidian Vault/System Software/System Software vs Application Software.md",
+    "Obsidian Vault/Computer Networks/Module 1/OSI Reference Model.md",
     "Obsidian Vault/Computer Networks/Module 1/Network Software.md",
     "Obsidian Vault/Computer Networks/Module 1/Network Hardware.md",
     "Obsidian Vault/Computer Networks/Module 1/NRZ (Non Return To Zero).md",
     "Obsidian Vault/Computer Networks/Module 1/OSI Model.png",
-    "Obsidian Vault/Computer Networks/Module 1/OSI Reference Model.md",
     "Obsidian Vault/Computer Networks/Module 2/Hamming Code.md",
     "Obsidian Vault/Computer Networks/Module 1/OSI vs TCP IP.md",
     "Obsidian Vault/Computer Networks/Module 1/Performance Indicators.md",
@@ -138,15 +144,10 @@
     "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
     "Obsidian Vault/Computer Networks/Module 1/Computer Network Applications.md",
     "Obsidian Vault/Computer Networks/Module 2",
-    "Obsidian Vault/System Software/Different System Software.md",
-    "Obsidian Vault/System Software/System Software vs Application Software.md",
     "Obsidian Vault/System Software",
     "Obsidian Vault/DSA/Arrays/Max and Min Of An Array Using Minimum Comparisons.md",
     "Obsidian Vault/DSA/Arrays/Contains Duplicate.md",
-    "Obsidian Vault/C++/std tuple, std pair Returning multiple values from a function using Tuple and Pair in C++.md",
     "Obsidian Vault/C++",
-    "Obsidian Vault/DSA/Two Pointers/Valid Palindrome.md",
-    "Obsidian Vault/DSA/Two Pointers/Two Pointers.md",
     "Obsidian Vault/DSA/Two Pointers",
     "Obsidian Vault/DSA/Arrays/Untitled",
     "Obsidian Vault/DSA/Arrays",
