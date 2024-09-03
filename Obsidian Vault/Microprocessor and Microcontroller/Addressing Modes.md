@@ -1,0 +1,7 @@
+- Immediate
+- Register
+- Direct
+- Register Indirect
+- Based
+- Indexed addressing
+- 
