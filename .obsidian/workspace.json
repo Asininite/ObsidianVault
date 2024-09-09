@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f1c0c0648e65d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/DSA/Two Pointers/3Sum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +102,45 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "b7a0162bd6644092",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Vault/DSA/Two Pointers/3Sum.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e377b0a84f643b6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Vault/DSA/Two Pointers/3Sum.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e27caa62512c76e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Vault/DSA/Two Pointers/3Sum.md"
+              }
+            }
           }
         ]
       }
@@ -107,10 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e24230f04881b151",
+  "active": "5f1c0c0648e65d5f",
   "lastOpenFiles": [
-    "Obsidian Vault/Microprocessor and Microcontroller/Addressing Modes.md",
+    "Obsidian Vault/DSA/Two Pointers/Valid Palindrome.md",
+    "Obsidian Vault/DSA/Two Pointers/3Sum.md",
+    "Obsidian Vault/C++/Vectors And Pairs.md",
+    "Obsidian Vault/DSA/Arrays/Merge Strings Alternatively.md",
+    "Obsidian Vault/MOSS/Agile Software Development.md",
+    "Obsidian Vault/Untitled",
+    "Untitled.md",
+    "Obsidian Vault/MOSS",
     "Obsidian Vault/Microprocessor and Microcontroller/Minimum mode of 8086.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Addressing Modes.md",
     "Obsidian Vault/Microprocessor and Microcontroller/8086.md",
     "Pasted image 20240904003501.png",
     "Obsidian Vault/Microprocessor and Microcontroller/8085.md",
@@ -132,20 +192,14 @@
     "Obsidian Vault/Computer Networks/Module 1/TCP IP Reference Model.md",
     "Obsidian Vault/Computer Networks/Module 1/MAC Addresses and Medium Access Control sublayer.md",
     "Obsidian Vault/Computer Networks/Module 1/Manchester Encoding.md",
-    "Obsidian Vault/Computer Networks/Module 1/Byte Stuffing and Bit Stuffing.md",
-    "Obsidian Vault/Computer Networks/Module 2/Flow Control.md",
-    "Obsidian Vault/Computer Networks/Module 2/Error Detection.md",
     "Obsidian Vault/Computer Networks/Pasted image 20240902104756.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240902005137.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240902004852.png",
-    "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
     "Obsidian Vault/Computer Networks/Pasted image 20240901221652.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240901221650.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240901195338.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240901180105.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240901172953.png",
-    "Obsidian Vault/Computer Networks/Module 2/Framing.md",
-    "Obsidian Vault/Computer Networks/Module 1 Syllabus.md",
     "Obsidian Vault/Computer Networks/Module 2",
     "Obsidian Vault/System Software",
     "Obsidian Vault/C++",
