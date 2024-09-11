@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DSA/Two Pointers/3Sum.md",
+                "file": "Obsidian Vault/DSA/Stack/Valid Parantheses.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/DSA/Two Pointers/3Sum.md",
+                "file": "Obsidian Vault/DSA/Stack/Valid Parantheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/DSA/Two Pointers/3Sum.md",
+                "file": "Obsidian Vault/DSA/Stack/Valid Parantheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/DSA/Two Pointers/3Sum.md"
+                "file": "Obsidian Vault/DSA/Stack/Valid Parantheses.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "5f1c0c0648e65d5f",
   "lastOpenFiles": [
-    "Obsidian Vault/DSA/Two Pointers/Valid Palindrome.md",
+    "Obsidian Vault/C++/Sets.md",
+    "Obsidian Vault/DSA/Stack/Valid Parantheses.md",
+    "Obsidian Vault/DSA/Stack",
     "Obsidian Vault/DSA/Two Pointers/3Sum.md",
+    "Obsidian Vault/DSA/Two Pointers/Valid Palindrome.md",
     "Obsidian Vault/C++/Vectors And Pairs.md",
     "Obsidian Vault/DSA/Arrays/Merge Strings Alternatively.md",
     "Obsidian Vault/MOSS/Agile Software Development.md",
@@ -190,8 +193,6 @@
     "Obsidian Vault/Computer Networks/Module 1/OSI vs TCP IP.md",
     "Obsidian Vault/Computer Networks/Module 1/Performance Indicators.md",
     "Obsidian Vault/Computer Networks/Module 1/TCP IP Reference Model.md",
-    "Obsidian Vault/Computer Networks/Module 1/MAC Addresses and Medium Access Control sublayer.md",
-    "Obsidian Vault/Computer Networks/Module 1/Manchester Encoding.md",
     "Obsidian Vault/Computer Networks/Pasted image 20240902104756.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240902005137.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240902004852.png",
@@ -205,7 +206,6 @@
     "Obsidian Vault/C++",
     "Obsidian Vault/DSA/Two Pointers",
     "Obsidian Vault/DSA/Arrays/Untitled",
-    "Obsidian Vault/DSA/Arrays",
-    "Obsidian Vault/DSA"
+    "Obsidian Vault/DSA/Arrays"
   ]
 }
