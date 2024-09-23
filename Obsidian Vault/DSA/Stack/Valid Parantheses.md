@@ -12,7 +12,9 @@ An input string is valid if:
 
 **Output:** true
 
-- create a hashmap mappings for the brackets
+- create a hashmap mappings for the brackets. Declare a unordered_map for the same
+`private:
+`unordered_map<char, char> mappings`
  `Solution(){
 	 `mappings[')'] = '(';
 	  `...
