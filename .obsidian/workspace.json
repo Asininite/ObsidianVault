@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "756c56e8f393c154",
+        "id": "2f767337b402a023",
         "type": "tabs",
         "children": [
           {
-            "id": "e24230f04881b151",
+            "id": "a17b6268672d0c16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Microprocessor and Microcontroller/Minimum mode of 8086.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f1c0c0648e65d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md"
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md"
               }
             }
           }
@@ -159,16 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f1c0c0648e65d5f",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
+    "Obsidian Vault/RDBMS/MYSQL Data Types.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
+    "Obsidian Vault/RDBMS/Group By, Having, Order By.md",
+    "Obsidian Vault/RDBMS/MYSQL Commands.md",
+    "Obsidian Vault/DSA/Two Pointers/3Sum.md",
+    "Obsidian Vault/DSA/Dynamic Programming/n-th number Fibonacci Sequence.md",
+    "Obsidian Vault/DSA/Two Pointers/Valid Palindrome.md",
+    "Obsidian Vault/Machine Learning/Pandas Methods and Introduction.md",
+    "Obsidian Vault/System Software/SIC (Simplified Instructional Computer).md",
+    "Obsidian Vault/System Software/Different System Software.md",
+    "Obsidian Vault/System Software/Assembler.md",
+    "Obsidian Vault/RDBMS/SQL Aggregate Functions.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Minimum mode of 8086.md",
+    "Obsidian Vault/DSA/Dynamic Programming/Basic Notes.md",
+    "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
+    "Obsidian Vault/DSA/Dynamic Programming",
     "Pasted image 20240923182747.png",
     "Pasted image 20240923182607.png",
     "Obsidian Vault/DSA/Binary Search/Find Minimum in Rotated Search Array.md",
-    "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
     "Obsidian Vault/C++/Small Notes.md",
-    "Obsidian Vault/DSA/Two Pointers/Valid Palindrome.md",
     "Obsidian Vault/DSA/Two Pointers/Two Pointers.md",
-    "Obsidian Vault/DSA/Two Pointers/3Sum.md",
     "Obsidian Vault/DSA/Stack/Valid Parantheses.md",
     "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
     "Obsidian Vault/DSA/Arrays/Merge Strings Alternatively.md",
@@ -179,21 +179,10 @@
     "Obsidian Vault/C++/Sets.md",
     "Obsidian Vault/DSA/Binary Search",
     "Obsidian Vault/DSA/Stack",
-    "Obsidian Vault/MOSS/Agile Software Development.md",
     "Obsidian Vault/Untitled",
-    "Untitled.md",
     "Obsidian Vault/MOSS",
-    "Obsidian Vault/Microprocessor and Microcontroller/Minimum mode of 8086.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Addressing Modes.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/8086.md",
     "Pasted image 20240904003501.png",
-    "Obsidian Vault/Microprocessor and Microcontroller/8085.md",
-    "Obsidian Vault/System Software/Two Pass Assembler.md",
     "Obsidian Vault/Microprocessor and Microcontroller",
-    "Obsidian Vault/System Software/Simple SIC Assembler.md",
-    "Obsidian Vault/System Software/Assembler.md",
-    "Obsidian Vault/System Software/SIC (Simplified Instructional Computer).md",
-    "Obsidian Vault/System Software/Different System Software.md",
     "Obsidian Vault/Computer Networks/Module 1/OSI Model.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240902104756.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240902005137.png",
@@ -201,11 +190,9 @@
     "Obsidian Vault/Computer Networks/Pasted image 20240901221652.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240901221650.png",
     "Obsidian Vault/Computer Networks/Pasted image 20240901195338.png",
-    "Obsidian Vault/Computer Networks/Pasted image 20240901180105.png",
     "Obsidian Vault/Computer Networks/Module 2",
     "Obsidian Vault/System Software",
     "Obsidian Vault/C++",
-    "Obsidian Vault/DSA/Two Pointers",
-    "Obsidian Vault/DSA/Arrays/Untitled"
+    "Obsidian Vault/DSA/Two Pointers"
   ]
 }
