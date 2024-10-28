@@ -35,7 +35,21 @@
 - Distance Vector Routing suffers from count to infinity problem.
 
 
-## Count-To-Infinity Problem
+# Count-To-Infinity Problem
 
 - Routing loops cause this. 
 	  caused when interface goes down or **TWO ROUTERS** send updates at **SAME TIME**
+
+![[Pasted image 20241029005701.png]]
+
+Suppose link b/w B and C dies
+- B updates its table and the link distance as infinity
+- A quickly updates B, saying it can reach C with a distance of 2 (before B can update A)
+- B uses that distance, adds it to the cost of 1 (B to A) and updates C cost as 3
+- A receives updates from B saying cost of C is 3
+- A adds 1 and updates cost as 4
+- this continues
+
+## Solutions
+- **ROUTE POISONING**
+  
