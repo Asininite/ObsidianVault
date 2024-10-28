@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 3/Shortest Path Routing (Dijkstra's).md",
+                "file": "Obsidian Vault/Computer Networks/Module 3/Flooding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortest Path Routing (Dijkstra's)"
+              "title": "Flooding"
             }
           }
         ],
@@ -216,16 +216,19 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
-    "Pasted image 20241028233009.png",
-    "Obsidian Vault/Computer Networks/Module 3/Optimality Principle.md",
+    "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
+    "Obsidian Vault/Computer Networks/Module 1 Syllabus.md",
+    "Obsidian Vault/Computer Networks/Module 3/Flooding.md",
     "Obsidian Vault/Computer Networks/Module 3/Shortest Path Routing (Dijkstra's).md",
+    "Obsidian Vault/Images/Pasted image 20241028233009.png",
+    "Obsidian Vault/Computer Networks/Module 3/Optimality Principle.md",
     "Obsidian Vault/Computer Networks/Module 3/Connection-Oriented Services.md",
     "Obsidian Vault/Computer Networks/Module 3/Connection-Less Services.md",
     "Obsidian Vault/Computer Networks/Module 3/Routing Algorithm.md",
     "Obsidian Vault/Computer Networks/Module 3/Virtual-Circuit vs Subgram Subnet.md",
     "Obsidian Vault/Computer Networks/Module 3/Services Provided to Service Layer.md",
     "Obsidian Vault/Computer Networks/Module 3/Store - And - Forward Packet Switching.md",
-    "Pasted image 20241028194629.png",
+    "Obsidian Vault/Images/Pasted image 20241028194629.png",
     "Obsidian Vault/Images/Pasted image 20241028193443.png",
     "Obsidian Vault/Images/Pasted image 20241028192715.png",
     "Obsidian Vault/Images/Pasted image 20240904003501.png",
@@ -236,7 +239,6 @@
     "Obsidian Vault/Images/Pasted image 20240901195338.png",
     "Obsidian Vault/Computer Networks/Module 3",
     "Obsidian Vault/Images",
-    "Obsidian Vault/Images/Pasted image 20240901180105.png",
     "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
     "Obsidian Vault/RDBMS/MYSQL Data Types.md",
     "Obsidian Vault/RDBMS/Group By, Having, Order By.md",
@@ -253,8 +255,6 @@
     "Obsidian Vault/DSA/Dynamic Programming/Basic Notes.md",
     "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
     "Obsidian Vault/DSA/Dynamic Programming",
-    "Obsidian Vault/DSA/Binary Search/Find Minimum in Rotated Search Array.md",
-    "Obsidian Vault/C++/Small Notes.md",
     "Obsidian Vault/DSA/Binary Search",
     "Obsidian Vault/DSA/Stack",
     "Obsidian Vault/Untitled",
