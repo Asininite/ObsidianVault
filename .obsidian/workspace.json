@@ -27,7 +27,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Images/Pasted image 20240901131654.png"
+                "file": "Obsidian Vault/Images/Pasted image 20240901131654.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20240901131654"
@@ -39,7 +39,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Images/Pasted image 20240901172953.png"
+                "file": "Obsidian Vault/Images/Pasted image 20240901172953.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20240901172953"
@@ -51,7 +51,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Images/Pasted image 20240901180105.png"
+                "file": "Obsidian Vault/Images/Pasted image 20240901180105.png"
               },
               "icon": "lucide-image",
               "title": "Pasted image 20240901180105"
@@ -216,15 +216,18 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
+    "Obsidian Vault/Images/Pasted image 20240904003501.png",
+    "Obsidian Vault/Images/Pasted image 20240923182607.png",
+    "Obsidian Vault/Images/Pasted image 20240923182747.png",
+    "Obsidian Vault/Images/Pasted image 20241028190118.png",
     "Pasted image 20241028190208.png",
-    "Pasted image 20241028190118.png",
-    "Obsidian Vault/Computer Networks/Images/Pasted image 20240901195338.png",
     "Obsidian Vault/Computer Networks/Module 3/Store - And - Forward Packet Switching.md",
+    "Obsidian Vault/Images/Pasted image 20240901195338.png",
     "Obsidian Vault/Computer Networks/Module 3",
-    "Obsidian Vault/Computer Networks/Images",
-    "Obsidian Vault/Computer Networks/Images/Pasted image 20240901180105.png",
-    "Obsidian Vault/Computer Networks/Images/Pasted image 20240901172953.png",
-    "Obsidian Vault/Computer Networks/Images/Pasted image 20240901131654.png",
+    "Obsidian Vault/Images",
+    "Obsidian Vault/Images/Pasted image 20240901180105.png",
+    "Obsidian Vault/Images/Pasted image 20240901172953.png",
+    "Obsidian Vault/Images/Pasted image 20240901131654.png",
     "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
     "Obsidian Vault/RDBMS/MYSQL Data Types.md",
     "Obsidian Vault/RDBMS/Group By, Having, Order By.md",
@@ -241,8 +244,6 @@
     "Obsidian Vault/DSA/Dynamic Programming/Basic Notes.md",
     "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
     "Obsidian Vault/DSA/Dynamic Programming",
-    "Pasted image 20240923182747.png",
-    "Pasted image 20240923182607.png",
     "Obsidian Vault/DSA/Binary Search/Find Minimum in Rotated Search Array.md",
     "Obsidian Vault/C++/Small Notes.md",
     "Obsidian Vault/DSA/Two Pointers/Two Pointers.md",
@@ -256,10 +257,8 @@
     "Obsidian Vault/DSA/Stack",
     "Obsidian Vault/Untitled",
     "Obsidian Vault/MOSS",
-    "Pasted image 20240904003501.png",
     "Obsidian Vault/Microprocessor and Microcontroller",
     "Obsidian Vault/Computer Networks/Module 1/OSI Model.png",
-    "Obsidian Vault/Computer Networks/Images/Pasted image 20240902104756.png",
     "Obsidian Vault/Computer Networks/Module 2",
     "Obsidian Vault/System Software"
   ]
