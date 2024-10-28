@@ -19,5 +19,7 @@
 - Military : routers can be blown up. flooding is very robust.
 - Distributed Databases : updating all databases concurrently
 - Wireless Networks : all msgs transmitted by station received by others within range
-- Metric : 
+- Always chooses shortest path
+
+
 
