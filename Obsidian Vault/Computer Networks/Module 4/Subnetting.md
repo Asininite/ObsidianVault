@@ -16,3 +16,12 @@ to design subnetwork
 - First Host ID
 - Last Host ID
 
+### Subnet Mask
+- used to distinguish network part and host part in IP
+- 32 bits long
+- IP address in binary ANDED with subnet mask to form network address
+
+A 255.0.0.0
+B 255.255.0.0
+C 255.255.255.0
+
