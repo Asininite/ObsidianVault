@@ -16,7 +16,7 @@
 1. Router prepares routing table
 2. Routers exchange distance vectors, performed (n-2) times, table converges and becomes stable
    (n-1) routing tables are created
-![[Pasted image 20241029004822.png]]
+![[Obsidian Vault/Images/Pasted image 20241029004822.png]]e 20241029004822.png]]
 - In Distance Vector Routing,
 	- Only distance vectors are exchanged.
     - **NEXT HOP** values are not exchanged.
@@ -38,9 +38,7 @@
 # Count-To-Infinity Problem
 
 - Routing loops cause this. 
-	  caused when interface goes down or **TWO ROUTERS** send updates at **SAME TIME**
-
-![[Pasted image 20241029005701.png]]
+	  caused when interface goes down or **TWO ROUTERS** send upda![[Obsidian Vault/Imag![[Obsidian Vault/Images/Pasted image 20241029005701.png]]e 20241029005701.png]]
 
 Suppose link b/w B and C dies
 - B updates its table and the link distance as infinity

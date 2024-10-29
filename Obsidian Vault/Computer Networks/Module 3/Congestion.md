@@ -6,7 +6,7 @@
 3. slow CPU in routers
 4. bursty traffic : spikes in traffic
 
-![[Pasted image 20241029101553.png]]
+![[Obsidian Vault/Images/Pasted image 20241029101553.png]]e 20241029101553.png]]
 
  
 In general, we can divide congestion control mechanisms into two broad categories: 
