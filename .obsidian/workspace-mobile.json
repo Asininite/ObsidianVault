@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
+                "file": "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distance Vector Routing"
+              "title": "Congestion"
             }
           }
         ]
@@ -150,6 +150,16 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
+    "Obsidian Vault/Computer Networks/Module 4/IP.md",
+    "Obsidian Vault/Computer Networks/Module 4/Internet COntrol Message Protocol ICMP.md",
+    "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
+    "Pasted image 20241029134253.png",
+    "Obsidian Vault/Computer Networks/Module 4/Leaky Bucket.md",
+    "/Pasted image 20241029134253.png",
+    "/Obsidian Vault/Computer Networks/Module 4/Leaky Bucket.md",
+    "/Obsidian Vault/Computer Networks/Module 4/Internet COntrol Message Protocol ICMP.md",
+    "Obsidian Vault/Computer Networks/Module 4/Subnetting.md",
+    "/Obsidian Vault/Computer Networks/Module 4/Subnetting.md",
     "Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
     "Obsidian Vault/Computer Networks/Module 3/Shortest Path Routing (Dijkstra's).md",
     "Obsidian Vault/Computer Networks/Module 3/Services Provided to Service Layer.md",
@@ -160,18 +170,14 @@
     "Obsidian Vault/Images/Pasted image 20241029004822.png",
     "Obsidian Vault/Images/Pasted image 20241028233009.png",
     "Obsidian Vault/Images/Pasted image 20241028194629.png",
-    "Obsidian Vault/Computer Networks/Module 4/IP.md",
     "Obsidian Vault/Computer Networks/Module 3/Routing Algorithm.md",
     "Obsidian Vault/Computer Networks/Module 3/Optimality Principle.md",
     "Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
     "Obsidian Vault/Computer Networks/Module 3/Flooding.md",
-    "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
     "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
     "/Pasted image 20241029101553.png",
     "/Pasted image 20241029005701.png",
     "/Pasted image 20241029004822.png",
-    "/Obsidian Vault/Images/Pasted image 20241028233009.png",
-    "/Obsidian Vault/Images/Pasted image 20241028194629.png",
     "/Obsidian Vault/Computer Networks/Module 4/IP.md",
     "/Obsidian Vault/Computer Networks/Module 3/Shortest Path Routing (Dijkstra's).md",
     "/Obsidian Vault/Computer Networks/Module 3/Routing Algorithm.md",
@@ -179,11 +185,7 @@
     "/Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
     "/Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
     "/Obsidian Vault/Computer Networks/Module 3/Flooding.md",
-    "/Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
-    "/Obsidian Vault/Computer Networks/Module 3/Congestion.md",
     "Obsidian Vault/Computer Networks/Module 4",
-    "/Obsidian Vault/Computer Networks/Module 4",
-    "Obsidian Vault/Computer Networks/Module 3/Connection-Oriented Services.md",
-    "Obsidian Vault/Computer Networks/Module 3/Virtual-Circuit vs Subgram Subnet.md"
+    "/Obsidian Vault/Computer Networks/Module 4"
   ]
 }
