@@ -13,7 +13,16 @@ In general, we can divide congestion control mechanisms into two broad categorie
 
 - Open-loop congestion control 
 	In open-loop congestion control, policies are applied to prevent congestion before it happens.
+	use good design
 	In these mechanisms, congestion control is handled by either the source or the destination
 - Closed-loop congestion control
+	alleviate congestion after it happens
 
+- open loop algorithms are divided into 
+- ones that act at the source 
+   - ones that act at the destination
+
+- closed loop algorithms are divided into 
+- explicit feedback 
+- implicit feedback
 
