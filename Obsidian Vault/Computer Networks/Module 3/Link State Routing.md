@@ -4,10 +4,12 @@
 - 4. Send this packet to all other routers
 - 5. Compute the shortest path to every other router
 
+## Discover Neighbours
 - Dijkstra's algorithm used to find shortest path
 - neighbours discovered by sending HELLO packet to P2P line
   other router replies with its name
 
+## Make Packet
 - packet constructed
   identity of sender | sequence number | age | list of neighbors
 - flooding is used to send packets
@@ -27,5 +29,12 @@
 - all later packets get rejected
 
 #### Seq Num Corruption
+- 1 bit error can cause 65540 instead of 4
+- meaning packets from 5 to 65540 get discarded
 
+
+
+## Construct Network Graph
+- each link represented twice for each direction
+- info installed in routing tables
    

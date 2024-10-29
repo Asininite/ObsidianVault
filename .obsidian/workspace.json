@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
+                "file": "Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Link State Routing"
+              "title": "Multicast Routing"
             }
           }
         ],
@@ -216,8 +216,9 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
-    "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
     "Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
+    "Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
+    "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
     "Pasted image 20241029005701.png",
     "Pasted image 20241029004822.png",
     "Obsidian Vault/Computer Networks/Module 3/Store - And - Forward Packet Switching.md",
@@ -253,7 +254,6 @@
     "Obsidian Vault/System Software/Different System Software.md",
     "Obsidian Vault/System Software/Assembler.md",
     "Obsidian Vault/RDBMS/SQL Aggregate Functions.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Minimum mode of 8086.md",
     "Obsidian Vault/DSA/Dynamic Programming",
     "Obsidian Vault/DSA/Binary Search",
     "Obsidian Vault/DSA/Stack",
