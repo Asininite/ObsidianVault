@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
+                "file": "Obsidian Vault/Computer Networks/Module 4/IP Protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Congestion"
+              "title": "IP Protocol"
             }
           }
         ],
@@ -216,9 +216,11 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
+    "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
+    "Obsidian Vault/Computer Networks/Module 4/IP Protocol.md",
+    "Obsidian Vault/Computer Networks/Module 4",
     "Pasted image 20241029101553.png",
     "Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
-    "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
     "Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
     "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
     "Pasted image 20241029005701.png",
@@ -241,7 +243,6 @@
     "Obsidian Vault/Images/Pasted image 20240904003501.png",
     "Obsidian Vault/Images/Pasted image 20240923182607.png",
     "Obsidian Vault/Images/Pasted image 20240923182747.png",
-    "Obsidian Vault/Images/Pasted image 20241028190118.png",
     "Obsidian Vault/Computer Networks/Module 3",
     "Obsidian Vault/Images",
     "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
@@ -260,7 +261,6 @@
     "Obsidian Vault/Untitled",
     "Obsidian Vault/MOSS",
     "Obsidian Vault/Microprocessor and Microcontroller",
-    "Obsidian Vault/Computer Networks/Module 2",
-    "Obsidian Vault/System Software"
+    "Obsidian Vault/Computer Networks/Module 2"
   ]
 }
