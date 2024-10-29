@@ -10,5 +10,5 @@ Linking : combines two object programs with info to allow references b/w them
 
 # types of loaders
 ### absolute loader
-- object code loaded to specified location in memory
+- object code loaded to **specified** location in memory
 - 
