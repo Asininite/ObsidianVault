@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
+                "file": "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multicast Routing"
+              "title": "Congestion"
             }
           }
         ],
@@ -216,8 +216,9 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
-    "Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
     "Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
+    "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
+    "Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
     "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
     "Pasted image 20241029005701.png",
     "Pasted image 20241029004822.png",
@@ -253,7 +254,6 @@
     "Obsidian Vault/System Software/SIC (Simplified Instructional Computer).md",
     "Obsidian Vault/System Software/Different System Software.md",
     "Obsidian Vault/System Software/Assembler.md",
-    "Obsidian Vault/RDBMS/SQL Aggregate Functions.md",
     "Obsidian Vault/DSA/Dynamic Programming",
     "Obsidian Vault/DSA/Binary Search",
     "Obsidian Vault/DSA/Stack",
