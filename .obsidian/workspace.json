@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupts of 8086.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupt Service Routine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interrupts of 8086"
+              "title": "Interrupt Service Routine"
             }
           }
         ],
@@ -216,8 +216,9 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
-    "Obsidian Vault/System Software/Module 4/Bootstrap Loader.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupts of 8086.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupt Service Routine.md",
+    "Obsidian Vault/System Software/Module 4/Bootstrap Loader.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3",
     "Pasted image 20241030030250.png",
     "Pasted image 20241030030229.png",
@@ -257,7 +258,6 @@
     "Obsidian Vault/Computer Networks/Module 3/Services Provided to Service Layer.md",
     "Obsidian Vault/Computer Networks/Module 3",
     "Obsidian Vault/Images",
-    "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
     "Obsidian Vault/DSA/Dynamic Programming",
     "Obsidian Vault/DSA/Binary Search",
     "Obsidian Vault/DSA/Stack",
