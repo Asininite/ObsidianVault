@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Maskable vs Non-Maskable.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maskable vs Non-Maskable"
+              "title": "Questions"
             }
           }
         ],
@@ -216,6 +216,8 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
+    "Pasted image 20241031191653.png",
+    "Pasted image 20241031191636.png",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupt Service Routine.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Maskable vs Non-Maskable.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Questions.md",
@@ -246,7 +248,6 @@
     "Pasted image 20241029101553.png",
     "Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
     "Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
-    "Pasted image 20241029005701.png",
     "Obsidian Vault/Computer Networks/Module 3/Store - And - Forward Packet Switching.md",
     "Obsidian Vault/Computer Networks/Module 3/Shortest Path Routing (Dijkstra's).md",
     "Obsidian Vault/Computer Networks/Module 3/Routing Algorithm.md",
@@ -255,7 +256,6 @@
     "Obsidian Vault/Computer Networks/Module 3/Connection-Less Services.md",
     "Obsidian Vault/Computer Networks/Module 3/Flooding.md",
     "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
-    "Obsidian Vault/Computer Networks/Module 1 Syllabus.md",
     "Obsidian Vault/Computer Networks/Module 3",
     "Obsidian Vault/Images",
     "Obsidian Vault/DSA/Dynamic Programming",
