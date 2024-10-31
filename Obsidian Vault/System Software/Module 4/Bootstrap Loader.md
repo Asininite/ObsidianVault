@@ -46,4 +46,4 @@ Imagine a simplified scenario:
 The term "bootstrap" comes from the idea of "pulling oneself up by one's bootstraps." The bootstrap loader, small and simple itself, loads a larger and more complex system, much like a small initial effort leading to a much larger outcome.
 
 More advanced bootstrap loaders might have additional features, such as the ability to choose between different operating systems or to perform some basic diagnostics, but the core principle remains the same: to load and start the main operating system.![[Pasted image 20241030030229.png]]
-![[Pasted image 20241030030250.png]]
+	![[Pasted image 20241030030250.png]]
