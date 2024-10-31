@@ -3,4 +3,4 @@
 - IP incremented to point to next instruction
 - CPU ackowledges interrupt on INTA (there is a line above INTA) pin immediately if it is NMI, TRAP or DIVIDE-BY-ZERO interrupt (**independent of IF flag**)
 - If INT interrupt, CPU checks IF flag. If set, interrupt acknowledged using INTA pin. If not set, interrupts are ignored
-- 
+- CPU computes vector address 
