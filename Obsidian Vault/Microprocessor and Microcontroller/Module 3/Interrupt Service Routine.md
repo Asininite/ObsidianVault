@@ -1,0 +1,4 @@
+- external device interrupts CPU at interrupt pin (NMI or INTR for **8086**)
+- CPU completes execution of current instruction
+- IP incremented to point to next instruction
+- CPU ackowledges interrupt on INTR
