@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/System Software/Module 4/Bootstrap Loader.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupts of 8086.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootstrap Loader"
+              "title": "Interrupts of 8086"
             }
           }
         ],
@@ -216,10 +216,12 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
+    "Obsidian Vault/System Software/Module 4/Bootstrap Loader.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupts of 8086.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Module 3",
     "Pasted image 20241030030250.png",
     "Pasted image 20241030030229.png",
     "Obsidian Vault/System Software/Module 4/Absolute Loader.md",
-    "Obsidian Vault/System Software/Module 4/Bootstrap Loader.md",
     "Obsidian Vault/System Software/Module 4/Loader.md",
     "Obsidian Vault/System Software/Module 3/Machine Independent Assembler Features.md",
     "Obsidian Vault/System Software/Module 4",
@@ -253,14 +255,12 @@
     "Obsidian Vault/Images/Pasted image 20241028233009.png",
     "Obsidian Vault/Computer Networks/Module 3/Virtual-Circuit vs Subgram Subnet.md",
     "Obsidian Vault/Computer Networks/Module 3/Services Provided to Service Layer.md",
-    "Obsidian Vault/Images/Pasted image 20241028194629.png",
     "Obsidian Vault/Computer Networks/Module 3",
     "Obsidian Vault/Images",
     "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
     "Obsidian Vault/DSA/Dynamic Programming",
     "Obsidian Vault/DSA/Binary Search",
     "Obsidian Vault/DSA/Stack",
-    "Obsidian Vault/Untitled",
-    "Obsidian Vault/MOSS"
+    "Obsidian Vault/Untitled"
   ]
 }
