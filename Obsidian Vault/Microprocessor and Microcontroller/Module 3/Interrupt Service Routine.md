@@ -1,4 +1,6 @@
-- external device interrupts CPU at interrupt pin (NMI or INTR for **8086**)
+- external device interrupts CPU at interrupt pin (NMI (**non-maskable**) or INTR for **8086**)
 - CPU completes execution of current instruction
 - IP incremented to point to next instruction
-- CPU ackowledges interrupt on INTR
+- CPU ackowledges interrupt on INTA (there is a line above INTA) pin immediately if it is NMI, TRAP or DIVIDE-BY-ZERO interrupt (**independent of IF flag**)
+- If INT interrupt, CPU checks IF flag. If set, interrupt acknowledged using INTA pin. If not set, interrupts are ignored
+- 
