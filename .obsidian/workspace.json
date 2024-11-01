@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Microprocessor and Microcontroller/Module 3/8254 PIT.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/8254 PIT.md",
                 "mode": "source",
                 "source": false
               },
@@ -216,8 +216,12 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
+    "Obsidian Vault/Microprocessor and Microcontroller/8086.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupts of 8086.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupt Service Routine.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/8254 PIT.md",
+    "Pasted image 20241101110622.png",
     "Obsidian Vault/Microprocessor and Microcontroller/8255 PPI.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 3/8254 PIT.md",
     "Pasted image 20241101110115.png",
     "Pasted image 20241101105733.png",
     "Pasted image 20241101105623.png",
@@ -226,12 +230,9 @@
     "Pasted image 20241101105552.png",
     "Pasted image 20241101105444.png",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Questions.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupt Service Routine.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupts of 8086.md",
     "Pasted image 20241031191653.png",
     "Pasted image 20241031191636.png",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Maskable vs Non-Maskable.md",
-    "Pasted image 20241031161412.png",
     "Obsidian Vault/System Software/Module 4/Bootstrap Loader.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3",
     "Obsidian Vault/System Software/Module 4/Absolute Loader.md",
@@ -255,7 +256,6 @@
     "Obsidian Vault/Computer Networks/Module 3/Optimality Principle.md",
     "Obsidian Vault/Computer Networks/Module 3/Connection-Oriented Services.md",
     "Obsidian Vault/Computer Networks/Module 3/Connection-Less Services.md",
-    "Obsidian Vault/Computer Networks/Module 3/Flooding.md",
     "Obsidian Vault/Computer Networks/Module 3",
     "Obsidian Vault/Images",
     "Obsidian Vault/DSA/Dynamic Programming",
