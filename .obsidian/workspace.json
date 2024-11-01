@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Questions.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/8255.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questions"
+              "title": "8255"
             }
           }
         ],
@@ -216,9 +216,16 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
+    "Pasted image 20241101105733.png",
+    "Pasted image 20241101105623.png",
+    "Pasted image 20241101105620.png",
+    "Pasted image 20241101105600.png",
+    "Pasted image 20241101105552.png",
+    "Pasted image 20241101105444.png",
+    "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Questions.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/8255.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupt Service Routine.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupts of 8086.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Questions.md",
     "Pasted image 20241031191653.png",
     "Pasted image 20241031191636.png",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Maskable vs Non-Maskable.md",
@@ -227,7 +234,6 @@
     "Obsidian Vault/System Software/Module 4/Bootstrap Loader.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3",
     "Pasted image 20241030030250.png",
-    "Pasted image 20241030030229.png",
     "Obsidian Vault/System Software/Module 4/Absolute Loader.md",
     "Obsidian Vault/System Software/Module 4/Loader.md",
     "Obsidian Vault/System Software/Module 3/Machine Independent Assembler Features.md",
@@ -236,13 +242,9 @@
     "Obsidian Vault/Computer Networks/Module 4/Leaky Bucket.md",
     "Obsidian Vault/System Software/Module 3",
     "Obsidian Vault/Computer Networks/Module 4/Internet COntrol Message Protocol ICMP.md",
-    "Obsidian Vault/Images/Pasted image 20241029134253.png",
     "Obsidian Vault/Computer Networks/Module 4/IP.md",
     "Obsidian Vault/Computer Networks/Module 4/Subnetting.md",
     "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
-    "Obsidian Vault/Images/Pasted image 20241029101553.png",
-    "Obsidian Vault/Images/Pasted image 20241029005701.png",
-    "Obsidian Vault/Images/Pasted image 20241029004822.png",
     "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
     "Obsidian Vault/Computer Networks/Module 4",
     "Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
@@ -254,7 +256,6 @@
     "Obsidian Vault/Computer Networks/Module 3/Connection-Oriented Services.md",
     "Obsidian Vault/Computer Networks/Module 3/Connection-Less Services.md",
     "Obsidian Vault/Computer Networks/Module 3/Flooding.md",
-    "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
     "Obsidian Vault/Computer Networks/Module 3",
     "Obsidian Vault/Images",
     "Obsidian Vault/DSA/Dynamic Programming",
