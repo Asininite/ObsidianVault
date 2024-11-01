@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Microprocessor and Microcontroller/8259 PIC.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/Interrupts of 8086.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8259 PIC"
+              "title": "Interrupts of 8086"
             }
           }
         ],
@@ -216,10 +216,14 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
+    "Obsidian Vault/Microprocessor and Microcontroller/8259 PIC.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/8259 Programmable Interrupt Control.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/8257 Direct Memory Access.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/8255 Programmable Peripheral Interface.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/8254 Programmable Interval Timer.md",
     "Pasted image 20241101120308.png",
     "Pasted image 20241101115903.png",
     "Obsidian Vault/Microprocessor and Microcontroller/Interrupts of 8086.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/8259 PIC.md",
     "Pasted image 20241101115328.png",
     "Pasted image 20241101115313.png",
     "Obsidian Vault/Microprocessor and Microcontroller/Interrupt Service Routine.md",
@@ -232,7 +236,6 @@
     "Pasted image 20241101111659.png",
     "Pasted image 20241101111647.png",
     "Pasted image 20241101111633.png",
-    "Pasted image 20241101111552.png",
     "Obsidian Vault/Microprocessor and Microcontroller/8086.md",
     "Obsidian Vault/Microprocessor and Microcontroller/8255 PPI.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Questions.md",
@@ -253,9 +256,6 @@
     "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
     "Obsidian Vault/Computer Networks/Module 4",
     "Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
-    "Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
-    "Obsidian Vault/Computer Networks/Module 3/Store - And - Forward Packet Switching.md",
-    "Obsidian Vault/Computer Networks/Module 3/Shortest Path Routing (Dijkstra's).md",
     "Obsidian Vault/Computer Networks/Module 3",
     "Obsidian Vault/Images",
     "Obsidian Vault/DSA/Dynamic Programming",
