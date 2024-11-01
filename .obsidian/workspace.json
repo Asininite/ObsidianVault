@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Microprocessor and Microcontroller/8257 DMA.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/8259 PIC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8257 DMA"
+              "title": "8259 PIC"
             }
           }
         ],
@@ -216,22 +216,24 @@
   },
   "active": "137cdce1f97f8fbd",
   "lastOpenFiles": [
+    "Pasted image 20241101115903.png",
+    "Obsidian Vault/Microprocessor and Microcontroller/Interrupts of 8086.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/8259 PIC.md",
+    "Pasted image 20241101115328.png",
+    "Pasted image 20241101115313.png",
+    "Obsidian Vault/Microprocessor and Microcontroller/Interrupt Service Routine.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/8257 DMA.md",
     "Pasted image 20241101113854.png",
     "Pasted image 20241101113452.png",
     "Obsidian Vault/Microprocessor and Microcontroller/8254 PIT.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/8257 DMA.md",
     "Pasted image 20241101111803.png",
     "Pasted image 20241101111659.png",
     "Pasted image 20241101111647.png",
     "Pasted image 20241101111633.png",
     "Pasted image 20241101111552.png",
     "Pasted image 20241101111538.png",
-    "Pasted image 20241101111523.png",
-    "Pasted image 20241101111518.png",
-    "Pasted image 20241101111451.png",
     "Obsidian Vault/Microprocessor and Microcontroller/8086.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Interrupts of 8086.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Interrupt Service Routine.md",
     "Obsidian Vault/Microprocessor and Microcontroller/8255 PPI.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Questions.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Maskable vs Non-Maskable.md",
@@ -254,8 +256,6 @@
     "Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
     "Obsidian Vault/Computer Networks/Module 3/Store - And - Forward Packet Switching.md",
     "Obsidian Vault/Computer Networks/Module 3/Shortest Path Routing (Dijkstra's).md",
-    "Obsidian Vault/Computer Networks/Module 3/Routing Algorithm.md",
-    "Obsidian Vault/Computer Networks/Module 3/Optimality Principle.md",
     "Obsidian Vault/Computer Networks/Module 3",
     "Obsidian Vault/Images",
     "Obsidian Vault/DSA/Dynamic Programming",
