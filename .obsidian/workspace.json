@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/MOSS/Agile Software Development.md",
+                "file": "Obsidian Vault/System Software/Lab/Pass 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agile Software Development"
+              "title": "Pass 1"
             }
           }
         ],
@@ -231,7 +231,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -242,6 +241,14 @@
   },
   "active": "78c78e24c6d809c1",
   "lastOpenFiles": [
+    "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
+    "Obsidian Vault/System Software/Lab/Pass 1.md",
+    "Obsidian Vault/System Software/Lab",
+    "Obsidian Vault/Microprocessor and Microcontroller/Lab/16-bit addition.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Lab/Revise This.md",
+    "Obsidian Vault/MOSS/Design Patterns.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Lab",
+    "Obsidian Vault/MOSS/Agile Software Development.md",
     "Obsidian Vault/Images/Pasted image 20241031191636.png",
     "Obsidian Vault/Images/Pasted image 20241031161412.png",
     "Obsidian Vault/Microprocessor and Microcontroller/Interrupts of 8086.md",
@@ -255,14 +262,12 @@
     "Obsidian Vault/Images/Pasted image 20241101115328.png",
     "Obsidian Vault/Images/Pasted image 20241101115313.png",
     "Obsidian Vault/Microprocessor and Microcontroller/Interrupt Service Routine.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
     "Obsidian Vault/Microprocessor and Microcontroller/8257 DMA.md",
     "Obsidian Vault/Images/Pasted image 20241101113854.png",
     "Obsidian Vault/Images/Pasted image 20241101113452.png",
     "Obsidian Vault/Microprocessor and Microcontroller/8254 PIT.md",
     "Obsidian Vault/Images/Pasted image 20241101111803.png",
     "Obsidian Vault/Images/Pasted image 20241101111659.png",
-    "Obsidian Vault/Images/Pasted image 20241101111647.png",
     "Obsidian Vault/Microprocessor and Microcontroller/8086.md",
     "Obsidian Vault/Microprocessor and Microcontroller/8255 PPI.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Questions.md",
@@ -277,16 +282,10 @@
     "Obsidian Vault/Computer Networks/Module 4/Leaky Bucket.md",
     "Obsidian Vault/System Software/Module 3",
     "Obsidian Vault/Computer Networks/Module 4/Internet COntrol Message Protocol ICMP.md",
-    "Obsidian Vault/Computer Networks/Module 4/IP.md",
-    "Obsidian Vault/Computer Networks/Module 4/Subnetting.md",
-    "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
-    "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
     "Obsidian Vault/Computer Networks/Module 4",
     "Obsidian Vault/Computer Networks/Module 3",
     "Obsidian Vault/Images",
     "Obsidian Vault/DSA/Dynamic Programming",
-    "Obsidian Vault/DSA/Binary Search",
-    "Obsidian Vault/DSA/Stack",
-    "Obsidian Vault/Untitled"
+    "Obsidian Vault/DSA/Binary Search"
   ]
 }
