@@ -13,4 +13,12 @@ BEGIN
 	...
 END;
 /
+
+create or replace function_name(var1 in type1, var2 in type2)
+return type
+is/as 
+begin
+	coding here
+end function_name;
+/
 ```
