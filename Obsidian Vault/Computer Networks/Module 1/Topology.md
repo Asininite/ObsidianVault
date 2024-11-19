@@ -14,3 +14,9 @@
 - each computer acts as repeater and boosts signal
 - token passing system used
 - more expensive
+
+# Mesh Topology
+![[Pasted image 20241119154311.png]]
+- each computer and network device is interconnected
+- manage high traffic
+- can add additional devices easily
