@@ -60,6 +60,7 @@ The OSI (Open Systems Interconnection) Reference Model, developed by the Interna
 7. **Application Layer (Layer 7)**
     
     - **Function:** Provides network services directly to applications.
+		      directly support software applications for file transfers, database access, e-mail
     - **Key Protocols:**
         - **HTTP (HyperText Transfer Protocol):** Used for web browsing.
         - **FTP (File Transfer Protocol):** Used for file transfers.
