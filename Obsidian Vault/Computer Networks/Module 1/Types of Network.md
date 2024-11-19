@@ -9,3 +9,10 @@
 - no specialized services needed
 
 # Client-Server 
+- clients : computers that request network services
+  server : computers that provide network related services
+- facilitate resource sharing
+  enhance security
+  support more users
+- high cost
+  need expert to configure network
