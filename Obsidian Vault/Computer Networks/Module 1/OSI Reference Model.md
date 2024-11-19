@@ -46,6 +46,7 @@ The OSI (Open Systems Interconnection) Reference Model, developed by the Interna
 5. **Session Layer (Layer 5)**
     
     - **Function:** Manages sessions between applications on different machines.
+		      allows apps to establish, use and end a session
     - **Key Tasks:**
         - Dialog control: Manages the conversation between applications, ensuring proper turn-taking.
         - Token management: Prevents concurrent access to critical resources by multiple parties.
@@ -53,6 +54,7 @@ The OSI (Open Systems Interconnection) Reference Model, developed by the Interna
 6. **Presentation Layer (Layer 6)**
     
     - **Function:** Ensures data is presented in a format that is understandable to the application layer.
+		      translates data representation from application layer to standard format
     - **Key Tasks:**
         - Data translation: Converts data between different formats (e.g., ASCII to EBCDIC).
         - Data encryption and decryption: Secures data during transmission.
