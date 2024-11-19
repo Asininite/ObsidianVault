@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 1/Design Issues.md",
+                "file": "Obsidian Vault/Computer Networks/Module 1/Service Primitives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Issues"
+              "title": "Service Primitives"
             }
           }
         ]
@@ -165,8 +165,13 @@
   },
   "active": "c13ff71f24bde265",
   "lastOpenFiles": [
-    "Obsidian Vault/Computer Networks/Module 1/Types of Network.md",
+    "Pasted image 20241119180404.png",
+    "Pasted image 20241119180311.png",
     "Obsidian Vault/Computer Networks/Module 1/Design Issues.md",
+    "Obsidian Vault/Computer Networks/Module 1/Service Primitives.md",
+    "Pasted image 20241119180159.png",
+    "Pasted image 20241119180154.png",
+    "Obsidian Vault/Computer Networks/Module 1/Types of Network.md",
     "Obsidian Vault/Computer Networks/Module 1/Transmission Media.md",
     "Pasted image 20241119155507.png",
     "Pasted image 20241119155501.png",
@@ -176,8 +181,6 @@
     "Obsidian Vault/Computer Networks/Module 1/Topology.md",
     "Pasted image 20241119154311.png",
     "Pasted image 20241119154008.png",
-    "Pasted image 20241119153934.png",
-    "Pasted image 20241119153920.png",
     "Obsidian Vault/Computer Networks/Module 1/TCP IP Reference Model.md",
     "Obsidian Vault/Computer Networks/Module 1/Computer Network Applications.md",
     "Obsidian Vault/Computer Networks/Module 1/Byte Stuffing and Bit Stuffing.md",
@@ -185,7 +188,6 @@
     "Obsidian Vault/MOSS/Module 1/Attributes of Software Engineering.md",
     "Obsidian Vault/System Software/Module 1",
     "Obsidian Vault/MOSS/Module 1",
-    "Obsidian Vault/Images/Pasted image 20240901172953.png",
     "Obsidian Vault/Microprocessor and Microcontroller/Interrupts of 8086.md",
     "Obsidian Vault/RDBMS/PL SQL/Functions.md",
     "Obsidian Vault/RDBMS/PL SQL/Procedures.md",
@@ -204,8 +206,6 @@
     "Obsidian Vault/Microprocessor and Microcontroller/8257 Direct Memory Access.md",
     "Obsidian Vault/Microprocessor and Microcontroller/8255 Programmable Peripheral Interface.md",
     "Obsidian Vault/Microprocessor and Microcontroller/8254 Programmable Interval Timer.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Interrupt Service Routine.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/8257 DMA.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3",
     "Obsidian Vault/System Software/Module 4",
     "Obsidian Vault/System Software/Module 3",
