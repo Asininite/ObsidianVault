@@ -2,7 +2,7 @@
 - Data Link Layer Protocol
 - bit-oriented protocol
 
-## Types of Stations
+# Types of Stations
 
 ### 1. Primary Station
 - data link management
@@ -16,3 +16,14 @@
 ### 3. Combined Station
 - acts as both 
 - issues both commands and responses
+
+# Transfer Modes
+
+### 1. Normal Response Mode
+- primary station to send commands
+  secondary station to receive commands
+- point-to-point and multipoint
+
+### 2. Asynchronous Balanced Mode
+- each station can send and receive commands (act as both primary and secondary)
+- only point-to-point
