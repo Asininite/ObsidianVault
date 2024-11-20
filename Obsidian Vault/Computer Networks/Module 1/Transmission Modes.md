@@ -10,4 +10,5 @@
 - eg : Walkie-Talkie
 
 # Full - Duplex
-- bi-directional communication 
+- bi-directional communication | both stations send and receive simultaneously 
+- 
