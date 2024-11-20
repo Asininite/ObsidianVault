@@ -31,4 +31,6 @@
 # HDLC Frame
 ![[Pasted image 20241120221522.png]]
 
-
+- Flag : 8 bit sequence marks beg/end of frame 01111110
+- Address : contains receiver address
+- Control : 
