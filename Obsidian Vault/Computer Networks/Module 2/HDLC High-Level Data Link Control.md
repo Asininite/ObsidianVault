@@ -27,3 +27,8 @@
 ### 2. Asynchronous Balanced Mode
 - each station can send and receive commands (act as both primary and secondary)
 - only point-to-point
+
+# HDLC Frame
+![[Pasted image 20241120221522.png]]
+
+
