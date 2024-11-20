@@ -1,2 +1,4 @@
 - group of communication protocols for transmitting data between nodes
 - Data Link Layer Protocol
+- bit-oriented protocol
+- 
