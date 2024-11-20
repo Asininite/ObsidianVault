@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "OSI Reference Model"
             }
+          },
+          {
+            "id": "d40177531e3ae061",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c13ff71f24bde265",
+  "active": "d40177531e3ae061",
   "lastOpenFiles": [
     "Obsidian Vault/Computer Networks/Module 1/Service Primitives.md",
     "Pasted image 20241119180404.png",
