@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 1/TCP IP Reference Model.md",
+                "file": "Obsidian Vault/Computer Networks/Module 2/Hamming Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP IP Reference Model"
+              "title": "Hamming Code"
             }
           }
         ]
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/System Software/Lab/Pass 1.md",
+            "file": "Obsidian Vault/Computer Networks/Module 2/Hamming Code.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,6 +150,10 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
+    "Obsidian Vault/Computer Networks/Module 2/HDLC High-Level Data Link Control.md",
+    "Pasted image 20241120221522.png",
+    "/Pasted image 20241120221522.png",
+    "Obsidian Vault/Computer Networks/Module 1/TCP IP Reference Model.md",
     "Obsidian Vault/Images/Pasted image 20241119180404.png",
     "Obsidian Vault/Images/Pasted image 20241119180311.png",
     "Obsidian Vault/Images/Pasted image 20241119180159.png",
@@ -158,10 +162,6 @@
     "Obsidian Vault/Images/Pasted image 20241119155501.png",
     "Obsidian Vault/Images/Pasted image 20241119155431.png",
     "Obsidian Vault/Images/Pasted image 20241119155307.png",
-    "Obsidian Vault/Images/Pasted image 20241119155303.png",
-    "Obsidian Vault/Images/Pasted image 20241119154311.png",
-    "Obsidian Vault/Images/Pasted image 20241119154008.png",
-    "Obsidian Vault/Computer Networks/Module 2/HDLC High-Level Data Link Control.md",
     "Obsidian Vault/Computer Networks/Module 1/Transmission Modes.md",
     "/Obsidian Vault/Computer Networks/Module 2/HDLC High-Level Data Link Control.md",
     "/Obsidian Vault/Computer Networks/Module 1/Transmission Modes.md",
@@ -185,7 +185,6 @@
     "/Obsidian Vault/Computer Networks/Module 1/Types of Network.md",
     "/Obsidian Vault/Computer Networks/Module 1/Transmission Media.md",
     "/Obsidian Vault/Computer Networks/Module 1/Topology.md",
-    "/Obsidian Vault/Computer Networks/Module 1/Service Primitives.md",
     "Obsidian Vault/System Software/Module 1",
     "Obsidian Vault/RDBMS/PL SQL",
     "Obsidian Vault/MOSS/Module 1",
