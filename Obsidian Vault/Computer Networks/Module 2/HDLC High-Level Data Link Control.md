@@ -33,4 +33,5 @@
 
 - Flag : 8 bit sequence marks beg/end of frame 01111110
 - Address : contains receiver address
-- Control : 
+- Control : flow and error control info
+- Payload : 
