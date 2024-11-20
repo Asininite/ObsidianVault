@@ -11,4 +11,7 @@
 
 # Full - Duplex
 - bi-directional communication | both stations send and receive simultaneously 
-- 
+- two simpex channels
+- fastest mode of communication 
+
+  ![[Pasted image 20241120163122.png]]
