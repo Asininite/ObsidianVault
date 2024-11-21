@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c13ff71f24bde265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 1/OSI Reference Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OSI Reference Model"
-            }
-          },
-          {
             "id": "d40177531e3ae061",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 2/HDLC High-Level Data Link Control.md",
+                "file": "Obsidian Vault/FLAT/Module 5/Turing Machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HDLC High-Level Data Link Control"
+              "title": "Turing Machine"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,13 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "d40177531e3ae061",
   "lastOpenFiles": [
+    "Obsidian Vault/Computer Networks/Module 2/HDLC High-Level Data Link Control.md",
+    "Obsidian Vault/FLAT/Module 5/Turing Machine.md",
     "Obsidian Vault/FLAT/Module 5",
     "Obsidian Vault/FLAT",
     "Obsidian Vault/Images/Pasted image 20241120221522.png",
     "Obsidian Vault/Computer Networks/Module 2/Flow Control.md",
-    "Obsidian Vault/Computer Networks/Module 2/HDLC High-Level Data Link Control.md",
     "Obsidian Vault/Computer Networks/Module 2/Error Detection.md",
     "Obsidian Vault/Computer Networks/Module 3/Connection-Less Services.md",
     "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
@@ -224,7 +210,6 @@
     "Obsidian Vault/Microprocessor and Microcontroller/Lab",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3",
     "Obsidian Vault/System Software/Module 4",
-    "Obsidian Vault/System Software/Module 3",
-    "Obsidian Vault/Computer Networks/Module 4"
+    "Obsidian Vault/System Software/Module 3"
   ]
 }
