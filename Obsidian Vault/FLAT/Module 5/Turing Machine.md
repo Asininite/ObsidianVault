@@ -31,5 +31,14 @@ at **EACH STEP**
 ### FORMAL DEFINITION
 - set of 7 tuples
 - ![[Pasted image 20241121131318.png]]
+### PRODUCTION RULE
 
+
+# Turing Thesis
+- any computation performed by mechanical machine CAN be performed by TURING MACHINE
+	  anything done on digital computer can be done on TM
+	  no problem has algorithm without a TM program
+
+- RECURSIVELY ENUMERABLE LANGUAGE
+	  If for a language L and [sigma] a Turing Machine exists
 
