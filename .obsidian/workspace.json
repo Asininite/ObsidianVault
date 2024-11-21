@@ -178,9 +178,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d40177531e3ae061",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Pasted image 20241120221522.png",
+    "Obsidian Vault/FLAT/Module 5",
+    "Obsidian Vault/FLAT",
+    "Obsidian Vault/Images/Pasted image 20241120221522.png",
     "Obsidian Vault/Computer Networks/Module 2/Flow Control.md",
     "Obsidian Vault/Computer Networks/Module 2/HDLC High-Level Data Link Control.md",
     "Obsidian Vault/Computer Networks/Module 2/Error Detection.md",
@@ -204,7 +206,6 @@
     "Obsidian Vault/Images/Pasted image 20241119155501.png",
     "Obsidian Vault/Images/Pasted image 20241119155431.png",
     "Obsidian Vault/Images/Pasted image 20241119155307.png",
-    "Obsidian Vault/Images/Pasted image 20241119155303.png",
     "Obsidian Vault/Computer Networks/Module 1/TCP IP Reference Model.md",
     "Obsidian Vault/Computer Networks/Module 1/Computer Network Applications.md",
     "Obsidian Vault/Computer Networks/Module 1/Byte Stuffing and Bit Stuffing.md",
@@ -224,7 +225,6 @@
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3",
     "Obsidian Vault/System Software/Module 4",
     "Obsidian Vault/System Software/Module 3",
-    "Obsidian Vault/Computer Networks/Module 4",
-    "Obsidian Vault/Computer Networks/Module 3"
+    "Obsidian Vault/Computer Networks/Module 4"
   ]
 }
