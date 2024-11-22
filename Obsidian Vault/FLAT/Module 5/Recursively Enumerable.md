@@ -1,0 +1,1 @@
+- Language L and epsilon is said to be recursively enumerable if there exists a Turing Machine that accepts it
