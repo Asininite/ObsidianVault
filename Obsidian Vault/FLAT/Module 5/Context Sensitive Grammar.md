@@ -1,3 +1,5 @@
+- TYPE 1 GRAMMAR
+
 G = (V, T, P, S) is CSG IF 
 - LHS contains terminals
 - LHS and RHS no epsilon
