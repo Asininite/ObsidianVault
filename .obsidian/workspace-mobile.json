@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
+                "file": "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Congestion"
+              "title": "Distance Vector Routing"
             }
           }
         ]
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Computer Networks/Module 2/HDLC High-Level Data Link Control.md",
+            "file": "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,6 +150,14 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
+    "Pasted image 20241122021750.png",
+    "Obsidian Vault/FLAT/Module 5/Church - Turing Thesis.md",
+    "/Pasted image 20241122021750.png",
+    "/Obsidian Vault/FLAT/Module 5/Turing Machine problems.md",
+    "/Obsidian Vault/FLAT/Module 5/Church - Turing Thesis.md",
+    "Obsidian Vault/Computer Networks/Module 3/Connection-Oriented Services.md",
+    "Obsidian Vault/Computer Networks/Module 3/Connection-Less Services.md",
+    "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
     "Obsidian Vault/Images/Pasted image 20241121131318.png",
     "Obsidian Vault/Images/Pasted image 20241121131125.png",
     "Obsidian Vault/Images/Pasted image 20241121130648.png",
@@ -162,10 +170,7 @@
     "Obsidian Vault/FLAT/Module 5/Turing Machine problems.md",
     "Obsidian Vault/Computer Networks/Module 2/HDLC High-Level Data Link Control.md",
     "Obsidian Vault/Images/Pasted image 20241120221522.png",
-    "Pasted image 20241121131318.png",
-    "Pasted image 20241121131125.png",
     "/Obsidian Vault/FLAT/Module 5/Turing Machine.md",
-    "/Obsidian Vault/FLAT/Module 5/Turing Machine problems.md",
     "Obsidian Vault/FLAT/Module 5",
     "Obsidian Vault/FLAT",
     "/Obsidian Vault/FLAT/Module 5",
@@ -185,11 +190,6 @@
     "Obsidian Vault/Computer Networks/Module 1/Types of Network.md",
     "Obsidian Vault/Computer Networks/Module 1/Transmission Media.md",
     "Obsidian Vault/Computer Networks/Module 1/Topology.md",
-    "Obsidian Vault/Computer Networks/Module 1/Service Primitives.md",
-    "Obsidian Vault/Computer Networks/Module 1/Design Issues.md",
-    "/Obsidian Vault/System Software/Module 1/Untitled.md",
-    "/Obsidian Vault/RDBMS/Untitled.md",
-    "/Obsidian Vault/RDBMS/PL SQL/Procedures.md",
     "Obsidian Vault/System Software/Module 1",
     "Obsidian Vault/RDBMS/PL SQL",
     "Obsidian Vault/MOSS/Module 1",
