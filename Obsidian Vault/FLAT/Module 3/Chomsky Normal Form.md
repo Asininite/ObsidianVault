@@ -13,4 +13,8 @@
       replace by A -> XB
       X -> a
       and repeat
-  
+
+![[Pasted image 20241123210155.png]]
+![[Pasted image 20241123210214.png]]
+![[Pasted image 20241123210240.png]]
+![[Pasted image 20241123210311.png]]
