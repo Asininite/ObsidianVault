@@ -4,3 +4,5 @@
 	  accepted by Push Down Automata
 - Closed under UNION CONCATENATION KLEEN_CLOSURE INTERSECTION COMPLEMENT
 	  Closed under UNION CONCATENATION KLEEN_CLOSURE
+- used in text editors
+	  used in compilers
