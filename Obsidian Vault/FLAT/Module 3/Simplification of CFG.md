@@ -29,4 +29,9 @@
 ![[Pasted image 20241123193011.png]]
 
 ## 3. Removal of Null Productions
+- production A -> EPSILON
+
+- look for productions with right side A
+- replace each occurrence with EPSILON
+- add resultant productions
 
