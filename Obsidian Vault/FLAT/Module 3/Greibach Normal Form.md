@@ -25,3 +25,4 @@ b Terminal
 ![[Pasted image 20241123213618.png]]
 ![[Pasted image 20241123213647.png]]
 ![[Pasted image 20241123214530.png]]
+![[Pasted image 20241123215115.png]]
