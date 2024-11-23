@@ -8,3 +8,7 @@ b Terminal
 - [ ] Remove Unit and Null productions
 - [ ] Convert to CNF
 - [ ] Change names of Non-Terminals (Capitals) into Ai format (A1 A2 A3) in ascending order
+- [ ] Alter rules such that Non-Terminals are in ascending order
+      Ai -> Aj x 
+	      i < j and never i >= j
+	  this can be done by substituting
