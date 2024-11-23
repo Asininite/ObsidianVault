@@ -34,4 +34,12 @@
 - look for productions with right side A
 - replace each occurrence with EPSILON
 - add resultant productions
+- ![[Pasted image 20241123193422.png]]
+- here, in first case of S -> ABC the AB **A** C is removed
+	  second case **A** BAC is removed
+		  third case both **A** s are removed
+![[Pasted image 20241123193615.png]]
+- we have eliminated A 
+
+do the same for B 
 
