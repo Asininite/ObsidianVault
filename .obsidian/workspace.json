@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/FLAT/Module 4/CFL Closure Properties.md",
+                "file": "Obsidian Vault/FLAT/Module 4/Push-Down Automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CFL Closure Properties"
+              "title": "Push-Down Automata"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
-    "Obsidian Vault/FLAT/Module 4/Regular Lang vs CF Lang.md",
+    "Pasted image 20241124044513.png",
     "Obsidian Vault/FLAT/Module 4/CFL Closure Properties.md",
+    "Obsidian Vault/FLAT/Module 4/Push-Down Automata.md",
+    "Obsidian Vault/FLAT/Module 4/Regular Lang vs CF Lang.md",
     "Obsidian Vault/FLAT/Module 4/Pumping Lemma.md",
     "Obsidian Vault/FLAT/Module 3/Greibach Normal Form.md",
     "Obsidian Vault/FLAT/Module 4",
@@ -203,8 +205,6 @@
     "Obsidian Vault/Computer Networks/Module 3/Connection-Less Services.md",
     "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
     "Obsidian Vault/Computer Networks/Module 4/Internet Control Message Protocol ICMP.md",
-    "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
-    "Obsidian Vault/Computer Networks/Module 1/Manchester Encoding.md",
     "Obsidian Vault/System Software/Module 1",
     "Obsidian Vault/MOSS/Module 1",
     "Obsidian Vault/RDBMS/PL SQL",
