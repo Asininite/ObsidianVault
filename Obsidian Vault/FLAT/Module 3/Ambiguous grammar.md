@@ -1,3 +1,3 @@
 - two or more derivation trees (BOTH MUST BE EITHER LEFT or EITHER RIGHT) for a string w
-- ![[Obsidian Vault/Images/Pasted image 20241123161623.png]]e 20241123161623.png]]
-- 
+- ![[Obsidian Vault/Images/Pasted image 20241123161623.png]]
+- ![[Pasted image 20241123193615.png]]
