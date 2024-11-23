@@ -1,11 +1,6 @@
 # STEPS
 ## 1. Reduction of CFG
-
-## 2. Removal of Unit Productions
-
-## 3. Removal of Null Productions
-
-### phase 1 
+### Phase 1
 - remove the variables(or non terminals) that don't have any production rule
 - T = {set of terminal symbols}
 - W1 = {set of non-terminal symbols that can derive the set of T}
@@ -27,3 +22,8 @@
 
 ![[Pasted image 20241123163342.png]]
 ![[Pasted image 20241123165421.png]]
+
+## 2. Removal of Unit Productions
+
+## 3. Removal of Null Productions
+
