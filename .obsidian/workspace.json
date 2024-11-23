@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "457d2f20679fefbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aca90f973c07cc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2691cc76396566e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/FLAT/Module 3/Greibach Normal Form.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greibach Normal Form"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0de0db737c0d0af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f7c65ca20efb51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ad115f57a44c449",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b2c80646e21560b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Computer_Networks",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "afbf018fc03c0e48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "2285ec033214da64",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ef3b64343466a6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cc8b9ebcfa54c7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b7a0162bd6644092",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 16 Bit Addition With 8086"
+            }
+          },
+          {
+            "id": "e377b0a84f643b6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 16 Bit Addition With 8086"
+            }
+          },
+          {
+            "id": "4e27caa62512c76e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 16 Bit Addition With 8086"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d2691cc76396566e",
+  "lastOpenFiles": [
+    "Obsidian Vault/FLAT/Module 3/Chomsky Normal Form.md",
+    "Obsidian Vault/FLAT/Module 3/Greibach Normal Form.md",
+    "Obsidian Vault/FLAT/Module 3/Ambiguous grammar.md",
+    "Obsidian Vault/FLAT/Module 3/Derivation Tree.md",
+    "Obsidian Vault/FLAT/Module 3/Context Free Grammar.md",
+    "Obsidian Vault/FLAT/Module 3/Simplification of CFG.md",
+    "Obsidian Vault/Images/Pasted image 20241123161623.png",
+    "Obsidian Vault/Images/Pasted image 20241123161338.png",
+    "Obsidian Vault/Images/Pasted image 20241123193422.png",
+    "Obsidian Vault/Images/Pasted image 20241123193011.png",
+    "Obsidian Vault/Images/Pasted image 20241123165421.png",
+    "Obsidian Vault/Images/Pasted image 20241123163342.png",
+    "Obsidian Vault/Images/Pasted image 20241123160711.png",
+    "Obsidian Vault/Images/Pasted image 20241031191636.png",
+    "Obsidian Vault/Images/Pasted image 20241123193615.png",
+    "Obsidian Vault/Images/Pasted image 20241123210240.png",
+    "Obsidian Vault/System Software/Module 1/Untitled.md",
+    "Obsidian Vault/FLAT/Module 5/Chomsky Hierarchy.md",
+    "Obsidian Vault/FLAT/Module 3",
+    "Obsidian Vault/FLAT/Untitled.md",
+    "Obsidian Vault/FLAT/Module 5/Linear Bounded Grammar.md",
+    "Obsidian Vault/FLAT/Module 5/Context Sensitive Grammar.md",
+    "Obsidian Vault/FLAT/Module 5/Recursively Enumerable.md",
+    "Obsidian Vault/FLAT/Module 5/Turing Machine.md",
+    "Obsidian Vault/FLAT/Module 5/Turing Machine problems.md",
+    "Obsidian Vault/FLAT/Module 5/Church - Turing Thesis.md",
+    "Obsidian Vault/Computer Networks/Module 2/HDLC High-Level Data Link Control.md",
+    "Obsidian Vault/FLAT/Module 5",
+    "Obsidian Vault/FLAT",
+    "Obsidian Vault/Computer Networks/Module 2/Flow Control.md",
+    "Obsidian Vault/Computer Networks/Module 2/Error Detection.md",
+    "Obsidian Vault/Computer Networks/Module 3/Connection-Less Services.md",
+    "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
+    "Obsidian Vault/Computer Networks/Module 4/Internet Control Message Protocol ICMP.md",
+    "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
+    "Obsidian Vault/Computer Networks/Module 1/Manchester Encoding.md",
+    "Obsidian Vault/Computer Networks/Module 1/Topology.md",
+    "Obsidian Vault/Computer Networks/Module 1/Transmission Modes.md",
+    "Obsidian Vault/Computer Networks/Module 1/Transmission Media.md",
+    "Obsidian Vault/System Software/Module 1",
+    "Obsidian Vault/MOSS/Module 1",
+    "Obsidian Vault/RDBMS/PL SQL",
+    "Obsidian Vault/System Software/Lab",
+    "Obsidian Vault/Microprocessor and Microcontroller/Lab",
+    "Obsidian Vault/Microprocessor and Microcontroller/Module 3",
+    "Obsidian Vault/System Software/Module 4"
+  ]
+}
