@@ -12,3 +12,9 @@ b Terminal
       Ai -> Aj x 
 	      i < j and never i >= j
 	  this can be done by substituting
+- [ ] Remove Left Recursion
+      ![[Pasted image 20241123213825.png]]
+      - Introduce new variable to remove Left Recursion
+
+![[Pasted image 20241123213618.png]]
+![[Pasted image 20241123213647.png]]
