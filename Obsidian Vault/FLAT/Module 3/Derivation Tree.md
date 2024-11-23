@@ -6,3 +6,5 @@
 
 ### Right production tree
 - formed by applying production to right-most variable
+![[Pasted image 20241123161338.png]]
+

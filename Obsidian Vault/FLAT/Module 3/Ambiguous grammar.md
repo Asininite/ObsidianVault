@@ -1,0 +1,1 @@
+- two or more derivation trees (BOTH MUST BE EITHER LEFT or EITHER RIGHT) for a string w
