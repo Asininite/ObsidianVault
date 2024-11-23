@@ -28,3 +28,7 @@ b Terminal
 ![[Pasted image 20241123215115.png]]
 
 ## How to Remove Left Recursion
+![[Pasted image 20241124003008.png]]
+then remove EPSILON
+# IMP
+
