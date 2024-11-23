@@ -19,3 +19,5 @@ Finally we write
 	
 	- stack doesn't contain b since whenever we see b we pop a, not push b
   
+  ![[Pasted image 20241124052817.png]]
+  
