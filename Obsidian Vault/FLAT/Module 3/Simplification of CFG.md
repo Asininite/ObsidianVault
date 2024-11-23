@@ -20,7 +20,7 @@
 
 - G'' = V(non-terminals only) T(terminals) P(prod rule) S(start symbol)
 
-![[Obsidian Vault/Images/Pasted image 20241123163342.png]]e![[Obsidian Vault/Imag![[Obsidian Vault/Images/Pasted image 20241123165421.png]]e 20241123165421.png]]
+![[Obsidian Vault/Images/Pasted image 20241123163342.png]]![[Obsidian Vault/Imag![[Obsidian Vault/Images/Pasted image 20241123165421.png]
 
 ## 2. Removal of Unit Productions
 - any production of form A->B 
