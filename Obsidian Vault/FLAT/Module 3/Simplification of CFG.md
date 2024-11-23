@@ -26,3 +26,4 @@
 - G'' = V(non-terminals only) T(terminals) P(prod rule) S(start symbol)
 
 ![[Pasted image 20241123163342.png]]
+![[Pasted image 20241123165421.png]]
