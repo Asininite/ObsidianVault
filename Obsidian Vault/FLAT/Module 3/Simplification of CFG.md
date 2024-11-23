@@ -26,6 +26,7 @@
 - any production of form A->B 
 - to remove A -> B, add A -> x whenever B -> x occurs (x is TERMINAL)
 - delete A->B
+![[Pasted image 20241123193011.png]]
 
 ## 3. Removal of Null Productions
 
