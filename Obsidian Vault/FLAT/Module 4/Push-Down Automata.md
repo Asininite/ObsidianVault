@@ -12,4 +12,10 @@
 - delta(q0, b, a) = (q1, EPSILON) **epsilon signifies a pop**
 - delta (q1, b, a) = (q1, EPSILON)
 - delta (q1, epsilon, Z0) = (q2, epsilon) || Z0 is popped so epsilon
+- ![[Pasted image 20241124052535.png]]
+Finally we write 
+
+	M = (Q, sigma, tau, delta, q0, Z0, F)
+	
+	- stack doesn't contain b since whenever we see b we pop a, not push b
   
