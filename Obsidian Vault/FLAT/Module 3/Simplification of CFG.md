@@ -26,6 +26,20 @@
 - any production of form A->B 
 - to remove A -> B, add A -> x whenever B -> x occurs (x is TERMINAL)
 - delete A->B
+![[Pasted image 20241123193011.png]]
 
 ## 3. Removal of Null Productions
+- production A -> EPSILON
+
+- look for productions with right side A
+- replace each occurrence with EPSILON
+- add resultant productions
+- ![[Pasted image 20241123193422.png]]
+- here, in first case of S -> ABC the AB **A** C is removed
+	  second case **A** BAC is removed
+		  third case both **A** s are removed
+![[Pasted image 20241123193615.png]]
+- we have eliminated A 
+
+do the same for B 
 
