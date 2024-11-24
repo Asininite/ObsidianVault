@@ -3,3 +3,9 @@
 
 - best we can do is run the program and check if it halts
 - undecidable, hence no TM to solve this
+
+### to prove
+- let us assume we can
+
+	H (P, I) -> Halt 
+		 -> Not Halt
