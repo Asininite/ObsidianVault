@@ -1,3 +1,5 @@
 - given program, will it halt?
 - accept and halt OR reject and halt
-- 
+
+- best we can do is run the program and check if it halts
+- undecidable, hence no TM to solve this
