@@ -9,3 +9,4 @@
 
 	H (P, I) -> Halt 
 		 -> Not Halt
+![[Pasted image 20241124215210.png]]
