@@ -1,0 +1,6 @@
+- LBA for a^n b^n c^n 
+- ![[Pasted image 20241125042720.png]]
+- first go right then mark a as x, go to new state
+- now at new state, we skip the a and y
+- we see b, put y and go to new state
+- 
