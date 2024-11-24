@@ -5,3 +5,5 @@ The pumping lemma states that if a language 𝐿 is regular, then there exists a
     𝑖 ≥ 0, 𝑥 𝑦^𝑖 𝑧 is in 𝐿    
     |y| > 0
     |𝑥𝑦| ≤ 𝑝 
+
+![[Pasted image 20241125011117.png]]
