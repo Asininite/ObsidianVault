@@ -1,0 +1,2 @@
+- describe configuration of PDA
+- defined by a triple (Q, W, Y)
