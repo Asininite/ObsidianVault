@@ -18,3 +18,5 @@
 - empty the stack to get final state
 
 ### ### L = {W W^R | W [- (a+b)*}
+
+![[Pasted image 20241124175750.png]]
