@@ -2,7 +2,7 @@
 
 7 TUPLES
 
-Q, gamma, tau, delta, q0, F, M
+Q, gamma, tau, delta, q0, ML, MR, F
 
 - non-deterministic TM where sigma should contain two special symbols [ and ] as end symbols
 - ![[Obsidian Vault/Images/Pasted image 20241123015603.png]]
