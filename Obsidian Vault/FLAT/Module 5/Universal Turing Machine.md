@@ -1,0 +1,2 @@
+- algorithm to check whether a TM accepts a string
+- 
