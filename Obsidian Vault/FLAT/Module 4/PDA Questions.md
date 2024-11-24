@@ -17,6 +17,8 @@
 - pop all the symbols (q1, a, a) = (q1, epsilon) (q1, b, b) = (q1, epsilon)
 - empty the stack to get final state
 
-### ### L = {W W^R | W [- (a+b)*}
+### L = {W W^R | W [- (a+b)*}
 
 ![[Pasted image 20241124175750.png]]
+
+### L = {W | n(a) = n(b)}
