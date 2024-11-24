@@ -12,7 +12,8 @@
 - context sensitive language accepted by linear bounded automata
 - ![[Pasted image 20241124212253.png]]
 - RHS no epsilon
-- | LHS | <= 
+- | LHS | <= | RHS |
 
 ### Type - 2
-- 
+- context free grammar
+- context free language
