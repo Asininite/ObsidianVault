@@ -1,0 +1,3 @@
+- given program, will it halt?
+- accept and halt OR reject and halt
+- 

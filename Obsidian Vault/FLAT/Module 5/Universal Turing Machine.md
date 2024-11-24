@@ -1,3 +1,3 @@
 - algorithm to check whether a TM accepts a string
 - ![[Pasted image 20241124213627.png]]
-- 
+- ![[Pasted image 20241124213739.png]]
