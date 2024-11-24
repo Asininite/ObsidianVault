@@ -14,4 +14,10 @@ B -> 0B | 1B | ε
 
 ```
 
- 
+
+### Palindromes over {a, b}
+```
+S -> aSa | bSb | A | B | ε
+A -> aA | ε
+B -> bB | ε
+```
