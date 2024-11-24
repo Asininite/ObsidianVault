@@ -13,6 +13,8 @@
 - delta (q1, b, a) = (q1, EPSILON)
 - delta (q1, epsilon, Z0) = (q2, epsilon) || Z0 is popped so epsilon
 - ![[Pasted image 20241124052535.png]]
+
+![[Pasted image 20241124053258.png]]
 Finally we write 
 
 	M = (Q, sigma, tau, delta, q0, Z0, F)
@@ -20,4 +22,5 @@ Finally we write
 	- stack doesn't contain b since whenever we see b we pop a, not push b
   
   ![[Pasted image 20241124052817.png]]
+  
   
