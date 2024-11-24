@@ -21,3 +21,8 @@ S -> aSa | bSb | A | B | ε
 A -> aA | ε
 B -> bB | ε
 ```
+
+### Strings with equal number of a and b
+```
+S -> aSb | bSa | SS | epsilon
+```
