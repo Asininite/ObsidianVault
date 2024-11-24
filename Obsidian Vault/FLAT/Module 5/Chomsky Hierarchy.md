@@ -17,3 +17,17 @@
 ### Type - 2
 - context free grammar
 - context free language
+- push down automata
+- ![[Pasted image 20241124212847.png]]
+- LHS only ONE non-terminal (capital)
+- RHS can contain combinations of terminal/non-terminal
+
+### Type - 4
+- regular grammar
+- regular language and finite automata
+- LHS is non-terminal
+  RHS can be both
+- RHS with the non-terminal on the LEFT 
+	  left-linear grammar
+- ON RIGHT
+	- right-linear grammar
