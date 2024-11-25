@@ -9,3 +9,7 @@
 # L = w # w
 w is a string
 we are comparing the two strings
+
+
+# L = a^n b^2n
+
