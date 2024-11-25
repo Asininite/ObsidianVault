@@ -18,6 +18,9 @@
 
 **UDP HEADER**
 ![[Pasted image 20241126052657.png]]
+- source/destination port identify start/end points
+- length includes 8-byte header and data
+- checksum used for error detection
 
 # TPDU (Transport Protocol Data Unit)
 - contains message sent from one transport entity to another transport entity
