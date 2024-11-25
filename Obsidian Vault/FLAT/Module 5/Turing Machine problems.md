@@ -13,3 +13,5 @@ we are comparing the two strings
 
 # L = a^n b^2n
 
+![[Pasted image 20241125084344.png]]
+
