@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/FLAT/PYQs/regular expr.md",
+                "file": "Obsidian Vault/FLAT/Module 5/Turing Machine problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "regular expr"
+              "title": "Turing Machine problems"
             }
           }
         ]
@@ -165,10 +165,18 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
+    "Obsidian Vault/FLAT/Capsule/Type 0, type 1, type 2, type 3.jpg",
+    "Obsidian Vault/FLAT/Capsule/FLAT Capsule Mod 5.pdf",
+    "Obsidian Vault/FLAT/Capsule/FLAT Capsule Mod 4.pdf",
+    "Obsidian Vault/FLAT/Capsule/FLAT Capsule Mod 3.pdf",
+    "Obsidian Vault/FLAT/Capsule/FLAT Capsule Mod 2.pdf",
+    "Obsidian Vault/FLAT/Capsule/FLAT Capsule Mod 1.pdf",
+    "Obsidian Vault/FLAT/Capsule/Combinational OR-AND.pdf",
+    "Obsidian Vault/FLAT/Capsule",
+    "Obsidian Vault/FLAT/PYQs/5 Linear Bounded Automata.md",
+    "Obsidian Vault/FLAT/PYQs/regular expr.md",
     "Pasted image 20241125084902.png",
     "Obsidian Vault/FLAT/PYQs/1 Epsilon Transition.md",
-    "Obsidian Vault/FLAT/PYQs/regular expr.md",
-    "Obsidian Vault/FLAT/PYQs/5 Linear Bounded Automata.md",
     "Obsidian Vault/FLAT/Module 5/Turing Machine problems.md",
     "Pasted image 20241125084344.png",
     "Obsidian Vault/FLAT/Module 5/Context Sensitive Grammar.md",
@@ -200,16 +208,8 @@
     "Pasted image 20241124233150.png",
     "Obsidian Vault/Images/Pasted image 20241124225101.png",
     "Obsidian Vault/Images/Pasted image 20241124225058.png",
-    "Obsidian Vault/Images/Pasted image 20241124222029.png",
     "Obsidian Vault/FLAT/PYQs",
     "Obsidian Vault/FLAT/Module 4",
-    "Obsidian Vault/FLAT/Module 3",
-    "Obsidian Vault/FLAT/Module 5",
-    "Obsidian Vault/FLAT",
-    "Obsidian Vault/System Software/Module 1",
-    "Obsidian Vault/MOSS/Module 1",
-    "Obsidian Vault/RDBMS/PL SQL",
-    "Obsidian Vault/System Software/Lab",
-    "Obsidian Vault/Microprocessor and Microcontroller/Lab"
+    "Obsidian Vault/FLAT/Module 3"
   ]
 }
