@@ -1,13 +1,58 @@
 - provide reliable cost-effective data transport from source to destination machine independent of the physical network
 - makes uses of network layer services
-- transport entity : hardware/software that does the work
+- **transport entity** : hardware/software that does the work of transporting info
 - ![[Pasted image 20241126050816.png]]
 
 ### connection-oriented service using TCP (transmission control protocol)
 
 ### connectionless using UDP (user datagram protocol)
-
-### TPDU (Transport Protocol Data Unit)
+- connectionless and unreliable
+- uses minimum overhead
+- has limited error checking, no orderly arrival and packets are called **datagrams**
 - 
 
+# TPDU (Transport Protocol Data Unit)
+- contains message sent from one transport entity to another transport entity
+- ![[Pasted image 20241126051137.png]]
 
+# Transport Service Primitives
+### LISTEN
+- block until some process tries to connect
+### CONNECT
+- actively tries to establish a connection
+- CONNECTION REQ packet is sent
+### SEND
+- send information
+- DATA packet is sent
+### RECEIVE
+- block until DATA packet arrives
+### DISCONNECT
+- DISCONNECTION REQ packet is sent
+- that side wants to release the connection
+
+- server executes listen
+- client sends a CONNECT REQ packet
+- server unblocks and sends a CONNECTION ACCEPT TPDU back
+- when arrives client unblocks and connection established
+- both parties send and receive using SEND / RECEIVE
+- DISCONNECT used (asymmetrically or symmetrically)
+
+# Addressing
+- we need address to deliver something to a specific destination
+- data link layer -> MAC address
+	  network layer -> IP address
+		  transport layer -> transport layer address (port number)
+- in TCP/IP port no:s are 16bits (0 to 65535)
+
+- [ ] well-known ports : 0 - 1023
+      assigned by ICANN (Internet Corporation for Assigned Names and Numbers)
+- [ ] registered ports : 1024 - 49151
+      not assigned by ICANN
+- [ ] dynamic ports : 49152 - 65535
+      private port numbers
+
+### Socket Address
+- Transport layer protocol in TCP needs both IP address and port number
+- IP + Port number = SOCKET ADDRESS
+- ![[Pasted image 20241126052314.png]]
+- 
