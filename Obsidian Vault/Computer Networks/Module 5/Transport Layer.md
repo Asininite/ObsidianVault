@@ -5,11 +5,19 @@
 
 ### connection-oriented service using TCP (transmission control protocol)
 
-### connectionless using UDP (user datagram protocol)
+# connectionless using UDP (user datagram protocol)
 - connectionless and unreliable
 - uses minimum overhead
-- has limited error checking, no orderly arrival and packets are called **datagrams**
-- 
+- has limited error checking, no orderly arrival
+- packets are called **datagrams**
+- best used for small messages
+
+- [ ] less overhead and less interaction b/w sender and receiver
+- [ ] convenient for multimedia and multicasting
+- [ ] used in DNS
+
+**UDP HEADER**
+![[Pasted image 20241126052657.png]]
 
 # TPDU (Transport Protocol Data Unit)
 - contains message sent from one transport entity to another transport entity
