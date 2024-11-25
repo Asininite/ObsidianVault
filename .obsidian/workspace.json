@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/FLAT/PYQs/1 Epsilon Transition.md",
+                "file": "Obsidian Vault/FLAT/PYQs/regular expr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Epsilon Transition"
+              "title": "regular expr"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
-    "Obsidian Vault/FLAT/PYQs/5 Linear Bounded Automata.md",
+    "Pasted image 20241125084902.png",
     "Obsidian Vault/FLAT/PYQs/1 Epsilon Transition.md",
+    "Obsidian Vault/FLAT/PYQs/regular expr.md",
+    "Obsidian Vault/FLAT/PYQs/5 Linear Bounded Automata.md",
     "Obsidian Vault/FLAT/Module 5/Turing Machine problems.md",
     "Pasted image 20241125084344.png",
     "Obsidian Vault/FLAT/Module 5/Context Sensitive Grammar.md",
@@ -192,8 +194,6 @@
     "Obsidian Vault/FLAT/PYQs/3 CSG questions.md",
     "Obsidian Vault/FLAT/PYQs/3 Myhill-Nerode Theorem.md",
     "Obsidian Vault/FLAT/PYQs/2 MNT Table Filling.md",
-    "Obsidian Vault/FLAT/Module 5/Recursively Enumerable.md",
-    "Obsidian Vault/FLAT/Module 5/Universal Turing Machine.md",
     "Pasted image 20241125011117.png",
     "Pasted image 20241124233637.png",
     "Pasted image 20241124233503.png",
