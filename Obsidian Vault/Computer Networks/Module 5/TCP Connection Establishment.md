@@ -9,3 +9,6 @@
 - **Step 3**
   - Client sends third segment (ACK segment)
   - acknowledges receipt of second segment with ACK flag and acknowledgment number field
+![[Pasted image 20241126155349.png]]
+
+
