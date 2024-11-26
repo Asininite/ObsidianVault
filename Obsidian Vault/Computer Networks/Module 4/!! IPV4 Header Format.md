@@ -21,4 +21,5 @@
 - max : 65535
 
 ### Identification
+- allows the destination host to figure out which datagram the fragment belongs to
 - 
