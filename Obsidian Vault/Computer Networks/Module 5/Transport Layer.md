@@ -9,7 +9,8 @@
 
 - reliable transport-layer protocol
 - order of data is maintained
-- full duplex and stream oriented
+- full duplex | data transfer in both directions at the same time
+- stream oriented | 
 
 # connectionless using UDP (user datagram protocol)
 - connectionless and unreliable
