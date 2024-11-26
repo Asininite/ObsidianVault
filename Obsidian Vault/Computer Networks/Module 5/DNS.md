@@ -11,3 +11,16 @@
 	  else sends query to higher DNS server
 		  continued until result obtained
 - return result to program
+
+### DNS System
+- Domain Names
+	  symbolic string associated with IP address
+- Domain Name Space
+	  hierarchical and logical tree structure
+	  ![[Pasted image 20241126180827.png]]
+	  
+- Name Server
+	  contain DNS servers and responds to the queries
+	  DNS name space divided into zones
+	  ![[Pasted image 20241126180917.png]]
+	  
