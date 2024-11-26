@@ -50,3 +50,13 @@
 - verifies the header
 - used to store checksum of header
 - receiver uses checksum to figure out any errors
+
+### Source IP address
+- 32bit IP address of sender
+### Destination IP Address
+- 32bit IP address of destination
+### Options
+- optional info 
+- security
+	  strict source routing
+		  loose source routing
