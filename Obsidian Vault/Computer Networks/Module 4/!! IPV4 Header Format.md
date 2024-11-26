@@ -45,3 +45,8 @@
 - tells us what protocol is encapsulated
 - TCP : 6
   UDP : 17
+
+### Header Checksum 
+- verifies the header
+- used to store checksum of header
+- receiver uses checksum to figure out any errors
