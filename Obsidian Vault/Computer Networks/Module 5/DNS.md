@@ -6,3 +6,8 @@
 - program sends name query to library procedure called (resolver)
 - resolver looks up domain name cache for a match
 - if no match found, request sent to DNS server
+- server looks up name 
+- if match found, returns IP address
+	  else sends query to higher DNS server
+		  continued until result obtained
+- return result to program
