@@ -26,3 +26,4 @@
 
 ### Domain Resource Records
 - DNS data stored as domain resource records
+- ![[Pasted image 20241126191219.png]]
