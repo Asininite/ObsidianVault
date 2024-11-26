@@ -18,4 +18,6 @@
 - number of hosts per network = 2^hostbits - 2 (2 cannot be assigned to hosts, they are used as network address and loopback address)
 - ![[Pasted image 20241127020033.png]]
 
+
+
   
