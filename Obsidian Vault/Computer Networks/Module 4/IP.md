@@ -8,3 +8,8 @@
 ## Flow of Data
 - ![[Pasted image 20241126234648.png]]
 
+### IP Datagram
+- header part and data part
+	  header has 20-bit fixed part and variable length optional path
+	  
+
