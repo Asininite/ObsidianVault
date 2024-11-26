@@ -10,7 +10,12 @@
 - reliable transport-layer protocol
 - order of data is maintained
 - full duplex | data transfer in both directions at the same time
-- stream oriented | 
+- stream oriented | sender and receiver can accept data in a stream of bytes
+
+### TCP segment header
+- fixed-format 20-byte header
+- ![[Pasted image 20241126062515.png]]
+- 
 
 # connectionless using UDP (user datagram protocol)
 - connectionless and unreliable
