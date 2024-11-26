@@ -22,4 +22,26 @@
 
 ### Identification
 - allows the destination host to figure out which datagram the fragment belongs to
-- 
+
+**DF** : DONT FRAGMENT
+	signifies that destination cannot put together the fragmented datagram
+**MF** : MORE FRAGMENTS
+	signifies there is more fragments after this 
+		MF = 1 more fragments
+		MF = 0 no fragments
+
+### Fragment Offset
+- 13 bits 
+- specifies position of fragment in original fragmented IP packet
+
+### Time To Live
+- 8 bits 
+	  used to prevent packets looping around forever
+- everytime packet passes through router, time to live is decremented by 1
+- when it hits 0, **packet stopped getting sent** 
+	  time exceeded message sent to sender
+
+### Protocol
+- tells us what protocol is encapsulated
+- TCP : 6
+  UDP : 17
