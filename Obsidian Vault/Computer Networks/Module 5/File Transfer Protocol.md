@@ -4,3 +4,4 @@
 	  Port 20 for data connection
 
 ### FTP Client
+![[Pasted image 20241126195519.png]]
