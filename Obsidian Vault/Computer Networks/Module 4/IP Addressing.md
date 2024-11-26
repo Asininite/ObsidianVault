@@ -5,3 +5,17 @@
 
 - binary notation
 - dotted-decimal notation
+### Classful addressing
+- Class A : 0 - 127
+- Class B : 128 - 191
+- Class C : 192 - 223
+- Class D : 224 - 239
+- Class E : 240 - 255
+- ![[Pasted image 20241127015841.png]]
+
+### Number of networks and hosts per class
+- number of networks = 2^networkbits
+- number of hosts per network = 2^hostbits - 2 (2 cannot be assigned to hosts, they are used as network address and loopback address)
+- ![[Pasted image 20241127020033.png]]
+
+  
