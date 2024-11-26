@@ -15,7 +15,25 @@
 ### TCP segment header
 - fixed-format 20-byte header
 - ![[Pasted image 20241126062515.png]]
-- 
+- source / destination : identify end points
+	- seq number : specifies seq number of segment
+	- ack number :
+	- HLEN : header length
+	- unused 6 bits 
+	- URG : set to 1 to denote urgent data
+		  ACK : set to 1 to denote valid acknowledgement
+			  PSH : pushed data
+				  RST : reset a confused connection
+					  FIN : release a connection
+						  SYN : establish a connection
+	- window size : 16bits | denote window size
+	- checksum
+	- urgent pointer : 16-bit field valid only when URG flag is set
+	- options : 
+# TCP vs UDP
+![[Pasted image 20241126063437.png]]
+![[Pasted image 20241126063520.png]]
+
 
 # connectionless using UDP (user datagram protocol)
 - connectionless and unreliable
