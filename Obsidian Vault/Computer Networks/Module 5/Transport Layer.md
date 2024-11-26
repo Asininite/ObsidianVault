@@ -3,7 +3,13 @@
 - **transport entity** : hardware/software that does the work of transporting info
 - ![[Pasted image 20241126050816.png]]
 
-### connection-oriented service using TCP (transmission control protocol)
+# connection-oriented service using TCP (transmission control protocol)
+- establishes connection first, then actual exchange of info
+- used with IP, commonly called **TCP/IP**
+
+- reliable transport-layer protocol
+- order of data is maintained
+- full duplex and stream oriented
 
 # connectionless using UDP (user datagram protocol)
 - connectionless and unreliable
