@@ -18,7 +18,7 @@
 - 
 
 # connectionless using UDP (user datagram protocol)
-- connectionless and unreliable
+- **connectionless** and unreliable
 - uses minimum overhead
 - has limited error checking, no orderly arrival
 - packets are called **datagrams**
