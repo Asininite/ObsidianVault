@@ -30,6 +30,7 @@
 - calling procedure : client
 	  called procedure : server (yea don't ask me why)
 ![[Pasted image 20241126053229.png]]
+![[Pasted image 20241126053339.png]]
 
 # TPDU (Transport Protocol Data Unit)
 - contains message sent from one transport entity to another transport entity
