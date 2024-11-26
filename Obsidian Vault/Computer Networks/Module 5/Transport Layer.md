@@ -30,9 +30,21 @@
 	- checksum
 	- urgent pointer : 16-bit field valid only when URG flag is set
 	- options : 
-# TCP vs UDP
+### TCP vs UDP
 ![[Pasted image 20241126063437.png]]
 ![[Pasted image 20241126063520.png]]
+
+## TCP Connections 
+### 1. Connection Establishment
+- transmits data in full-duplex
+- when two TCPs connected, able to send segments to each other
+- three-way handshaking
+	  Client Sends SYN segment
+	  Server sends SYN + ACK segment
+	  Client sends ACK segment
+	  ![[Pasted image 20241126140708.png]]
+	  Connection released with TCP segment with FIN bit
+	
 
 
 # connectionless using UDP (user datagram protocol)
