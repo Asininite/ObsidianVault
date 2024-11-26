@@ -1,0 +1,2 @@
+- mechanism provided by TCP/IP to copy files from one host to another
+- two systems use different methods to store files (exFAT vs btrfs)
