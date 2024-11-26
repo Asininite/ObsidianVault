@@ -14,4 +14,5 @@
 - cwnd size increased by 1 on each ACK (Additive Increase)
 - continues until congestion window size equals receiver window size
 - ![[Pasted image 20241126173741.png]]
-
+#### 3. Congestion Detection Phase
+- 
