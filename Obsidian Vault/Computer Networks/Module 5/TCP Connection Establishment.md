@@ -11,4 +11,5 @@
   - acknowledges receipt of second segment with ACK flag and acknowledgment number field
 ![[Pasted image 20241126155349.png]]
 
-
+- to release a connection a TCP segment with **FIN BIT IS SET** meaning no more data to transmit
+- 
