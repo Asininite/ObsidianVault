@@ -27,4 +27,5 @@ C 255.255.255.0
 
 ![[Pasted image 20241127024631.png]]
 
+### Questions
 
