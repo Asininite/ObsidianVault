@@ -23,4 +23,6 @@
 	  contain DNS servers and responds to the queries
 	  DNS name space divided into zones
 	  ![[Pasted image 20241126180917.png]]
-	  
+
+### Domain Resource Records
+- DNS data stored as domain resource records
