@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 5/Transport Layer.md",
+                "file": "Obsidian Vault/Computer Networks/Module 5/QOS parameters for transport layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transport Layer"
+              "title": "QOS parameters for transport layer"
             }
           }
         ]
@@ -165,6 +165,11 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
+    "Obsidian Vault/Computer Networks/Module 2/Flow Control.md",
+    "Obsidian Vault/Computer Networks/Module 5/QOS parameters for transport layer.md",
+    "Obsidian Vault/Computer Networks/Module 2/Error Detection.md",
+    "Obsidian Vault/Computer Networks/Module 2/Hamming Code.md",
+    "Obsidian Vault/Computer Networks/Module 5/Transport Layer.md",
     "Pasted image 20241126140708.png",
     "Pasted image 20241126063520.png",
     "Pasted image 20241126063437.png",
@@ -176,10 +181,8 @@
     "Pasted image 20241126051137.png",
     "Pasted image 20241126050816.png",
     "Obsidian Vault/Computer Networks/Module 1 Syllabus.md",
-    "Obsidian Vault/Computer Networks/Module 5/Transport Layer.md",
     "Obsidian Vault/Computer Networks/Module 5",
     "Obsidian Vault/FLAT/Module 5/Turing Machine problems.md",
-    "Obsidian Vault/FLAT/Capsule/Type 0, type 1, type 2, type 3.jpg",
     "Obsidian Vault/FLAT/Capsule/FLAT Capsule Mod 5.pdf",
     "Obsidian Vault/FLAT/Capsule/FLAT Capsule Mod 4.pdf",
     "Obsidian Vault/FLAT/Capsule/FLAT Capsule Mod 3.pdf",
@@ -206,9 +209,6 @@
     "Obsidian Vault/FLAT/Module 5/Linear Bounded Grammar.md",
     "Obsidian Vault/FLAT/PYQs/3 Ambiguous Grammar.md",
     "Obsidian Vault/FLAT/PYQs/3 Canonical MNT.md",
-    "Obsidian Vault/FLAT/Module 3/CFG Questions.md",
-    "Obsidian Vault/FLAT/Module 4/PDA Questions.md",
-    "Obsidian Vault/FLAT/PYQs/3 CSG questions.md",
     "Obsidian Vault/FLAT/PYQs",
     "Obsidian Vault/FLAT/Module 4"
   ]

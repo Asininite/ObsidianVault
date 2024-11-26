@@ -1,0 +1,2 @@
+- Connection establishment delay
+- Connection establishment failure probability
