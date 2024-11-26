@@ -1,0 +1,2 @@
+- host name to IP address translation service
+- difficult to remember IP addresses
