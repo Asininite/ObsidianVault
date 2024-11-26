@@ -45,7 +45,8 @@
 	  ![[Pasted image 20241126140708.png]]
 	  Connection released with TCP segment with FIN bit
 	  **4 TCP segments needed, one SYN and ACK for each direction**
-	
+### TCP transmission policy
+- 	
 
 
 # connectionless using UDP (user datagram protocol)
