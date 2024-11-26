@@ -12,4 +12,6 @@
 - state entered after congestion window size (cwnd) exceeds slow start threshold size (ssthresh) 
 - Sender increases congestion window size linearly to avoid congestion
 - cwnd size increased by 1 on each ACK (Additive Increase)
-- 
+- continues until congestion window size equals receiver window size
+- ![[Pasted image 20241126173741.png]]
+
