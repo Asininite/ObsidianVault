@@ -27,3 +27,10 @@
 ### Domain Resource Records
 - DNS data stored as domain resource records
 - ![[Pasted image 20241126191219.png]]
+- time to live : how stable the record is
+	  large = more stable
+- class : internet info ('IN')
+- type : type of record
+- value : number/ domain name/ ascii string
+- 
+  
