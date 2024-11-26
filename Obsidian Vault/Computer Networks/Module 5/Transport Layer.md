@@ -22,6 +22,15 @@
 - length includes 8-byte header and data
 - checksum used for error detection
 
+### Remote Procedural Call
+- when process on machine 1 calls procedure on machine 2
+	  machine 1 process is suspended
+		  machine 2 procedure is executed
+- no message passing is visible
+- calling procedure : client
+	  called procedure : server (yea don't ask me why)
+![[Pasted image 20241126053229.png]]
+
 # TPDU (Transport Protocol Data Unit)
 - contains message sent from one transport entity to another transport entity
 - ![[Pasted image 20241126051137.png]]
