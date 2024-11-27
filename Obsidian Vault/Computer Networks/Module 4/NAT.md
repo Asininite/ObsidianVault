@@ -9,4 +9,10 @@
 
 
 ### 3. outside global address
-- 
+- outside network address for host before NAT translation
+
+### 4. outside local address
+- actual address representing host on the network after NAT
+
+# Types
+### 1. Static NAT
