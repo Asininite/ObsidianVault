@@ -2,3 +2,8 @@
 - helps preserve the limited IPV4 addresses
 
 ### 1. inside local address
+- host of private IP
+
+### 2. inside global address
+- whole of private IP addres
+- 
