@@ -16,3 +16,6 @@
 
 # Types
 ### 1. Static NAT
+- one-to-one NAT
+- one single private network mapped to individual public IP address
+- single private with single public
