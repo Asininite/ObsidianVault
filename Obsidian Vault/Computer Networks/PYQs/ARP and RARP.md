@@ -15,4 +15,7 @@
 ### RARP
 - used to find IP address from MAC address
 - sends device physical address to RARP server that checks for a match with IP address
+
+- source broadcasts a RARP request on local server
+- message received by every device and proceeded
 - 
