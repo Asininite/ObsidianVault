@@ -1,3 +1,5 @@
+- used for error handling in network layer
+
 ### error reporting messages
 destination unreachable
 siruce quench
