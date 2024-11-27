@@ -18,4 +18,5 @@
 
 - source broadcasts a RARP request on local server
 - message received by every device and proceeded
-- 
+- all RARP server devices respond with a RARP REPLY message to the source device
+- source device uses the address given by RARP server and configures itself
