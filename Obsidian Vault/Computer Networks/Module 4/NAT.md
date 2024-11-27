@@ -6,4 +6,7 @@
 
 ### 2. inside global address
 - whole of private IP addres
+
+
+### 3. outside global address
 - 
