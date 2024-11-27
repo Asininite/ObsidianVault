@@ -1,4 +1,8 @@
-- used for error handling in network layer
+- used for error handling in network layer in routers
+- reporting errors and managing queries
+
+- IP does not have error control
+- it relies on ICMP
 
 ### error reporting messages
 destination unreachable
