@@ -35,3 +35,12 @@
 vs
 
 - [ ] ![[Pasted image 20241130180528.png]]
+
+### addressing modes
+
+- SIC
+  x = 0 direct
+	  TA = actual address
+  x = 1 indirect
+	  TA = actual address + index register contents
+- [ ] ![[Pasted image 20241130180830.png]]
