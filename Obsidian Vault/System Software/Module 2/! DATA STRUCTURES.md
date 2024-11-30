@@ -8,3 +8,6 @@
 
 ### SYMTAB
 - includes name and value for each label in source program, alongwith flags to indicate errors
+- Pass 1 : labels and their addresses are added into symtab
+	  all their values get resolved at pass 1
+- Pass 2 : symbols used as operands are looked up the symbol table to obtain the address value to be inserted in assembled instructions
