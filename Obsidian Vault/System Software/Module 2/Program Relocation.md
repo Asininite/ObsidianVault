@@ -1,0 +1,1 @@
+- absolute program : address mentioned during assembling itself
