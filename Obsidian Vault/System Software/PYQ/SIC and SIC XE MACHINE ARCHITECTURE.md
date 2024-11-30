@@ -46,3 +46,7 @@ vs
   x = 1 indirect
 	  TA = actual address + index register contents
 - [ ] ![[Pasted image 20241130180830.png]]
+
+### I/O instructions
+- RD : read from device and store in register A
+- WR : write into register A from device
