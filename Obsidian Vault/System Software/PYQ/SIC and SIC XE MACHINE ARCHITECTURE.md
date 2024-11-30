@@ -1,3 +1,5 @@
+
+![[Pasted image 20241130183028.png]]
 ### memory
 - 8-bit bytes
 - 3 bytes = word
