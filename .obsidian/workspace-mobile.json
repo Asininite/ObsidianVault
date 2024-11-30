@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/Module 1/Network Software.md",
+                "file": "Obsidian Vault/Computer Networks/Module 3/Virtual-Circuit vs Subgram Subnet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Software"
+              "title": "Virtual-Circuit vs Subgram Subnet"
             }
           }
         ]
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Computer Networks/Module 1/Network Software.md",
+            "file": "Obsidian Vault/Computer Networks/Module 3/Virtual-Circuit vs Subgram Subnet.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,6 +150,22 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
+    "Obsidian Vault/System Software/Module 1/Different System Software.md",
+    "/Obsidian Vault/System Software/Module 1/Different System Software.md",
+    "Obsidian Vault/Computer Networks/Module 3/Store - And - Forward Packet Switching.md",
+    "Obsidian Vault/Computer Networks/Module 3/Shortest Path Routing (Dijkstra's).md",
+    "Obsidian Vault/Computer Networks/Module 3/Services Provided to Service Layer.md",
+    "Obsidian Vault/Computer Networks/Module 3/Routing Algorithm.md",
+    "Obsidian Vault/Computer Networks/Module 3/Optimality Principle.md",
+    "Obsidian Vault/Computer Networks/Module 3/Multicast Routing.md",
+    "Obsidian Vault/Computer Networks/Module 3/Link State Routing.md",
+    "Obsidian Vault/Computer Networks/Module 3/Flooding.md",
+    "Obsidian Vault/Computer Networks/Module 3/Distance Vector Routing.md",
+    "Obsidian Vault/Computer Networks/Module 3/Connection-Oriented Services.md",
+    "Obsidian Vault/Computer Networks/Module 3/Connection-Less Services.md",
+    "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
+    "Obsidian Vault/Computer Networks/Module 1/OSI Reference Model.md",
+    "Obsidian Vault/Computer Networks/Module 1/Network Software.md",
     "Obsidian Vault/Computer Networks/Module 1/Network Hardware.md",
     "Obsidian Vault/Computer Networks/Module 1/Medium Access Control sublayer.png",
     "Obsidian Vault/Computer Networks/Module 1/Manchester Encoding.md",
@@ -161,8 +177,6 @@
     "Obsidian Vault/Computer Networks/Module 5/TCP (Transmission Control Protocol) Congestion Control.md",
     "Obsidian Vault/Computer Networks/Module 5/DNS.md",
     "Obsidian Vault/Computer Networks/Module 5/QOS parameters for transport layer.md",
-    "Obsidian Vault/Computer Networks/Module 5/File Transfer Protocol.md",
-    "Obsidian Vault/Computer Networks/Module 4/Untitled 1.md",
     "Pasted image 20241128010954.png",
     "Pasted image 20241128005051.png",
     "Pasted image 20241128004835.png",
@@ -172,20 +186,6 @@
     "Pasted image 20241127015841.png",
     "Pasted image 20241127001709.png",
     "Pasted image 20241126235023.png",
-    "Obsidian Vault/Computer Networks/PYQs/OSPF.md",
-    "Obsidian Vault/Computer Networks/PYQs/IPV6 and ICMPV6.md",
-    "Obsidian Vault/Computer Networks/PYQs/IP.md",
-    "Obsidian Vault/Computer Networks/PYQs/DHCP.md",
-    "Obsidian Vault/Computer Networks/PYQs/ARP and RARP.md",
-    "Obsidian Vault/Computer Networks/Module 5/Silly Window Syndrome.md",
-    "Obsidian Vault/Computer Networks/Module 4/NAT.md",
-    "Obsidian Vault/Computer Networks/Module 4/IP Addressing.md",
-    "Obsidian Vault/Computer Networks/Module 4/ICMP Internet Control Message Protocol.md",
-    "Obsidian Vault/Computer Networks/Module 4/ARP.md",
-    "Obsidian Vault/Computer Networks/Module 4/!! IPV4 vs IPV6.md",
-    "Obsidian Vault/Computer Networks/Module 4/!! IPV4 Header Format.md",
-    "/Obsidian Vault/Computer Networks/Module 4/Untitled 1.md",
-    "/Obsidian Vault/Computer Networks/PYQs/OSPF.md",
     "Obsidian Vault/Computer Networks/PYQs",
     "/Obsidian Vault/Computer Networks/PYQs",
     "Obsidian Vault/FLAT/Capsule/FLAT Capsule Mod 1.pdf",
