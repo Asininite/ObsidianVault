@@ -1,3 +1,4 @@
+# SYMBOL DEFINING STATEMENT
 - assembler directive to change the value of location counter LOCCTR
 - control where the code or data will be placed in memory
 

@@ -1,3 +1,4 @@
+# SYMBOL DEFINING STATEMENT
 - assembler directive to define symbols and specify their values
 
 - [ ] this is EQU (**equate**)
