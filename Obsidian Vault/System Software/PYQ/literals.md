@@ -1,5 +1,9 @@
 -  **literal** is a constant value that is directly specified within an instruction. Instead of referring to a memory location that holds the value, you embed the value itself within the instruction's operand field. Literals are typically denoted with a special character, often = or # (depending on the specific assembly language).
 
+```
+LDA =X'F1'     ; Load the hexadecimal value F1 into register A
+```
+
 1. **First Pass (Scanning and Symbol Table Creation):** During the first pass of the assembly process, the assembler encounters the literal. It recognizes the literal based on the special character (=).
     
 2. **Literal Pool and Assignment:** The assembler creates a literal pool, a special section of memory dedicated to storing literal values. If the literal has not already been encountered, the assembler adds it to the literal pool and assigns it a unique address.
