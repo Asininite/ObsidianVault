@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/System Software/Module 5/Macro Processor.md",
+                "file": "Obsidian Vault/System Software/Module 5/@@ macroprocess algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Macro Processor"
+              "title": "@@ macroprocess algorithm"
             }
           }
         ]
@@ -165,10 +165,12 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
+    "Pasted image 20241202005025.png",
+    "Obsidian Vault/System Software/Module 5/Macro Processor.md",
+    "Obsidian Vault/System Software/Module 5/@@ macroprocess algorithm.md",
     "Pasted image 20241202004546.png",
     "Pasted image 20241202004208.png",
     "Obsidian Vault/System Software/Module 3/!! One Pass assembler.md",
-    "Obsidian Vault/System Software/Module 5/Macro Processor.md",
     "Obsidian Vault/System Software/Module 5",
     "Obsidian Vault/System Software/Module 4/Loader Design.md",
     "Obsidian Vault/System Software/Module 4/Linkage Editor vs Linking Loader.md",
@@ -181,7 +183,6 @@
     "Obsidian Vault/Images/Pasted image 20240901131654.png",
     "Pasted image 20241201195411.png",
     "Pasted image 20241201195642.png",
-    "Pasted image 20241201183037.png",
     "Obsidian Vault/System Software/Module 4/@@@ REVISE KARO @@@.md",
     "Obsidian Vault/System Software/Module 3/@@@ REVISE THESE PLS @@@.md",
     "Obsidian Vault/System Software/Module 4/Bootstrap Loader.md",
@@ -201,7 +202,6 @@
     "Obsidian Vault/System Software/Module 3/Hand Assembly of SIC XE.md",
     "Obsidian Vault/System Software/Module 3/Machine Independent Assembler Features.md",
     "Obsidian Vault/Microprocessor and Microcontroller/8257 Direct Memory Access.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/8086.md",
     "Obsidian Vault/System Software/PYQ",
     "Obsidian Vault/System Software/Module 2",
     "Obsidian Vault/Computer Networks/PYQs",
