@@ -8,4 +8,9 @@
 - pass 2 : actual translation
 
 
+![[Pasted image 20241202041620.png]]
+- ![[Pasted image 20241202041639.png]]
+
+
+
 
