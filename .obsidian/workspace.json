@@ -11,12 +11,14 @@
             "id": "d2691cc76396566e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20241201033237.png"
+                "file": "Obsidian Vault/System Software/Module 4/Loader Design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241201033237"
+              "icon": "lucide-file",
+              "title": "Loader Design"
             }
           }
         ]
@@ -163,21 +165,22 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
-    "Pasted image 20241201033852.png",
-    "Pasted image 20241201034243.png",
-    "Pasted image 20241201034253.png",
-    "Pasted image 20241201034501.png",
-    "Pasted image 20241201034539.png",
-    "Pasted image 20241201042547.png",
-    "Pasted image 20241201044532.png",
-    "Pasted image 20241201052937.png",
-    "Pasted image 20241201183037.png",
+    "Obsidian Vault/System Software/Module 4/Linkage Editor vs Linking Loader.md",
+    "Obsidian Vault/System Software/Module 4/Loader Design.md",
+    "Pasted image 20241201223642.png",
+    "Pasted image 20241201223630.png",
     "Obsidian Vault/System Software/Module 4/Machine Independent Loader Features.md",
+    "Obsidian Vault/Images/Pasted image 20241201044532.png",
+    "Obsidian Vault/Images/Pasted image 20241201052937.png",
+    "Obsidian Vault/Images/Pasted image 20240815123756.png",
+    "Obsidian Vault/Images/Pasted image 20240901131654.png",
+    "Pasted image 20241201195411.png",
+    "Pasted image 20241201195642.png",
+    "Pasted image 20241201183037.png",
+    "Pasted image 20241201194636.png",
     "Obsidian Vault/System Software/Module 4/@@@ REVISE KARO @@@.md",
     "Obsidian Vault/System Software/Module 3/@@@ REVISE THESE PLS @@@.md",
     "Obsidian Vault/System Software/Module 4/Bootstrap Loader.md",
-    "Pasted image 20241201195642.png",
-    "Pasted image 20241201195411.png",
     "Obsidian Vault/System Software/Module 4/Absolute Loader.md",
     "Obsidian Vault/System Software/Module 4/Basic Loader Functions.md",
     "Obsidian Vault/System Software/Module 3/! Multipass Assembler.md",
@@ -198,7 +201,6 @@
     "Obsidian Vault/Microprocessor and Microcontroller/8086.md",
     "Obsidian Vault/Microprocessor and Microcontroller/8254 Programmable Interval Timer.md",
     "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Lab/Revise This.md",
     "Obsidian Vault/System Software/PYQ",
     "Obsidian Vault/System Software/Module 2",
     "Obsidian Vault/Computer Networks/PYQs",

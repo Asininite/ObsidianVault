@@ -12,3 +12,7 @@
       delete control section
 - [ ] CHANGE name1, name2 
 	    external symbol name1 changed to name2 everywhere in object program
+- [ ] LIBRARY MYLIB
+	    use an external or defined library
+
+
