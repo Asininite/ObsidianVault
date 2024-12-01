@@ -25,3 +25,37 @@
 ![[Pasted image 20241202034244.png]]
 - ![[Pasted image 20241202034257.png]]
 
+![[Pasted image 20241202034403.png]]
+- A : accumulator for arithmetic
+- X : index register for indexed operations
+- L : linkage register. JSUB stores return address here
+- PC : program counter, contains next address 
+- SW : status word, contains condition code and other info
+
+
+![[Pasted image 20241202034507.png]]
+- TD : test the device to see if it is functional and responding
+- RD : read data from a device into an accumulator
+- WD : write data from accumulator to the device
+
+![[Pasted image 20241202034640.png]]
+- format 1 
+	  8 op 
+	  EG : RSUB
+- format 2 
+	  8 op    4 r1    4 r2
+	  EG : COMPR A, S
+- format 3
+	- 6 op    n i x b p e   12 disp
+	  EG : LDA #3
+- format 4
+	- 6 op    n i x b p e    20 address
+	  EG : same as format 3 but with extra address bits
+
+
+![[Pasted image 20241202035028.png]]
+- Direct
+- Relative
+- Immediate
+- Indirect
+- Indexed
