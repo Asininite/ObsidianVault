@@ -1,0 +1,4 @@
+- if operand has undefined symbol, **use 0 as address** and write text record
+- forward references are entered into lists
+- when definition of a symbol encountered, assembler generates another text record with correct operand address of each entry in reference list
+- when loading, 0 addresses are updated by the new text record with the correct operand addresses
