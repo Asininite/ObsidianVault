@@ -32,3 +32,16 @@
 ### How assembler handles program blocks
 - Pass 1 
 	  - assembler maintains separate location counter for each block
+	  - blockname is checked, if not found a new block is created
+	  - each LOCCTR for each block is first initialized to 0
+	  - current LOCCTR is saved before going to a block, and continued after
+	  - symbol table will have labels with block number and LOCCTR and length of block (by subtracting the LOCCTR)
+	  - block ends when encountering another USE
+- Pass 2
+	  - starting address for each block is determined
+	  - object code generated
+		    when symbol found, check SYMTAB
+		    relative address retrieved from SYMTAB
+		    final address calculated by adding relative address to starting address
+		    uses final address in object code
+	- text records are created  
