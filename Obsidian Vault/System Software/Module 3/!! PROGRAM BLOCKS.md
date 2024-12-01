@@ -1,0 +1,2 @@
+- feature provided by assemblers to **group** related segments of code or data together
+- program blocks refer to segments of code that are rearranged within a single object program unit
