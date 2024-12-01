@@ -70,3 +70,7 @@
 - Linker
 - Loader
 - Debugger
+
+
+![[Pasted image 20241202035828.png]]
+- ![[Pasted image 20241202035845.png]]
