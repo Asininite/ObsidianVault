@@ -7,3 +7,5 @@
 **MEND** : end of macro definition
 
 ### Macro Invocation
+- calls the macro
+- ![[Pasted image 20241202004208.png]]
