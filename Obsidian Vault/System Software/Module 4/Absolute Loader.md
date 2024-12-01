@@ -1,6 +1,7 @@
 **Design of an Absolute Loader**
 
 - only does function of loader
+- ![[Pasted image 20241201194636.png]]
 
 An absolute loader is the simplest type of loader. It assumes the program is prepared to be loaded at a specific, fixed address. This makes the loader's job very straightforward:
 
