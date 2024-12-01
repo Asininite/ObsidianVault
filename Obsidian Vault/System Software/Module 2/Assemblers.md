@@ -4,7 +4,7 @@
 - assemblers automate translation of assembly language into machine language
 - input : source program
   output : object program
-  ![[Pasted image 20241130183959.png]]
+  ![[Obsidian Vault/Images/Pasted image 20241130183959.png]]e 20241130183959.png]]
   
 ### functions
 - convert symbolic operands to equivalent machine addresses

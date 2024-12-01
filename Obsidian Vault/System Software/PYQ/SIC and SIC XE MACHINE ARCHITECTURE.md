@@ -1,5 +1,5 @@
 
-![[Pasted image 20241130183028.png]]
+![[Obsidian Vault/Images/Pasted image 20241130183028.png]]e 20241130183028.png]]
 ### memory
 - 8-bit bytes
 - 3 bytes = word
@@ -32,11 +32,7 @@
 
 ### instruction format 
 - 24-bit
-	  ![[Pasted image 20241130180507.png]]
-
-vs
-
-- [ ] ![[Pasted image 20241130180528.png]]
+	  ![[Obsidian Vault/Images/Pasted image 20241130180507.png]]e 2024113018![[Obsidian Vault/Imag![[Obsidian Vault/Images/Pasted image 20241130180528.png]]e 20241130180528.png]]
 
 ### addressing modes
 
@@ -44,8 +40,7 @@ vs
   x = 0 direct
 	  TA = actual address
   x = 1 indirect
-	  TA = actual address + index register contents
-- [ ] ![[Pasted image 20241130180830.png]]
+	  TA = actual address + index re![[Obsidian Vault/Imag![[Obsidian Vault/Images/Pasted image 20241130180830.png]]e 20241130180830.png]]
 
 ### I/O instructions
 - RD : read from device and store in register A

@@ -7,6 +7,6 @@ eg : **LDA = X'05'**
 
 starts with **C or X**
 
-![[Pasted image 20241201033852.png]]
+![[Obsidian Vault/Images/Pasted image 20241201033852.png]]e 20241201033852.png]]
 
 
