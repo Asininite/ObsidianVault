@@ -1,1 +1,1 @@
-![[Obsidian Vault/Images/Pasted image 20241201024323.png]]e 20241201024323.png]]
+![[Obsidian Vault/Images/Pasted image 20241201024323.png]]

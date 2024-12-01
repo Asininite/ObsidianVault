@@ -12,5 +12,10 @@
 - ![[Pasted image 20241202041639.png]]
 
 
+![[Pasted image 20241202050330.png]]
+- ![[Obsidian Vault/Images/Pasted image 20241201024405.png]]
+- 
+
+
 
 
