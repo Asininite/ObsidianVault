@@ -51,6 +51,10 @@ The type of an expression is determined by the type of value it produces:
 - **String Expressions:** Result in strings. Example: "Hello" + "World". (Not all assemblers support string expressions).
     
 - **Address Expressions:** Result in memory addresses. Example: TABLE_START + OFFSET.
+
+- Absolute expressions
+	  only use absolute terms
+![[Pasted image 20241201052937.png]]
     
 
 **Evaluation of Expressions:**
