@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/System Software/Module 3/! Multipass Assembler.md",
+                "file": "Obsidian Vault/System Software/Module 4/Basic Loader Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! Multipass Assembler"
+              "title": "Basic Loader Functions"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
-    "Obsidian Vault/System Software/Module 3/!! One Pass assembler.md",
     "Obsidian Vault/System Software/Module 3/! Multipass Assembler.md",
+    "Obsidian Vault/System Software/Module 4/Basic Loader Functions.md",
+    "Obsidian Vault/System Software/Module 3/!! One Pass assembler.md",
     "Pasted image 20241201183037.png",
     "Obsidian Vault/System Software/Module 3/! generate object code one-pass assembler.md",
     "Obsidian Vault/System Software/Module 3/! Load and go assembler.md",
