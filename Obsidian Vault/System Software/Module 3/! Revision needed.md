@@ -1,0 +1,3 @@
+- instruction format and addressing modes
+- how to yknow pc relative and base relative
+- 

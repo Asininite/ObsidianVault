@@ -1,8 +1,11 @@
-In the early days of computing, programs were often loaded into a fixed memory location. This approach had significant drawbacks:
+- Sometimes it is required to load and run several programs at the same time. The system must be able to load these programs wherever there is place in the memory. Therefore the exact starting is not known until the load time
 
-- **Limited Memory Utilization:** Only one program could reside in memory at a time, wasting potentially large chunks of memory.
-    
-- **Address Conflicts:** Loading multiple programs simultaneously was impossible if their code or data overlapped in memory.
-    
-- **Lack of Flexibility:** Programs were tied to specific memory addresses, making it difficult to move or share them.
+- assembler does not know the actual location where program gets loaded
+- assembler can identify for the loader the parts of the program which require modification
+	  object program with this info to relocate a program to a different address is called relocatable program
+
+- ![[Pasted image 20241201033040.png]]
+- The only part of the program that require modification at load time are those that specify direct addresses(format 4 instructions). The rest of the instructions need not be modified. The instructions which doesn’t require modification are the ones that is not a memory address (immediate addressing) and PC-relative, Base-relative instructions.
+- ![[Pasted image 20241201033237.png]]
+
 
