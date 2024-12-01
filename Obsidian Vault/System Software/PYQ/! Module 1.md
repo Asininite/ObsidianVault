@@ -59,3 +59,4 @@
 - Immediate
 - Indirect
 - Indexed
+- ![[Pasted image 20241202033841.png]]
