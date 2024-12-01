@@ -54,7 +54,7 @@ The type of an expression is determined by the type of value it produces:
 
 - Absolute expressions
 	  only use absolute terms
-![[Pasted image 20241201052937.png]]
+![[Obsidian Vault/Images/Pasted image 20241201052937.png]]e 20241201052937.png]]
     
 
 **Evaluation of Expressions:**

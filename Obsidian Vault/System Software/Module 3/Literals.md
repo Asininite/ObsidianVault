@@ -33,7 +33,7 @@ LDA =X'F1'     ; Load the hexadecimal value F1 into register A
 4. **Literal Pool Placement:** After processing all instructions, the assembler places the literal pool at an appropriate location in the object program. This location is usually after the program's main code and data sections.
 
 
-![[Pasted image 20241201044532.png]]
+![[Obsidian Vault/Images/Pasted image 20241201044532.png]]e 20241201044532.png]]
 - **Literals:** The constant is stored in a separate memory location (the literal pool), and the instruction uses the address of that location.
     
 - **Immediate Addressing:** The constant value is embedded directly within the instruction's object code.
