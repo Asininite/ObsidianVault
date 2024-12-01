@@ -1,3 +1,4 @@
+![[Pasted image 20241201195411.png]]
 A simple bootstrap loader is a small program whose sole purpose is to load a larger, more complex program, typically the operating system (OS), into memory and start its execution. It's the very first program that runs when a computer is powered on or reset. Because it's the initial program, it must be extremely simple and reside in a readily accessible location.
 
 Here's a breakdown of the key aspects of a simple bootstrap loader:
