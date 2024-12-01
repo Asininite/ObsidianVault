@@ -60,3 +60,13 @@
 - Indirect
 - Indexed
 - ![[Pasted image 20241202033841.png]]
+
+![[Pasted image 20241202035442.png]]
+- Operating System
+- Device Drivers
+- Text Editor
+- Macro Processor
+- Language translators (Assembler, Compiler, Interpreter)
+- Linker
+- Loader
+- Debugger
