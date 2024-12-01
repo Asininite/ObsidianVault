@@ -1,5 +1,7 @@
 **Design of an Absolute Loader**
 
+- only does function of loader
+
 An absolute loader is the simplest type of loader. It assumes the program is prepared to be loaded at a specific, fixed address. This makes the loader's job very straightforward:
 
 1. **Read Header Record:** The object file usually starts with a header record containing information like the program's name, starting address, and length. The loader reads this information.
