@@ -1,0 +1,6 @@
+
+![[Pasted image 20241202040722.png]]
+- ![[Pasted image 20241202040711.png]]
+- forward reference is a label that was referenced before it gets defined in the program
+- we do not know the address to be assigned
+
