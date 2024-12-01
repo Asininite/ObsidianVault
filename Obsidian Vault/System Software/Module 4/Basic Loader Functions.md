@@ -5,3 +5,11 @@
 
 ### 1. Allocation
 - determine and allocate required memory space for program to execute
+
+### 2. Linking
+- combine two or more object programs
+- supply info to allow references between them
+- analyze and resolve symbolic references made in the object modules
+
+### 3. Relocation
+- 
