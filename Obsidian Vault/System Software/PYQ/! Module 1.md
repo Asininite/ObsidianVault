@@ -12,3 +12,4 @@
 	  nixbpe 100000
 - Indexed
 	  x = 1
+![[Pasted image 20241202033841.png]]
