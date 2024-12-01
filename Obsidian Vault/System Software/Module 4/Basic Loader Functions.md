@@ -13,3 +13,6 @@
 
 ### 3. Relocation
 - adjusting addresses in an object program so it can be loaded and executed at a different memory location
+
+### 4. Loading
+- reading the object program from secondary storage and bringing it to main memory
