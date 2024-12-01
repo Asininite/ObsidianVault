@@ -12,4 +12,4 @@
 - analyze and resolve symbolic references made in the object modules
 
 ### 3. Relocation
-- 
+- adjusting addresses in an object program so it can be loaded and executed at a different memory location
