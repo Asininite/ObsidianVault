@@ -5,5 +5,10 @@
 	  either b = 1 and p = 0 or vice versa
 	  nixbpe 
 - Immediate
+	  i = 1 n = 0 
+	  nixbpe 010000
 - Indirect
+	  i = 0 n = 1
+	  nixbpe 100000
 - Indexed
+	  x = 1
