@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/System Software/Module 3/Control Sections.md",
+                "file": "Obsidian Vault/System Software/Module 3/One Pass assembler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control Sections"
+              "title": "One Pass assembler"
             }
           }
         ]
@@ -165,6 +165,8 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
+    "Obsidian Vault/System Software/Module 3/Control Sections.md",
+    "Obsidian Vault/System Software/Module 3/One Pass assembler.md",
     "Obsidian Vault/Images/Pasted image 20241201052937.png",
     "Obsidian Vault/Images/Pasted image 20241201044532.png",
     "Obsidian Vault/Images/Pasted image 20241201042547.png",
@@ -175,9 +177,7 @@
     "Obsidian Vault/Images/Pasted image 20241201033852.png",
     "Obsidian Vault/Images/Pasted image 20241201033237.png",
     "Obsidian Vault/Images/Pasted image 20241201033040.png",
-    "Obsidian Vault/Images/Pasted image 20241201024405.png",
     "Obsidian Vault/System Software/Module 3/!! PROGRAM BLOCKS.md",
-    "Obsidian Vault/System Software/Module 3/Control Sections.md",
     "Obsidian Vault/System Software/Module 3/! Revision needed.md",
     "Obsidian Vault/System Software/Module 3/Expressions.md",
     "Obsidian Vault/System Software/Module 3/Literals.md",
