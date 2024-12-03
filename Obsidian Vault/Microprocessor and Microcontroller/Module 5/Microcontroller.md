@@ -1,1 +1,1 @@
-- microcomputer with few other application-specific devices on a single chip
+- Microcontroller is a small computer on a single integrated circuit containing processor core, memory and programmable input/output peripherals
