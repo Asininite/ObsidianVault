@@ -1,0 +1,1 @@
+- microcomputer with few other application-specific devices on a single chip
