@@ -1,1 +1,5 @@
 - Microcontroller is a small computer on a single integrated circuit containing processor core, memory and programmable input/output peripherals
+
+
+
+![[Pasted image 20241203182458.png]]
