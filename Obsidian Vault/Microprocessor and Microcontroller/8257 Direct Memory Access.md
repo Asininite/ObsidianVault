@@ -9,8 +9,9 @@
 
 - 4 channels
 	  each 16bit and 14 bit counter
-	  64kb
-	  Master and SLave Mode
+	  each channel can transfer 64kb
+	  each channel can be programmed independently
+	  Master and Slave Mode
 
 ![[Pasted image 20241101113452.png]]
 
