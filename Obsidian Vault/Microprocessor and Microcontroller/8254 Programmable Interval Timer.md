@@ -27,6 +27,7 @@
 	  single 16-bit down counter
 	  I/O configured by selection of modes
 - Control Word Register
+	  ![[Pasted image 20241204162440.png]]
 	  8 bit
 	  D7 and D6 to select counter
 	  D5 and D4 to read counter
