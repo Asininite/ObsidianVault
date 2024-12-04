@@ -1,5 +1,5 @@
 ### T1
-- Mode pin : **MN / MX (pin 33)** tied to **Vcc : +5V (high)** 
+- Mode pin : **MN / MX (pin 33)** set to logic 1 (HIGH)
 - ALE High to set address on AD0 - AD15, pulses ALE to latch this address 
 - 8086 sets M/IO to point to memory (0) or IO(1)
 - BHE to set even or odd memory bank
