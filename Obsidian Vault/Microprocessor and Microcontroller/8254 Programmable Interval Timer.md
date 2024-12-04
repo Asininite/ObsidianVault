@@ -3,8 +3,15 @@
 - each counter TWO INPUTs (CLK GATE)
   one OUTPUT OUT
 - each counter handle clock inputs upto 10MHz
+- how it works?
+	  a 16-bit count is loaded in the register
+	  on command, the count is decremented until it reaches 0
+	  then the 8254 generates a pulse to interrupt the CPU
 
 ![[Pasted image 20241101110622.png]]
+
+![[Pasted image 20241204161005.png]]
+![[Pasted image 20241204161016.png]]
 
 - Data Bus buffer
 	  bi-directional 8 bit buffer
