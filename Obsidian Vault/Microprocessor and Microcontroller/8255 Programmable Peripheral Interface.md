@@ -1,5 +1,8 @@
 ![[Pasted image 20241101105444.png]]
 
+- I/O chip for interfacing I/O devices
+- parallel data transfer between processor and slow peripheral devices like **ADC AND KEYBOARD**
+
 Three Ports
 **PORT A B** : 8 bit parallel
 **C** : lower and upper | 4 bits * 2
