@@ -28,4 +28,9 @@
 	  store offset of destination in data segment
 
 ### 4. Flag Registers
-- 
+- CF : carry flag
+- PF : parity flag
+- AF : auxiliary carry flag
+- ZF : zero flag
+- SF : sign flag
+- TP : trap flag
