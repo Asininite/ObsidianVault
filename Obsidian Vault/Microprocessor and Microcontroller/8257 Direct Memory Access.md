@@ -26,6 +26,9 @@
 - Priority Resolves
 	  resolves priority
 
+### Functional Blocks]
+- Data Bus Buffer : 8 bit tri-stated bidirectional buffer that interfaces the internal 8257 bus with the external system bus
+- Read Write Logic : 
 ### Registers
 - DMA Address reg
 	  store address of starting mem location
