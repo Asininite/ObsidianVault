@@ -31,12 +31,18 @@
 - Read Write Logic : 
 	  slave mode : accepts the I/O read or write signals, decodes A0 - A3 lines and either reads or writes to a register depending on whether IOR or IOW signal is active
 	  master mode : generates IOR or IOW signals
-- 
+- Control and Mode Logic : 
+	  controls sequence of operations
+	  generates control signals like AEN, MEMR, MEMW, TC and MARK
+- Priority Resolver : 
+	  resolves priority of the 4 DMA channels
 ### Registers
 - DMA Address reg
 	  store address of starting mem location
+	  any device wanting to use DMA will use this address
 - Terminal Count reg
 	  16 bit register ascertains that data transfer through DMA stops
+	  when the number of DMA cycles is over, this reg is used to determine that
 - Mode Set register
 	  enable channels individually and set mode
 - Status register
@@ -44,3 +50,10 @@
 	  set status of the flags
 
 
+## Modes
+- Single Mode : 
+	  only one channel used
+	  only a single DMAC connected to bus system
+- Cascade Mode : 
+	  multiple channels used
+	  can cascade more numbers
