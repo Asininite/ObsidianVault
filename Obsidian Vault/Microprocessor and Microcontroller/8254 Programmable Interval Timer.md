@@ -14,8 +14,8 @@
 ![[Pasted image 20241204161016.png]]
 
 - Data Bus buffer
-	  bi-directional 8 bit buffer
-		  program modes
+	  bi-directional 8 bit buffer used to interface 8254 to system bus
+		  program the modes
 		  load count registers
 		  reading count values
 - Read Write Logic
