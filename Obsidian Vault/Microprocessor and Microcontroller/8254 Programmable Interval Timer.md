@@ -1,3 +1,4 @@
+- Intel 8254 for timing and counting functions 
 - 3 independent 16-bit counters
 - each counter TWO INPUTs (CLK GATE)
   one OUTPUT OUT
