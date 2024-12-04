@@ -29,6 +29,9 @@
 ### Functional Blocks]
 - Data Bus Buffer : 8 bit tri-stated bidirectional buffer that interfaces the internal 8257 bus with the external system bus
 - Read Write Logic : 
+	  slave mode : accepts the I/O read or write signals, decodes A0 - A3 lines and either reads or writes to a register depending on whether IOR or IOW signal is active
+	  master mode : generates IOR or IOW signals
+- 
 ### Registers
 - DMA Address reg
 	  store address of starting mem location
