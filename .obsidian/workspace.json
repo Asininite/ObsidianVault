@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Microprocessor and Microcontroller/8257 Direct Memory Access.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/Module 5/Microcontroller vs Microprocessor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8257 Direct Memory Access"
+              "title": "Microcontroller vs Microprocessor"
             }
           }
         ]
@@ -165,7 +165,10 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
+    "Pasted image 20241204193342.png",
+    "Obsidian Vault/Microprocessor and Microcontroller/Minimum mode of 8086.md",
     "Obsidian Vault/Microprocessor and Microcontroller/8254 Programmable Interval Timer.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/8257 Direct Memory Access.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 5/8051.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 5/Microcontroller vs Microprocessor.md",
     "Pasted image 20241204162440.png",
@@ -198,8 +201,6 @@
     "Obsidian Vault/System Software/Module 3/Expressions.md",
     "Obsidian Vault/System Software/Module 3/Control Sections.md",
     "Obsidian Vault/System Software/Module 3/@@@ REVISE THESE PLS @@@.md",
-    "Obsidian Vault/System Software/Module 3/!! PROGRAM BLOCKS.md",
-    "Obsidian Vault/System Software/Module 3/!! One Pass assembler.md",
     "Pasted image 20241202052124.png",
     "Pasted image 20241202052050.png",
     "Obsidian Vault/System Software/PYQ/Module 1",
