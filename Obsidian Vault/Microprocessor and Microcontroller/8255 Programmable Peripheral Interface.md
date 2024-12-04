@@ -30,11 +30,13 @@ Three Ports
 - Mode 0 : simple I/O
 	  port A and B 8 bit ports
 	  port C 4 bit port
+	  ports do not have interrupt capability
 	  used to **interface LEDS, segment displays, hexa keypad**
 - Mode 1 : Handshake I/O or Strobed I/O
 	  port A and B 8 bit I/O ports
-	  three lines taken from port C as HANDSHAKE signals
+	  for each port, three lines taken from port C as HANDSHAKE signals
 	  I/Os are latched
+	  handshaking signals used to transfer data between ports when data transfer rates not equal
 - Mode 2 : Bidirectional I/O or Strobed Bidirection I/O
 	  port A as bidirectional port
 	  port B either in mode 0 or 1
