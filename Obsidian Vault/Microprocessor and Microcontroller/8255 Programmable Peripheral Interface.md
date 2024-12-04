@@ -30,6 +30,7 @@ Three Ports
 - Mode 0 : simple I/O
 	  port A and B 8 bit ports
 	  port C 4 bit port
+	  used to **interface LEDS, segment displays, hexa keypad**
 - Mode 1 : Handshake I/O or Strobed I/O
 	  port A and B 8 bit I/O ports
 	  three lines taken from port C as HANDSHAKE signals
