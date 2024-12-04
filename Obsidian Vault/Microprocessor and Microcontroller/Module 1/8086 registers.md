@@ -14,6 +14,8 @@
 - SS : Stack Segment
 	  addressing stack memory
 - ![[Pasted image 20241204220547.png]]
+- ![[Pasted image 20241204223404.png]]
+- 
 
 ### 3. Pointers and Index Registers
 - IP : Instruction Pointer 
@@ -37,4 +39,5 @@
 - TP : trap flag
 
 #### Machine Control Flags
-- 
+
+
