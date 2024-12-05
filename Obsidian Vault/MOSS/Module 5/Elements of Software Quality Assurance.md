@@ -1,0 +1,2 @@
+- Standards : job of SQA is to ensure IEEE, ISO standards are followed
+- Reviews and Audits : 
