@@ -8,3 +8,7 @@
 	  shrink-wrapped packages : microsoft office
 	  tailored shell : custom tailored to needs of purchaser
 	  contracted software : custom designed and constructed from specifications given by customer organization
+- security management : ensures appropriate process and tech is used
+- safety : hidden defects can be catastrophic
+	  SQA analyzes the risks 
+- risk management : 
