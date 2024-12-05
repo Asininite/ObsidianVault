@@ -1,0 +1,2 @@
+- 4 I/o ports each of 8 bit
+- 1 for input, 0 for output
