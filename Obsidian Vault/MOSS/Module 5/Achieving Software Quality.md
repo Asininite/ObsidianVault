@@ -11,4 +11,4 @@
 - measurement and feedback
 
 ## Quality Assurance
-- 
+- assess effectiveness and completeness of quality control actions
