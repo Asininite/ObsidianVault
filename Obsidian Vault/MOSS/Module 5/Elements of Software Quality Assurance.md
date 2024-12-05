@@ -1,2 +1,4 @@
 - Standards : job of SQA is to ensure IEEE, ISO standards are followed
-- Reviews and Audits : 
+- Reviews and Audits : quality control activity to uncover errors 
+- Testing : find errors
+- Error defect collection and analysis ; 
