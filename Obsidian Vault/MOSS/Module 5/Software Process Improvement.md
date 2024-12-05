@@ -18,6 +18,10 @@ The SPI strategy transforms the existing approach to software development into s
 	  first point where the organization feels the effects of implemented changes
 	  
 - 5. Evaluation
-
+	  assesses the degree to which the changes have been instantiated and adopted
+	  the degree to which such changes result in better software quality
+	  overall status of the processes
 - 6. Risk Management
+	  should manage risk at three points
+		  prior to instantiation of SPI road map
 
