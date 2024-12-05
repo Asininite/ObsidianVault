@@ -11,4 +11,6 @@ The SPI strategy transforms the existing approach to software development into s
 	  communication and quality-oriented topics
 - 3. Selection and Justification
 	  after initial assessment, software org begins to make decisions
-	  
+	  decide which frameworks will be used
+	  which work products get made
+	  decide on the quality assurance checkpoints
