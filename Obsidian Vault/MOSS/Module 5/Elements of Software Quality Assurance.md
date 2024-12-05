@@ -5,3 +5,6 @@
 - Change management : if change not properly managed, can lead to confusion and poor quality
 - Education : education of software engineers, managers, stakeholders
 - Vendor management : 
+	  shrink-wrapped packages : microsoft office
+	  tailored shell : custom tailored to needs of purchaser
+	  contracted software : custom designed and constructed from specifications given by customer organization
