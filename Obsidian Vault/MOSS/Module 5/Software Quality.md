@@ -6,4 +6,6 @@
 - value-based view : quality is how much customer is willing to pay
 
 ### Quality of Design
+- characteristics designers specify for a product
+- grade of materials, tolerances, performance specifications all contribute
 - 
