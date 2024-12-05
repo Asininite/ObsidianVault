@@ -12,3 +12,9 @@
 - safety : hidden defects can be catastrophic
 	  SQA analyzes the risks 
 - risk management : 
+
+### Goals
+- Requirements quality
+- Design quality
+- code quality
+- quality control effectiveness
