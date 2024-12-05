@@ -3,4 +3,4 @@
 - user view : quality defined as ability to meet the users goals
 - manufacturers view : quality is confirming to original specification of the product
 - product view : quality is tied to features and functions of a product
-- value-based view : 
+- value-based view : quality is how much customer is willing to pay
