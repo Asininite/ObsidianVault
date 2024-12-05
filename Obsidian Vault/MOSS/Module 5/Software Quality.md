@@ -4,3 +4,6 @@
 - manufacturers view : quality is confirming to original specification of the product
 - product view : quality is tied to features and functions of a product
 - value-based view : quality is how much customer is willing to pay
+
+### Quality of Design
+- 
