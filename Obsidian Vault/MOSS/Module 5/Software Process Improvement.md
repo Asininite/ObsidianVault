@@ -14,3 +14,10 @@ The SPI strategy transforms the existing approach to software development into s
 	  decide which frameworks will be used
 	  which work products get made
 	  decide on the quality assurance checkpoints
+- 4. Installation and Migration
+	  first point where the organization feels the effects of implemented changes
+	  
+- 5. Evaluation
+
+- 6. Risk Management
+
