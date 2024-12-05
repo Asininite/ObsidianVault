@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Microprocessor and Microcontroller/Module 4/8255 Programmable Peripheral Interface.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/Module 4/8257 Direct Memory Access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8255 Programmable Peripheral Interface"
+              "title": "8257 Direct Memory Access"
             }
           }
         ]
@@ -150,6 +150,13 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
+    "Pasted image 20241205050030.png",
+    "Obsidian Vault/Microprocessor and Microcontroller/Module 5/IO ports of 8051.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Module 1/8086 vs 8088.md",
+    "/Pasted image 20241205050030.png",
+    "/Obsidian Vault/Microprocessor and Microcontroller/Module 5/IO ports of 8051.md",
+    "/Obsidian Vault/Microprocessor and Microcontroller/Module 1/8086 vs 8088.md",
+    "Obsidian Vault/Microprocessor and Microcontroller/Module 4/8255 Programmable Peripheral Interface.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/8259 Programmable Interrupt Control.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 4/8254 Programmable Interval Timer.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 1/8086.md",
@@ -157,7 +164,6 @@
     "Obsidian Vault/Microprocessor and Microcontroller/Module 1/Interrupts of 8086.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupt Service Routine.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3/Maskable vs Non-Maskable.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 4/8255 Programmable Peripheral Interface.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 2/Addressing Modes.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 1/Signals for 8086.md",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 1/8085.md",
@@ -179,13 +185,7 @@
     "/Obsidian Vault/Microprocessor and Microcontroller/Module 3/Maskable vs Non-Maskable.md",
     "/Obsidian Vault/Microprocessor and Microcontroller/Module 3/Interrupt Service Routine.md",
     "/Obsidian Vault/Microprocessor and Microcontroller/Module 1/Interrupts of 8086.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 1/8086 signals.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 1/8086 registers.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 1/8085 vs 8086.md",
-    "/Obsidian Vault/Microprocessor and Microcontroller/Module 2/Addressing Modes.md",
-    "/Obsidian Vault/Microprocessor and Microcontroller/Module 1/Signals for 8086.md",
     "/Pasted image 20241205001843.png",
-    "/Pasted image 20241205001700.png",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 4",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 3",
     "Obsidian Vault/Microprocessor and Microcontroller/Module 2",
