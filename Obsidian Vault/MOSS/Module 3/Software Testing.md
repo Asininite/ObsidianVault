@@ -24,5 +24,6 @@
 		  re-executing some subset of tests so as to check that no new errors have poppep up
 - Validation Testing
 	  testing the assembled program to see if it fits with the requirements
+	  testing focuses on user-visible actions and user-recognizable outputs
 - System Testing
 - Debugging
