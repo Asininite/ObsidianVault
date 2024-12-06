@@ -9,3 +9,8 @@
 		  ![[Pasted image 20241206174425.png]]
 
 
+- Difficulties
+	  relies on customer involvement and availability
+	  
+	  some customers are more familiar with traditional plans
+	  
