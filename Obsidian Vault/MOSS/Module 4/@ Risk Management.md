@@ -21,6 +21,11 @@
 	  classify effects as catastrophic, serious, tolerable or insignificant
 - Risk Planning
 	  develop strategies to manage key risks
-	  
+	  think of actions to take to minimize the effects of these risks
+	  ask 'what-if' questions about individual risks, combinations, etc
+		  make answers on the basis of 
+			  avoidance strategies
+			  minimization strategies
+			  contingency plans
 
 ![[Pasted image 20241206160716.png]]
