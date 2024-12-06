@@ -12,9 +12,10 @@
 ### Risk Management Process
 - Risk Identification
 	  identify project, product and business risks
-	  maybe 
+	  maybe a team process, project managers can identify risks based on their previous experiences
+	  use a risk checklist and check estimation, people, organizational, requirements, technology, tools risks
 - Risk Analysis
-	  assess likelihood and consequences of these risks
+	  consider each risk and make a judgement about their seriousness and probability 
 	  assess how much these risks will affect the organization, and its effects
 - 
 
