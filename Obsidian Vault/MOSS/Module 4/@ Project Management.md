@@ -19,4 +19,13 @@
 	  formal processes have management monitoring 
 
 ### Project Management Activities
-- 
+- Project Planning
+	  project managers plan the work to the required standards
+- Risk Management
+	  assess risks
+- People Management
+	  manage the team of people
+- Reporting
+	  project managers report on the progress to customers
+- proposal writing
+	  managers write a proposal to win a contract
