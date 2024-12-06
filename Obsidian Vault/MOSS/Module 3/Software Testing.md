@@ -25,5 +25,15 @@
 - Validation Testing
 	  testing the assembled program to see if it fits with the requirements
 	  testing focuses on user-visible actions and user-recognizable outputs
+	  alpha test conducted at the developer side
+	  beta test conducted at multiple end user sites
 - System Testing
+	  recovery testing
+		  forces the software to fail and checks if recovery is possible
+	  security testing
+		  check the protection mechanisms
+	  stress testing
+		  executes the system such that it demands extra resources  
+	 performance testing
 - Debugging
+	  process of removing the errors if any
