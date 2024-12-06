@@ -20,6 +20,7 @@
 	  classify risks as insignificant, low, moderate, high
 	  classify effects as catastrophic, serious, tolerable or insignificant
 - Risk Planning
+	  develop strategies to manage key risks
 	  
 
 ![[Pasted image 20241206160716.png]]
