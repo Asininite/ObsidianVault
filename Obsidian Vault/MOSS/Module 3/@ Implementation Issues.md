@@ -16,3 +16,7 @@
 	  OR 
 	  by using the systems own configurator
 	  think anti-cheat software, and how we use it as a whole
+
+### Configuration Management
+- Version Management
+	  
