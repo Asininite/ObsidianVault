@@ -1,0 +1,5 @@
+- Data Centered
+- Data Flow
+- Call and Return
+- Object Oriented
+- Layered
