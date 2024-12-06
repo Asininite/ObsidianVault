@@ -19,3 +19,6 @@ SINGLE TEAM DOING DEVELOPMENT + DEPLOYMENT + SUPPORT
 	  since teams work together, its easier to find the issue and solve it 
 - More Productive Teams
 	  teams are happier
+
+### DEVOPS AUTOMATION
+- 
