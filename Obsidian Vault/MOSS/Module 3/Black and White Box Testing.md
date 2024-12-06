@@ -1,1 +1,2 @@
-- 
+-  *White box testing* (glass-box or structural testing) uses knowledge of the internal structure and implementation details of the software to design test cases. This approach focuses on testing the internal logic, control flow, and data structures of the software.  
+*   *Black box testing* (behavioral or functional testing) focuses solely on the functional requirements of the software without considering its internal workings. It involves testing the software's inputs and outputs to ensure it behaves as expected from a user's perspective.  
