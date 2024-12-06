@@ -12,3 +12,8 @@ Four activities
 - Release Management
 	  prepare software for external release
 ### Version Management
+- keep track of different versions of software components
+- ensure changes in different versions do not interfere
+- ![[Pasted image 20241206180600.png]]
+  ![[Pasted image 20241206180622.png]]
+  
