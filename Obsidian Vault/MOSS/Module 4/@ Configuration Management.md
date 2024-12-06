@@ -11,3 +11,4 @@ Four activities
 	  work out the costs of implementing these changes
 - Release Management
 	  prepare software for external release
+### Version Management
