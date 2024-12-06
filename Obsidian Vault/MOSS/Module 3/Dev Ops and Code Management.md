@@ -24,6 +24,7 @@ SINGLE TEAM DOING DEVELOPMENT + DEPLOYMENT + SUPPORT
 - continuous integration 
 	  everytime a developer makes a change to the project master branch, a version of the system is created and tested
 	  I git commit, then a new version is executed and tested
+	  devs make sure they dont break the build by pushing bad code
 - continuous delivery
 	  simulation of the products operating environment is created and the software is tested
 	  a VM for windows is made and my thingie is tested there
