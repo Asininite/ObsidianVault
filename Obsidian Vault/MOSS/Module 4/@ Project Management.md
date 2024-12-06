@@ -18,3 +18,5 @@
 	  agile processes have lightweight management
 	  formal processes have management monitoring 
 
+### Project Management Activities
+- 

@@ -27,5 +27,9 @@
 			  avoidance strategies
 			  minimization strategies
 			  contingency plans
+- Risk Monitoring 
+	  regularly assess the risks
+	  check whether the effects might be bad or not 
+	  think whether the risk is less or more likely to arise
 
 ![[Pasted image 20241206160716.png]]
