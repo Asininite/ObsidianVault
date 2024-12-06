@@ -3,3 +3,9 @@
 - Iteration Planning
 	  focuses on planning the next increment of the system 2-4 weeks
 
+- Two approaches
+	  SCRUM
+	  	  Planning Game
+		  ![[Pasted image 20241206174425.png]]
+
+
