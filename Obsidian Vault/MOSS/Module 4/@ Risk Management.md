@@ -17,6 +17,9 @@
 - Risk Analysis
 	  consider each risk and make a judgement about their seriousness and probability 
 	  assess how much these risks will affect the organization, and its effects
-- 
+	  classify risks as insignificant, low, moderate, high
+	  classify effects as catastrophic, serious, tolerable or insignificant
+- Risk Planning
+	  
 
 ![[Pasted image 20241206160716.png]]
