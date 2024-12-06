@@ -9,3 +9,13 @@
 	  These are risks that affect our business and profit margins
 	  suppose a rival company releases a better product, this can ruin our sales, set the bar higher and force us to make better products from now on 
 
+### Risk Management Process
+- Risk Identification
+	  identify project, product and business risks
+	  maybe 
+- Risk Analysis
+	  assess likelihood and consequences of these risks
+	  assess how much these risks will affect the organization, and its effects
+- 
+
+![[Pasted image 20241206160716.png]]
