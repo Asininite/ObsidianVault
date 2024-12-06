@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/MOSS/Module 2/Design Concepts.md",
+                "file": "Obsidian Vault/MOSS/Module 2/Functional and non functional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Concepts"
+              "title": "Functional and non functional"
             }
           }
         ]
@@ -150,8 +150,10 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
-    "Obsidian Vault/MOSS/Module 2/Functional and non functional.md",
+    "Obsidian Vault/MOSS/Module 2/Architectural Styles.md",
+    "/Obsidian Vault/MOSS/Module 2/Architectural Styles.md",
     "Obsidian Vault/MOSS/Module 2/Design Concepts.md",
+    "Obsidian Vault/MOSS/Module 2/Functional and non functional.md",
     "Obsidian Vault/MOSS/Module 5/Garvins Quality Dimensions PFRCDSAP.md",
     "Obsidian Vault/MOSS/Module 5/ISO 9126 Quality Factors FRUEMP.md",
     "Obsidian Vault/MOSS/Module 3/@ Implementation Issues.md",
@@ -184,8 +186,6 @@
     "/Obsidian Vault/MOSS/Module 3/Software Maintenance.md",
     "/Obsidian Vault/MOSS/Module 3/Open Source.md",
     "/Obsidian Vault/MOSS/Module 3/FTR Formal Technical Review.md",
-    "/Obsidian Vault/MOSS/Module 3/Dev Ops and Code Management.md",
-    "/Obsidian Vault/MOSS/Module 3/Black and White Box Testing.md",
     "Obsidian Vault/MOSS/Module 2",
     "/Obsidian Vault/MOSS/Module 2",
     "Obsidian Vault/MOSS/Module 5",
