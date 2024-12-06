@@ -1,3 +1,5 @@
+![[Pasted image 20241207010251.png]]
+
 - comprehenseive process meta-model that is predicated on a set of system and software engineering capabilities 
 - continous model and staged model
 	  continuous defines a process in two dimensions 
