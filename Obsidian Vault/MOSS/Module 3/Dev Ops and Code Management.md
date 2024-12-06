@@ -21,4 +21,15 @@ SINGLE TEAM DOING DEVELOPMENT + DEPLOYMENT + SUPPORT
 	  teams are happier
 
 ### DEVOPS AUTOMATION
+- continuous integration 
+	  everytime a developer makes a change to the project master branch, a version of the system is created and tested
+	  I git commit, then a new version is executed and tested
+- continuous delivery
+	  simulation of the products operating environment is created and the software is tested
+	  a VM for windows is made and my thingie is tested there
+- continuous deployment
+	  everytime a change made, a new version is made available
+	  I git commit, new version is available
 - 
+
+![[Pasted image 20241207022924.png]]
