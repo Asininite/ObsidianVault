@@ -30,4 +30,10 @@
 		interpretation and analysis
 			make sense of collected data and use it to answer questions about study area
 		presentation and communication
-			
+			presenting the findings in an understandable way and manner
+
+	Preparation
+		scouting
+			investigation of study area
+		design instruments
+			develop tools and methods for collecting data from the community
