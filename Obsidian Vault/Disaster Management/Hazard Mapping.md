@@ -21,4 +21,7 @@
 ### Approaches to Hazard Mapping
 - Geographic Information System (GIS)
 	  ![[Pasted image 20241212011808.png]]
+
+- Participatory Mapping
+	  draws on local people's knowledge and allows them to create visual/non-visual data to explore problems
 	  
