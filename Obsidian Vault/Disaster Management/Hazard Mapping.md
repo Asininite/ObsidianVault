@@ -17,3 +17,8 @@
 	  ground surveying systems
 	  GPS 
 	  Laser scanners
+
+### Approaches to Hazard Mapping
+- Geographic Information System (GIS)
+	  ![[Pasted image 20241212011808.png]]
+	  
