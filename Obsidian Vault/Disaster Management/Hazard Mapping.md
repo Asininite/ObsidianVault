@@ -25,3 +25,9 @@
 - Participatory Mapping
 	  draws on local people's knowledge and allows them to create visual/non-visual data to explore problems
 	  
+	  data collection
+		  gather info about study area like resources, hazards
+		interpretation and analysis
+			make sense of collected data and use it to answer questions about study area
+		presentation and communication
+			
