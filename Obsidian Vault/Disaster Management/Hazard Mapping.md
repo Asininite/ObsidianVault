@@ -2,4 +2,12 @@
 
 - Natural Hazards
 - Human-induced hazards
+	  human activities aggravating damaging events
+	  oil spills, atmospheric pollution
+- technological hazards
+	  industrial or technological activities
+	  nuclear activities, radioactivity 
+
+### Data requirements of hazard mapping
+- Base maps
 	  
