@@ -12,4 +12,4 @@
 - Base maps
 	  represents topographic layers of data like elevation, road, water bodies, cultural features, utilities
 - remotely sensed images
-	  
+	  satellite images
