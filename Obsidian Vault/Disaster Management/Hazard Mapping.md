@@ -12,4 +12,8 @@
 - Base maps
 	  represents topographic layers of data like elevation, road, water bodies, cultural features, utilities
 - remotely sensed images
-	  satellite images
+	  satellite images depending on sensor and resolution
+- Field data
+	  ground surveying systems
+	  GPS 
+	  Laser scanners
