@@ -37,3 +37,9 @@
 			investigation of study area
 		design instruments
 			develop tools and methods for collecting data from the community
+			
+	2. **Implementation:** This typically involves a series of sessions with the community:
+	    - **Participant Preparation:** Introducing the participants to the mapping process and explaining the objectives.
+	    - **Field Trip/Mapping Exercise:** The core activity where participants create maps, often using simple materials like paper, markers, and local knowledge.
+	    - **Presentations:** Participants share their maps and discuss the information they have represented.
+	    - **Debriefing:** Reflecting on the mapping experience and identifying key findings and next steps.
