@@ -1,0 +1,2 @@
+- an object in C++ used to store collections of other objects
+- 
