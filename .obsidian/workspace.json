@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
+                "file": "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Search in Rotated Sorted Array"
+              "title": "Container With Most Water"
             }
           }
         ]
@@ -165,6 +165,8 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
+    "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
+    "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md",
     "Obsidian Vault/DSA/Binary Search/What is Binary Search.md",
     "Obsidian Vault/DSA/Arrays/Medium/2. Sort an array of 0s 1s and 2s without sort.md",
     "Obsidian Vault/DSA/Binary Search/Find Minimum in Rotated Search Array.md",
@@ -172,7 +174,6 @@
     "Obsidian Vault/DSA/Arrays/Easy/2. Second Largest and Second Smallest in Array.md",
     "Obsidian Vault/DSA/Arrays/Medium",
     "Obsidian Vault/DSA/Arrays/Easy",
-    "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
     "Obsidian Vault/DSA/Dynamic Programming/n-th number Fibonacci Sequence.md",
     "Obsidian Vault/DSA/Dynamic Programming/Basic Notes.md",
     "Obsidian Vault/DSA/Stack/Valid Parantheses.md",
@@ -192,7 +193,6 @@
     "Obsidian Vault/C++/STL/Containers/1. Pair.md",
     "Obsidian Vault/C++/STL/Containers/3. List.md",
     "Obsidian Vault/C++/STL/Containers/4. Dequeue.md",
-    "Obsidian Vault/C++/STL/Containers/5. Stack.md",
     "Pasted image 20241224182555.png",
     "Obsidian Vault/C++/STL/Containers",
     "Obsidian Vault/C++/STL",
