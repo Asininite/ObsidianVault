@@ -23,6 +23,6 @@ public:
 ```
 - this is inefficient and for larger areas can result in a TLE error. What this does is go through every combination of area of the rectangle
 
-- we can optimize solution by using two pointers, left and rigth
+- we can optimize solution by using two pointers, left and right
 - left is initialized to first index, right to last
 - 
