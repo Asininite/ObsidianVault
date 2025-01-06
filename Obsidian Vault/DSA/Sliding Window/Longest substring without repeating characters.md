@@ -39,7 +39,7 @@ public:
         for (int i = 0; i < s.size(); i++) {
             char c = s[i];
             
-            if (mapp.count(c) && map[c] >= start) {
+            if (map.count(c) && map[c] >= start) {
                 start = map[c] + 1;
             }
             
