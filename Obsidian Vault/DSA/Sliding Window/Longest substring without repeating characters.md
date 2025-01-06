@@ -1,3 +1,4 @@
+O(2n) solution [ since we traverse the string twice using the two pointers in the worst case scenario]
 ```cpp
 class Solution {
 public:
@@ -22,6 +23,30 @@ public:
             maxans = max(maxans, r - l + 1);
         }
         return maxans;
+    }
+};
+```
+
+
+O(n) solution
+```cpp
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        unordered_map<char, int> map; // Use the declared map variable 'mapp'
+        int start = 0, len = 0;
+  
+        for (int i = 0; i < s.size(); i++) {
+            char c = s[i];
+            
+            if (mapp.count(c) && map[c] >= start) {
+                start = map[c] + 1;
+            }
+            
+            len = max(len, i - start + 1);
+            map[c] = i; // Update the map with the latest index of the character
+        }
+        return len;
     }
 };
 ```
