@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "270d2b34357abbe6",
+        "id": "b6978677af933f4c",
         "type": "tabs",
         "children": [
           {
-            "id": "db1eb5d48c98c039",
+            "id": "2780e8dc83542a6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -159,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db1eb5d48c98c039",
+  "active": "2780e8dc83542a6a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
     "Obsidian Vault/DSA/Linked List/! Revise This.md",
     "Obsidian Vault/DSA/Linked List/Reverse Linked List.md",
@@ -193,7 +198,6 @@
     "Obsidian Vault/DSA/Arrays/Merge Strings Alternatively.md",
     "Obsidian Vault/DSA/Arrays/Max and Min Of An Array Using Minimum Comparisons.md",
     "Obsidian Vault/DSA/Arrays/Contains Duplicate.md",
-    "Obsidian Vault/DSA/Arrays/Easy/3. Two Sum.md",
     "Pasted image 20241224182555.png",
     "Obsidian Vault/C++/STL/Containers",
     "Obsidian Vault/C++/STL",
