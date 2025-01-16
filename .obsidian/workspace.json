@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6978677af933f4c",
+        "id": "14beab577ee37dae",
         "type": "tabs",
         "children": [
           {
-            "id": "2780e8dc83542a6a",
+            "id": "e12204a169f6485e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
         ]
@@ -163,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2780e8dc83542a6a",
+  "active": "e12204a169f6485e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
