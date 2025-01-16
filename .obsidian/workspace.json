@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8aca90f973c07cc3",
+        "id": "14beab577ee37dae",
         "type": "tabs",
         "children": [
           {
-            "id": "d2691cc76396566e",
+            "id": "e12204a169f6485e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DSA/Linked List/! Revise This.md",
+                "file": "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! Revise This"
+              "title": "Container With Most Water"
             }
           }
         ]
@@ -163,12 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2691cc76396566e",
+  "active": "e12204a169f6485e",
   "lastOpenFiles": [
     "Obsidian Vault/DSA/Arrays/Easy/Group Anagrams.md",
     "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
-    "Obsidian Vault/DSA/Linked List/Reverse Linked List.md",
+    "conflict-files-obsidian-git.md",
     "Obsidian Vault/DSA/Linked List/! Revise This.md",
+    "Obsidian Vault/DSA/Linked List/Reverse Linked List.md",
     "Obsidian Vault/DSA/Sliding Window/Longest substring without repeating characters.md",
     "Obsidian Vault/DSA/Linked List",
     "Obsidian Vault/Images/Pasted image 20250102232522.png",
@@ -197,7 +198,6 @@
     "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
     "Obsidian Vault/DSA/Arrays/Merge Strings Alternatively.md",
     "Obsidian Vault/DSA/Arrays/Max and Min Of An Array Using Minimum Comparisons.md",
-    "Obsidian Vault/DSA/Arrays/Contains Duplicate.md",
     "Pasted image 20241224182555.png",
     "Obsidian Vault/C++/STL/Containers",
     "Obsidian Vault/C++/STL",

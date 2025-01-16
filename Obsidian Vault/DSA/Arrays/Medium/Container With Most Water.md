@@ -41,7 +41,7 @@ public:
 
         while (left < right) {
             int width = right - left;
-            maxArea = max(maxArea, min(height[left], height[right]) * width);
+            maxArea = max(maxArea, min(height[left], height[right]) * (width));
             if (height[left] <= height[right]) {
                 left++;
             } else {
