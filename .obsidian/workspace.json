@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DSA/Arrays/Hard/Trapping Rain Water.md",
+                "file": "Obsidian Vault/DSA/Arrays/Medium/Valid Sudoku.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trapping Rain Water"
+              "title": "Valid Sudoku"
             }
           }
         ]
@@ -165,8 +165,10 @@
   },
   "active": "e12204a169f6485e",
   "lastOpenFiles": [
+    "Obsidian Vault/DSA/Two Pointers/Hard/Trapping Rain Water.md",
+    "Obsidian Vault/DSA/Arrays/Medium/Valid Sudoku.md",
+    "Obsidian Vault/DSA/Two Pointers/Hard",
     "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md",
-    "Obsidian Vault/DSA/Arrays/Hard/Trapping Rain Water.md",
     "Obsidian Vault/DSA/Arrays/Hard",
     "Obsidian Vault/DSA/Arrays/Easy/Group Anagrams.md",
     "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
@@ -198,7 +200,6 @@
     "Obsidian Vault/DSA/Arrays/Easy/1. Largest Element in Array.md",
     "Obsidian Vault/DSA/Arrays/Easy/4. Check if array is sorted or not.md",
     "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
-    "Obsidian Vault/DSA/Arrays/Merge Strings Alternatively.md",
     "Pasted image 20241224182555.png",
     "Obsidian Vault/C++/STL/Containers",
     "Obsidian Vault/C++/STL",
@@ -209,7 +210,6 @@
     "Obsidian Vault/Images/Pasted image 20241212011808.png",
     "Obsidian Vault/Disaster Management",
     "Pasted image 20241207051912.png",
-    "Obsidian Vault/MOSS/Module 2/Untitled",
     "Obsidian Vault/Images/Pasted image 20241207041227.png"
   ]
 }
