@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Merge Two Sorted Linked Lists"
             }
+          },
+          {
+            "id": "9b0b541933e02e01",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -163,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2691cc76396566e",
+  "active": "9b0b541933e02e01",
   "lastOpenFiles": [
     "Obsidian Vault/DSA/Linked List/Reverse Linked List.md",
     "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
