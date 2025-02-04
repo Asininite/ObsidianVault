@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
+                "file": "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Check if Anagram"
+              "title": "Search in Rotated Sorted Array"
             }
           }
         ]
@@ -150,6 +150,9 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
+    "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
+    "/Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
+    "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
     "Obsidian Vault/DSA/Two Pointers/Hard/Trapping Rain Water.md",
     "Obsidian Vault/DSA/Arrays/Medium/Valid Sudoku.md",
     "Obsidian Vault/DSA/Arrays/Easy/Group Anagrams.md",
@@ -161,7 +164,6 @@
     "Obsidian Vault/DSA/Two Pointers/Hard",
     "/Obsidian Vault/DSA/Two Pointers/Hard",
     "Obsidian Vault/DSA/Sliding Window/Longest substring without repeating characters.md",
-    "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
     "Obsidian Vault/DSA/Linked List/! Revise This.md",
     "Obsidian Vault/DSA/Linked List/Reverse Linked List.md",
     "/Obsidian Vault/DSA/Linked List/! Revise This.md",
@@ -188,8 +190,6 @@
     "Obsidian Vault/Disaster Management/Hazard Mapping.md",
     "Obsidian Vault/Disaster Management/Disaster Risk Reduction DRR.md",
     "/Obsidian Vault/Python/F-Strings.md",
-    "/Obsidian Vault/Disaster Management/Vulnerability Assessment.md",
-    "/Obsidian Vault/Disaster Management/Risk Management.md",
     "Obsidian Vault/Python",
     "Obsidian Vault/Disaster Management",
     "/Obsidian Vault/Python",
