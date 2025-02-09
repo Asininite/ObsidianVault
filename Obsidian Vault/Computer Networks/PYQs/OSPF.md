@@ -21,3 +21,4 @@ Open Shortest Path First protocol
 
 ![[Pasted image 20241128005051.png]]
 
+3rd
