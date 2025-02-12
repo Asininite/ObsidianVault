@@ -1,0 +1,1 @@
+- finite sequence of instructions 
