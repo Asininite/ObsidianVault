@@ -4,4 +4,6 @@
 - ![[Pasted image 20250213014856.png]]
 
 ### Big Omega
-- 
+- f(n) = Ω (g(n)) if and only if there exist constants c and n0 such that
+	| f(n) | >= c. | g(n) | for all n > n0
+	
