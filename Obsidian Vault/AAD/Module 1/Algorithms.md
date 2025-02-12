@@ -3,4 +3,7 @@
 ### characteristics
 - take zero or more inputs
 	can be data values, parameters or states
-- provides atleast one output
+- provides atleast one output that represents solution or result
+- must terminate after finite steps
+- each step should be unambiguously defined
+- effectiveness : each operation 
