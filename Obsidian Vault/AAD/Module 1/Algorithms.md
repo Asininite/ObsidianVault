@@ -6,4 +6,6 @@
 - provides atleast one output that represents solution or result
 - must terminate after finite steps
 - each step should be unambiguously defined
-- effectiveness : each operation 
+- effectiveness : each operation should be basic enough to be carried out with a finite amount of resources in a reasonable time
+	computational time and memory should be less
+- 
