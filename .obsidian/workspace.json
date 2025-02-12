@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Merge Two Sorted Linked Lists"
             }
-          },
-          {
-            "id": "9b0b541933e02e01",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b0b541933e02e01",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
+    "Obsidian Vault/Hshshhs.md",
     "Obsidian Vault/DSA/Linked List/Reverse Linked List.md",
     "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
     "Obsidian Vault/DSA/Linked List/! Revise This.md",
@@ -212,7 +200,6 @@
     "Obsidian Vault/DSA/Arrays/Easy/5. Remove Duplicates From Sorted Array.md",
     "Obsidian Vault/DSA/Arrays/Easy/1. Largest Element in Array.md",
     "Obsidian Vault/DSA/Arrays/Easy/4. Check if array is sorted or not.md",
-    "Obsidian Vault/DSA/Arrays/Reverse An Array.md",
     "Pasted image 20241224182555.png",
     "Obsidian Vault/C++/STL/Containers",
     "Obsidian Vault/C++/STL",
