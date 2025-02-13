@@ -12,4 +12,7 @@ def series(x, n):
 
 x = float(input("enter the value of x"))
 n = int(input("enter the value of n"))
+
+value = series(x, n)
+print(f"the value of sin({x}) using {n} terms is : {value}")
 ```
