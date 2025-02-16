@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
+                "file": "Obsidian Vault/Compiler Design/Module 1/3. Bootstrapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Phases of Compiler"
+              "title": "3. Bootstrapping"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "d2691cc76396566e",
   "lastOpenFiles": [
+    "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
     "Pasted image 20250217003125.png",
     "Pasted image 20250217003050.png",
     "Pasted image 20250217002705.png",
@@ -173,7 +174,6 @@
     "Pasted image 20250216235250.png",
     "Pasted image 20250216234920.png",
     "Obsidian Vault/Compiler Design/Module 1/3. Bootstrapping.md",
-    "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
     "Pasted image 20250216194841.png",
     "Obsidian Vault/Compiler Design/Module 1/1. Compiler Architecture.md",
     "Pasted image 20250216184628.png",
@@ -203,7 +203,6 @@
     "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
     "Obsidian Vault/DSA/Sliding Window/Longest substring without repeating characters.md",
     "Obsidian Vault/DSA/Linked List",
-    "Obsidian Vault/Images/Pasted image 20250102232522.png",
     "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md",
     "Obsidian Vault/DSA/Sliding Window",
     "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
