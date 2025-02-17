@@ -13,3 +13,8 @@ The tokens are:
 	sequence of characters that matches a pattern for a token
 	the actual text that forms a token
 	raw input that lexical analyzer processes
+	The lexemes are:
+- `int` 
+- `a` 
+- `=` 
+- `10` 
