@@ -1,0 +1,4 @@
+- nodes arranged in a tree-like structure, with atmost two children nodes : left child and right child
+- root node : topmost node
+- children nodes : nodes connected directly to root node
+- leaf nodes : nodes with no children
