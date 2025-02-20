@@ -1,3 +1,8 @@
+```
+The law states that when more and more quantities of one variable factor is employed with fixed quantities of other factors, initially MP increases then it decreases and finally becomes negative
+```
+![[Pasted image 20250221040822.png]]
+
 The **Law of Variable Proportions** (also called the **Law of Diminishing Returns**) explains how output changes when one variable input is increased while keeping other inputs fixed. This occurs in the short run. Here's a structured breakdown:
 
 ---
