@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Introduction"
             }
+          },
+          {
+            "id": "df4cdc9fdbdfbcb4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2691cc76396566e",
+  "active": "df4cdc9fdbdfbcb4",
   "lastOpenFiles": [
     "Obsidian Vault/Compiler Design/Module 1/Input Buffering.md",
     "Obsidian Vault/DSA/Binary Trees/Introduction.md",
