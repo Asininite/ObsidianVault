@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DSA/Binary Trees/Introduction.md",
+                "file": "Obsidian Vault/IEFT/Law of Variable Proportions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
-            }
-          },
-          {
-            "id": "df4cdc9fdbdfbcb4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Law of Variable Proportions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,10 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df4cdc9fdbdfbcb4",
+  "active": "d2691cc76396566e",
   "lastOpenFiles": [
-    "Obsidian Vault/Compiler Design/Module 1/Input Buffering.md",
     "Obsidian Vault/DSA/Binary Trees/Introduction.md",
+    "Obsidian Vault/IEFT/Law of Variable Proportions.md",
+    "Obsidian Vault/IEFT",
+    "Obsidian Vault/Compiler Design/Module 1/Input Buffering.md",
     "Obsidian Vault/DSA/Binary Trees/Introduction",
     "Obsidian Vault/DSA/Binary Trees",
     "Obsidian Vault/Compiler Design/Module 1/! Questions.md",
@@ -222,8 +211,6 @@
     "Obsidian Vault/DSA/Sliding Window/Longest substring without repeating characters.md",
     "Obsidian Vault/DSA/Linked List",
     "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md",
-    "Obsidian Vault/DSA/Sliding Window",
-    "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
-    "Obsidian Vault/DSA/Binary Search/What is Binary Search.md"
+    "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md"
   ]
 }
