@@ -5,13 +5,13 @@ The **Law of Variable Proportions** (also called the **Law of Diminishing Return
 ### **Key Concepts**
 1. **Total Product (TP)**: Total output produced by combining variable inputs (e.g., labor) with fixed inputs (e.g., land).  
 2. **Marginal Product (MP)**: Additional output from using one more unit of the variable input.  
-   \[
+   $$
    MP = \frac{\Delta TP}{\Delta L}
-   \]  
+   $$  
 3. **Average Product (AP)**: Output per unit of the variable input.  
-   \[
+   $$
    AP = \frac{TP}{L}
-   \]
+   $$
 
 ---
 
@@ -71,9 +71,9 @@ A farmer uses **fixed land** and increases **labor**:
 - Explains why adding more inputs (e.g., labor) doesn’t always boost output proportionally.  
 
 **Formula for Producer Equilibrium**:  
-\[
+$$
 \frac{MP_L}{P_L} = \frac{MP_K}{P_K}
-\]  
+$$  
 *(Ratio of marginal product to price of inputs must be equal)*  
 
 ---
