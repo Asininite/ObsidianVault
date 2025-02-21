@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 1/Input Buffering.md",
+                "file": "Obsidian Vault/IEFT/Law of Variable Proportions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Input Buffering"
+              "title": "Law of Variable Proportions"
             }
           }
         ]
@@ -164,23 +164,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2691cc76396566e",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Obsidian Vault/Compiler Design/Module 1/! Questions.md",
+    "Obsidian Vault/Images/Pasted image 20250221040822.png",
+    "Obsidian Vault/DSA/Binary Trees/Introduction.md",
+    "Obsidian Vault/IEFT/Law of Variable Proportions.md",
+    "Obsidian Vault/IEFT",
     "Obsidian Vault/Compiler Design/Module 1/Input Buffering.md",
+    "Obsidian Vault/DSA/Binary Trees/Introduction",
+    "Obsidian Vault/DSA/Binary Trees",
+    "Obsidian Vault/Compiler Design/Module 1/! Questions.md",
     "Obsidian Vault/Compiler Design/Module 1/1. Compiler Architecture.md",
     "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
-    "Pasted image 20250217104212.png",
+    "Obsidian Vault/Images/Pasted image 20250217104212.png",
     "Obsidian Vault/Compiler Design/Module 1/3. Bootstrapping.md",
-    "Pasted image 20250217003125.png",
-    "Pasted image 20250217003050.png",
-    "Pasted image 20250217002705.png",
-    "Pasted image 20250216235308.png",
-    "Pasted image 20250216235250.png",
-    "Pasted image 20250216234920.png",
-    "Pasted image 20250216194841.png",
-    "Pasted image 20250216184628.png",
-    "Pasted image 20250216170503.png",
+    "Obsidian Vault/Images/Pasted image 20250217003125.png",
+    "Obsidian Vault/Images/Pasted image 20250217003050.png",
+    "Obsidian Vault/Images/Pasted image 20250217002705.png",
+    "Obsidian Vault/Images/Pasted image 20250216235308.png",
+    "Obsidian Vault/Images/Pasted image 20250216235250.png",
+    "Obsidian Vault/Images/Pasted image 20250216234920.png",
+    "Obsidian Vault/Images/Pasted image 20250216194841.png",
+    "Obsidian Vault/Images/Pasted image 20250216184628.png",
+    "Obsidian Vault/Images/Pasted image 20250216170503.png",
     "Obsidian Vault/Python/Print a pyramid of numbers.md",
     "Obsidian Vault/Compiler Design/Module 1",
     "Obsidian Vault/Compiler Design",
@@ -205,12 +211,6 @@
     "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
     "Obsidian Vault/DSA/Sliding Window/Longest substring without repeating characters.md",
     "Obsidian Vault/DSA/Linked List",
-    "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md",
-    "Obsidian Vault/DSA/Sliding Window",
-    "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
-    "Obsidian Vault/DSA/Binary Search/What is Binary Search.md",
-    "Obsidian Vault/DSA/Arrays/Medium/2. Sort an array of 0s 1s and 2s without sort.md",
-    "Obsidian Vault/DSA/Arrays/Medium",
-    "Obsidian Vault/DSA/Arrays/Easy"
+    "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md"
   ]
 }
