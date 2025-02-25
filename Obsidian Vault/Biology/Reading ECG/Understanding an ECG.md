@@ -231,7 +231,10 @@ We will use the first patient's EKG (`100.csv`) for this example.
 
 At the top of our [Python file](https://medium.com/@protobioengineering/how-to-make-a-standalone-python-script-44aa9b83ee26) or notebook, we import our libraries like so:
 
-Copy`import scipy import numpy as np import pandas as pd import matplotlib.pyplot as plt`
+```
+import scipy import numpy as np
+import pandas as pd import matplotlib.pyplot as plt
+```
 
 #### Step 3: Load the EKG into Python using Pandas
 
