@@ -223,7 +223,7 @@ If you're newer to Python, download Python 3 and all of the necessary libraries 
 
 #### Step 1: Download the EKG
 
-You can download the famous **MIT-BIH Arrhythmia** dataset [from our Kaggle here](https://www.kaggle.com/datasets/protobioengineering/mit-bih-arrhythmia-database-modern-2023). You will get a set of 48 EKGs in CSV format.
+You can download the famous **MIT-BIH Arrhythmia** dataset [from our Ka ggle here](https://www.kaggle.com/datasets/protobioengineering/mit-bih-arrhythmia-database-modern-2023). You will get a set of 48 EKGs in CSV format.
 
 We will use the first patient's EKG (`100.csv`) for this example.
 
