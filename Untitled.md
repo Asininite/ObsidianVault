@@ -1,0 +1,1 @@
+You keep on talking about the spec sheet more rather than how the bikes ride. Showa vs Endurance is such a trivial point to make, people only care if the suspension does its duties well, and not for the shiny branding on the stems. Tell me why a pair of telescopics have to be this stiff? When hero used telescopics in the Mavrick they
