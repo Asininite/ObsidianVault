@@ -27,8 +27,16 @@ public:
 				top = row + 1;
 			} else if (target < matrix[row][0]) {
 				bot = row - 1;
+			} else {
+				break;
 			}
 		}
+		
+		if (!(top <= bot)) {
+			return false;
+		}
+		
+		int row = (top + bot)/2;
 	}
 }
 ```
