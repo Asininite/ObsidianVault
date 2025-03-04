@@ -14,5 +14,21 @@ You must write a solution in `O(log(m * n))` time complexity.
 ## Binary Search
 
 ```cpp
-
+class Solution {
+public:
+	bool searchMatrix(vector<vector<int>>& matrix, int target) {
+		int ROWS = matrix.size();
+		int COLS = matrix[0].size();
+		
+		int top = 0, bot = ROWS - 1;
+		while (top <= bot){
+			int row = (top + bot)/2;
+			if (target > matrix[ROWS][COLS - 1]) {
+				top = row + 1;
+			} else if (target < matrix[row][0]) {
+				bot = row - 1;
+			}
+		}
+	}
+}
 ```
