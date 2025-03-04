@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/IEFT/Law of Variable Proportions.md",
+                "file": "Obsidian Vault/DSA/Binary Search/Medium/! Search a 2D Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Law of Variable Proportions"
+              "title": "! Search a 2D Matrix"
             }
           }
         ]
@@ -166,9 +166,22 @@
   },
   "active": "5ad115f57a44c449",
   "lastOpenFiles": [
+    "Pasted image 20250304011447.png",
+    "Obsidian Vault/DSA/Binary Search/What is Binary Search.md",
+    "Obsidian Vault/DSA/Binary Search/Medium/! Search a 2D Matrix.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "Obsidian Vault/DSA/Binary Search/Medium",
+    "Obsidian Vault/DSA/Arrays/Medium/5. Top K Frequent Elements.md",
+    "Obsidian Vault/DSA/Arrays/Medium/4. Group Anagrams.md",
+    "Obsidian Vault/Biology/Reading ECG/Understanding an ECG.md",
+    "Obsidian Vault/DSA/Arrays/Contains Duplicate.md",
+    "Obsidian Vault/Biology/Reading ECG",
+    "Obsidian Vault/Biology",
+    "Obsidian Vault/DSA/Arrays/Easy/5. Remove Duplicates From Sorted Array.md",
+    "Obsidian Vault/IEFT/Law of Variable Proportions.md",
     "Obsidian Vault/Images/Pasted image 20250221040822.png",
     "Obsidian Vault/DSA/Binary Trees/Introduction.md",
-    "Obsidian Vault/IEFT/Law of Variable Proportions.md",
     "Obsidian Vault/IEFT",
     "Obsidian Vault/Compiler Design/Module 1/Input Buffering.md",
     "Obsidian Vault/DSA/Binary Trees/Introduction",
@@ -186,7 +199,6 @@
     "Obsidian Vault/Images/Pasted image 20250216234920.png",
     "Obsidian Vault/Images/Pasted image 20250216194841.png",
     "Obsidian Vault/Images/Pasted image 20250216184628.png",
-    "Obsidian Vault/Images/Pasted image 20250216170503.png",
     "Obsidian Vault/Python/Print a pyramid of numbers.md",
     "Obsidian Vault/Compiler Design/Module 1",
     "Obsidian Vault/Compiler Design",
@@ -199,18 +211,6 @@
     "Obsidian Vault/AAD/Module 1/2. Priori and Posteriori Analysis.md",
     "Obsidian Vault/AAD/Module 1/1. Algorithms.md",
     "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
-    "Obsidian Vault/AAD/Module 1",
-    "Obsidian Vault/AAD",
-    "Obsidian Vault/Hshshhs.md",
-    "Obsidian Vault/DSA/Linked List/Reverse Linked List.md",
-    "Obsidian Vault/DSA/Linked List/! Revise This.md",
-    "Obsidian Vault/DSA/Two Pointers/Hard/Trapping Rain Water.md",
-    "Obsidian Vault/DSA/Two Pointers/Hard",
-    "Obsidian Vault/DSA/Arrays/Medium/Valid Sudoku.md",
-    "Obsidian Vault/DSA/Arrays/Easy/Group Anagrams.md",
-    "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
-    "Obsidian Vault/DSA/Sliding Window/Longest substring without repeating characters.md",
-    "Obsidian Vault/DSA/Linked List",
-    "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md"
+    "Obsidian Vault/AAD/Module 1"
   ]
 }
