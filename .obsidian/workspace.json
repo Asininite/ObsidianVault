@@ -25,12 +25,14 @@
             "id": "7e810765dcc54606",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.9"
+                "file": "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "icon": "lucide-file",
+              "title": "Merge Two Sorted Linked Lists"
             }
           }
         ],
