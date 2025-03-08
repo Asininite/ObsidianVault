@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Koko Eating Bananas"
             }
+          },
+          {
+            "id": "7e810765dcc54606",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2691cc76396566e",
+  "active": "7e810765dcc54606",
   "lastOpenFiles": [
     "Obsidian Vault/DSA/Binary Search/Medium/! Search a 2D Matrix.md",
     "Obsidian Vault/DSA/Binary Search/Medium/Koko Eating Bananas.md",
