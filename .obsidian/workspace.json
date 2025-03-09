@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DSA/Two Pointers/Merge Two Sorted Arrays.md",
+                "file": "Obsidian Vault/DSA/Binary Search/Hard/Median Of Two Sorted Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge Two Sorted Arrays"
+              "title": "Median Of Two Sorted Arrays"
             }
           }
         ],
@@ -181,8 +181,10 @@
   },
   "active": "7e810765dcc54606",
   "lastOpenFiles": [
-    "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
     "Obsidian Vault/DSA/Two Pointers/Merge Two Sorted Arrays.md",
+    "Obsidian Vault/DSA/Binary Search/Hard/Median Of Two Sorted Arrays.md",
+    "Obsidian Vault/DSA/Binary Search/Hard",
+    "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
     "Obsidian Vault/DSA/Binary Search/Medium/! Search a 2D Matrix.md",
     "Obsidian Vault/DSA/Binary Search/Medium/Koko Eating Bananas.md",
     "Pasted image 20250304011447.png",
@@ -224,8 +226,6 @@
     "Obsidian Vault/AAD/Module 1/Asymptotic Notations.md",
     "Obsidian Vault/Python/Module 2",
     "Obsidian Vault/AAD/Module 1/Recursive vs Iterative.md",
-    "Obsidian Vault/AAD/Module 1/3. Performance Analysis.md",
-    "Obsidian Vault/AAD/Module 1/2. Priori and Posteriori Analysis.md",
-    "Obsidian Vault/AAD/Module 1"
+    "Obsidian Vault/AAD/Module 1/3. Performance Analysis.md"
   ]
 }
