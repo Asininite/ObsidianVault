@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/DSA/Linked List/Detect Cycle in LL.md",
+                "file": "Obsidian Vault/DSA/Linked List/Easy/Find Middle Of Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Detect Cycle in LL"
+              "title": "Find Middle Of Linked List"
             }
           }
         ],
@@ -181,8 +181,10 @@
   },
   "active": "7e810765dcc54606",
   "lastOpenFiles": [
-    "Obsidian Vault/DSA/Binary Search/Hard/! Median Of Two Sorted Arrays.md",
     "Obsidian Vault/DSA/Linked List/Detect Cycle in LL.md",
+    "Obsidian Vault/DSA/Linked List/Easy/Find Middle Of Linked List.md",
+    "Obsidian Vault/DSA/Linked List/Easy",
+    "Obsidian Vault/DSA/Binary Search/Hard/! Median Of Two Sorted Arrays.md",
     "Obsidian Vault/DSA/Two Pointers/Merge Two Sorted Arrays.md",
     "Obsidian Vault/DSA/Binary Search/Hard",
     "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
@@ -224,8 +226,6 @@
     "Obsidian Vault/Compiler Design",
     "Obsidian Vault/Python/Print the sin series.md",
     "Obsidian Vault/Python/Module 2/Strings.md",
-    "Obsidian Vault/AAD/Module 1/Asymptotic Notations.md",
-    "Obsidian Vault/Python/Module 2",
-    "Obsidian Vault/AAD/Module 1/Recursive vs Iterative.md"
+    "Obsidian Vault/AAD/Module 1/Asymptotic Notations.md"
   ]
 }
