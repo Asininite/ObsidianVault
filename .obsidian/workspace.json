@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 4/Synthesized vs Inherited.md",
+                "file": "Obsidian Vault/Compiler Design/Module 4/S-attributed vs L-attributed SDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synthesized vs Inherited"
+              "title": "S-attributed vs L-attributed SDD"
             }
           }
         ],
@@ -181,8 +181,9 @@
   },
   "active": "7e810765dcc54606",
   "lastOpenFiles": [
-    "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
     "Obsidian Vault/Compiler Design/Module 4/Synthesized vs Inherited.md",
+    "Obsidian Vault/Compiler Design/Module 4/S-attributed vs L-attributed SDD.md",
+    "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
     "Obsidian Vault/Compiler Design/Module 4",
     "Pasted image 20250318025505.png",
     "Obsidian Vault/DSA/Sliding Window/Longest substring without repeating characters.md",
@@ -225,7 +226,6 @@
     "Obsidian Vault/Images/Pasted image 20250217002705.png",
     "Obsidian Vault/Images/Pasted image 20250216235308.png",
     "Obsidian Vault/Images/Pasted image 20250216235250.png",
-    "Obsidian Vault/Images/Pasted image 20250216234920.png",
-    "Obsidian Vault/Python/Print a pyramid of numbers.md"
+    "Obsidian Vault/Images/Pasted image 20250216234920.png"
   ]
 }
