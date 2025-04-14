@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/Operating Systems/Storage-To-Storage Instructions.md",
+                "file": "Obsidian Vault/! Placement/Operating Systems/LRU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Storage-To-Storage Instructions"
+              "title": "LRU"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "dd438633bff0360a",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/Operating Systems/MBR.md",
     "Obsidian Vault/! Placement/Operating Systems/Storage-To-Storage Instructions.md",
+    "Obsidian Vault/! Placement/Operating Systems/LRU.md",
+    "Obsidian Vault/! Placement/Operating Systems/MBR.md",
     "Obsidian Vault/! Placement/Operating Systems/Addressing Structures.md",
     "Obsidian Vault/! Placement/Operating Systems",
     "Obsidian Vault/! Placement",
@@ -215,7 +216,6 @@
     "Obsidian Vault/DSA/Arrays/Easy/5. Remove Duplicates From Sorted Array.md",
     "Obsidian Vault/IEFT/Law of Variable Proportions.md",
     "Obsidian Vault/Images/Pasted image 20250221040822.png",
-    "Obsidian Vault/DSA/Binary Trees/Introduction.md",
     "Obsidian Vault/Images/Pasted image 20250217104212.png",
     "Obsidian Vault/Images/Pasted image 20250217003125.png",
     "Obsidian Vault/Images/Pasted image 20250217003050.png",
