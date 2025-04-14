@@ -1,0 +1,2 @@
+- The various addressing modes that are defined in a given instruction set architecture define how machine language instructions in that architecture identify the operand (s) of each instruction. An addressing mode specifies how to calculate the effective memory address of an operand by using information held in registers and/or constants contained within a machine instruction or elsewhere.
+- 
