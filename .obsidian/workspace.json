@@ -11,10 +11,14 @@
             "id": "dd438633bff0360a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/! Placement/Operating Systems/Addressing Structures.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Addressing Structures"
             }
           }
         ]
@@ -171,8 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "dd438633bff0360a",
   "lastOpenFiles": [
+    "Obsidian Vault/! Placement/Operating Systems/Addressing Structures.md",
+    "Obsidian Vault/! Placement/Operating Systems",
     "Obsidian Vault/! Placement",
     "Untitled.md",
     "Obsidian Vault/Computer Networks/Lab/NS2.md",
@@ -204,7 +210,6 @@
     "Obsidian Vault/DSA/Arrays/Medium/4. Group Anagrams.md",
     "Obsidian Vault/Biology/Reading ECG/Understanding an ECG.md",
     "Obsidian Vault/DSA/Arrays/Contains Duplicate.md",
-    "Obsidian Vault/Biology/Reading ECG",
     "Obsidian Vault/DSA/Arrays/Easy/5. Remove Duplicates From Sorted Array.md",
     "Obsidian Vault/IEFT/Law of Variable Proportions.md",
     "Obsidian Vault/Images/Pasted image 20250221040822.png",
