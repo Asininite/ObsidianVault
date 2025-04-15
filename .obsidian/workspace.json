@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/Operating Systems or COA/Linker.md",
+                "file": "Obsidian Vault/! Placement/Operating Systems or COA/System Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linker"
+              "title": "System Generation"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "5d1c4a1dfaa75cf6",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/Operating Systems or COA/Phases of Compiler.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Linker.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/System Generation.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Phases of Compiler.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Addressing Structures.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/! Pointer.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Thrashing.md",
@@ -209,7 +210,6 @@
     "Obsidian Vault/! Placement/Untitled.md",
     "Obsidian Vault/DSA/Arrays/Medium/Valid Sudoku.md",
     "Obsidian Vault/Python/Print the sin series.md",
-    "Obsidian Vault/Python/Print a pyramid of numbers.md",
-    "Obsidian Vault/Python/Module 2/Strings.md"
+    "Obsidian Vault/Python/Print a pyramid of numbers.md"
   ]
 }

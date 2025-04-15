@@ -1,0 +1,1 @@
+- In computing System generation or sysgen is the process of creating a particular unique instance of an operating system by combining user-specified options and parameters with manufacturer-supplied general-purpose program code to produce an operating system tailored for a particular hardware and software environment.
