@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8aca90f973c07cc3",
+        "id": "14beab577ee37dae",
         "type": "tabs",
         "children": [
           {
-            "id": "d2691cc76396566e",
+            "id": "e12204a169f6485e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 1/! Questions.md",
+                "file": "Obsidian Vault/CCNA/04 TCP IP Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! Questions"
+              "title": "04 TCP IP Model"
+            }
+          },
+          {
+            "id": "73abdad20a8c0b61",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,12 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2691cc76396566e",
+  "active": "73abdad20a8c0b61",
   "lastOpenFiles": [
-    "Obsidian Vault/Compiler Design/Module 1/! Questions.md",
-    "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
+    "Obsidian Vault/DSA/Arrays/Medium/Valid Sudoku.md",
     "Pasted image 20250217104212.png",
-    "Obsidian Vault/Compiler Design/Module 1/3. Bootstrapping.md",
     "Pasted image 20250217003125.png",
     "Pasted image 20250217003050.png",
     "Pasted image 20250217002705.png",
@@ -177,39 +188,41 @@
     "Pasted image 20250216235250.png",
     "Pasted image 20250216234920.png",
     "Pasted image 20250216194841.png",
-    "Obsidian Vault/Compiler Design/Module 1/1. Compiler Architecture.md",
     "Pasted image 20250216184628.png",
     "Pasted image 20250216170503.png",
+    "Obsidian Vault/Python/Print the sin series.md",
     "Obsidian Vault/Python/Print a pyramid of numbers.md",
+    "Obsidian Vault/Python/Module 2/Strings.md",
+    "Obsidian Vault/Python/Module 2",
+    "Obsidian Vault/Hshshhs.md",
+    "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
+    "Obsidian Vault/Compiler Design/Module 1/3. Bootstrapping.md",
+    "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
+    "Obsidian Vault/Compiler Design/Module 1/1. Compiler Architecture.md",
+    "Obsidian Vault/Compiler Design/Module 1/! Questions.md",
     "Obsidian Vault/Compiler Design/Module 1",
     "Obsidian Vault/Compiler Design",
-    "Obsidian Vault/Python/Print the sin series.md",
-    "Obsidian Vault/Python/Module 2/Strings.md",
-    "Obsidian Vault/AAD/Module 1/Asymptotic Notations.md",
-    "Obsidian Vault/Python/Module 2",
     "Obsidian Vault/AAD/Module 1/Recursive vs Iterative.md",
-    "Obsidian Vault/AAD/Module 1/3. Performance Analysis.md",
     "Obsidian Vault/AAD/Module 1/2. Priori and Posteriori Analysis.md",
+    "Obsidian Vault/AAD/Module 1/Asymptotic Notations.md",
+    "Obsidian Vault/AAD/Module 1/3. Performance Analysis.md",
     "Obsidian Vault/AAD/Module 1/1. Algorithms.md",
-    "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
     "Obsidian Vault/AAD/Module 1",
     "Obsidian Vault/AAD",
-    "Obsidian Vault/Hshshhs.md",
-    "Obsidian Vault/DSA/Linked List/Reverse Linked List.md",
-    "Obsidian Vault/DSA/Linked List/! Revise This.md",
     "Obsidian Vault/DSA/Two Pointers/Hard/Trapping Rain Water.md",
     "Obsidian Vault/DSA/Two Pointers/Hard",
-    "Obsidian Vault/DSA/Arrays/Medium/Valid Sudoku.md",
+    "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md",
+    "Obsidian Vault/DSA/Arrays/Hard",
     "Obsidian Vault/DSA/Arrays/Easy/Group Anagrams.md",
     "Obsidian Vault/DSA/Arrays/Easy/Check if Anagram.md",
+    "conflict-files-obsidian-git.md",
+    "Obsidian Vault/DSA/Linked List/! Revise This.md",
+    "Obsidian Vault/DSA/Linked List/Reverse Linked List.md",
     "Obsidian Vault/DSA/Sliding Window/Longest substring without repeating characters.md",
     "Obsidian Vault/DSA/Linked List",
-    "Obsidian Vault/DSA/Arrays/Medium/Container With Most Water.md",
     "Obsidian Vault/DSA/Sliding Window",
     "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
     "Obsidian Vault/DSA/Binary Search/What is Binary Search.md",
-    "Obsidian Vault/DSA/Arrays/Medium/2. Sort an array of 0s 1s and 2s without sort.md",
-    "Obsidian Vault/DSA/Arrays/Medium",
-    "Obsidian Vault/DSA/Arrays/Easy"
+    "Obsidian Vault/DSA/Arrays/Medium"
   ]
 }
