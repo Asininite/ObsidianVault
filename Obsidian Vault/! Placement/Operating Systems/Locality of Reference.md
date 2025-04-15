@@ -1,3 +1,5 @@
+Locality of Reference describes the predictable tendency for programs to reuse data/instructions recently used (temporal) and to access data/instructions near those recently used (spatial). This principle is the bedrock upon which efficient caching and memory hierarchy management are built, allowing systems to bridge the speed gap between fast CPUs and slower memory/storage, ultimately leading to much better performance.
+
 - tendency of a CPU to access same set of memory locations repeatedly over a short period
 ### Temporal Locality ( Locality in Time)
 - if a memory location is referenced, it is likely to be referenced **soon** 
