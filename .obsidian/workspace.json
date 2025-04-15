@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/Operating Systems/Locality of Reference.md",
+                "file": "Obsidian Vault/! Placement/Operating Systems/! Pointer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locality of Reference"
+              "title": "! Pointer"
             }
           }
         ]
@@ -166,6 +166,7 @@
   "active": "5d1c4a1dfaa75cf6",
   "lastOpenFiles": [
     "Obsidian Vault/! Placement/Operating Systems/Locality of Reference.md",
+    "Obsidian Vault/! Placement/Operating Systems/! Pointer.md",
     "conflict-files-obsidian-git.md",
     "Obsidian Vault/IEFT/Law of Variable Proportions.md",
     "Obsidian Vault/IEFT",
@@ -209,7 +210,6 @@
     "Obsidian Vault/Python/Print a pyramid of numbers.md",
     "Obsidian Vault/Python/Module 2/Strings.md",
     "Obsidian Vault/Hshshhs.md",
-    "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
-    "Obsidian Vault/Compiler Design/Module 1/3. Bootstrapping.md"
+    "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md"
   ]
 }

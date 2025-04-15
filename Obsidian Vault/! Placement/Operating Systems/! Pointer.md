@@ -1,0 +1,2 @@
+- the register or main memory location that contains the effective address of the operand 
+- 
