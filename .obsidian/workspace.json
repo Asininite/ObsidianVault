@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/Operating Systems/! Pointer.md",
+                "file": "Obsidian Vault/! Placement/Operating Systems or COA/! Pointer.md",
                 "mode": "source",
                 "source": false
               },
@@ -163,10 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5d1c4a1dfaa75cf6",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/Operating Systems/Locality of Reference.md",
-    "Obsidian Vault/! Placement/Operating Systems/! Pointer.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/! Pointer.md",
     "conflict-files-obsidian-git.md",
     "Obsidian Vault/IEFT/Law of Variable Proportions.md",
     "Obsidian Vault/IEFT",
@@ -199,11 +199,11 @@
     "Obsidian Vault/Images/Pasted image 20250216235308.png",
     "Obsidian Vault/Images/Pasted image 20250216235250.png",
     "Obsidian Vault/Images/Pasted image 20250216234920.png",
-    "Obsidian Vault/! Placement/Operating Systems/Storage-To-Storage Instructions.md",
-    "Obsidian Vault/! Placement/Operating Systems/Thrashing.md",
-    "Obsidian Vault/! Placement/Operating Systems/MBR.md",
-    "Obsidian Vault/! Placement/Operating Systems/LRU.md",
-    "Obsidian Vault/! Placement/Operating Systems/Addressing Structures.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Storage-To-Storage Instructions.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Thrashing.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/MBR.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/LRU.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Addressing Structures.md",
     "Obsidian Vault/! Placement/Untitled.md",
     "Obsidian Vault/DSA/Arrays/Medium/Valid Sudoku.md",
     "Obsidian Vault/Python/Print the sin series.md",
