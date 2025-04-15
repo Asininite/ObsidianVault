@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/Operating Systems or COA/! Pointer.md",
+                "file": "Obsidian Vault/! Placement/Operating Systems or COA/Phases of Compiler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! Pointer"
+              "title": "Phases of Compiler"
             }
           }
         ]
@@ -163,10 +163,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "5d1c4a1dfaa75cf6",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Addressing Structures.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/! Pointer.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Thrashing.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Phases of Compiler.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
     "conflict-files-obsidian-git.md",
     "Obsidian Vault/IEFT/Law of Variable Proportions.md",
     "Obsidian Vault/IEFT",
@@ -200,16 +203,13 @@
     "Obsidian Vault/Images/Pasted image 20250216235250.png",
     "Obsidian Vault/Images/Pasted image 20250216234920.png",
     "Obsidian Vault/! Placement/Operating Systems or COA/Storage-To-Storage Instructions.md",
-    "Obsidian Vault/! Placement/Operating Systems or COA/Thrashing.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/MBR.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/LRU.md",
-    "Obsidian Vault/! Placement/Operating Systems or COA/Addressing Structures.md",
     "Obsidian Vault/! Placement/Untitled.md",
     "Obsidian Vault/DSA/Arrays/Medium/Valid Sudoku.md",
     "Obsidian Vault/Python/Print the sin series.md",
     "Obsidian Vault/Python/Print a pyramid of numbers.md",
     "Obsidian Vault/Python/Module 2/Strings.md",
-    "Obsidian Vault/Hshshhs.md",
-    "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md"
+    "Obsidian Vault/Hshshhs.md"
   ]
 }
