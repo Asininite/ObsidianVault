@@ -1,0 +1,3 @@
+- 1. **Undefined Symbols / External References (Imports):** These are symbols that are used (called or referenced) within this compilation unit but are not defined there. The expectation is that they will be defined in some other object file or library. For example, if main.c calls printf, but printf is not defined in main.c, then printf is an unresolved external reference within main.o. The compiler leaves a placeholder where the address of printf should eventually go.
+
+- The process of finding the definitions for these undefined symbols and connecting the references to the actual definitions happens during **linking**. The **linker** is the tool responsible for this.
