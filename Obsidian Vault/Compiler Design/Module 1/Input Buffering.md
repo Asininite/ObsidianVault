@@ -1,25 +1,3 @@
-- tokens 
-	logical unit that represents a category of lexemes
-	output of lexical analyzer
-		each token has type and attribute value '<id, 1>'
-int a = 10;
-The tokens are:
-- `int` (keyword)
-- `a` (identifier)
-- `=` (operator)
-- `10` (constant)
-
-- lexeme
-	sequence of characters that matches a pattern for a token
-	the actual text that forms a token
-	raw input that lexical analyzer processes
-	The lexemeare:
-- `int` 
-- `a` 
-- `=` 
-- `10` 
-
-
 ### **Note on Input Buffering in Compilers**
 
 Input buffering is a technique used during the **lexical analysis** phase of a compiler to efficiently read and process the source code. It minimizes disk I/O operations by reading large chunks of the source code into memory buffers. Below, we explain input buffering with diagrams and discuss the advantages of using **two buffers** and **sentinels**.
