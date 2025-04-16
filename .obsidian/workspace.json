@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Computer Networks/PYQs/DHCP.md",
+                "file": "Obsidian Vault/! Placement/Operating Systems or COA/Default Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DHCP"
+              "title": "Default Values"
             }
           }
         ]
@@ -165,6 +165,9 @@
   },
   "active": "5d1c4a1dfaa75cf6",
   "lastOpenFiles": [
+    "Obsidian Vault/! Placement/Operating Systems or COA/Decision Tables.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Addressing Structures.md",
+    "Obsidian Vault/Computer Networks/PYQs/DHCP.md",
     "Obsidian Vault/Computer Networks/PYQs/ARP and RARP.md",
     "Obsidian Vault/Computer Networks/Module 1/Design Issues.md",
     "Obsidian Vault/Computer Networks/Module 3/Congestion.md",
@@ -183,15 +186,12 @@
     "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
     "Obsidian Vault/Computer Networks/Module 4/Untitled 1.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/! Pointer.md",
-    "Obsidian Vault/! Placement/Operating Systems or COA/Addressing Structures.md",
     "Obsidian Vault/System Software/Module 5/@@ macroprocess algorithm.md",
     "Obsidian Vault/System Software/Module 1/Assembler.md",
     "Obsidian Vault/System Software/Module 1/Different System Software.md",
     "Obsidian Vault/System Software/Module 1/Simple SIC Assembler.md",
     "Obsidian Vault/System Software/Module 1/SIC (Simplified Instructional Computer).md",
     "Obsidian Vault/System Software/Module 1/Software.png",
-    "Obsidian Vault/MOSS/Module 5/Microservices.md",
-    "Obsidian Vault/MOSS/Module 5/Software Quality.md",
     "Obsidian Vault/IEFT",
     "Obsidian Vault/DSA/Linked List/Easy",
     "Obsidian Vault/DSA/Binary Trees",
