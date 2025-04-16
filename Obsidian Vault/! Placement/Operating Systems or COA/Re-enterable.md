@@ -1,0 +1,3 @@
+In computing, a computer program or subroutine is called **reentrant** if it can be interrupted in the middle of its execution and then safely be **called again** ("re-entered") before its previous invocations complete execution.  
+  
+The interruption could be caused by an internal action such as a jump or call, or by an external action such as a **hardware interrupt** or **signal**. Once the reentered invocation completes, the previous invocations will resume correct execution.
