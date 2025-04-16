@@ -1,4 +1,5 @@
- - Analysis (front-end)
+
+ \- Analysis (front-end)
 	1. lexical analyzer
 		   read source code character by character and group into lexemes. For each lexeme, generate token
 		   raw source code -> stream of tokens
