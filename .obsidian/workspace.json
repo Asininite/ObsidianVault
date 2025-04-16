@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/Operating Systems or COA/Terminal Table.md",
+                "file": "Obsidian Vault/! Placement/Operating Systems or COA/Bankers Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminal Table"
+              "title": "Bankers Algorithm"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "5d1c4a1dfaa75cf6",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/Operating Systems or COA/Interrupt Service Routine.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Terminal Table.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Bankers Algorithm.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Interrupt Service Routine.md",
     "Obsidian Vault/! Placement/! Random Stuff.md",
     "Pasted image 20250416201858.png",
     "Obsidian Vault/! Placement/Operating Systems or COA/Default Values.md",
@@ -191,7 +192,6 @@
     "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
     "Obsidian Vault/Computer Networks/Module 4/Untitled 1.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/! Pointer.md",
-    "Obsidian Vault/System Software/Module 5/@@ macroprocess algorithm.md",
     "Obsidian Vault/System Software/Module 1/Software.png",
     "Obsidian Vault/IEFT",
     "Obsidian Vault/DSA/Linked List/Easy",
