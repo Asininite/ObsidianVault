@@ -1,0 +1,2 @@
+- Terminal Table: A permanent database that has entry for each terminal symbols such as arithmetic operators, keywords, punctuation characters such as \';\', \', \'etc 
+- Fields: Name of the symbol.
