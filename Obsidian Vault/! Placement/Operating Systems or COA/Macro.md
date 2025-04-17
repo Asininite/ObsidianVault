@@ -1,0 +1,4 @@
+- A **macro** is essentially a **named block of text or code**.
+- You define the macro once, giving it a name and specifying the sequence of instructions or text it represents.
+- The primary purpose is **code reuse** and **abstraction** at the source code level, making code shorter and potentially more readable.
+- Crucially, macros work through **textual substitution** before the code is actually compiled or assembled into machine code.
