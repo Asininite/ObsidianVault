@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/something.md",
+                "file": "Obsidian Vault/! Placement/DS 1/Expression Evaluation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "something"
+              "title": "Expression Evaluation"
             }
           }
         ]
@@ -163,10 +163,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "5d1c4a1dfaa75cf6",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/Operating Systems or COA/Macro.md",
     "Obsidian Vault/something.md",
+    "Obsidian Vault/! Placement/DS 1/Expression Evaluation.md",
+    "Obsidian Vault/! Placement/DS 1/Expression Evaluation",
+    "Obsidian Vault/! Placement/DS 1",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Macro.md",
     "Obsidian Vault/Compiler Design/Module 1/1. Compiler Architecture.md",
     "Obsidian Vault/! Placement/! Random Stuff.md",
     "Obsidian Vault/Images/Pasted image 20250416205305.png",
@@ -192,7 +195,6 @@
     "Obsidian Vault/Computer Networks/Module 3/Store - And - Forward Packet Switching.md",
     "Obsidian Vault/Computer Networks/Module 5/Transport Layer.md",
     "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
-    "Obsidian Vault/Computer Networks/Module 1 Syllabus.md",
     "Obsidian Vault/System Software/Module 1/Software.png",
     "Obsidian Vault/IEFT",
     "Obsidian Vault/DSA/Linked List/Easy",
@@ -202,8 +204,6 @@
     "Obsidian Vault/Computer Networks/Lab",
     "Obsidian Vault/Compiler Design/Module 4",
     "Obsidian Vault/Compiler Design/Module 3",
-    "Obsidian Vault/CGIP/Module 2",
-    "Obsidian Vault/CGIP",
     "Obsidian Vault/Images/Pasted image 20250318025505.png",
     "Obsidian Vault/Images/Pasted image 20250304011447.png",
     "Obsidian Vault/Images/Pasted image 20250221040822.png",
