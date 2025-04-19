@@ -1,5 +1,7 @@
 # Stages
 1. Planning
+   - identify system objectives, define scopes, set timeliens
+   - 
 2. Analysis
 3. Design
 4. Development
