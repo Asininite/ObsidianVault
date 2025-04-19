@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/DS 1/Expression Evaluation.md",
+                "file": "Obsidian Vault/! Placement/DS 1/System Development Life Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expression Evaluation"
+              "title": "System Development Life Cycle"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "5d1c4a1dfaa75cf6",
   "lastOpenFiles": [
-    "Obsidian Vault/something.md",
     "Obsidian Vault/! Placement/DS 1/Expression Evaluation.md",
+    "Obsidian Vault/! Placement/DS 1/System Development Life Cycle.md",
+    "Obsidian Vault/something.md",
     "Obsidian Vault/! Placement/DS 1/Expression Evaluation",
     "Obsidian Vault/! Placement/DS 1",
     "Obsidian Vault/! Placement/Operating Systems or COA/Macro.md",
@@ -194,7 +195,6 @@
     "Obsidian Vault/Computer Networks/Module 3/Shortest Path Routing (Dijkstra's).md",
     "Obsidian Vault/Computer Networks/Module 3/Store - And - Forward Packet Switching.md",
     "Obsidian Vault/Computer Networks/Module 5/Transport Layer.md",
-    "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
     "Obsidian Vault/System Software/Module 1/Software.png",
     "Obsidian Vault/IEFT",
     "Obsidian Vault/DSA/Linked List/Easy",
