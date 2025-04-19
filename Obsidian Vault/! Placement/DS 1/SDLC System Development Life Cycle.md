@@ -40,3 +40,14 @@
     - **Goal:** Keep the system running smoothly and adapt it to changing needs over its lifespan. This is often the longest phase.
     - **Activities:** Ongoing user support, monitoring system performance, bug fixing (corrective maintenance), adding minor enhancements (adaptive maintenance), improving performance or maintainability (perfective maintenance), system updates, backups, eventual decommissioning.
     - **Deliverable:** Updated documentation, bug fixes, enhancement releases, performance reports.
+
+# Different Models
+- **Waterfall Model:** A linear, sequential approach where each phase must be fully completed before the next begins. Simple but rigid, difficult to accommodate changes.
+
+- **V-Model:** An extension of Waterfall that emphasizes testing activities corresponding to each development phase.
+
+- **Iterative Model:** The system is built in repeated cycles (iterations), with each iteration producing a functional subset or improved version of the system. Allows for feedback and refinement.
+   
+- **Spiral Model:** Risk-driven approach combining iterative development with aspects of Waterfall. Suitable for large, complex, high-risk projects.
+
+- **Agile Models (e.g., Scrum, Kanban, XP):** Focus on flexibility, collaboration, rapid delivery of working software in short cycles (sprints), customer feedback, and adapting to change. Very popular in modern software development.
