@@ -1,3 +1,5 @@
+- series of stages that provide a framework for the development and management of an information system
+![[Pasted image 20250419154455.png]]
 # Stages
 1. Planning
    - identify system objectives, define scopes, set timelines

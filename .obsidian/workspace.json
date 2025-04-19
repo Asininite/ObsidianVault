@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/DS 1/System Development Life Cycle.md",
+                "file": "Obsidian Vault/! Placement/DS 1/System Design Life Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Development Life Cycle"
+              "title": "System Design Life Cycle"
             }
           }
         ]
@@ -165,8 +165,11 @@
   },
   "active": "5d1c4a1dfaa75cf6",
   "lastOpenFiles": [
+    "Pasted image 20250419154634.png",
+    "Obsidian Vault/! Placement/DS 1/SDLC System Development Life Cycle.md",
+    "Obsidian Vault/! Placement/DS 1/System Design Life Cycle.md",
+    "Obsidian Vault/Images/Pasted image 20250419154455.png",
     "Obsidian Vault/! Placement/DS 1/Expression Evaluation.md",
-    "Obsidian Vault/! Placement/DS 1/System Development Life Cycle.md",
     "Obsidian Vault/something.md",
     "Obsidian Vault/! Placement/DS 1/Expression Evaluation",
     "Obsidian Vault/! Placement/DS 1",
@@ -193,8 +196,6 @@
     "Obsidian Vault/Computer Networks/Module 3/Optimality Principle.md",
     "Obsidian Vault/Computer Networks/Module 3/Routing Algorithm.md",
     "Obsidian Vault/Computer Networks/Module 3/Shortest Path Routing (Dijkstra's).md",
-    "Obsidian Vault/Computer Networks/Module 3/Store - And - Forward Packet Switching.md",
-    "Obsidian Vault/Computer Networks/Module 5/Transport Layer.md",
     "Obsidian Vault/System Software/Module 1/Software.png",
     "Obsidian Vault/IEFT",
     "Obsidian Vault/DSA/Linked List/Easy",
@@ -209,7 +210,6 @@
     "Obsidian Vault/Images/Pasted image 20250221040822.png",
     "Obsidian Vault/Images/Pasted image 20250217104212.png",
     "Obsidian Vault/Images/Pasted image 20250217003125.png",
-    "Obsidian Vault/Images/Pasted image 20250217003050.png",
-    "Obsidian Vault/Images/Pasted image 20250217002705.png"
+    "Obsidian Vault/Images/Pasted image 20250217003050.png"
   ]
 }
