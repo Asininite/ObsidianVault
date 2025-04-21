@@ -1,0 +1,2 @@
+- A char is a **16-bit integer** behind the scenes
+- it supports **2^16** values (0 to 65535)

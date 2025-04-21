@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/DS 1/SDLC System Development Life Cycle.md",
+                "file": "Obsidian Vault/! Placement/Java/char.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDLC System Development Life Cycle"
+              "title": "char"
             }
           }
         ]
@@ -163,12 +163,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "5d1c4a1dfaa75cf6",
   "lastOpenFiles": [
+    "Obsidian Vault/! Placement/DS 1/SDLC System Development Life Cycle.md",
+    "Obsidian Vault/! Placement/Java/char.md",
+    "Obsidian Vault/! Placement/Java",
     "Obsidian Vault/! Placement/DBMS",
     "Obsidian Vault/! Placement/DS 1/System Design Life Cycle.md",
     "Obsidian Vault/Images/Pasted image 20250419154634.png",
-    "Obsidian Vault/! Placement/DS 1/SDLC System Development Life Cycle.md",
     "Obsidian Vault/Images/Pasted image 20250419154455.png",
     "Obsidian Vault/! Placement/DS 1/Expression Evaluation.md",
     "Obsidian Vault/something.md",
@@ -204,8 +206,6 @@
     "Obsidian Vault/DSA/Binary Search/Medium",
     "Obsidian Vault/DSA/Binary Search/Hard",
     "Obsidian Vault/Computer Networks/Lab",
-    "Obsidian Vault/Compiler Design/Module 4",
-    "Obsidian Vault/Compiler Design/Module 3",
     "Obsidian Vault/Images/Pasted image 20250318025505.png",
     "Obsidian Vault/Images/Pasted image 20250304011447.png",
     "Obsidian Vault/Images/Pasted image 20250221040822.png",
