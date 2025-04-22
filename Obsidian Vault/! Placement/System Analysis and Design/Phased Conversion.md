@@ -1,0 +1,2 @@
+- Phased conversion involves splitting a new information system into a number of **parts** or **modules**.  
+- An organisation starts to use the new system one step at a time so that all users are introduced to the same modules in the system at the same time.
