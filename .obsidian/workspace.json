@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 2/Ambiguous Grammar.md",
+                "file": "Obsidian Vault/Compiler Design/Module 2/Eliminating Left Recursion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ambiguous Grammar"
+              "title": "Eliminating Left Recursion"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
-    "Obsidian Vault/Compiler Design/Module 2/CFG.md",
     "Obsidian Vault/Compiler Design/Module 2/Ambiguous Grammar.md",
+    "Obsidian Vault/Compiler Design/Module 2/Eliminating Left Recursion.md",
+    "Obsidian Vault/Compiler Design/Module 2/CFG.md",
     "Pasted image 20250423201247.png",
     "Obsidian Vault/Compiler Design/Module 2/Role Of Syntax Analyzer (Parser).md",
     "Obsidian Vault/Compiler Design/Module 1/Role of Lexical Analyzer.md",
@@ -207,7 +208,6 @@
     "Obsidian Vault/MOSS/Module 2/Functional and non functional.md",
     "Obsidian Vault/MOSS/Module 2/Design Concepts.md",
     "Obsidian Vault/MOSS/Module 2/Architectural Styles.md",
-    "Obsidian Vault/System Software/Module 3/Hand Assembly of SIC XE.md",
     "Obsidian Vault/Computer Networks/Module 1/OSI Model.png",
     "Obsidian Vault/Images/Pasted image 20250422151806.png",
     "Obsidian Vault/Images/Pasted image 20250216235308.png",
