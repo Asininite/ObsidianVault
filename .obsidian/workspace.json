@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 2/CFG.md",
+                "file": "Obsidian Vault/Compiler Design/Module 2/Ambiguous Grammar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CFG"
+              "title": "Ambiguous Grammar"
             }
           }
         ]
@@ -167,9 +167,10 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Obsidian Vault/Compiler Design/Module 2/CFG.md",
+    "Obsidian Vault/Compiler Design/Module 2/Ambiguous Grammar.md",
     "Pasted image 20250423201247.png",
     "Obsidian Vault/Compiler Design/Module 2/Role Of Syntax Analyzer (Parser).md",
-    "Obsidian Vault/Compiler Design/Module 2/CFG.md",
     "Obsidian Vault/Compiler Design/Module 1/Role of Lexical Analyzer.md",
     "t.md",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf",
@@ -211,7 +212,6 @@
     "Obsidian Vault/Images/Pasted image 20250422151806.png",
     "Obsidian Vault/Images/Pasted image 20250216235308.png",
     "Obsidian Vault/Images/Pasted image 20250419154634.png",
-    "Obsidian Vault/Images/Pasted image 20250419154455.png",
-    "Obsidian Vault/Images/Pasted image 20250416205305.png"
+    "Obsidian Vault/Images/Pasted image 20250419154455.png"
   ]
 }
