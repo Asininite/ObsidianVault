@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 2/Eliminating Left Recursion.md",
+                "file": "Obsidian Vault/Compiler Design/Module 2/Eliminate Left Factoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eliminating Left Recursion"
+              "title": "Eliminate Left Factoring"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "2285ec033214da64",
@@ -169,8 +170,9 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
-    "Obsidian Vault/Compiler Design/Module 2/Ambiguous Grammar.md",
     "Obsidian Vault/Compiler Design/Module 2/Eliminating Left Recursion.md",
+    "Obsidian Vault/Compiler Design/Module 2/Eliminate Left Factoring.md",
+    "Obsidian Vault/Compiler Design/Module 2/Ambiguous Grammar.md",
     "Obsidian Vault/Compiler Design/Module 2/CFG.md",
     "Pasted image 20250423201247.png",
     "Obsidian Vault/Compiler Design/Module 2/Role Of Syntax Analyzer (Parser).md",
@@ -209,7 +211,6 @@
     "Obsidian Vault/MOSS/Module 2/Scenarios, Personas, User Stories,.md",
     "Obsidian Vault/MOSS/Module 2/Functional and non functional.md",
     "Obsidian Vault/MOSS/Module 2/Design Concepts.md",
-    "Obsidian Vault/MOSS/Module 2/Architectural Styles.md",
     "Obsidian Vault/Computer Networks/Module 1/OSI Model.png",
     "Obsidian Vault/Images/Pasted image 20250422151806.png",
     "Obsidian Vault/Images/Pasted image 20250216235308.png",

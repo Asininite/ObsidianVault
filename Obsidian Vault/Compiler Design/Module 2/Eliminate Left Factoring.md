@@ -1,0 +1,1 @@
+![[CD MOD 2.pdf#page=12]]
