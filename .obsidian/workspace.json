@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "049cade5c72cdacd",
+        "id": "8e16fa96869ff49d",
         "type": "tabs",
         "children": [
           {
-            "id": "3c5a44359b33f939",
+            "id": "da9fb105be9ff956",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/PDFs/CD MOD 1.pdf"
+                "file": "Obsidian Vault/Compiler Design/Module 2/Role of Lexical Analyzer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CD MOD 1"
+              "icon": "lucide-file",
+              "title": "Role of Lexical Analyzer"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "2285ec033214da64",
@@ -162,20 +165,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c5a44359b33f939",
+  "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Pasted image 20250423191912.png",
+    "Pasted image 20250423191908.png",
+    "Pasted image 20250423191905.png",
+    "Obsidian Vault/Compiler Design/Module 2/Role of Lexical Analyzer.md",
+    "Obsidian Vault/Compiler Design/Module 2",
+    "Obsidian Vault/Compiler Design/PDFs/CD MOD 1.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CD MODULE 5.pdf",
     "Obsidian Vault/Compiler Design/PDFs/Module 1 Compiler Design PDF Notes - Kerala Notes.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CST302-QP-8.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CST302-QP-7.pdf",
-    "Obsidian Vault/Compiler Design/PDFs/CD MOD 1.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 3.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 2.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 1.pdf",
     "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
     "Obsidian Vault/Compiler Design/PDFs/CD MOD 2.pdf",
-    "Obsidian Vault/Compiler Design/PDFs/CD MOD 4 PART 2.pdf",
-    "Obsidian Vault/Compiler Design/PDFs/CD MOD 4 PART 1.pdf",
     "Obsidian Vault/! Placement/Operating Systems/Storage Compaction.md",
     "Obsidian Vault/! Placement/Operating Systems/Loader.md",
     "Obsidian Vault/! Placement/Operating Systems/External Fragmentation.md",
@@ -199,7 +205,6 @@
     "Obsidian Vault/System Software/Module 3/!! PROGRAM BLOCKS.md",
     "Obsidian Vault/System Software/Module 3/!! One Pass assembler.md",
     "Obsidian Vault/System Software/Module 3/! Multipass Assembler.md",
-    "Obsidian Vault/System Software/Module 3/! Load and go assembler.md",
     "Obsidian Vault/Computer Networks/Module 1/OSI Model.png",
     "Obsidian Vault/Images/Pasted image 20250422151806.png",
     "Obsidian Vault/Images/Pasted image 20250216235308.png",
@@ -207,8 +212,6 @@
     "Obsidian Vault/Images/Pasted image 20250419154455.png",
     "Obsidian Vault/Images/Pasted image 20250416205305.png",
     "Obsidian Vault/Images/Pasted image 20250416201858.png",
-    "Obsidian Vault/System Software/Module 1/Software.png",
-    "Obsidian Vault/Images/Pasted image 20250318025505.png",
-    "Obsidian Vault/Images/Pasted image 20250304011447.png"
+    "Obsidian Vault/System Software/Module 1/Software.png"
   ]
 }
