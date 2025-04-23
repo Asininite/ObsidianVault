@@ -48,3 +48,11 @@
 - replace one character by another character
 - transpose two adjacent characters
 - delete successive characters from the remaining input until lexical analyzer recognizes a well-formed token
+
+1. **Recovery Strategies:** Attempt to recover and continue analyzing the rest of the file to find more potential errors.
+    - **"Panic Mode" Recovery:** This is the simplest and most common lexical recovery strategy. The scanner discards input characters one by one until it finds a character that can legitimately start a new token (e.g., whitespace, a letter, a digit, ';'). This allows scanning to resume, although it might lead to spurious syntax errors later if too much input was skipped.
+    - **Other Possibilities**
+        - Delete the single offending character.
+        - Insert a missing character (e.g., a closing quote - harder to guess correctly).
+        - Replace a character.
+        - Transpose adjacent characters.  
