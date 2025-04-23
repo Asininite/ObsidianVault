@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 2/Role Of Syntax Analyzer (Parser).md",
+                "file": "Obsidian Vault/Compiler Design/Module 2/CFG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Role Of Syntax Analyzer (Parser)"
+              "title": "CFG"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
-    "Obsidian Vault/Compiler Design/Module 1/Role of Lexical Analyzer.md",
     "Obsidian Vault/Compiler Design/Module 2/Role Of Syntax Analyzer (Parser).md",
+    "Obsidian Vault/Compiler Design/Module 2/CFG.md",
+    "Obsidian Vault/Compiler Design/Module 1/Role of Lexical Analyzer.md",
     "t.md",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf.crdownload",
@@ -206,7 +207,6 @@
     "Obsidian Vault/MOSS/Module 2/Architectural Styles.md",
     "Obsidian Vault/System Software/Module 3/Hand Assembly of SIC XE.md",
     "Obsidian Vault/System Software/Module 3/!! PROGRAM BLOCKS.md",
-    "Obsidian Vault/System Software/Module 3/!! One Pass assembler.md",
     "Obsidian Vault/Computer Networks/Module 1/OSI Model.png",
     "Obsidian Vault/Images/Pasted image 20250422151806.png",
     "Obsidian Vault/Images/Pasted image 20250216235308.png",
