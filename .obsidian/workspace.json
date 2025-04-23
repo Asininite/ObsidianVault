@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 2/Role of Lexical Analyzer.md",
+                "file": "Obsidian Vault/Compiler Design/Module 2/Role of Syntax and Lexical Analyzer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Role of Lexical Analyzer"
+              "title": "Role of Syntax and Lexical Analyzer"
             }
           }
         ]
@@ -167,13 +167,14 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "t.md",
+    "Obsidian Vault/Compiler Design/Module 2/Role of Syntax and Lexical Analyzer.md",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf.crdownload",
     "Pasted image 20250423192417.png",
     "Pasted image 20250423191912.png",
     "Pasted image 20250423191908.png",
     "Pasted image 20250423191905.png",
-    "Obsidian Vault/Compiler Design/Module 2/Role of Lexical Analyzer.md",
     "Obsidian Vault/Compiler Design/Module 2",
     "Obsidian Vault/Compiler Design/PDFs/CD MOD 1.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CD MODULE 5.pdf",
@@ -182,7 +183,6 @@
     "Obsidian Vault/Compiler Design/PDFs/CST302-QP-7.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 3.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 2.pdf",
-    "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 1.pdf",
     "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
     "Obsidian Vault/! Placement/Operating Systems/Storage Compaction.md",
     "Obsidian Vault/! Placement/Operating Systems/Loader.md",
