@@ -18,4 +18,4 @@
 - **internal nodes** are **non-terminals**
 - **leaf nodes** are **terminals**
 - **yield of the tree** : connection of nodes from left to right
-
+- ![[Pasted image 20250423201247.png]]
