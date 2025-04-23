@@ -2,7 +2,7 @@
 1. If A -> a $\alpha$ , **FIRST(A) = { a }**
 2. If A -> $\epsilon$ , **FIRST(A) = $\epsilon$**
 3. If A -> B C, 
-	   **FIRST(A) = FIRST(B)** if FIRST(B) is not $\epsilon$
+	   **FIRST(A) = FIRST(B)** if FIRST(B) not contain $\epsilon$
 	   if FIRST(B) contains $\epsilon$ then 
 		   **FIRST(A) = FIRST(B) U FIRST(C)**
 
