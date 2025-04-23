@@ -6,4 +6,4 @@ A -> bA'
 A' -> aA' | ϵ 
 ```
 
-![[CD MOD 2.pdf]]
+![[CD MOD 2.pdf#page=4]]
