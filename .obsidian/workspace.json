@@ -11,14 +11,12 @@
             "id": "3c5a44359b33f939",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Compiler Design/PDFs/CD MOD 1.pdf"
               },
-              "icon": "lucide-file",
-              "title": "2. Phases of Compiler"
+              "icon": "lucide-file-text",
+              "title": "CD MOD 1"
             }
           }
         ]
@@ -166,6 +164,21 @@
   },
   "active": "3c5a44359b33f939",
   "lastOpenFiles": [
+    "Obsidian Vault/Compiler Design/PDFs/CD MODULE 5.pdf",
+    "Obsidian Vault/Compiler Design/PDFs/Module 1 Compiler Design PDF Notes - Kerala Notes.pdf",
+    "Obsidian Vault/Compiler Design/PDFs/CST302-QP-8.pdf",
+    "Obsidian Vault/Compiler Design/PDFs/CST302-QP-7.pdf",
+    "Obsidian Vault/Compiler Design/PDFs/CD MOD 1.pdf",
+    "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 3.pdf",
+    "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 2.pdf",
+    "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 1.pdf",
+    "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
+    "Obsidian Vault/Compiler Design/PDFs/CD MOD 2.pdf",
+    "Obsidian Vault/Compiler Design/PDFs/CD MOD 4 PART 2.pdf",
+    "Obsidian Vault/Compiler Design/PDFs/CD MOD 4 PART 1.pdf",
+    "Obsidian Vault/! Placement/Operating Systems/Storage Compaction.md",
+    "Obsidian Vault/! Placement/Operating Systems/Loader.md",
+    "Obsidian Vault/! Placement/Operating Systems/External Fragmentation.md",
     "Obsidian Vault/! Placement/Java/Questions.md",
     "Obsidian Vault/MOSS/Design Patterns.md",
     "Obsidian Vault/MOSS/Agile Software Development.md",
@@ -187,29 +200,14 @@
     "Obsidian Vault/System Software/Module 3/!! One Pass assembler.md",
     "Obsidian Vault/System Software/Module 3/! Multipass Assembler.md",
     "Obsidian Vault/System Software/Module 3/! Load and go assembler.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 1/8086 registers.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 1/8086.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 1/8085.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 1/8085 vs 8086.md",
-    "Obsidian Vault/CGIP/Module 2/! Formulae.md",
     "Obsidian Vault/Computer Networks/Module 1/OSI Model.png",
     "Obsidian Vault/Images/Pasted image 20250422151806.png",
-    "Obsidian Vault/! Placement/System Analysis and Design",
     "Obsidian Vault/Images/Pasted image 20250216235308.png",
-    "Obsidian Vault/! Placement/Java",
-    "Obsidian Vault/! Placement/DBMS",
     "Obsidian Vault/Images/Pasted image 20250419154634.png",
     "Obsidian Vault/Images/Pasted image 20250419154455.png",
-    "Obsidian Vault/! Placement/DS 1/Expression Evaluation",
-    "Obsidian Vault/! Placement/DS 1",
     "Obsidian Vault/Images/Pasted image 20250416205305.png",
     "Obsidian Vault/Images/Pasted image 20250416201858.png",
     "Obsidian Vault/System Software/Module 1/Software.png",
-    "Obsidian Vault/IEFT",
-    "Obsidian Vault/DSA/Linked List/Easy",
-    "Obsidian Vault/DSA/Binary Trees",
-    "Obsidian Vault/DSA/Binary Search/Medium",
-    "Obsidian Vault/DSA/Binary Search/Hard",
     "Obsidian Vault/Images/Pasted image 20250318025505.png",
     "Obsidian Vault/Images/Pasted image 20250304011447.png"
   ]
