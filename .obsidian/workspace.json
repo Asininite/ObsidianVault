@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 4/SDT.md",
+                "file": "Obsidian Vault/Compiler Design/Module 4/Bottom-Up Approach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDT"
+              "title": "Bottom-Up Approach"
             }
           }
         ]
@@ -170,11 +170,12 @@
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
     "Obsidian Vault/Compiler Design/Module 4/SDD for Desk Calculator.md",
+    "Obsidian Vault/Compiler Design/Module 4/Bottom-Up Approach.md",
+    "Obsidian Vault/Compiler Design/Module 4/SDD Syntax Directed Definition.md",
     "Obsidian Vault/Compiler Design/Module 4/SDT.md",
     "Pasted image 20250425004835.png",
     "Obsidian Vault/Compiler Design/Module 4/Synthesized vs Inherited.md",
     "Obsidian Vault/Compiler Design/Module 4/S-attributed vs L-attributed SDD.md",
-    "Obsidian Vault/Compiler Design/Module 4/SDD Syntax Directed Definition.md",
     "Obsidian Vault/Compiler Design/Module 4/Semantic Analysis.md",
     "Obsidian Vault/Compiler Design/PDFs/CD MOD 4 PART 1.pdf",
     "Obsidian Vault/Compiler Design/Module 4/Infix to Postfix.md",
@@ -206,7 +207,6 @@
     "Obsidian Vault/Compiler Design/Module 2/CFG.md",
     "Obsidian Vault/Compiler Design/Module 2/FIRST and FOLLOW.md",
     "Obsidian Vault/Compiler Design/Module 2/LL(1) Parser or Predictive Parser.md",
-    "Obsidian Vault/Compiler Design/Module 2/Parsers.md",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf.crdownload",
     "Obsidian Vault/Compiler Design/Module 2",
