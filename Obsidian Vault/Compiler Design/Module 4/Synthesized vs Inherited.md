@@ -1,3 +1,11 @@
-- An attribute is said to be Synthesized attribute if its parse tree node value is determined by the attribute value at child nodes.
-- [ ] An attribute is said to be Inherited attribute if its parse tree node value is determined by the attribute value at parent and/or siblings node.
+- **Synthesized** : Nodes takes value from its children 
+	  A -> BCD,
+		  A.S = B.S
+		  A.S = C.S
+		  A.S = D.S
+- **Inherited** : Node takes value from its parent or siblings
+	  A -> BCD 
+	  C.i = A.i ... parent node
+	  C.i = B.i ... sibling node
+	  C.i = D.i ... sibling node
 

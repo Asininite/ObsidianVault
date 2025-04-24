@@ -1,3 +1,5 @@
+- **Follow the same steps as LR(0) up till the point where you mark the reduced states (states with dot at the end). Here, instead of marking all the terminals with r1 or r2 or r3...., mark only the states which are in FOLLOW(LHS)**
+
 -  SLR(1) uses FOLLOW sets to decide where to place Reduce actions, making it more powerful than LR(0). The FOLLOW(A) set contains all terminals that can immediately follow the non-terminal A in any valid derivation, plus $ if A can be the last symbol in a sentence.
     
 - **Action:** Calculate the FOLLOW set for every non-terminal in the original grammar (S and A in this case).
