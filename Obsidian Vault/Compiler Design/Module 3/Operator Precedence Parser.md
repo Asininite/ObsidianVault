@@ -1,0 +1,2 @@
+- two variables (A B D) **cannot be adjacent on right side**
+- no Epsilon($\epsilon$) on **right** **side** of production
