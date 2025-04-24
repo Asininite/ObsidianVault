@@ -19,3 +19,4 @@
 - More than one reduction is possible for the corresponding handles
 - We can select only ONE reduction
 
+![[Pasted image 20250424122754.png]]
