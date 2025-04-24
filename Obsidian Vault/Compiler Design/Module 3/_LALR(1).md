@@ -1,0 +1,2 @@
+- we use the same concept as CLR(1) but we check if any two states are the same except for the look-aheads, then we merge them and we write the state transition (S3 S6) as (S36) for example. 
+- reduction remains the same

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 3/_CLR(1).md",
+                "file": "Obsidian Vault/Compiler Design/Module 3/_LALR(1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_CLR(1)"
+              "title": "_LALR(1)"
             }
           }
         ]
@@ -169,12 +169,13 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
-    "Pasted image 20250424215401.png",
-    "Obsidian Vault/Compiler Design/Module 3/_SLR(1).md",
     "Obsidian Vault/Compiler Design/Module 3/_CLR(1).md",
+    "Obsidian Vault/Compiler Design/Module 3/_LALR(1).md",
+    "Obsidian Vault/Compiler Design/Module 3/_SLR(1).md",
+    "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 3.pdf",
+    "Pasted image 20250424215401.png",
     "Obsidian Vault/Compiler Design/Module 3/_LR(0) parser.md",
     "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
-    "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 3.pdf",
     "Obsidian Vault/Images/Screenshot_20250424-143945.YouTube ReVanced.png",
     "Screenshot_20250424-143945.YouTube ReVanced.png",
     "Obsidian Vault/Compiler Design/Module 3/Handle Pruning.md",
@@ -189,7 +190,6 @@
     "Pasted image 20250424122754.png",
     "t.md",
     "Obsidian Vault/Images/Pasted image 20250424121805.png",
-    "Obsidian Vault/Images/Pasted image 20250424121536.png",
     "Obsidian Vault/Compiler Design/Module 1/Role of Lexical Analyzer.md",
     "Obsidian Vault/Compiler Design/Module 2/Eliminating Left Recursion.md",
     "Obsidian Vault/Compiler Design/Module 2/Ambiguous Grammar.md",
