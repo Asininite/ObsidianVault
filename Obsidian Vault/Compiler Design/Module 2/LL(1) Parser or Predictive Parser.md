@@ -8,6 +8,6 @@
 ### 4. Construction of Parsing Table
 - A -> $\alpha$, 
 	  FIRST($\alpha$) -> a 
-	  Add A -> $\alpha$ to M[A, a] 
+	  Add A -> $\alpha$ to M[A, a]  
 
 ### 5. Check whether input string is accepted by parser or not
