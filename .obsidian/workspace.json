@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 3/Bottom Up Parsing.md",
+                "file": "Obsidian Vault/Compiler Design/Module 3/Handle Pruning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bottom Up Parsing"
+              "title": "Handle Pruning"
             }
           }
         ]
@@ -170,9 +170,11 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Pasted image 20250424121805.png",
+    "Obsidian Vault/Compiler Design/Module 3/Bottom Up Parsing.md",
+    "Obsidian Vault/Compiler Design/Module 3/Handle Pruning.md",
     "Pasted image 20250424121536.png",
     "Obsidian Vault/Compiler Design/Module 1/Role of Lexical Analyzer.md",
-    "Obsidian Vault/Compiler Design/Module 3/Bottom Up Parsing.md",
     "Obsidian Vault/Compiler Design/Module 2/Eliminating Left Recursion.md",
     "Obsidian Vault/Compiler Design/Module 2/Ambiguous Grammar.md",
     "Obsidian Vault/Compiler Design/Module 2/Eliminate Left Factoring.md",
@@ -211,10 +213,8 @@
     "Obsidian Vault/MOSS/Module 5/Software Quality Assurance.md",
     "Obsidian Vault/MOSS/Module 5/Software Quality.md",
     "Obsidian Vault/MOSS/Module 5/Microservices.md",
-    "Obsidian Vault/MOSS/Module 5/Mc'calls Quality Factors.md",
     "Obsidian Vault/Computer Networks/Module 1/OSI Model.png",
     "Obsidian Vault/Images/Pasted image 20250422151806.png",
-    "Obsidian Vault/Images/Pasted image 20250216235308.png",
-    "Obsidian Vault/Images/Pasted image 20250419154634.png"
+    "Obsidian Vault/Images/Pasted image 20250216235308.png"
   ]
 }
