@@ -1,5 +1,5 @@
 ### FIRST
-1. If A -> a $\alpha$ , **FIRST(A) = { a }**
+1. If A -> a $\alpha$ | b $\beta$ | ...  , **FIRST(A) = { a, b, ... }**
 2. If A -> $\epsilon$ , **FIRST(A) = $\epsilon$**
 3. If A -> B C, 
 	   **FIRST(A) = FIRST(B)** if FIRST(B) not contain $\epsilon$
