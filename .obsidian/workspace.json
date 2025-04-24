@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 3/Operator Precedence Parser.md",
+                "file": "Obsidian Vault/Compiler Design/Module 3/SLR(1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operator Precedence Parser"
+              "title": "SLR(1)"
             }
           }
         ]
@@ -170,18 +170,22 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Obsidian Vault/Compiler Design/Module 3/LR(0) parser.md",
+    "Obsidian Vault/Compiler Design/Module 3/SLR(1).md",
+    "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
+    "Screenshot_20250424-143945.YouTube ReVanced.png",
+    "Obsidian Vault/Compiler Design/Module 3/Handle Pruning.md",
+    "Obsidian Vault/Compiler Design/Module 3/Bottom Up Parsing.md",
+    "Obsidian Vault/Compiler Design/Module 3/Shift Reduce Parser.md",
+    "Obsidian Vault/Compiler Design/Module 3/Operator Precedence Parser.md",
     "Obsidian Vault/Images/Pasted image 20250424124634.png",
     "Obsidian Vault/Images/Pasted image 20250424123650.png",
     "Obsidian Vault/Images/Pasted image 20250424122754.png",
     "Pasted image 20250424124634.png",
     "Pasted image 20250424123650.png",
-    "Obsidian Vault/Compiler Design/Module 3/Shift Reduce Parser.md",
-    "Obsidian Vault/Compiler Design/Module 3/Operator Precedence Parser.md",
     "Pasted image 20250424122754.png",
     "t.md",
-    "Obsidian Vault/Compiler Design/Module 3/Handle Pruning.md",
     "Obsidian Vault/Images/Pasted image 20250424121805.png",
-    "Obsidian Vault/Compiler Design/Module 3/Bottom Up Parsing.md",
     "Obsidian Vault/Images/Pasted image 20250424121536.png",
     "Obsidian Vault/Compiler Design/Module 1/Role of Lexical Analyzer.md",
     "Obsidian Vault/Compiler Design/Module 2/Eliminating Left Recursion.md",
@@ -192,12 +196,9 @@
     "Obsidian Vault/Compiler Design/Module 2/LL(1) Parser or Predictive Parser.md",
     "Obsidian Vault/Compiler Design/Module 2/Parsers.md",
     "Obsidian Vault/Compiler Design/Module 2/Role Of Syntax Analyzer (Parser).md",
-    "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
     "Obsidian Vault/Images/Pasted image 20250424115813.png",
-    "Obsidian Vault/Images/Pasted image 20250423201247.png",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf.crdownload",
-    "Obsidian Vault/Images/Pasted image 20250423192417.png",
     "Obsidian Vault/Compiler Design/Module 2",
     "Obsidian Vault/Compiler Design/PDFs/CD MOD 1.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CD MODULE 5.pdf",
@@ -214,7 +215,6 @@
     "Obsidian Vault/MOSS/Design Patterns.md",
     "Obsidian Vault/MOSS/Agile Software Development.md",
     "Obsidian Vault/MOSS/Module 5/SPI Software Process Improvement.md",
-    "Obsidian Vault/MOSS/Module 5/Software Quality Dilemma.md",
-    "Obsidian Vault/MOSS/Module 5/Software Quality Assurance.md"
+    "Obsidian Vault/MOSS/Module 5/Software Quality Dilemma.md"
   ]
 }
