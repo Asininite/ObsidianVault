@@ -9,3 +9,6 @@ B -> d
 input string 'abbcde'
  
 ```
+
+![[Pasted image 20250424121536.png]]
+
