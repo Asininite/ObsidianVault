@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
+                "file": "Obsidian Vault/Compiler Design/Module 3/Bottom Up Parsing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LR Parser"
+              "title": "Bottom Up Parsing"
             }
           }
         ]
@@ -170,17 +170,19 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
-    "Obsidian Vault/Compiler Design/Module 2/Parsers.md",
-    "Pasted image 20250424115813.png",
-    "Obsidian Vault/Compiler Design/Module 2/LL(1) Parser or Predictive Parser.md",
-    "Obsidian Vault/Compiler Design/Module 2/FIRST and FOLLOW.md",
-    "Obsidian Vault/Compiler Design/Module 2/Eliminate Left Factoring.md",
+    "Obsidian Vault/Compiler Design/Module 1/Role of Lexical Analyzer.md",
+    "Obsidian Vault/Compiler Design/Module 3/Bottom Up Parsing.md",
     "Obsidian Vault/Compiler Design/Module 2/Eliminating Left Recursion.md",
     "Obsidian Vault/Compiler Design/Module 2/Ambiguous Grammar.md",
+    "Obsidian Vault/Compiler Design/Module 2/Eliminate Left Factoring.md",
     "Obsidian Vault/Compiler Design/Module 2/CFG.md",
-    "Pasted image 20250423201247.png",
+    "Obsidian Vault/Compiler Design/Module 2/FIRST and FOLLOW.md",
+    "Obsidian Vault/Compiler Design/Module 2/LL(1) Parser or Predictive Parser.md",
+    "Obsidian Vault/Compiler Design/Module 2/Parsers.md",
     "Obsidian Vault/Compiler Design/Module 2/Role Of Syntax Analyzer (Parser).md",
-    "Obsidian Vault/Compiler Design/Module 1/Role of Lexical Analyzer.md",
+    "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
+    "Pasted image 20250424115813.png",
+    "Pasted image 20250423201247.png",
     "t.md",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf",
     "Obsidian Vault/Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf.crdownload",
@@ -210,7 +212,6 @@
     "Obsidian Vault/MOSS/Module 5/Microservices.md",
     "Obsidian Vault/MOSS/Module 5/Mc'calls Quality Factors.md",
     "Obsidian Vault/MOSS/Module 5/ISO 9126 Quality Factors FRUEMP.md",
-    "Obsidian Vault/MOSS/Module 5/Garvins Quality Dimensions PFRCDSAP.md",
     "Obsidian Vault/Computer Networks/Module 1/OSI Model.png",
     "Obsidian Vault/Images/Pasted image 20250422151806.png",
     "Obsidian Vault/Images/Pasted image 20250216235308.png",
