@@ -11,3 +11,7 @@
 	  Add A -> $\alpha$ to M[A, a]  
 
 ### 5. Check whether input string is accepted by parser or not
+
+
+- A -> $\epsilon$  : **mark the follow columns**
+- rest : **mark the first columns**
