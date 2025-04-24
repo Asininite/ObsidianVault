@@ -14,4 +14,7 @@ convert this to : E -> E + E | E * E | id by substituting A
 ### Rules
 - **variables** get higher priority
 -  $ gets **least** priority
-- 
+
+
+![[Pasted image 20250424124634.png]]
+
