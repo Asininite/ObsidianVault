@@ -1,1 +1,2 @@
 - **context-free grammar + semantic rules** 
+- ![[Pasted image 20250424224741.png]]
