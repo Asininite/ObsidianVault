@@ -1,0 +1,3 @@
+- **use canonical collection of LR(1) items**
+- we use look-aheads here
+- 
