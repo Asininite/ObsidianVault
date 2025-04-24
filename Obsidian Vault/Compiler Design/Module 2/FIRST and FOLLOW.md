@@ -13,3 +13,5 @@
 	   **FOLLOW(B) = FOLLOW(A)**
 4. If A -> $\alpha$ B, then **FOLLOW(B) = FOLLOW(A)**
 
+- A -> B C, then **FOLLOW(C) = FOLLOW(A)** 
+
