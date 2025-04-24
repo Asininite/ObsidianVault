@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 4/SDD for Desk Calculator.md",
+                "file": "Obsidian Vault/Compiler Design/Module 4/SDT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDD for Desk Calculator"
+              "title": "SDT"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "2285ec033214da64",
@@ -170,9 +169,10 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Obsidian Vault/Compiler Design/Module 4/SDD for Desk Calculator.md",
+    "Obsidian Vault/Compiler Design/Module 4/SDT.md",
     "Pasted image 20250425004835.png",
     "Obsidian Vault/Compiler Design/Module 4/Synthesized vs Inherited.md",
-    "Obsidian Vault/Compiler Design/Module 4/SDD for Desk Calculator.md",
     "Obsidian Vault/Compiler Design/Module 4/S-attributed vs L-attributed SDD.md",
     "Obsidian Vault/Compiler Design/Module 4/SDD Syntax Directed Definition.md",
     "Obsidian Vault/Compiler Design/Module 4/Semantic Analysis.md",
@@ -198,7 +198,6 @@
     "Obsidian Vault/Images/Pasted image 20250424124634.png",
     "Obsidian Vault/Images/Pasted image 20250424123650.png",
     "Obsidian Vault/Images/Pasted image 20250424122754.png",
-    "Pasted image 20250424124634.png",
     "t.md",
     "Obsidian Vault/Compiler Design/Module 1/Role of Lexical Analyzer.md",
     "Obsidian Vault/Compiler Design/Module 2/Eliminating Left Recursion.md",
