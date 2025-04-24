@@ -13,4 +13,5 @@ convert this to : E -> E + E | E * E | id by substituting A
 
 ### Rules
 - **variables** get higher priority
--  
+-  $ gets **least** priority
+- 
