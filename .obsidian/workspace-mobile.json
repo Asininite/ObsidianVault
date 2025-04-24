@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
+                "file": "Obsidian Vault/Compiler Design/Module 3/LR(0) parser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LR Parser"
+              "title": "LR(0) parser"
             }
           }
         ]
@@ -154,8 +154,16 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
-    "Obsidian Vault/Compiler Design/Module 3/Handle Pruning.md",
+    "Screenshot_20250424-143945.YouTube ReVanced.png",
+    "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
+    "Obsidian Vault/Compiler Design/Module 3/LR(0) parser.md",
+    "Obsidian Vault/Compiler Design/Module 2/Eliminate Left Factoring.md",
+    "Obsidian Vault/Compiler Design/Module 2/Role Of Syntax Analyzer (Parser).md",
+    "Obsidian Vault/Compiler Design/Module 2/Parsers.md",
+    "Obsidian Vault/Compiler Design/Module 2/LL(1) Parser or Predictive Parser.md",
+    "Obsidian Vault/Compiler Design/Module 2/FIRST and FOLLOW.md",
     "Obsidian Vault/Compiler Design/Module 3/Bottom Up Parsing.md",
+    "Obsidian Vault/Compiler Design/Module 3/Handle Pruning.md",
     "Obsidian Vault/Computer Networks/Module 3/Connection-Less Services.md",
     "Obsidian Vault/DSA/Binary Search/Medium/! Search a 2D Matrix.md",
     "Obsidian Vault/DSA/Linked List/Easy/Find Middle Of Linked List.md",
@@ -184,21 +192,13 @@
     "Untitled.md",
     "Pasted image 20250304011447.png",
     "/Pasted image 20250304011447.png",
-    "/Obsidian Vault/DSA/Binary Search/Medium/! Search a 2D Matrix.md",
-    "Obsidian Vault/DSA/Linked List/Merge Two Sorted Linked Lists.md",
-    "Obsidian Vault/DSA/Linked List/! Revise This.md",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 4/8254 Programmable Interval Timer.md",
-    "Obsidian Vault/DSA/Binary Trees/Introduction.md",
     "Obsidian Vault/Images/Pasted image 20250221040822.png",
-    "/Obsidian Vault/IEFT/Law of Variable Proportions.md",
-    "/Obsidian Vault/DSA/Binary Trees/Introduction.md",
     "/Obsidian Vault/Images/Pasted image 20250221040822.png",
     "Obsidian Vault/Images/Pasted image 20250217104212.png",
     "Obsidian Vault/Images/Pasted image 20250217003125.png",
     "Obsidian Vault/Images/Pasted image 20250217003050.png",
     "Obsidian Vault/Images/Pasted image 20250217002705.png",
     "Obsidian Vault/Images/Pasted image 20250216235308.png",
-    "Obsidian Vault/Images/Pasted image 20250216235250.png",
-    "Obsidian Vault/Microprocessor and Microcontroller/Module 3/8259 Programmable Interrupt Control.md"
+    "Obsidian Vault/Images/Pasted image 20250216235250.png"
   ]
 }
