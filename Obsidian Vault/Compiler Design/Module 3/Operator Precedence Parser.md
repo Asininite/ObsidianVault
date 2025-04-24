@@ -8,3 +8,5 @@ E -> E A E | id
 A -> + | * 
 
 convert this to : E -> E + E | E * E | id by substituting A 
+
+![[Pasted image 20250424123650.png]]
