@@ -11,14 +11,16 @@
             "id": "c8a3d40dffe5eac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 3/LR(0) parser.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Compiler Design/PDFs/CD MOD 4 PART 1.pdf",
+                "page": 1,
+                "left": 0,
+                "top": 770,
+                "zoom": 0.5319327731092437
               },
-              "icon": "lucide-file",
-              "title": "LR(0) parser"
+              "icon": "lucide-file-text",
+              "title": "CD MOD 4 PART 1"
             }
           }
         ]
@@ -96,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/DSA/Two Pointers/3Sum.md",
+            "file": "Obsidian Vault/Compiler Design/PDFs/CD MOD 4 PART 1.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,8 +154,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f7d23ea1ef129056",
+  "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
+    "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 2.pdf",
+    "Obsidian Vault/Compiler Design/Module 3/LR(0) parser.md",
     "/Obsidian Vault/Compiler Design/Module 3/SLR(1).md",
     "Obsidian Vault/Compiler Design/Module 3/SLR(1).md",
     "/Obsidian Vault/Compiler Design/Module 3",
@@ -161,7 +165,6 @@
     "/Obsidian Vault",
     "Obsidian Vault/Images/Screenshot_20250424-143945.YouTube ReVanced.png",
     "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
-    "Obsidian Vault/Compiler Design/Module 3/LR(0) parser.md",
     "Obsidian Vault/Compiler Design/Module 2/Eliminate Left Factoring.md",
     "Obsidian Vault/Compiler Design/Module 2/Role Of Syntax Analyzer (Parser).md",
     "Obsidian Vault/Compiler Design/Module 2/Parsers.md",
@@ -190,7 +193,6 @@
     "Obsidian Vault/DSA/Two Pointers/Merge Two Sorted Arrays.md",
     "Obsidian Vault/DSA/Binary Search/Medium/Koko Eating Bananas.md",
     "/Obsidian Vault/DSA/Binary Search/Medium/Koko Eating Bananas.md",
-    "Obsidian Vault/IEFT/Law of Variable Proportions.md",
     "Pasted image 20250304011447.png",
     "/Pasted image 20250304011447.png",
     "Obsidian Vault/Images/Pasted image 20250221040822.png",
