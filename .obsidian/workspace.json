@@ -11,14 +11,16 @@
             "id": "da9fb105be9ff956",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 4/Synthesized vs Inherited.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Compiler Design/PDFs/CD MOD 4 PART 1.pdf",
+                "page": 1,
+                "left": -12,
+                "top": 708,
+                "zoom": 1.3399159663865547
               },
-              "icon": "lucide-file",
-              "title": "Synthesized vs Inherited"
+              "icon": "lucide-file-text",
+              "title": "CD MOD 4 PART 1"
             }
           }
         ]
@@ -169,8 +171,9 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Obsidian Vault/Compiler Design/Module 4/S-attributed vs L-attributed SDD.md",
     "Obsidian Vault/Compiler Design/Module 4/Synthesized vs Inherited.md",
+    "Untitled.md",
     "Obsidian Vault/Compiler Design/Module 4/SDD Syntax Directed Definition.md",
     "Pasted image 20250424224741.png",
     "Obsidian Vault/Compiler Design/Module 3/_LALR(1).md",
@@ -213,7 +216,6 @@
     "Obsidian Vault/Compiler Design/PDFs/CD MOD 3 PART 2.pdf",
     "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
     "Obsidian Vault/! Placement/Operating Systems/Storage Compaction.md",
-    "Obsidian Vault/! Placement/Operating Systems/Loader.md",
-    "Obsidian Vault/! Placement/Operating Systems/External Fragmentation.md"
+    "Obsidian Vault/! Placement/Operating Systems/Loader.md"
   ]
 }
