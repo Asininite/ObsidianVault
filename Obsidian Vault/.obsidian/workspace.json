@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "841dea431e063748",
+        "id": "2359dacd3380f2e1",
         "type": "tabs",
         "children": [
           {
-            "id": "cf65ad81c9045bc9",
+            "id": "c29f156f6bfc162f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "! Placement/Operating Systems/Loader.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Loader"
+              "title": "New tab"
             }
           }
         ]
@@ -160,40 +156,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf65ad81c9045bc9",
+  "active": "c29f156f6bfc162f",
   "lastOpenFiles": [
+    "Compiler Design/Module 5/Peephole Optimization.md",
+    "Compiler Design/Module 5/Design Issues.md",
+    "Compiler Design/Module 5/Code generation algorithm.md",
+    "Compiler Design/Module 5",
+    "Images/Screenshot_20250424-143945.YouTube ReVanced.png",
+    "Images/Pasted image 20250424124634.png",
+    "Images/Pasted image 20250424123650.png",
+    "Images/Pasted image 20250424122754.png",
+    "Images/Pasted image 20250424121805.png",
+    "Images/Pasted image 20250424121536.png",
+    "Images/Pasted image 20250424115813.png",
+    "Images/Pasted image 20250423201247.png",
+    "Images/Pasted image 20250423192417.png",
+    "Images/Pasted image 20250423191912.png",
+    "Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf",
+    "Compiler Design/PDFs/CD MODULE 5.pdf",
+    "Compiler Design/PDFs/CD MOD 2.pdf",
+    "Compiler Design/PDFs/CD MOD 1.pdf",
+    "Compiler Design/Module 3/_CLR(1).md",
+    "Compiler Design/Module 3/Shift Reduce Parser.md",
+    "Compiler Design/Module 3/Operator Precedence Parser.md",
+    "Compiler Design/Module 3/Handle Pruning.md",
+    "Compiler Design/Module 3/Bottom Up Parsing.md",
+    "Compiler Design/Module 2/Role Of Syntax Analyzer (Parser).md",
+    "Compiler Design/Module 2/Parsers.md",
+    "Compiler Design/Module 2/LL(1) Parser or Predictive Parser.md",
+    "Compiler Design/Module 2/FIRST and FOLLOW.md",
+    "Compiler Design/Module 2/Eliminating Left Recursion.md",
+    "Compiler Design/Module 2/Eliminate Left Factoring.md",
+    "Compiler Design/Module 2/CFG.md",
+    "Compiler Design/Module 2/Ambiguous Grammar.md",
+    "Compiler Design/Module 2",
+    "Compiler Design/Module 1/Role of Lexical Analyzer.md",
+    "Orbit/46/saves.ini",
+    "Orbit/46/Save006.sav",
+    "Orbit/46/Save005.sav",
+    "Orbit/46/Save002.sav",
+    "! Placement/Operating Systems/Loader.md",
     "! Placement/System Analysis and Design/Phased Conversion.md",
-    "! Placement/System Analysis and Design",
     "! Placement/Java/char.md",
     "! Placement/Java/Questions.md",
-    "! Placement/Java",
     "! Placement/DS 1/System Design Life Cycle.md",
     "! Placement/DS 1/SDLC System Development Life Cycle.md",
     "! Placement/DS 1/Expression Evaluation.md",
-    "! Placement/DS 1",
     "something.md",
-    "Images/Pasted image 20250422151806.png",
-    "Images/Pasted image 20250419154634.png",
-    "Images/Pasted image 20250419154455.png",
-    "! Placement/Operating Systems or COA/Thrashing.md",
-    "! Placement/Operating Systems or COA/Terminal Table.md",
-    "! Placement/Operating Systems or COA/System Generation.md",
-    "! Placement/Operating Systems or COA/Storage-To-Storage Instructions.md",
-    "! Placement/Operating Systems or COA/Re-enterable.md",
-    "! Placement/Operating Systems or COA/Phases of Compiler.md",
-    "! Placement/Operating Systems or COA/MBR.md",
-    "! Placement/Operating Systems or COA/Macro.md",
-    "! Placement/Operating Systems or COA/Locality of Reference.md",
-    "! Placement/Operating Systems or COA/LRU.md",
-    "! Placement/Operating Systems or COA/Linker.md",
-    "! Placement/Operating Systems or COA/Interrupt Service Routine.md",
-    "! Placement/Operating Systems or COA/Dynamic Address Translation.md",
-    "! Placement/Operating Systems or COA/Disk Scheduling Algorithms.md",
-    "! Placement/Operating Systems or COA/Default Values.md",
-    "! Placement/Operating Systems or COA/Decision Tables.md",
-    "! Placement/Operating Systems or COA/Bankers Algorithm.md",
-    "! Placement/Operating Systems or COA/Addressing Structures.md",
-    "! Placement/Operating Systems or COA/! Pointer.md",
-    "! Placement/Operating Systems or COA"
+    "! Placement/Operating Systems or COA/Thrashing.md"
   ]
 }
