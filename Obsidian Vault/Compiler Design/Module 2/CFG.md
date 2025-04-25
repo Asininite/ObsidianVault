@@ -17,5 +17,5 @@
 - **root node** must be **start symbol**
 - **internal nodes** are **non-terminals**
 - **leaf nodes** are **terminals**
-- **yield of the tree** : connection of nodes from left to right
+- **yield of the tree** : connection of nodes from left to right ko
 - ![[Pasted image 20250423201247.png]]
