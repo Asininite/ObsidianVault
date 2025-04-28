@@ -1,3 +1,5 @@
+- **Resolution** : max number of points that can be displayed without overlap
+- **Aspect Ratio** : ratio of horizontal to vertical points
 ### Raster Scan
 - electron beam swept across the screen one row at a time from top-to-bottom
 	  beam intensity turned on and off to create a pattern of illuminated spots
@@ -12,8 +14,10 @@
 
 ### Random Scan
 - CRT direct electron beam to only the **parts** of screen where picture is to be **drawn** 
-- draw picture one line at a time, thus called **vector displays** 
+- draws picture one line at a time, thus called **vector displays** 
 - refresh rate depends on **number of lines** to be displayed
 - picture definition stored as **set of line drawing commands** in area of memory called **refresh display file** 
 - cycles through set of commands, processes all line-drawing commands, then returns back to first command
 - designed for **line drawing applications** and cannot display realistic scenes
+- random scan displays are designed to draw all the component lines of a picture 30 to 60 times a second
+- 
