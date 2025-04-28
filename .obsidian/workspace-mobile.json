@@ -11,14 +11,12 @@
             "id": "c8a3d40dffe5eac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "Obsidian Vault/Compiler Design/Module 5/Code generation algorithm.md",
-                "mode": "source",
-                "source": false
+                "file": "Music/Heavenly/Chemicals (FLAC 16_44.1 kHz).flac"
               },
-              "icon": "lucide-file",
-              "title": "Code generation algorithm"
+              "icon": "lucide-file-audio",
+              "title": "Chemicals (FLAC 16_44.1 kHz)"
             }
           }
         ]
@@ -154,11 +152,12 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
+    "Obsidian Vault/CGIP/Module 1/! Raster Scan vs Random Scan.md",
+    "Obsidian Vault/Compiler Design/Module 5/Code generation algorithm.md",
     "Obsidian Vault/Images/Pasted image 20250429000827.png",
     "Obsidian Vault/Images/Pasted image 20250428235646.png",
     "Obsidian Vault/CGIP/Module 1/Refresh CRT.md",
     "Obsidian Vault/CGIP/Module 1/Applications.md",
-    "Obsidian Vault/CGIP/Module 1/! Raster Scan vs Random Scan.md",
     "/Obsidian Vault/Images/Pasted image 20250429000827.png",
     "/Obsidian Vault/Images/Pasted image 20250428235646.png",
     "/Obsidian Vault/Images/Pasted image 20250428235405.png",
@@ -175,7 +174,6 @@
     "Obsidian Vault/Images/Pasted image 20250424235122.png",
     "Obsidian Vault/Images/Pasted image 20250424235112.png",
     "Obsidian Vault/Images/Pasted image 20250424224741.png",
-    "Obsidian Vault/Images/Pasted image 20250424215401.png",
     "Obsidian Vault/Compiler Design/Module 4/Synthesized vs Inherited.md",
     "Obsidian Vault/Compiler Design/Module 4/Semantic Analysis.md",
     "Obsidian Vault/Compiler Design/Module 4/SDT.md",
