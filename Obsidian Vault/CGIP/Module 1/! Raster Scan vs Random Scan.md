@@ -13,3 +13,5 @@
 ### Random Scan
 - CRT direct electron beam to only the **parts** of screen where picture is to be **drawn** 
 - draw picture one line at a time, thus called **vector displays** 
+- refresh rate depends on **number of lines** to be displayed
+- picture definition stored as **set of line drawing commands** in area of memory called **refresh display file** 
