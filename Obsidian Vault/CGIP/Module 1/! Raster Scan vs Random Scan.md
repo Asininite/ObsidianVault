@@ -15,3 +15,5 @@
 - draw picture one line at a time, thus called **vector displays** 
 - refresh rate depends on **number of lines** to be displayed
 - picture definition stored as **set of line drawing commands** in area of memory called **refresh display file** 
+- cycles through set of commands, processes all line-drawing commands, then returns back to first command
+- designed for **line drawing applications** and cannot display realistic scenes
