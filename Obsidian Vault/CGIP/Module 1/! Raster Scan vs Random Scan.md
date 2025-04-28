@@ -6,3 +6,10 @@
 	  stored values retrieved and painted onto the screen
 - eg : TV and Printer
 - for bi-level system where intensity value is 1 or 0, only 1 bit is needed to indicate that the beam intensity should be off or on
+- ![[Pasted image 20250429000827.png]]
+- **horizontal retrace** : return to left of screen after refreshing every scan line 
+- **vertical retrace** : return to top left of screen at the end of each frame
+
+### Random Scan
+- CRT direct electron beam to only the **parts** of screen where picture is to be **drawn** 
+- draw picture one line at a time, thus called **vector displays** 
