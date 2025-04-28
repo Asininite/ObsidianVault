@@ -9,6 +9,7 @@
 - eg : TV and Printer
 - for bi-level system where intensity value is 1 or 0, only 1 bit is needed to indicate that the beam intensity should be off or on
 - ![[Pasted image 20250429000827.png]]
+- ![[Pasted image 20250429024517.png]]
 - **horizontal retrace** : return to left of screen after refreshing every scan line 
 - **vertical retrace** : return to top left of screen at the end of each frame
 
@@ -20,4 +21,6 @@
 - cycles through set of commands, processes all line-drawing commands, then returns back to first command
 - designed for **line drawing applications** and cannot display realistic scenes
 - random scan displays are designed to draw all the component lines of a picture 30 to 60 times a second
-- 
+
+
+![[Pasted image 20250429024153.png]]
