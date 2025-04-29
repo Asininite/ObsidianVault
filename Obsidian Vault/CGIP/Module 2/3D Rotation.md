@@ -7,3 +7,5 @@
 ### Z-axis rotation
 ![[Pasted image 20250430031119.png]]
 
+### General 3D Rotation
+![[Pasted image 20250430031945.png]]

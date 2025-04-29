@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/Module 2/3D Rotation.md",
+                "file": "Obsidian Vault/CGIP/Module 2/3D Shear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3D Rotation"
+              "title": "3D Shear"
             }
           }
         ]
@@ -169,22 +169,26 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Pasted image 20250430032247.png",
+    "Obsidian Vault/CGIP/Module 2/3D Reflection.md",
+    "Obsidian Vault/CGIP/Module 2/3D Shear.md",
+    "Pasted image 20250430032207.png",
+    "Pasted image 20250430032200.png",
+    "Pasted image 20250430032152.png",
+    "Obsidian Vault/CGIP/Module 2/3D Scaling wrt to a selected fixed point (xf, yf, zf).md",
+    "Pasted image 20250430032051.png",
+    "Obsidian Vault/CGIP/Module 2/3D Scaling.md",
+    "Pasted image 20250430032009.png",
+    "Obsidian Vault/CGIP/Module 2/3D Rotation.md",
+    "Pasted image 20250430031945.png",
     "Pasted image 20250430031119.png",
     "Pasted image 20250430031012.png",
     "Pasted image 20250430030924.png",
     "Obsidian Vault/CGIP/Module 2/3D Translation.md",
-    "Obsidian Vault/CGIP/Module 2/3D Rotation.md",
     "Pasted image 20250430001324.png",
     "Obsidian Vault/CGIP/Module 2/! Show that the composition of two successive rotations is transitive.md",
-    "Pasted image 20250430000850.png",
     "Obsidian Vault/CGIP/Module 2/Shear.md",
-    "Pasted image 20250430000221.png",
-    "Pasted image 20250430000149.png",
-    "Pasted image 20250430000140.png",
     "Obsidian Vault/CGIP/Module 2/Arbitrary Reflections.md",
-    "Pasted image 20250429235906.png",
-    "Pasted image 20250429235854.png",
-    "Pasted image 20250429235834.png",
     "Obsidian Vault/CGIP/Module 2/Scaling about Arbitrary Point (xf, yf).md",
     "Obsidian Vault/CGIP/Module 2/Rotate About Arbitrary Point (px, py).md",
     "Obsidian Vault/CGIP/Module 2/General Translation Rotation Scaling.md",
@@ -210,10 +214,6 @@
     "Obsidian Vault/Compiler Design/Module 1/2. Phases of Compiler.md",
     "Obsidian Vault/Compiler Design/Module 1/1. Compiler Architecture.md",
     "Obsidian Vault/Compiler Design/Module 2/LL(1) Parser or Predictive Parser.md",
-    "Obsidian Vault/Compiler Design/Module 5/Design Issues.md",
-    "Obsidian Vault/Compiler Design/Module 5/Code generation algorithm.md",
-    "Obsidian Vault/Compiler Design/Module 5/Peephole Optimization.md",
-    "Obsidian Vault/Compiler Design/Module 4/DAG.md",
-    "Obsidian Vault/Compiler Design/Module 4/SDD for Desk Calculator.md"
+    "Obsidian Vault/Compiler Design/Module 5/Design Issues.md"
   ]
 }
