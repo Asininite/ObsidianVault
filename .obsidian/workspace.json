@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/Module 1/! Raster Scan vs Random Scan.md",
+                "file": "Obsidian Vault/CGIP/Module 1/DDA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! Raster Scan vs Random Scan"
+              "title": "DDA"
             }
           }
         ]
@@ -169,6 +169,10 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Pasted image 20250429183048.png",
+    "Obsidian Vault/CGIP/Module 1/Colour CRT.md",
+    "Obsidian Vault/CGIP/Module 1/DDA.md",
+    "Obsidian Vault/CGIP/Module 1/! Raster Scan vs Random Scan.md",
     "Pasted image 20250429024517.png",
     "Pasted image 20250429024153.png",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/folder.jpg",
@@ -183,7 +187,6 @@
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/03 - In the Middle of the Moving Field.flac",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/02 - Rains Lit by Neon.flac",
     "Obsidian Vault/CGIP/Module 1/Refresh CRT.md",
-    "Obsidian Vault/CGIP/Module 1/! Raster Scan vs Random Scan.md",
     "Obsidian Vault/Images/Pasted image 20250429000827.png",
     "Obsidian Vault/Images/Pasted image 20250428235646.png",
     "Obsidian Vault/Images/Pasted image 20250428235405.png",
@@ -203,7 +206,6 @@
     "Obsidian Vault/Compiler Design/Module 4/Bottom-Up Approach.md",
     "Obsidian Vault/Images/Pasted image 20250425031032.png",
     "Obsidian Vault/Compiler Design/Module 4/SDT.md",
-    "Obsidian Vault/Images/Pasted image 20250425004835.png",
     "Obsidian Vault/Compiler Design/Module 4/Synthesized vs Inherited.md",
     "Obsidian Vault/Compiler Design/Module 4/S-attributed vs L-attributed SDD.md",
     "Obsidian Vault/Compiler Design/Module 4/Semantic Analysis.md",
@@ -212,8 +214,6 @@
     "Obsidian Vault/Compiler Design/Module 3/_LALR(1).md",
     "Obsidian Vault/Compiler Design/Module 3/_CLR(1).md",
     "Obsidian Vault/Compiler Design/Module 3/_SLR(1).md",
-    "Obsidian Vault/Compiler Design/Module 3/_LR(0) parser.md",
-    "Obsidian Vault/Compiler Design/Module 3/LR Parser.md",
-    "Obsidian Vault/Compiler Design/Module 3/Handle Pruning.md"
+    "Obsidian Vault/Compiler Design/Module 3/_LR(0) parser.md"
   ]
 }
