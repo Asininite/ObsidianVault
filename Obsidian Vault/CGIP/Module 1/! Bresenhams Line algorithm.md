@@ -16,3 +16,4 @@ $\Delta y = y2 - y1$
 
 ![[Pasted image 20250429184608.png]]
 ![[Pasted image 20250429184555.png]]
+![[Pasted image 20250429185102.png]]
