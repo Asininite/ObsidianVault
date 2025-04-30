@@ -10,4 +10,8 @@
 - **16 bit color format** : color image format with 65536 different colors
 	  high color format
 	  RGB format (red green blue)
-	  5 bits for red, 6 bits for green (it is soothing to eyes) and 5 bits for blue
+	  **5** bits for red, **6** bits for green (it is soothing to eyes) and **5** bits for blue
+- **24 bit color format** : true color format
+	  **8** bits for red, **8** bits for green, **8** bits for blue
+	  format is **PPM** Portable PixMap
+	  windows has its own format, BMP BitMap
