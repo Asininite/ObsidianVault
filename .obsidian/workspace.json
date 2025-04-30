@@ -169,8 +169,10 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
-    "Obsidian Vault/CGIP/Module 3/Window to Viewport Tranformation.md",
+    "Obsidian Vault/CGIP/Module 3/Point CLipping.md",
+    "Pasted image 20250430172130.png",
     "Obsidian Vault/CGIP/Module 3/Line Clipping.md",
+    "Obsidian Vault/CGIP/Module 3/Window to Viewport Tranformation.md",
     "Pasted image 20250430170849.png",
     "Pasted image 20250430170444.png",
     "Pasted image 20250430170436.png",
@@ -187,7 +189,6 @@
     "Pasted image 20250430033010.png",
     "Obsidian Vault/CGIP/Module 2/! Show that the composition of two successive rotations is transitive.md",
     "Obsidian Vault/CGIP/Module 2/3D Shear.md",
-    "Pasted image 20250430032620.png",
     "Obsidian Vault/CGIP/Module 2/3D Reflection.md",
     "Obsidian Vault/CGIP/Module 2/3D Scaling wrt to a selected fixed point (xf, yf, zf).md",
     "Obsidian Vault/CGIP/Module 2/3D Scaling.md",
@@ -204,7 +205,6 @@
     "Obsidian Vault/CGIP/Module 1/! Bresenhams Line algorithm.md",
     "Obsidian Vault/CGIP/Module 1/! DDA.md",
     "Obsidian Vault/CGIP/Module 1/Colour CRT.md",
-    "Obsidian Vault/CGIP/Module 1/! Raster Scan vs Random Scan.md",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/11 - Our Dream to Be Strangers.flac",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/10 - (06.26.17) Waiting in Hangzhou.flac",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/09 - Prelude to Obsession II.flac",
@@ -213,7 +213,6 @@
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/06 - For the Entirety.flac",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/05 - Text Me When You Wake Up.flac",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/04 - (06.26.17) Maglev at 303 km_h.flac",
-    "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/03 - In the Middle of the Moving Field.flac",
-    "Obsidian Vault/CGIP/Module 1/Refresh CRT.md"
+    "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/03 - In the Middle of the Moving Field.flac"
   ]
 }
