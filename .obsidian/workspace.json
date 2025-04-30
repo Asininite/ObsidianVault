@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/Module 3/Parallel vs Perspective.md",
+                "file": "Obsidian Vault/CGIP/Module 3/Visible Surface Detection Algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parallel vs Perspective"
+              "title": "Visible Surface Detection Algorithms"
             }
           }
         ]
@@ -169,10 +169,13 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Obsidian Vault/CGIP/Module 3/Parallel vs Perspective.md",
+    "Obsidian Vault/CGIP/Module 3/Visible Surface Detection Algorithms.md",
+    "Pasted image 20250430194455.png",
+    "Pasted image 20250430194447.png",
     "Pasted image 20250430193730.png",
     "Pasted image 20250430193718.png",
     "Obsidian Vault/CGIP/Module 3/3-D Viewing Pipeline.md",
-    "Obsidian Vault/CGIP/Module 3/Parallel vs Perspective.md",
     "Pasted image 20250430193455.png",
     "Pasted image 20250430193452.png",
     "Pasted image 20250430192138.png",
@@ -181,9 +184,6 @@
     "Pasted image 20250430191200.png",
     "Pasted image 20250430191137.png",
     "Pasted image 20250430191039.png",
-    "Pasted image 20250430191028.png",
-    "Pasted image 20250430191004.png",
-    "Pasted image 20250430190955.png",
     "Obsidian Vault/CGIP/Module 3/Cohen Sutherland Line CLipping Algorithm.md",
     "Obsidian Vault/CGIP/Module 3/Line Clipping.md",
     "Obsidian Vault/CGIP/Module 3/Point CLipping.md",
