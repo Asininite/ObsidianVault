@@ -19,5 +19,7 @@
 	image partitioned into its objects
 	image partitioned into various subgroups called image objects which reduce the complexity of the image
 - Representation
-	
+	output of segmentation
+	raw pixel data consisting of all the points of the region or constituting either the boundary of the region
 - Object Recognition
+	label is assigned to the object based on descriptors
