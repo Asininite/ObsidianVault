@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/Module 4/Spatial Resolution and Grey Level Resolution.md",
+                "file": "Obsidian Vault/CGIP/Module 4/Neighborhood, Adjacency, Connectivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spatial Resolution and Grey Level Resolution"
+              "title": "Neighborhood, Adjacency, Connectivity"
             }
           }
         ]
@@ -169,10 +169,13 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Pasted image 20250501025010.png",
+    "Pasted image 20250501024948.png",
+    "Obsidian Vault/CGIP/Module 4/Spatial Resolution and Grey Level Resolution.md",
+    "Obsidian Vault/CGIP/Module 4/Neighborhood, Adjacency, Connectivity.md",
     "Pasted image 20250501024426.png",
     "Pasted image 20250501024407.png",
     "Obsidian Vault/CGIP/Module 4/Sampling and Quantization.md",
-    "Obsidian Vault/CGIP/Module 4/Spatial Resolution and Grey Level Resolution.md",
     "Pasted image 20250501022945.png",
     "Pasted image 20250501022914.png",
     "Obsidian Vault/CGIP/Module 4/Image.md",
@@ -203,9 +206,6 @@
     "Obsidian Vault/CGIP/Module 1/! Bresenham Circle Generation Algorithm.md",
     "Obsidian Vault/CGIP/Module 1/! DDA.md",
     "Obsidian Vault/CGIP/Module 1/! Mid-point Circle Generating Algorithm.md",
-    "Obsidian Vault/CGIP/Module 3/Parallel vs Perspective.md",
-    "Obsidian Vault/Images/Pasted image 20250430194455.png",
-    "Obsidian Vault/Images/Pasted image 20250430194447.png",
     "Obsidian Vault/CGIP/Module 3",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/11 - Our Dream to Be Strangers.flac",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/10 - (06.26.17) Waiting in Hangzhou.flac",
