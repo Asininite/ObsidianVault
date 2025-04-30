@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/Module 3/3-D Viewing Pipeline.md",
+                "file": "Obsidian Vault/CGIP/Module 3/Parallel vs Perspective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-D Viewing Pipeline"
+              "title": "Parallel vs Perspective"
             }
           }
         ]
@@ -169,9 +169,14 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Pasted image 20250430193730.png",
+    "Pasted image 20250430193718.png",
+    "Obsidian Vault/CGIP/Module 3/3-D Viewing Pipeline.md",
+    "Obsidian Vault/CGIP/Module 3/Parallel vs Perspective.md",
+    "Pasted image 20250430193455.png",
+    "Pasted image 20250430193452.png",
     "Pasted image 20250430192138.png",
     "Obsidian Vault/CGIP/Module 1/! Bresenhams Line algorithm.md",
-    "Obsidian Vault/CGIP/Module 3/3-D Viewing Pipeline.md",
     "Obsidian Vault/CGIP/Module 3/Sutherland Hodgeman Polygon Clipping.md",
     "Pasted image 20250430191200.png",
     "Pasted image 20250430191137.png",
@@ -179,11 +184,7 @@
     "Pasted image 20250430191028.png",
     "Pasted image 20250430191004.png",
     "Pasted image 20250430190955.png",
-    "Pasted image 20250430190433.png",
     "Obsidian Vault/CGIP/Module 3/Cohen Sutherland Line CLipping Algorithm.md",
-    "Pasted image 20250430174535.png",
-    "Pasted image 20250430173625.png",
-    "Pasted image 20250430173512.png",
     "Obsidian Vault/CGIP/Module 3/Line Clipping.md",
     "Obsidian Vault/CGIP/Module 3/Point CLipping.md",
     "Obsidian Vault/CGIP/Module 3/Window to Viewport Tranformation.md",
@@ -205,7 +206,6 @@
     "Obsidian Vault/CGIP/Module 2/Rotate About Arbitrary Point (px, py).md",
     "Obsidian Vault/CGIP/Module 2/General Translation Rotation Scaling.md",
     "Obsidian Vault/CGIP/Module 2/! Formulae.md",
-    "Obsidian Vault/CGIP/Module 1/! Bresenham Circle Generation Algorithm.md",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/11 - Our Dream to Be Strangers.flac",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/10 - (06.26.17) Waiting in Hangzhou.flac",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/09 - Prelude to Obsession II.flac",
