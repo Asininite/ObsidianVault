@@ -15,3 +15,5 @@
 	  **8** bits for red, **8** bits for green, **8** bits for blue
 	  format is **PPM** Portable PixMap
 	  windows has its own format, BMP BitMap
+
+![[Pasted image 20250501022649.png]]
