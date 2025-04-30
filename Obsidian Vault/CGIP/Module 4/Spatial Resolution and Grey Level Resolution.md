@@ -2,3 +2,7 @@ Spatial resolution refers to ==the ability of an image or sensor to distinguish
 
 Gray-level resolution, in the context of digital images, ==refers to the number of distinct gray shades (brightness levels) that can be represented in an image==. It's determined by the number of bits used to represent each pixel's intensity, often expressed as a power of 2. For example, an 8-bit grayscale image has 256 (2^8) different gray levels.
 
+![[Pasted image 20250501024407.png]]
+![[Pasted image 20250501024426.png]]
+
+**256 different shades of grey**
