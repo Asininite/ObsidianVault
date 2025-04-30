@@ -1,0 +1,2 @@
+- area on device coordinate where graphics is to be displayed
+- 
