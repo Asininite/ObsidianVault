@@ -1,4 +1,4 @@
-## A E R C WM Co MP S 
+## A E R C WM Co MP S Re OR
 
 - Image Acquisition
 	image given in digital form
@@ -9,6 +9,15 @@
 - Color Image Processing
 	color modeling, processing in digital domain
 - Wavelets and Multi-Resolution Processing
+	foundation for representing image in various degrees of resolution
 - Compression
+	lossless (RAW)
+	lossy (JPEG)
 - Morphological Processing
+	deals with tools for extracting components out of image like erosion and dilation
 - Segmentation
+	image partitioned into its objects
+	image partitioned into various subgroups called image objects which reduce the complexity of the image
+- Representation
+	
+- Object Recognition
