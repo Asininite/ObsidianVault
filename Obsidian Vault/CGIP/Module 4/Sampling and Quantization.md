@@ -1,0 +1,1 @@
+- converting analog signal into digital signal
