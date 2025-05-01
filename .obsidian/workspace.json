@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/Module 5/Histogram Processing.md",
+                "file": "Obsidian Vault/CGIP/Module 5/Region-based image segmentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Histogram Processing"
+              "title": "Region-based image segmentation"
             }
           }
         ]
@@ -169,13 +169,14 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Obsidian Vault/CGIP/Module 5/Image Segmentation.md",
+    "Obsidian Vault/CGIP/Module 5/Region-based image segmentation.md",
+    "Obsidian Vault/CGIP/Module 5/Histogram Processing.md",
     "Obsidian Vault/CGIP/Module 5/Gray Level Transformations.md",
     "Obsidian Vault/CGIP/Module 5/Contrast Stretching.md",
     "Obsidian Vault/CGIP/Module 5/(gamma) Power law transformation.md",
     "Obsidian Vault/CGIP/Module 5/Gaussian filter (type of low pass).md",
-    "Obsidian Vault/CGIP/Module 5/Histogram Processing.md",
     "Obsidian Vault/CGIP/Module 5/Image Enhancement.md",
-    "Obsidian Vault/CGIP/Module 5/Image Segmentation.md",
     "Obsidian Vault/CGIP/Module 5/Thresholding.md",
     "Obsidian Vault/CGIP/Module 5/linear vs non-linear filter.md",
     "Obsidian Vault/CGIP/PYQ/Module 5/Edge Detectors.md",
@@ -199,7 +200,6 @@
     "Obsidian Vault/CGIP/PYQ/Module 5/Convolution.md",
     "Obsidian Vault/CGIP/Module 3/Sutherland Hodgeman Polygon Clipping.md",
     "Obsidian Vault/CGIP/PYQ/Module 5",
-    "Obsidian Vault/CGIP/Untitled.md",
     "Obsidian Vault/CGIP/PYQ",
     "Pasted image 20250501220942.png",
     "Pasted image 20250501220919.png",
