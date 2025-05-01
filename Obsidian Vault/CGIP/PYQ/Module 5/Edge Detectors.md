@@ -18,4 +18,7 @@
 [+1 +2 +1]
 ```
 
-- input image is convoluted seperately with Gx
+- input image is convoluted separately with $Gx$ and $Gy$ 
+	  magnitude of gradient G at each pixel is calculated
+
+## Prewitt Operator
