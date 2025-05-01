@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/Module 5/Histogram Processing.md",
+                "file": "Obsidian Vault/CGIP/Module 5/Smoothing Linear Filters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Histogram Processing"
+              "title": "Smoothing Linear Filters"
             }
           }
         ]
@@ -169,21 +169,24 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Pasted image 20250501214702.png",
+    "Pasted image 20250501214645.png",
+    "Obsidian Vault/CGIP/Module 1/! Bresenhams Line algorithm.md",
+    "Obsidian Vault/CGIP/Module 5/Smoothing Linear Filters.md",
+    "Obsidian Vault/CGIP/Module 1/! DDA.md",
+    "Obsidian Vault/CGIP/Module 5/Histogram Processing.md",
     "Pasted image 20250501212714.png",
     "Pasted image 20250501212703.png",
     "Pasted image 20250501212438.png",
     "Pasted image 20250501212159.png",
     "Pasted image 20250501212100.png",
     "Obsidian Vault/CGIP/Module 5/Contrast Stretching.md",
-    "Obsidian Vault/CGIP/Module 5/Histogram Processing.md",
     "Obsidian Vault/CGIP/Module 5/Gray Level Transformations.md",
     "Pasted image 20250501200823.png",
     "Pasted image 20250501200250.png",
     "Pasted image 20250501195208.png",
     "Pasted image 20250501194833.png",
-    "Pasted image 20250501194812.png",
     "Obsidian Vault/CGIP/Module 5/Image Enhancement.md",
-    "Pasted image 20250501193424.png",
     "Obsidian Vault/CGIP/Module 4/Fundamentals Of Spatial Convolution.md",
     "Obsidian Vault/CGIP/Module 5",
     "Obsidian Vault/CGIP/Module 4/Spatial Resolution and Grey Level Resolution.md",
@@ -203,9 +206,6 @@
     "Obsidian Vault/CGIP/Module 3/Cohen Sutherland Line CLipping Algorithm.md",
     "Obsidian Vault/! Placement/Java/char.md",
     "Obsidian Vault/! Placement/System Analysis and Design/Phased Conversion.md",
-    "Obsidian Vault/! Placement/! Random Stuff.md",
-    "Obsidian Vault/DSA/Binary Search/Medium/Koko Eating Bananas.md",
-    "Obsidian Vault/something.md",
     "Obsidian Vault/CGIP/Module 4",
     "Obsidian Vault/CGIP/Module 3",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/11 - Our Dream to Be Strangers.flac",
