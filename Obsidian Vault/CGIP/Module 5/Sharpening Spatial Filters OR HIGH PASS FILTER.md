@@ -1,3 +1,3 @@
-- remove blurring
+	- remove blurring
 - highlight edges
 
