@@ -41,3 +41,8 @@
 [+1 +1 +1]
 ```
 
+1. Convolve the image with Gx and Gy masks separately.
+    
+2. Calculate gradient magnitude: G = sqrt(Gx² + Gy²) or G ≈ |Gx| + |Gy|.
+    
+3. Calculate gradient direction: Θ = atan2(Gy, Gx).
