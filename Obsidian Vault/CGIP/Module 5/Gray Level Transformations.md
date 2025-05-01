@@ -20,7 +20,7 @@
         
     - **Effect:** This is the **identity transformation**. It produces no change in the image intensity levels. The transition between intensities remains linear.
         
-- **Case 2: γ < 1 (Fractional Gamma)**
+- **Case 2: γ < 1 (Fractional Gamma)** increases blacks and decreases whites
     
     - The transformation curve bends upwards (concave up).
         
@@ -28,7 +28,7 @@
         
     - **Visual Effect:** The image appears **brighter**. Transitions in the dark regions become more pronounced (details in shadows are enhanced), while transitions in the bright regions become less pronounced (highlights may appear slightly compressed).
         
-- **Case 3: γ > 1**
+- **Case 3: γ > 1** increases whites and decreases blacks
     
     - The transformation curve bends downwards (concave down).
         
