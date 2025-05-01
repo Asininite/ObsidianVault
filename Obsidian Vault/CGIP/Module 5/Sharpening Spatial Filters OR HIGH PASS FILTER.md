@@ -1,0 +1,3 @@
+	- remove blurring
+- highlight edges
+

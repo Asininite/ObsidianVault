@@ -1,0 +1,1 @@
+- **size of image** : number of rows $*$ number of columns
