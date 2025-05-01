@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/Module 3/! 3-D Viewing Pipeline.md",
+                "file": "Obsidian Vault/CGIP/Module 1/! DDA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! 3-D Viewing Pipeline"
+              "title": "! DDA"
             }
           }
         ]
@@ -169,6 +169,10 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Obsidian Vault/CGIP/Module 2/Boundary fill.md",
+    "Obsidian Vault/CGIP/Module 3/Cohen Sutherland Line CLipping Algorithm.md",
+    "Obsidian Vault/CGIP/Module 3/Line Clipping.md",
+    "Obsidian Vault/CGIP/Module 3/! 3-D Viewing Pipeline.md",
     "Obsidian Vault/CGIP/Module 3/! Visible Surface Detection Algorithms.md",
     "Obsidian Vault/CGIP/Module 3/Parallel vs Perspective.md",
     "Obsidian Vault/CGIP/Module 4/Spatial Resolution and Grey Level Resolution.md",
@@ -191,10 +195,6 @@
     "Obsidian Vault/CGIP/Module 5/Gray Level Transformations.md",
     "Obsidian Vault/CGIP/Module 5/Contrast Stretching.md",
     "Obsidian Vault/CGIP/Module 5/(gamma) Power law transformation.md",
-    "Obsidian Vault/CGIP/Module 5/Gaussian filter (type of low pass).md",
-    "Obsidian Vault/CGIP/Module 5/Image Enhancement.md",
-    "Obsidian Vault/CGIP/Module 5/linear vs non-linear filter.md",
-    "Obsidian Vault/CGIP/Module 5/Smoothing Linear Filters or LOW PASS FILTER.md",
     "Pasted image 20250502013650.png",
     "Pasted image 20250502013345.png",
     "Pasted image 20250502013257.png",
