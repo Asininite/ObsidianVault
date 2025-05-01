@@ -3,3 +3,10 @@
 ## Binary Thresholding
 ![[Pasted image 20250501220728.png]]
 
+## Multiple Thresholding
+![[Pasted image 20250501220919.png]]
+
+
+![[Pasted image 20250501220942.png]]
+
+	
