@@ -4,3 +4,7 @@
 - detect similar pixels in image, based on a threshhold
 
 ## Discontinuity Detection (Boundary Approach)
+
+
+![[Pasted image 20250502013240.png]]
+![[Pasted image 20250502013257.png]]

@@ -1,3 +1,4 @@
+![[Pasted image 20250502013345.png]]
 **What is Edge Detection?**
 
 Edge detection is a fundamental technique in digital image processing and computer vision used to **identify points in an image where the image brightness changes sharply or has discontinuities**. These points typically correspond to:
