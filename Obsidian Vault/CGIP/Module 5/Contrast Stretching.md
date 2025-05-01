@@ -1,0 +1,2 @@
+- process that expands the range of intensity levels in an image so that it spans the full intensity range of display device
+- simplest piecewise linear transformation function
