@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/Module 4/Fundamentals Of Spatial Convolution.md",
+                "file": "Obsidian Vault/CGIP/Module 5/Image Enhancement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamentals Of Spatial Convolution"
+              "title": "Image Enhancement"
             }
           }
         ]
@@ -169,6 +169,10 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
+    "Pasted image 20250501193424.png",
+    "Obsidian Vault/CGIP/Module 4/Fundamentals Of Spatial Convolution.md",
+    "Obsidian Vault/CGIP/Module 5/Image Enhancement.md",
+    "Obsidian Vault/CGIP/Module 5",
     "Pasted image 20250501191247.png",
     "Pasted image 20250501191148.png",
     "Pasted image 20250501190841.png",
@@ -179,9 +183,7 @@
     "Pasted image 20250501190616.png",
     "Pasted image 20250501190244.png",
     "Pasted image 20250501190044.png",
-    "Pasted image 20250501190030.png",
     "Obsidian Vault/CGIP/Module 4/Spatial Resolution and Grey Level Resolution.md",
-    "Obsidian Vault/CGIP/Module 4/Fundamentals Of Spatial Convolution.md",
     "Obsidian Vault/CGIP/Module 4/Spatial Filtering.md",
     "Obsidian Vault/CGIP/Module 4/Digital Path.md",
     "Obsidian Vault/CGIP/Module 4/Neighborhood, Adjacency, Connectivity.md",
@@ -204,7 +206,6 @@
     "Untitled.md",
     "Obsidian Vault/DSA/Binary Search/Search in Rotated Sorted Array.md",
     "Obsidian Vault/DSA/Binary Search/Find Minimum in Rotated Search Array.md",
-    "Obsidian Vault/CGIP/Module 1/! Bresenhams Line algorithm.md",
     "Obsidian Vault/CGIP/Module 4",
     "Obsidian Vault/CGIP/Module 3",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/11 - Our Dream to Be Strangers.flac",
@@ -213,7 +214,6 @@
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/08 - Prelude to Obsession I.flac",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/07 - (06.24.17) Birds Inside the High Halls of Hangzhou, (06.23.17) Shanghai Red Line, Metro Karaoke.flac",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/06 - For the Entirety.flac",
-    "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/05 - Text Me When You Wake Up.flac",
-    "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/04 - (06.26.17) Maglev at 303 km_h.flac"
+    "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/05 - Text Me When You Wake Up.flac"
   ]
 }
