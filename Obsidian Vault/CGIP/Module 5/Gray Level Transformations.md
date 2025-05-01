@@ -9,3 +9,10 @@
 ## Logarithmic Transformation
 - **log** : $s = c.log(r + 1)$ 
   dark pixel values are expanded compared to higher pixel values
+- **inverse log**
+
+## Power Law
+- $\gamma$ is a varying quantity 
+- $s = c.r^\gamma$ 
+
+- **nth power transformation** : 
