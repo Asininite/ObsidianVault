@@ -2,4 +2,4 @@
 - simplest piecewise linear transformation function
 - ![[Pasted image 20250501194812.png]]
 - ![[Pasted image 20250501194833.png]]
-- 
+- ![[Pasted image 20250501195208.png]]
