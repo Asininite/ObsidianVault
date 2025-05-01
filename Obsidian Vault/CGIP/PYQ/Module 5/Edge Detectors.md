@@ -22,3 +22,22 @@
 	  magnitude of gradient G at each pixel is calculated
 
 ## Prewitt Operator
+- similar to Sobel
+- uses two convolution masks $3 * 3$ 
+
+**Gx (Detects Vertical Edges):**
+
+```
+[-1  0  +1]
+[-1  0  +1]
+[-1  0  +1]
+```
+
+**Gy (Detects Horizontal Edges):**
+
+```
+[-1 -1 -1]
+[ 0  0  0]
+[+1 +1 +1]
+```
+
