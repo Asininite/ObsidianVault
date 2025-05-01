@@ -16,3 +16,5 @@
 - $s = c.r^\gamma$ 
 
 - **nth power transformation** : 
+
+![[Pasted image 20250501200823.png]]
