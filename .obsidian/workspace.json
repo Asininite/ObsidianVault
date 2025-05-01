@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/Module 5/Region-based image segmentation.md",
+                "file": "Obsidian Vault/CGIP/PYQ/Module 5/Thresholding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Region-based image segmentation"
+              "title": "Thresholding"
             }
           }
         ]
@@ -169,17 +169,18 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
-    "Obsidian Vault/CGIP/Module 5/Image Segmentation.md",
+    "Obsidian Vault/CGIP/Module 5/Thresholding.md",
+    "Obsidian Vault/CGIP/PYQ/Module 5/Thresholding.md",
+    "Obsidian Vault/CGIP/PYQ/Module 5/Edge Detectors.md",
     "Obsidian Vault/CGIP/Module 5/Region-based image segmentation.md",
+    "Obsidian Vault/CGIP/Module 5/Image Segmentation.md",
     "Obsidian Vault/CGIP/Module 5/Histogram Processing.md",
     "Obsidian Vault/CGIP/Module 5/Gray Level Transformations.md",
     "Obsidian Vault/CGIP/Module 5/Contrast Stretching.md",
     "Obsidian Vault/CGIP/Module 5/(gamma) Power law transformation.md",
     "Obsidian Vault/CGIP/Module 5/Gaussian filter (type of low pass).md",
     "Obsidian Vault/CGIP/Module 5/Image Enhancement.md",
-    "Obsidian Vault/CGIP/Module 5/Thresholding.md",
     "Obsidian Vault/CGIP/Module 5/linear vs non-linear filter.md",
-    "Obsidian Vault/CGIP/PYQ/Module 5/Edge Detectors.md",
     "Obsidian Vault/CGIP/Module 5/Smoothing Linear Filters or LOW PASS FILTER.md",
     "Obsidian Vault/CGIP/Module 5/Sharpening Spatial Filters OR HIGH PASS FILTER.md",
     "Obsidian Vault/CGIP/Module 4/Neighborhood, Adjacency, Connectivity.md",
@@ -190,7 +191,6 @@
     "Obsidian Vault/CGIP/Module 4/Coordinate Conventions.md",
     "Obsidian Vault/CGIP/Module 4/Digital Path.md",
     "Obsidian Vault/CGIP/Module 4/Components of Image Processing System.md",
-    "Obsidian Vault/CGIP/PYQ/Module 5/Thresholding.md",
     "Pasted image 20250502013650.png",
     "Pasted image 20250502013345.png",
     "Pasted image 20250502013257.png",

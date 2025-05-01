@@ -1,3 +1,27 @@
+In the context of digital image processing and computer vision, **edges** are defined as:
+
+**Significant local changes or discontinuities in image intensity (brightness).**
+
+More specifically, edges correspond to points or sets of points in an image where:
+
+1.  **Intensity Changes Sharply:** There is a relatively large difference in the brightness values of adjacent pixels or pixels across a small neighborhood.
+2.  **Discontinuities Occur:** They mark the locations where the image intensity function changes abruptly.
+
+**What Edges Typically Represent:**
+
+*   **Object Boundaries:** The most common interpretation – edges often mark the outline separating an object from its background or from other objects in the scene.
+*   **Surface Detail:** Changes in surface texture or material within an object.
+*   **Surface Orientation Changes:** Abrupt changes in how a surface is angled relative to the light source or viewer.
+*   **Illumination Changes:** Boundaries of shadows or highlights.
+
+**Key Characteristics:**
+
+*   **Local Phenomenon:** Edges are defined by changes within a small neighborhood of pixels.
+*   **Gradient-Related:** Mathematically, edges correspond to locations with a high **gradient magnitude** (steep slope in the intensity function).
+*   **Information Rich:** Edges carry a significant amount of structural information about the image content, often allowing for object recognition and scene understanding even when other information (like color or texture) is removed.
+
+Therefore, edge detection algorithms aim to identify these locations of significant intensity change to produce an edge map, which highlights the structural outlines and details within an image.
+
 ![[Pasted image 20250502013345.png]]
 **What is Edge Detection?**
 
