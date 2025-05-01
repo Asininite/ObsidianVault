@@ -1,3 +1,31 @@
+**What is Edge Detection?**
+
+Edge detection is a fundamental technique in digital image processing and computer vision used to **identify points in an image where the image brightness changes sharply or has discontinuities**. These points typically correspond to:
+
+1. **Boundaries between objects:** Separating an object from its background or from other objects.
+    
+2. **Boundaries between different materials or parts of an object.**
+    
+3. **Changes in surface orientation or illumination.**
+    
+
+Essentially, edges represent significant variations in pixel intensity values packed into a small area. The goal of edge detection is to produce an "edge map" – typically a binary image where edge pixels are marked (e.g., as white) and non-edge pixels are unmarked (e.g., as black) – or an image where the brightness of a pixel corresponds to the strength of the edge at that location.
+
+Edge detection is crucial because edges carry a lot of semantic information about the image content and are often used as a preliminary step for higher-level tasks like:
+
+- Image segmentation (dividing an image into meaningful regions)
+    
+- Feature extraction (identifying key points or shapes)
+    
+- Object recognition and tracking
+    
+- Image registration and matching
+    
+
+Most edge detection techniques work by calculating an approximation of the **gradient** (the rate of change of intensity) of the image. High gradient values indicate rapid changes in intensity, signifying potential edges.
+
+---
+
 ## Sobel Operator
 - calculates approximate gradient of the image intensity function
 - identifies areas of rapid change

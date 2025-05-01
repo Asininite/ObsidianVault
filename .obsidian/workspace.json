@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/CGIP/PYQ/Module 5/Perimeter.md",
+                "file": "Obsidian Vault/CGIP/PYQ/Module 5/Edge Detectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perimeter"
+              "title": "Edge Detectors"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "da9fb105be9ff956",
   "lastOpenFiles": [
-    "Obsidian Vault/CGIP/PYQ/Module 5/Segmentation.md",
     "Obsidian Vault/CGIP/PYQ/Module 5/Perimeter.md",
+    "Obsidian Vault/CGIP/PYQ/Module 5/Segmentation.md",
     "Obsidian Vault/CGIP/PYQ/Module 5/Convolution.md",
     "Obsidian Vault/CGIP/Module 5/Smoothing Linear Filters.md",
     "Obsidian Vault/CGIP/PYQ/Module 5/Edge Detectors.md",
