@@ -19,3 +19,9 @@ starting pixels
 ![[Pasted image 20250501190833.png]]
 REMOVE PADDING
 ![[Pasted image 20250501190841.png]]
+
+
+![[Pasted image 20250501191148.png]]
+
+![[Pasted image 20250501191247.png]]
+
