@@ -7,5 +7,5 @@
 	   worst case
 	   average case 
 
-
+[[2. Priori and Posteriori Analysis]]
 
