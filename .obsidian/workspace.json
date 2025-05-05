@@ -49,12 +49,14 @@
             "id": "19da6addde94afe2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20250501022343.png"
+                "file": "Obsidian Vault/AAD/Module 1/1. Algorithms.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250501022343"
+              "icon": "lucide-file",
+              "title": "1. Algorithms"
             }
           }
         ],
@@ -204,8 +206,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "19da6addde94afe2",
   "lastOpenFiles": [
+    "Obsidian Vault/AAD/Module 1/2. Priori and Posteriori Analysis.md",
+    "Obsidian Vault/AAD/Module 1/1. Algorithms.md",
+    "Obsidian Vault/Images/Pasted image 20250501022343.png",
     "Obsidian Vault/Images/Pasted image 20250501022211.png",
     "Obsidian Vault/Images/Pasted image 20250430234552.png",
     "Obsidian Vault/CGIP/Module 1/! DDA.md",
@@ -232,7 +237,6 @@
     "Obsidian Vault/CGIP/PYQ/Module 5/Edge Detectors.md",
     "Obsidian Vault/CGIP/Module 5/Region-based image segmentation.md",
     "Obsidian Vault/CGIP/Module 5/Image Segmentation.md",
-    "Obsidian Vault/CGIP/Module 5/Gray Level Transformations.md",
     "Obsidian Vault/Images/Pasted image 20250502013650.png",
     "Obsidian Vault/Images/Pasted image 20250502013345.png",
     "Obsidian Vault/Images/Pasted image 20250502013257.png",
@@ -242,8 +246,6 @@
     "Obsidian Vault/Images/Pasted image 20250501220942.png",
     "Obsidian Vault/Images/Pasted image 20250501220919.png",
     "Obsidian Vault/Images/Pasted image 20250501220728.png",
-    "Obsidian Vault/Images/Pasted image 20250501215257.png",
-    "Obsidian Vault/Images/Pasted image 20250501215237.png",
     "Obsidian Vault/CGIP/Module 5",
     "Obsidian Vault/CGIP/Module 4",
     "Obsidian Vault/CGIP/Module 3",
