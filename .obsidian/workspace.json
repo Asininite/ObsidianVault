@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AAD/Module 4/5. Back Tracking.md",
+                "file": "Obsidian Vault/AAD/Module 4/6. N-Queens Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Back Tracking"
+              "title": "6. N-Queens Problem"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
-    "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
+    "Obsidian Vault/AAD/Module 4/6. N-Queens Problem.md",
     "Obsidian Vault/AAD/Module 4/5. Back Tracking.md",
+    "Pasted image 20250507010837.png",
+    "Pasted image 20250507010835.png",
+    "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
     "Pasted image 20250507010333.png",
     "Pasted image 20250507005815.png",
     "Pasted image 20250507005035.png",
@@ -187,8 +190,6 @@
     "Obsidian Vault/AAD/Module 2/1. Binary Search Tree.md",
     "Obsidian Vault/FLAT/Module 3/CFG Questions.md",
     "Obsidian Vault/FLAT/Module 3/Ambiguous grammar.md",
-    "Pasted image 20250506224928.png",
-    "Pasted image 20250506224341.png",
     "Obsidian Vault/AAD/Module 3/8. Shortest Path Problem.md",
     "Obsidian Vault/AAD/Module 3/7. Kruskals Algorithm.md",
     "Obsidian Vault/AAD/Module 3/6. Spanning Tree.md",
@@ -205,8 +206,6 @@
     "Obsidian Vault/AAD/Module 2/4. Disjoint Sets.md",
     "Obsidian Vault/AAD/Module 2/3. AVL Deletion.md",
     "Obsidian Vault/AAD/Module 2/2. AVL Tree Insertion.md",
-    "Obsidian Vault/CGIP/Module 1/! DDA.md",
-    "Obsidian Vault/AAD/Module 1/! 5. Recursion Tree Method.md",
     "Obsidian Vault/AAD/Module 2",
     "Obsidian Vault/CGIP/PYQ/Module 5",
     "Obsidian Vault/CGIP/PYQ",
