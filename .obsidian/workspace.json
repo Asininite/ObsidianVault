@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AAD/Module 3/9. Dijkstra's Algorithm.md",
+                "file": "Obsidian Vault/AAD/Module 4/1. Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Dijkstra's Algorithm"
+              "title": "1. Dynamic Programming"
             }
           }
         ]
@@ -169,10 +169,12 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
+    "Obsidian Vault/AAD/Module 3/9. Dijkstra's Algorithm.md",
+    "Obsidian Vault/AAD/Module 4/1. Dynamic Programming.md",
+    "Obsidian Vault/AAD/Module 4",
     "Obsidian Vault/AAD/Module 2/1. Binary Search Tree.md",
     "Obsidian Vault/FLAT/Module 3/CFG Questions.md",
     "Obsidian Vault/FLAT/Module 3/Ambiguous grammar.md",
-    "Obsidian Vault/AAD/Module 3/9. Dijkstra's Algorithm.md",
     "Pasted image 20250506224928.png",
     "Pasted image 20250506224341.png",
     "Obsidian Vault/AAD/Module 3/8. Shortest Path Problem.md",
@@ -206,14 +208,12 @@
     "Obsidian Vault/AAD/Module 1/3. Performance Analysis.md",
     "Obsidian Vault/AAD/Module 1/! 3. Asymptotic Notations.md",
     "Obsidian Vault/AAD/Module 1/! 1. Algorithms.md",
-    "Obsidian Vault/AAD/Module 1/! 2. Analysis of Algorithm.md",
     "Obsidian Vault/CGIP/PYQ/Module 5",
     "Obsidian Vault/CGIP/PYQ",
     "Obsidian Vault/CGIP/Module 5",
     "Obsidian Vault/CGIP/Module 4",
     "Obsidian Vault/CGIP/Module 3",
     "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/11 - Our Dream to Be Strangers.flac",
-    "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/10 - (06.26.17) Waiting in Hangzhou.flac",
-    "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/09 - Prelude to Obsession II.flac"
+    "Music/Celer (2019-02-08) Xièxie [WEB FLAC 16 44] {2A15}/10 - (06.26.17) Waiting in Hangzhou.flac"
   ]
 }
