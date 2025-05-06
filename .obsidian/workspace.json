@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AAD/Module 4/6. N-Queens Problem.md",
+                "file": "Obsidian Vault/AAD/Module 4/7. Travelling Salesman Problem (Branch and Bound).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. N-Queens Problem"
+              "title": "7. Travelling Salesman Problem (Branch and Bound)"
             }
           }
         ]
@@ -169,11 +169,13 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
+    "Pasted image 20250507023401.png",
+    "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
+    "Obsidian Vault/AAD/Module 4/7. Travelling Salesman Problem (Branch and Bound).md",
     "Obsidian Vault/AAD/Module 4/6. N-Queens Problem.md",
     "Obsidian Vault/AAD/Module 4/5. Back Tracking.md",
     "Pasted image 20250507010837.png",
     "Pasted image 20250507010835.png",
-    "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
     "Pasted image 20250507010333.png",
     "Pasted image 20250507005815.png",
     "Pasted image 20250507005035.png",
@@ -205,7 +207,6 @@
     "Obsidian Vault/AAD/Module 2/Algorithm to find Strongly Connected Components.md",
     "Obsidian Vault/AAD/Module 2/4. Disjoint Sets.md",
     "Obsidian Vault/AAD/Module 2/3. AVL Deletion.md",
-    "Obsidian Vault/AAD/Module 2/2. AVL Tree Insertion.md",
     "Obsidian Vault/AAD/Module 2",
     "Obsidian Vault/CGIP/PYQ/Module 5",
     "Obsidian Vault/CGIP/PYQ",
