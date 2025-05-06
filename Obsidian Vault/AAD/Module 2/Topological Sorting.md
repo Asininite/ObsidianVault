@@ -1,0 +1,4 @@
+- identify node with in-degree **0**
+- add this node to the ordering
+- remove this node and all the **outgoing edges** from the graph
+- repeat until graph **empty**
