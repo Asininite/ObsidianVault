@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
+                "file": "Obsidian Vault/AAD/Module 4/5. Back Tracking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Floyd Warshall Algorithm"
+              "title": "5. Back Tracking"
             }
           }
         ]
@@ -169,11 +169,13 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
+    "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
+    "Obsidian Vault/AAD/Module 4/5. Back Tracking.md",
+    "Pasted image 20250507010333.png",
     "Pasted image 20250507005815.png",
     "Pasted image 20250507005035.png",
     "Pasted image 20250507004413.png",
     "Obsidian Vault/AAD/Module 4/3. Matrix Chain Multiplication.md",
-    "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
     "Obsidian Vault/AAD/Module 4/2. Principle of Optimality.md",
     "Pasted image 20250506232446.png",
     "Pasted image 20250506232139.png",
@@ -188,8 +190,6 @@
     "Pasted image 20250506224928.png",
     "Pasted image 20250506224341.png",
     "Obsidian Vault/AAD/Module 3/8. Shortest Path Problem.md",
-    "Pasted image 20250506223829.png",
-    "Pasted image 20250506223817.png",
     "Obsidian Vault/AAD/Module 3/7. Kruskals Algorithm.md",
     "Obsidian Vault/AAD/Module 3/6. Spanning Tree.md",
     "Obsidian Vault/AAD/Module 3/5. Fractional Knapsack.md",
