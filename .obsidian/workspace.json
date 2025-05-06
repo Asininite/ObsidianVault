@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AAD/Module 2/4. Disjoint Sets.md",
+                "file": "Obsidian Vault/AAD/Module 2/5. Find and Collapsing Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Disjoint Sets"
+              "title": "5. Find and Collapsing Find"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
-    "Obsidian Vault/AAD/Module 2/3. AVL Deletion.md",
+    "Obsidian Vault/AAD/Module 2/Algorithm to find Strongly Connected Components.md",
+    "Obsidian Vault/AAD/Module 2/5. Find and Collapsing Find.md",
     "Obsidian Vault/AAD/Module 2/4. Disjoint Sets.md",
+    "Obsidian Vault/AAD/Module 2/3. AVL Deletion.md",
     "Obsidian Vault/AAD/Module 2/2. AVL Tree Insertion.md",
     "Pasted image 20250506022809.png",
     "Pasted image 20250506022757.png",
@@ -204,8 +206,6 @@
     "Obsidian Vault/CGIP/Module 3/Parallel vs Perspective.md",
     "Obsidian Vault/CGIP/Module 4/Spatial Resolution and Grey Level Resolution.md",
     "Obsidian Vault/CGIP/Module 4/Spatial Filtering.md",
-    "Obsidian Vault/CGIP/Module 4/Sampling and Quantization.md",
-    "Obsidian Vault/CGIP/Module 4/Neighborhood, Adjacency, Connectivity.md",
     "Obsidian Vault/CGIP/PYQ/Module 5",
     "Obsidian Vault/CGIP/PYQ",
     "Obsidian Vault/CGIP/Module 5",
