@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AAD/Module 5/4. Vertex Cover Problem.md",
+                "file": "Obsidian Vault/AAD/Module 5/6. Las Vegas vs Monte Carlo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Vertex Cover Problem"
+              "title": "6. Las Vegas vs Monte Carlo"
             }
           }
         ]
@@ -169,11 +169,15 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
+    "Obsidian Vault/AAD/Module 3/9. Dijkstra's Algorithm.md",
+    "Obsidian Vault/AAD/Module 5/6. Las Vegas vs Monte Carlo.md",
+    "Obsidian Vault/AAD/Module 5/5. Randomized Algorithm.md",
+    "Pasted image 20250507195231.png",
+    "Obsidian Vault/AAD/Module 5/4. Vertex Cover Problem.md",
     "Pasted image 20250507194841.png",
     "Pasted image 20250507194830.png",
     "Pasted image 20250507194816.png",
     "Obsidian Vault/AAD/Module 5/3. Clique Problem.md",
-    "Obsidian Vault/AAD/Module 5/4. Vertex Cover Problem.md",
     "Pasted image 20250507194025.png",
     "Pasted image 20250507194018.png",
     "Obsidian Vault/AAD/Module 5/2. Classification of Problems.md",
@@ -186,8 +190,6 @@
     "Pasted image 20250507120011.png",
     "Pasted image 20250507114814.png",
     "Pasted image 20250507114804.png",
-    "Pasted image 20250507112809.png",
-    "Pasted image 20250507112534.png",
     "Obsidian Vault/AAD/Module 4/7. Travelling Salesman Problem (Branch and Bound).md",
     "Obsidian Vault/AAD/Module 5",
     "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
@@ -196,7 +198,6 @@
     "Obsidian Vault/AAD/Module 4/3. Matrix Chain Multiplication.md",
     "Obsidian Vault/AAD/Module 4/2. Principle of Optimality.md",
     "Obsidian Vault/AAD/Module 4/1. Dynamic Programming.md",
-    "Obsidian Vault/AAD/Module 3/9. Dijkstra's Algorithm.md",
     "Obsidian Vault/AAD/Module 4",
     "Obsidian Vault/AAD/Module 2/1. Binary Search Tree.md",
     "Obsidian Vault/FLAT/Module 3/CFG Questions.md",
@@ -208,7 +209,6 @@
     "Obsidian Vault/AAD/Module 3/4. Greedy Strategy.md",
     "Obsidian Vault/AAD/Module 3/3. Strassens Matrix Algo.md",
     "Obsidian Vault/AAD/Module 1/! 7. Master's Theorem.md",
-    "Obsidian Vault/AAD/Module 3/2. Merge Sort.md",
     "Obsidian Vault/AAD/Module 3",
     "Obsidian Vault/AAD/Module 2",
     "Obsidian Vault/CGIP/PYQ/Module 5",
