@@ -7,3 +7,5 @@
 - **Edge Coloring:** Assign colors to edges such that no two edges incident to the same vertex have the same color. The minimum number of colors needed is the chromatic index.
     
 - **Total Coloring:** Assign colors to both vertices and edges such that no adjacent vertices, no adjacent edges, and no incident vertex and edge have the same color.
+
+![[Pasted image 20250508030037.png]]
