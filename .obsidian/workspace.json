@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AAD/Module 5/3. Clique Problem.md",
+                "file": "Obsidian Vault/AAD/Module 5/4. Vertex Cover Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Clique Problem"
+              "title": "4. Vertex Cover Problem"
             }
           }
         ]
@@ -169,10 +169,14 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
+    "Pasted image 20250507194841.png",
+    "Pasted image 20250507194830.png",
+    "Pasted image 20250507194816.png",
+    "Obsidian Vault/AAD/Module 5/3. Clique Problem.md",
+    "Obsidian Vault/AAD/Module 5/4. Vertex Cover Problem.md",
     "Pasted image 20250507194025.png",
     "Pasted image 20250507194018.png",
     "Obsidian Vault/AAD/Module 5/2. Classification of Problems.md",
-    "Obsidian Vault/AAD/Module 5/3. Clique Problem.md",
     "Pasted image 20250507190609.png",
     "Obsidian Vault/AAD/PYQ/Mod 5/Graph Coloring Problem.md",
     "Obsidian Vault/AAD/PYQ/Mod 5/Tractable Problem and Example.md",
@@ -184,11 +188,8 @@
     "Pasted image 20250507114804.png",
     "Pasted image 20250507112809.png",
     "Pasted image 20250507112534.png",
-    "Pasted image 20250507112205.png",
-    "Pasted image 20250507112021.png",
     "Obsidian Vault/AAD/Module 4/7. Travelling Salesman Problem (Branch and Bound).md",
     "Obsidian Vault/AAD/Module 5",
-    "Pasted image 20250507023401.png",
     "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
     "Obsidian Vault/AAD/Module 4/6. N-Queens Problem.md",
     "Obsidian Vault/AAD/Module 4/5. Back Tracking.md",
@@ -208,7 +209,6 @@
     "Obsidian Vault/AAD/Module 3/3. Strassens Matrix Algo.md",
     "Obsidian Vault/AAD/Module 1/! 7. Master's Theorem.md",
     "Obsidian Vault/AAD/Module 3/2. Merge Sort.md",
-    "Obsidian Vault/AAD/Module 2/Topological Sorting.md",
     "Obsidian Vault/AAD/Module 3",
     "Obsidian Vault/AAD/Module 2",
     "Obsidian Vault/CGIP/PYQ/Module 5",
