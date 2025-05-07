@@ -1,1 +1,2 @@
-- 
+**Vertex Coloring Problem Definition:**
+	Given an undirected graph G = (V, E), where V is the set of vertices and E is the set of edges, the vertex coloring problem is to assign a color to each vertex v ∈ V such that **no two adjacent vertices (i.e., vertices connected by an edge) share the same color.**
