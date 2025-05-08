@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AAD/Module 3/2. Merge Sort.md",
+                "file": "Obsidian Vault/AAD/Module 3/9. Dijkstra's Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Merge Sort"
+              "title": "9. Dijkstra's Algorithm"
             }
           }
         ]
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/AAD/Module 3/2. Merge Sort.md",
+            "file": "Obsidian Vault/AAD/Module 3/9. Dijkstra's Algorithm.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,6 +154,25 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
+    "Pasted image 20250508030037.png",
+    "Pasted image 20250508030025.png",
+    "Pasted image 20250508030006.png",
+    "Obsidian Vault/AAD/PYQ/Mod 5/approximation algo.md",
+    "/Pasted image 20250508030037.png",
+    "/Pasted image 20250508030025.png",
+    "/Pasted image 20250508030006.png",
+    "/Obsidian Vault/AAD/PYQ/Mod 5/approximation algo.md",
+    "/Obsidian Vault/AAD/PYQ/Mod 5/Graph Coloring Problem.md",
+    "/Obsidian Vault/AAD/PYQ/Mod 5",
+    "/Obsidian Vault/AAD/PYQ/Mod 4/branch and bound vs optimality.md",
+    "Obsidian Vault/AAD/PYQ/Mod 4/branch and bound vs optimality.md",
+    "/Obsidian Vault/AAD/PYQ/Mod 4",
+    "/Obsidian Vault/AAD/PYQ",
+    "/Obsidian Vault/AAD/Module 3/7. Kruskals Algorithm.md",
+    "/Obsidian Vault/AAD/Module 3",
+    "/Obsidian Vault/AAD",
+    "/Obsidian Vault",
+    "Obsidian Vault/AAD/Module 3/2. Merge Sort.md",
     "Obsidian Vault/AAD/Module 3/1. Divide and Conquer Abstraction.md",
     "Obsidian Vault/AAD/Module 2/Topological Sorting.md",
     "Obsidian Vault/AAD/Module 2/Algorithm to find Strongly Connected Components.md",
@@ -172,33 +191,14 @@
     "Obsidian Vault/AAD/Module 1/! 3. Asymptotic Notations.md",
     "Obsidian Vault/AAD/Module 1/3. Performance Analysis.md",
     "Obsidian Vault/AAD/Module 1/! 2. Analysis of Algorithm.md",
-    "Obsidian Vault/AAD/Module 1/! 1. Algorithms.md",
-    "Obsidian Vault/AAD/Module 3/9. Dijkstra's Algorithm.md",
-    "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
-    "Obsidian Vault/AAD/PYQ/Mod 4/Principle of Optimality.md",
-    "/Obsidian Vault/AAD/PYQ/Mod 4/Principle of Optimality.md",
-    "/Obsidian Vault/AAD/PYQ/Mod 4",
     "Obsidian Vault/AAD/PYQ/Mod 4",
-    "/Obsidian Vault/AAD/PYQ",
-    "/Obsidian Vault/AAD",
-    "/Obsidian Vault",
-    "Obsidian Vault/AAD/Module 3/8. Shortest Path Problem.md",
-    "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
-    "Obsidian Vault/AAD/Module 4/7. Travelling Salesman Problem (Branch and Bound).md",
     "Pasted image 20250507195231.png",
     "Pasted image 20250507194841.png",
     "Pasted image 20250507194830.png",
     "Pasted image 20250507194816.png",
     "Pasted image 20250507194025.png",
-    "Pasted image 20250507194018.png",
-    "Pasted image 20250507190609.png",
-    "/Pasted image 20250507195231.png",
-    "/Pasted image 20250507194841.png",
-    "/Pasted image 20250507194830.png",
     "Obsidian Vault/AAD/PYQ/Mod 5",
     "Obsidian Vault/AAD/PYQ",
-    "/Obsidian Vault/AAD/PYQ/Mod 5",
-    "/Obsidian Vault/Images",
-    "Obsidian Vault/AAD/Module 5"
+    "/Obsidian Vault/Images"
   ]
 }
