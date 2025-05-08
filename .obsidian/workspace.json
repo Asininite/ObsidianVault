@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/AAD/Module 3/7. Kruskals Algorithm.md",
+                "file": "Obsidian Vault/AAD/PYQ/Mod 5/Graph Coloring Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Kruskals Algorithm"
+              "title": "Graph Coloring Problem"
             }
           }
         ]
@@ -169,8 +169,15 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
-    "Obsidian Vault/AAD/Module 3/8. Shortest Path Problem.md",
+    "Pasted image 20250508030037.png",
+    "Obsidian Vault/AAD/PYQ/Mod 5/approximation algo.md",
+    "Pasted image 20250508030025.png",
+    "Obsidian Vault/AAD/PYQ/Mod 4/branch and bound vs optimality.md",
+    "Pasted image 20250508030006.png",
+    "Obsidian Vault/AAD/Module 1/! 7. Master's Theorem.md",
     "Obsidian Vault/AAD/Module 3/7. Kruskals Algorithm.md",
+    "Obsidian Vault/AAD/Module 3/9. Dijkstra's Algorithm.md",
+    "Obsidian Vault/AAD/Module 3/8. Shortest Path Problem.md",
     "Obsidian Vault/AAD/Module 3/6. Spanning Tree.md",
     "Obsidian Vault/AAD/Module 3/5. Fractional Knapsack.md",
     "Obsidian Vault/AAD/Module 3/4. Greedy Strategy.md",
@@ -183,7 +190,6 @@
     "Obsidian Vault/AAD/Module 5/4. Vertex Cover Problem.md",
     "Obsidian Vault/AAD/Module 5/5. Randomized Algorithm.md",
     "Obsidian Vault/AAD/Module 5/6. Las Vegas vs Monte Carlo.md",
-    "Obsidian Vault/AAD/Module 3/9. Dijkstra's Algorithm.md",
     "Pasted image 20250507195231.png",
     "Pasted image 20250507194841.png",
     "Pasted image 20250507194830.png",
@@ -199,17 +205,11 @@
     "Obsidian Vault/AAD/PYQ/Mod 5",
     "Obsidian Vault/AAD/PYQ",
     "Pasted image 20250507120011.png",
-    "Pasted image 20250507114814.png",
-    "Pasted image 20250507114804.png",
     "Obsidian Vault/AAD/Module 4/7. Travelling Salesman Problem (Branch and Bound).md",
     "Obsidian Vault/AAD/Module 5",
     "Obsidian Vault/AAD/Module 4/4. Floyd Warshall Algorithm.md",
     "Obsidian Vault/AAD/Module 4/6. N-Queens Problem.md",
-    "Obsidian Vault/AAD/Module 4/5. Back Tracking.md",
-    "Obsidian Vault/AAD/Module 4/2. Principle of Optimality.md",
-    "Obsidian Vault/AAD/Module 4/1. Dynamic Programming.md",
     "Obsidian Vault/AAD/Module 4",
-    "Obsidian Vault/AAD/Module 2/1. Binary Search Tree.md",
     "Obsidian Vault/AAD/Module 3",
     "Obsidian Vault/AAD/Module 2",
     "Obsidian Vault/CGIP/PYQ/Module 5",
