@@ -11,14 +11,12 @@
             "id": "19da6addde94afe2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/Python/Print the sin series.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250506210818.png"
               },
-              "icon": "lucide-file",
-              "title": "Print the sin series"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250506210818"
             }
           }
         ]
@@ -169,6 +167,10 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
+    "Pasted image 20250506210811.png",
+    "Obsidian Vault/Python/Module 5/Modules in Python.md",
+    "Obsidian Vault/Python/Print the sin series.md",
+    "Obsidian Vault/Python/Module 5",
     "Obsidian Vault/Python/F-Strings.md",
     "Obsidian Vault/Python/Module 2/Strings.md",
     "Obsidian Vault/Python/Print a pyramid of numbers.md",
@@ -200,12 +202,9 @@
     "Pasted image 20250507194841.png",
     "Pasted image 20250507194830.png",
     "Pasted image 20250507194816.png",
-    "Obsidian Vault/AAD/Module 5/3. Clique Problem.md",
     "Pasted image 20250507194025.png",
     "Pasted image 20250507194018.png",
-    "Obsidian Vault/AAD/Module 5/2. Classification of Problems.md",
     "Pasted image 20250507190609.png",
-    "Obsidian Vault/AAD/PYQ/Mod 5/Tractable Problem and Example.md",
     "Obsidian Vault/AAD/PYQ/Mod 5",
     "Obsidian Vault/AAD/PYQ",
     "Obsidian Vault/AAD/Module 5",
@@ -213,7 +212,6 @@
     "Obsidian Vault/AAD/Module 3",
     "Obsidian Vault/AAD/Module 2",
     "Obsidian Vault/CGIP/PYQ/Module 5",
-    "Obsidian Vault/CGIP/PYQ",
-    "Obsidian Vault/CGIP/Module 5"
+    "Obsidian Vault/CGIP/PYQ"
   ]
 }
