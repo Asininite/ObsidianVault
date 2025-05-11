@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Python/Module 4/2.5 Interfaces.md",
+                "file": "Obsidian Vault/Python/Module 1/2. Identifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 Interfaces"
+              "title": "2. Identifiers"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
+    "Obsidian Vault/Python/Module 4/2.5 Interfaces.md",
     "Obsidian Vault/Python/Module 1/2. Identifiers.md",
     "Obsidian Vault/Python/Untitled.md",
     "Obsidian Vault/Python/Module 1",
@@ -177,7 +178,6 @@
     "Obsidian Vault/Python/Module 4/questions.md",
     "Obsidian Vault/Python/Module 4/1. object and classes.md",
     "Obsidian Vault/Python/Module 4/2.4 Abstract Classes.md",
-    "Obsidian Vault/Python/Module 4/2.5 Interfaces.md",
     "Obsidian Vault/Python/Module 4/2. Inheritance, Polymorphism, Operator Overloading.md",
     "Obsidian Vault/Python/Module 4/2.1 Inheritance.md",
     "Obsidian Vault/Python/Module 4/2.2 Diamond Problem.md",
