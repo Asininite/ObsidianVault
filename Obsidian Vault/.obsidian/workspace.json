@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2359dacd3380f2e1",
+        "id": "5852a930546ee569",
         "type": "tabs",
         "children": [
           {
-            "id": "c29f156f6bfc162f",
+            "id": "55a226ac198792fd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,8 +156,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c29f156f6bfc162f",
+  "active": "55a226ac198792fd",
   "lastOpenFiles": [
+    "Python/Module 5/2. numpy.md",
+    "Python/Module 5/1. os and sys module.md",
+    "Python/Module 5/5. pandas.md",
+    "Python/Module 2/Questions/1. find modes in a list.md",
+    "Python/Module 3/! Steps to create a GUI application in Tkinter.md",
+    "Python/Module 3/2. Image Processing.md",
+    "Pasted image 20250513011205.png",
+    "Python/Module 3/1. tkinter.md",
+    "Python/Module 3",
+    "Python/Module 2/! List Comprehension.md",
+    "Python/Module 2/Questions",
+    "Python/Module 2/2. Caeser Cipher.md",
+    "Pasted image 20250512195535.png",
+    "Python/Module 2/Strings.md",
     "Compiler Design/Module 5/Peephole Optimization.md",
     "Compiler Design/Module 5/Design Issues.md",
     "Compiler Design/Module 5/Code generation algorithm.md",
@@ -170,8 +184,6 @@
     "Images/Pasted image 20250424121536.png",
     "Images/Pasted image 20250424115813.png",
     "Images/Pasted image 20250423201247.png",
-    "Images/Pasted image 20250423192417.png",
-    "Images/Pasted image 20250423191912.png",
     "Compiler Design/PDFs/CST302 -M2-Ktunotes.in.pdf",
     "Compiler Design/PDFs/CD MODULE 5.pdf",
     "Compiler Design/PDFs/CD MOD 2.pdf",
@@ -190,19 +202,7 @@
     "Compiler Design/Module 2/CFG.md",
     "Compiler Design/Module 2/Ambiguous Grammar.md",
     "Compiler Design/Module 2",
-    "Compiler Design/Module 1/Role of Lexical Analyzer.md",
     "Orbit/46/saves.ini",
-    "Orbit/46/Save006.sav",
-    "Orbit/46/Save005.sav",
-    "Orbit/46/Save002.sav",
-    "! Placement/Operating Systems/Loader.md",
-    "! Placement/System Analysis and Design/Phased Conversion.md",
-    "! Placement/Java/char.md",
-    "! Placement/Java/Questions.md",
-    "! Placement/DS 1/System Design Life Cycle.md",
-    "! Placement/DS 1/SDLC System Development Life Cycle.md",
-    "! Placement/DS 1/Expression Evaluation.md",
-    "something.md",
-    "! Placement/Operating Systems or COA/Thrashing.md"
+    "Orbit/46/Save006.sav"
   ]
 }
