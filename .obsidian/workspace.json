@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Python/Print the sin series.md",
+                "file": "Obsidian Vault/Python/Module 1/3. Data Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Print the sin series"
+              "title": "3. Data Types"
             }
           }
         ]
@@ -169,6 +169,8 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
+    "Obsidian Vault/Python/Module 1/2. Identifiers.md",
+    "Obsidian Vault/Python/Print the sin series.md",
     "Obsidian Vault/Python/Print a pyramid of numbers.md",
     "Obsidian Vault/Python/F-Strings.md",
     "Obsidian Vault/Python/Module 5/6. flask.md",
@@ -177,7 +179,6 @@
     "Obsidian Vault/Python/Module 1/5. Operator Precedence.md",
     "Obsidian Vault/Python/Module 1/4. Operators.md",
     "Obsidian Vault/Python/Module 1/3. Data Types.md",
-    "Obsidian Vault/Python/Module 1/2. Identifiers.md",
     "Obsidian Vault/Python/Module 4/2.5 Interfaces.md",
     "Obsidian Vault/Python/Untitled.md",
     "Obsidian Vault/Python/Module 1",
@@ -205,7 +206,6 @@
     "Pasted image 20250510174526.png",
     "Untitled.md",
     "Obsidian Vault/Python/Module 5/1. os and sys module.md",
-    "Obsidian Vault/Python/Print the sin series.md",
     "Obsidian Vault/Python/Module 5",
     "Obsidian Vault/Python/Module 2/Strings.md",
     "Obsidian Vault/AAD/PYQ/Mod 4",
