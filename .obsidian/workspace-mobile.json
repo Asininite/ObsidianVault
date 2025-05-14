@@ -11,12 +11,14 @@
             "id": "c8a3d40dffe5eac1",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "Music/Heavenly/Chemicals (FLAC 16_44.1 kHz).flac"
+                "file": "Obsidian Vault/IEFT/Module 5/! 1. Advantages Disadvantages Foreign Trade.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-audio",
-              "title": "Chemicals (FLAC 16_44.1 kHz)"
+              "icon": "lucide-file",
+              "title": "! 1. Advantages Disadvantages Foreign Trade"
             }
           }
         ]
@@ -94,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/Python/Module 4/questions.md",
+            "file": "Obsidian Vault/IEFT/Module 5/! 1. Advantages Disadvantages Foreign Trade.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,6 +154,30 @@
   },
   "active": "c8a3d40dffe5eac1",
   "lastOpenFiles": [
+    "Obsidian Vault/IEFT/Law of Variable Proportions.md",
+    "Pasted image 20250514143025.png",
+    "Pasted image 20250514142737.png",
+    "Pasted image 20250514141627.png",
+    "Pasted image 20250514141625.png",
+    "Pasted image 20250514141303.png",
+    "Obsidian Vault/IEFT/Module 5/Marshall-Lerner Condition.md",
+    "Obsidian Vault/IEFT/Module 5/2. Absolute Advantage Theory.md",
+    "Obsidian Vault/IEFT/Module 5/! 3. Comparative Advantage Theory.md",
+    "Obsidian Vault/IEFT/Module 5/! 1. Advantages Disadvantages Foreign Trade.md",
+    "/Pasted image 20250514143025.png",
+    "/Pasted image 20250514142737.png",
+    "/Pasted image 20250514141627.png",
+    "/Pasted image 20250514141625.png",
+    "/Pasted image 20250514141303.png",
+    "/Obsidian Vault/IEFT/Module 5/Marshall-Lerner Condition.md",
+    "/Obsidian Vault/IEFT/Module 5/2. Absolute Advantage Theory.md",
+    "/Obsidian Vault/IEFT/Module 5/! 3. Comparative Advantage Theory.md",
+    "/Obsidian Vault/IEFT/Module 5/! 1. Advantages Disadvantages Foreign Trade.md",
+    "/Obsidian Vault/IEFT/Module 5",
+    "Obsidian Vault/IEFT/Module 5",
+    "/Obsidian Vault/IEFT",
+    "/Obsidian Vault",
+    "Music/Heavenly/Chemicals (FLAC 16_44.1 kHz).flac",
     "Obsidian Vault/Python/Module 4/2.5 Interfaces.md",
     "Obsidian Vault/Python/Module 4/2.4 Abstract Classes.md",
     "Obsidian Vault/Python/Module 4/2.3 Polymorphism.md",
@@ -169,34 +195,10 @@
     "Obsidian Vault/Python/Module 2/Questions/1. find modes in a list.md",
     "Obsidian Vault/Python/Module 1/2. Identifiers.md",
     "/Obsidian Vault/Python/Module 5/!numpy.md",
-    "Obsidian Vault/Python/Module 5/!numpy.md",
     "/Obsidian Vault/Python/Module 5",
-    "/Obsidian Vault/Python/Module 3/2. Image Processing.md",
-    "/Obsidian Vault/Python/Module 3/! PROBLEM.md",
     "/Obsidian Vault/Python/Module 3",
     "/Obsidian Vault/Python",
-    "/Obsidian Vault",
-    "Obsidian Vault/Python/Module 5/2. numpy.md",
-    "Pasted image 20250513011205.png",
-    "Pasted image 20250512195535.png",
-    "/Pasted image 20250513011205.png",
-    "/Pasted image 20250512195535.png",
-    "/Obsidian Vault/Python/Module 3/1. tkinter.md",
-    "/Obsidian Vault/Python/Module 3/! Steps to create a GUI application in Tkinter.md",
-    "/Obsidian Vault/Python/Module 2/Questions/1. find modes in a list.md",
-    "/Obsidian Vault/Python/Module 2/2. Caeser Cipher.md",
-    "/Obsidian Vault/Python/Module 2/! List Comprehension.md",
     "Obsidian Vault/Python/Module 3",
-    "/Obsidian Vault/Python/Module 2/Questions",
-    "Obsidian Vault/Python/Module 2/Questions",
-    "/Obsidian Vault/Python/Module 2",
-    "Obsidian Vault/Images/Pasted image 20250506223320.png",
-    "Obsidian Vault/Images/Pasted image 20250506213234.png",
-    "Obsidian Vault/Images/Pasted image 20250506211809.png",
-    "Obsidian Vault/Images/Pasted image 20250506210818.png",
-    "Obsidian Vault/Images/Pasted image 20250506210811.png",
-    "Obsidian Vault/Images/Pasted image 20250506191425.png",
-    "/Obsidian Vault/Images",
-    "Obsidian Vault/Python/Module 5"
+    "/Obsidian Vault/Python/Module 2/Questions"
   ]
 }
