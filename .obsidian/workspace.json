@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9589bc5403858ebc",
+        "id": "5b3eb67f63af0fba",
         "type": "tabs",
         "children": [
           {
-            "id": "0fe30a6761578b17",
+            "id": "3062c507592c6cc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,11 +167,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "0fe30a6761578b17",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Pasted image 20250514195354.png",
     "Obsidian Vault/IEFT/Module 4/1. Macro-Economics.md",
+    "Obsidian Vault/Computer Networks/Module 2 Syllabus.md",
     "Obsidian Vault/IEFT/Module 4/2. Circular Flow of Economy.md",
+    "Pasted image 20250514195354.png",
     "Obsidian Vault/IEFT/Module 5/Marshall-Lerner Condition.md",
     "Obsidian Vault/IEFT/Module 4",
     "Obsidian Vault/IEFT/Module 5/! 11. TB and NTB.md",
@@ -198,7 +199,6 @@
     "Obsidian Vault/Images/Pasted image 20250506223829.png",
     "Obsidian Vault/Images/Pasted image 20250506223817.png",
     "Pasted image 20250514143025.png",
-    "Pasted image 20250514142737.png",
     "Obsidian Vault/Python/Module 5/5. pandas.md",
     "Obsidian Vault/IEFT/Module 5",
     "Obsidian Vault/IEFT/Module 1",
