@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e16fa96869ff49d",
+        "id": "9589bc5403858ebc",
         "type": "tabs",
         "children": [
           {
-            "id": "19da6addde94afe2",
+            "id": "0fe30a6761578b17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,10 +167,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "19da6addde94afe2",
+  "active": "0fe30a6761578b17",
   "lastOpenFiles": [
-    "Obsidian Vault/IEFT/Module 5/@ 5. BOP Balance of Payment.md",
+    "Pasted image 20250514170710.png",
     "Obsidian Vault/IEFT/Module 5/! 6. Devaluation.md",
+    "Obsidian Vault/IEFT/Module 5/@ 5. BOP Balance of Payment.md",
     "Obsidian Vault/IEFT/Module 5/@ 4. Heckscher-Ohlin (Factor Endowment) Theory.md",
     "Pasted image 20250514155737.png",
     "Obsidian Vault/IEFT/Module 5/! 2. Absolute Advantage Theory.md",
@@ -206,7 +207,6 @@
     "Obsidian Vault/Python/Print the sin series.md",
     "Obsidian Vault/Python/Print a pyramid of numbers.md",
     "Obsidian Vault/Python/F-Strings.md",
-    "Obsidian Vault/Python/Module 5/6. flask.md",
     "Obsidian Vault/Python/Module 1",
     "Obsidian Vault/Python/Module 4",
     "Obsidian Vault/Python/Module 5",
