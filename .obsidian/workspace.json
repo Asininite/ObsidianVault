@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/Basic Data Structures.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Data Structures"
+              "title": "binary heap"
             }
           }
         ]
@@ -170,6 +170,8 @@
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
     "Obsidian Vault/! Placement/DS 1/SDLC System Development Life Cycle.md",
+    "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
+    "Obsidian Vault/! Placement/! Data Structures",
     "Obsidian Vault/! Placement/Basic Data Structures.md",
     "Obsidian Vault/! Placement/DS 1/Expression Evaluation.md",
     "Obsidian Vault/! Placement/Operating Systems/Storage Compaction.md",
@@ -195,7 +197,6 @@
     "Obsidian Vault/Images/Pasted image 20250515215620.png",
     "Obsidian Vault/IEFT/Module 4/! 4. Monetary Terms.md",
     "Obsidian Vault/IEFT/Module 4/! 2. Circular Flow of Economy.md",
-    "Obsidian Vault/IEFT/Module 3/4.1 Kinked Demand Curve.md",
     "Obsidian Vault/Images/Pasted image 20250515190903.png",
     "Obsidian Vault/Images/Pasted image 20250515190843.png",
     "Obsidian Vault/IEFT/Module 2",
@@ -213,7 +214,6 @@
     "Obsidian Vault/IEFT/Module 1",
     "Obsidian Vault/Python/Module 1",
     "Obsidian Vault/Python/Module 4",
-    "Obsidian Vault/Python/Module 5",
-    "Obsidian Vault/AAD/PYQ/Mod 4"
+    "Obsidian Vault/Python/Module 5"
   ]
 }
