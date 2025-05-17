@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/IEFT/Module 1/1. Production Possibility Curve.md",
+                "file": "Obsidian Vault/! Placement/Basic Data Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Production Possibility Curve"
+              "title": "Basic Data Structures"
             }
           }
         ]
@@ -160,11 +160,30 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! Placement/DS 1/SDLC System Development Life Cycle.md",
+    "Obsidian Vault/! Placement/Basic Data Structures.md",
+    "Obsidian Vault/! Placement/DS 1/Expression Evaluation.md",
+    "Obsidian Vault/! Placement/Operating Systems/Storage Compaction.md",
+    "Obsidian Vault/! Placement/Operating Systems/Loader.md",
+    "Obsidian Vault/! Placement/Operating Systems/External Fragmentation.md",
+    "Obsidian Vault/! Placement/! Random Stuff.md",
+    "Obsidian Vault/AAD/Module 1/System Life Cycle.md",
+    "Obsidian Vault/AAD/Module 1/3. Performance Analysis.md",
+    "Obsidian Vault/AAD/Module 1/Recursive vs Iterative.md",
+    "Obsidian Vault/AAD/Module 1/! 7. Master's Theorem.md",
+    "Obsidian Vault/AAD/Module 1/! 1. Algorithms.md",
+    "Obsidian Vault/AAD/Module 5/2. Classification of Problems.md",
+    "Obsidian Vault/AAD/Module 5/6. Las Vegas vs Monte Carlo.md",
+    "Obsidian Vault/IEFT/Module 1/1. Production Possibility Curve.md",
     "Obsidian Vault/IEFT/Module 1/! 1. Proprietorship.md",
     "Obsidian Vault/IEFT/Module 5/1. Advantages Disadvantages Foreign Trade.md",
     "Obsidian Vault/IEFT/Module 5/! 2. Absolute Advantage Theory.md",
@@ -172,26 +191,11 @@
     "Obsidian Vault/IEFT/Module 5/4. Heckscher-Ohlin (Factor Endowment) Theory.md",
     "Obsidian Vault/IEFT/Module 5/5. BOP Balance of Payment.md",
     "Obsidian Vault/IEFT/Module 5/0. International Trade.md",
-    "Obsidian Vault/IEFT/Module 1/1. Production Possibility Curve.md",
     "Obsidian Vault/IEFT/Module 2/9. break-even point.md",
-    "Pasted image 20250515215620.png",
+    "Obsidian Vault/Images/Pasted image 20250515215620.png",
     "Obsidian Vault/IEFT/Module 4/! 4. Monetary Terms.md",
     "Obsidian Vault/IEFT/Module 4/! 2. Circular Flow of Economy.md",
     "Obsidian Vault/IEFT/Module 3/4.1 Kinked Demand Curve.md",
-    "Obsidian Vault/IEFT/Module 3/3. Monopolistic Competition.md",
-    "Obsidian Vault/IEFT/Module 3/1. Perfect Competition.md",
-    "Obsidian Vault/IEFT/Module 3/! 2. Monopoly.md",
-    "Obsidian Vault/IEFT/Module 4/1. Macro-Economics.md",
-    "Obsidian Vault/IEFT/Module 3/5. Non-price competitoin.md",
-    "Obsidian Vault/IEFT/Module 3/4.2 Price Leadership.md",
-    "Obsidian Vault/IEFT/Module 2/3. Economies of Scale.md",
-    "Obsidian Vault/IEFT/Module 5/Marshall-Lerner Condition.md",
-    "Obsidian Vault/IEFT/Module 3/6. Product Pricing.md",
-    "Obsidian Vault/IEFT/Module 3/4.3 Collusive Oligopoly.md",
-    "Obsidian Vault/IEFT/Module 3/4. Oligopoly.md",
-    "Obsidian Vault/IEFT/Module 4/11. Sources of Business Financing.md",
-    "Obsidian Vault/IEFT/Module 4/10. Stock Market.md",
-    "Obsidian Vault/IEFT/Module 4/! 7. Bonds.md",
     "Obsidian Vault/Images/Pasted image 20250515190903.png",
     "Obsidian Vault/Images/Pasted image 20250515190843.png",
     "Obsidian Vault/IEFT/Module 2",
