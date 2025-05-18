@@ -1,7 +1,3 @@
-Okay, let's break down paging systems. This is a fundamental memory management scheme used by operating systems.
-
-**What is Paging?**
-
 At its core, paging is a technique that allows a process's physical address space to be **non-contiguous**. It solves problems like:
 
 1.  **External Fragmentation:** This occurs when free memory is broken into small pieces, none of which are large enough to satisfy a request, even though the total free memory might be sufficient. Paging eliminates this for process allocation.
@@ -252,4 +248,4 @@ Here are common types of calculations you might see:
 *   **Assumptions:** If PTE size is not given, a common assumption for 32-bit systems is 4 Bytes.
 *   **Draw it Out:** For address translation or multi-level paging, a quick sketch can help visualize the divisions.
 
-By understanding these concepts and practicing these types of numerical problems, you'll be well-prepared for MCQs on paging systems!
+Number of Sets = (Total Cache Size) / (Block Size * Associativity)

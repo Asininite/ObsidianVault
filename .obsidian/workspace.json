@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/Pipelining.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipelining"
+              "title": "Paging System"
             }
           },
           {
@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/! Formulae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Process Scheduling Algorithms"
+              "title": "! Formulae"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,13 +196,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3062c507592c6cc8",
+  "active": "b6b3eb593bf5296b",
   "lastOpenFiles": [
+    "Obsidian Vault/! Placement/! Data Structures/! Formulae.md",
+    "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
+    "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
     "Obsidian Vault/! Placement/! Data Structures/Pipelining.md",
-    "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ May 2024.md",
-    "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
     "Obsidian Vault/! Placement/! Data Structures/Dynamic Arrays.md",
     "Obsidian Vault/! Placement/! Data Structures/Graphs.md",
     "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
@@ -226,7 +228,6 @@
     "Obsidian Vault/IEFT/Module 3/4.1 Kinked Demand Curve.md",
     "Obsidian Vault/IEFT/Module 3/3. Monopolistic Competition.md",
     "Obsidian Vault/IEFT/Module 3/1. Perfect Competition.md",
-    "Obsidian Vault/IEFT/Module 3/! 2. Monopoly.md",
     "Obsidian Vault/Images/Pasted image 20250515190903.png",
     "Obsidian Vault/Images/Pasted image 20250515190843.png",
     "Obsidian Vault/IEFT/Module 2",

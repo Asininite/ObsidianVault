@@ -1,0 +1,3 @@
+- Number of Sets = (Total Cache Size) / (Block Size * Associativity)
+- **The number of cache lines *in one set* is simply the associativity.**
+- 
