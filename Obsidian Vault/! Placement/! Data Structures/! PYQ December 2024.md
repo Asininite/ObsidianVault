@@ -534,9 +534,6 @@ The system is in a **SAFE state**.
         = 2<sup>20</sup> * 2<sup>2</sup> Bytes = 2<sup>22</sup> Bytes.
     *   Converting 2<sup>22</sup> Bytes to MB:
         2<sup>22</sup> B = 2<sup>2</sup> * 2<sup>20</sup> B = 4 * 1 MB = 4 MB.
-        If PTE was 32 Bytes (unlikely, but to match 32MB): 2<sup>20</sup> * 32 = 2<sup>20</sup> * 2<sup>5</sup> = 2<sup>25</sup> Bytes = 32 MB. This is a very large PTE.
-        If PTE was 8 Bytes: 2<sup>20</sup> * 8 = 2<sup>20</sup> * 2<sup>3</sup> = 2<sup>23</sup> Bytes = 8 MB. Option (a).
-        If PTE was 16 Bytes: 2<sup>20</sup> * 16 = 2<sup>20</sup> * 2<sup>4</sup> = 2<sup>24</sup> Bytes = 16 MB. Option (b).
     *   **The RAM size (16 GB) is irrelevant for the size of a single process's page table for its *virtual* address space.**
 *   **Related Concepts/Similar Questions:**
     *   Multi-level page tables (to reduce the size of contiguous page table memory).
