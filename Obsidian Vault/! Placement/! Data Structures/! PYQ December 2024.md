@@ -119,6 +119,7 @@ Let's break it down section by section.
     *   Applications of different traversals (e.g., pre-order for copying trees, post-order for deleting trees).
 
 **Question 10: What is the maximum number of nodes in a binary tree of height h?**
+- `A tree with only a root node is defined as having h=0.`
 *   **Answer:** a) 2<sup>h+1</sup> - 1 (Assuming height `h` means number of levels, and root is level 0, so height `h` means levels 0 to `h`. If height `h` means `h` edges from root to furthest leaf, then the answer would be 2<sup>h+1</sup>-1 if h is number of levels, and root is level 1. Or 2<sup>h+1</sup>-1 if root is level 0 and h is the max index of the level.)
     *   Let's clarify height conventions:
         *   **Convention 1: Height is the number of levels.** If root is level 1, height `h` has `h` levels. Max nodes = 2<sup>0</sup> + 2<sup>1</sup> + ... + 2<sup>h-1</sup> = 2<sup>h</sup> - 1.
