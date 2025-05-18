@@ -1,3 +1,11 @@
+- Binary heaps are complete binary trees. When stored in an array (let's assume **0-indexed arrays**, which are common in programming):
+*   The root is at index `0`.
+*   For a node at index `i`:
+    *   Its left child is at index `2*i + 1`.
+    *   Its right child is at index `2*i + 2`.
+    *   Its parent is at index `floor((i-1)/2)`.
+
+
 - works using priority queues
 	  priority queue sorts data items using a priority value and stores them in a queue
 	  higher priority items are accessed first
@@ -53,7 +61,7 @@ In a binary heap (whether max-heap or min-heap) with `n` elements, which is typi
 
 Here's why and where:
 
-**Understanding Heap Structure in an Array**
+## **Understanding Heap Structure in an Array**
 
 Binary heaps are complete binary trees. When stored in an array (let's assume **0-indexed arrays**, which are common in programming):
 *   The root is at index `0`.
