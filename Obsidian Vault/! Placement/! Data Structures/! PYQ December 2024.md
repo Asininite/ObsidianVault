@@ -24,7 +24,7 @@ Let's break it down section by section.
     *   **Deleting the maximum:**
         1.  The root (max element) is removed.
         2.  The last element in the heap is moved to the root.
-        3.  The heap property might be violated, so the new root is "sifted down" (heapified down) by swapping it with its largest child until the heap property is restored. This sift-down operation takes O(log n) time because the height of a heap with n elements is **log n with base 2** 
+        3.  The heap property might be violated, so the new root is "sifted down" (heapified down) by swapping it with its largest child until the heap property is restored. This sift-down operation takes O(log n) time because the height of a heap with n elements is **log n with base 2**
 *   **Related Concepts/Similar Questions:**
     *   Min-heap (deleting the minimum element is also O(log n)).
     *   Time complexity of insertion into a heap: O(log n).
