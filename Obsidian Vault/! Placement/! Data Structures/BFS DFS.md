@@ -81,16 +81,16 @@ Okay, let's dive into Breadth-First Search (BFS) and Depth-First Search (DFS). T
 
 **Key Differences and When to Use Which:**
 
-| Feature           | Breadth-First Search (BFS)                       | Depth-First Search (DFS)                            |
-| :---------------- | :----------------------------------------------- | :-------------------------------------------------- |
-| **Exploration**   | Level by level, explores broadly                | Goes as deep as possible, explores narrowly then backtracks |
-| **Data Structure**| **Queue** (FIFO)                                 | **Stack** (LIFO) - often implicit via recursion      |
-| **Shortest Path** | Finds shortest path in unweighted graphs        | Does not guarantee shortest path                    |
-| **Memory Usage**  | Can use more memory if the graph is wide        | Can use less memory if the graph is deep but not wide (iterative can still be O(V)) |
-| **Cycle Detection**| Can detect cycles                                | Good for detecting cycles (especially with back-edges) |
-| **Completeness**  | Complete                                         | Complete (for finite graphs)                         |
-| **Optimality**    | Optimal for unweighted shortest path           | Not generally optimal for shortest path              |
-| **Common Uses**   | Shortest path (unweighted), web crawlers, bipartite check | Topological sort, cycle detection, connected components, pathfinding |
+| Feature             | Breadth-First Search (BFS)                                | Depth-First Search (DFS)                                                            |
+| :------------------ | :-------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| **Exploration**     | Level by level, explores broadly                          | Goes as deep as possible, explores narrowly then backtracks                         |
+| **Data Structure**  | **Queue** (FIFO)                                          | **Stack** (LIFO) - often implicit via recursion                                     |
+| **Shortest Path**   | Finds shortest path in unweighted graphs                  | Does not guarantee shortest path                                                    |
+| **Memory Usage**    | Can use more memory if the graph is wide                  | Can use less memory if the graph is deep but not wide (iterative can still be O(V)) |
+| **Cycle Detection** | Can detect cycles                                         | Good for detecting cycles (especially with back-edges)                              |
+| **Completeness**    | Complete                                                  | Complete (for finite graphs)                                                        |
+| **Optimality**      | Optimal for unweighted shortest path                      | Not generally optimal for shortest path                                             |
+| **Common Uses**     | Shortest path (unweighted), web crawlers, bipartite check | Topological sort, cycle detection, connected components, pathfinding                |
 
 **In Summary:**
 
