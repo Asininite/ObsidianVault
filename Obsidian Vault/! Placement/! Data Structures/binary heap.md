@@ -1,10 +1,11 @@
+- A binary heap is a tree-based data structure that satisfies the heap property: in a min heap, for any given node, the value of its key is less than or equal to the values of its children's keys, meaning the minimum element is always at the root. Conversely, in a max heap, the key at each node is greater than or equal to its children's keys, placing the maximum element at the root. Binary heaps are typically implemented as complete binary trees, meaning all levels are filled except possibly the last, which is filled from left to right.
 - Binary heaps are complete binary trees. When stored in an array (let's assume **0-indexed arrays**, which are common in programming):
-*   The root is at index `0`.
-*   For a node at index `i`:
-    *   Its left child is at index `2*i + 1`.
-    *   Its right child is at index `2*i + 2`.
-    *   Its parent is at index `floor((i-1)/2)`.
-
+	*   The root is at index `0`.
+	*   For a node at index `i`:
+	    *   Its left child is at index `2*i + 1`.
+	    *   Its right child is at index `2*i + 2`.
+	    *   Its parent is at index `floor((i-1)/2)`.
+* In a complete binary tree with n nodes, the number of **leaf** nodes is **ceil(n/2)**.
 
 - works using priority queues
 	  priority queue sorts data items using a priority value and stores them in a queue
@@ -18,8 +19,6 @@
 ![[Pasted image 20250517200414.png]]
 - adding 5 to the tree breaks the **invariant** 
 	  **rule** : compare the added node to the parent and swap if the parent is smaller
-
-A binary heap is a tree-based data structure that satisfies the heap property: in a min heap, for any given node, the value of its key is less than or equal to the values of its children's keys, meaning the minimum element is always at the root. Conversely, in a max heap, the key at each node is greater than or equal to its children's keys, placing the maximum element at the root. Binary heaps are typically implemented as complete binary trees, meaning all levels are filled except possibly the last, which is filled from left to right.
 
 Here are the time complexities for common operations in a binary heap, where 'n' is the number of elements in the heap:
 
