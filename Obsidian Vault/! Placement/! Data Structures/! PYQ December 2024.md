@@ -297,6 +297,126 @@ Let's break it down section by section.
 *   **Related Concepts/Similar Questions:**
     *   Resource Request Algorithm (part of Banker's).
     *   Conditions for Deadlock.
+      
+      We are given:
+
+- **Processes (P0 to P4)**
+    
+- **Resource types A, B, C**
+    
+- **Allocation matrix**
+    
+- **Request (Need) matrix**
+    
+- **Available resources**
+    
+- And we're asked to determine the **state of the system** (Safe or Unsafe).
+    
+
+---
+
+### **Step 1: Parse the given data**
+
+**Allocation Matrix:**
+
+makefile
+
+CopyEdit
+
+`P0: [1, 0, 2]  P1: [0, 1, 0]  P2: [1, 3, 5]  P3: [1, 0, 0]  P4: [0, 0, 1]`
+
+**Request (Need) Matrix:**
+
+makefile
+
+CopyEdit
+
+`P0: [0, 0, 0]  P1: [1, 0, 2]  P2: [1, 1, 0]  P3: [0, 0, 2]  P4: [1, 0, 0]`
+
+**Available: [1, 1, 1]**
+
+---
+
+### **Step 2: Apply Banker's Algorithm (Safety Algorithm)**
+
+Try to find a **safe sequence**.
+
+1. **Initial Available: [1, 1, 1]**
+    
+2. Look for a process whose **request ≤ available**.
+    
+
+---
+
+#### **Iteration 1:**
+
+Check each process:
+
+- P0: Request = [0, 0, 0] → ✅  
+    → Can complete.  
+    → New available = [1+1, 1+0, 1+2] = **[2, 1, 3]**
+    
+
+Safe sequence so far: **P0**
+
+---
+
+#### **Iteration 2:**
+
+Available: [2, 1, 3]
+
+- P1: [1, 0, 2] → ✅  
+    → Can complete.  
+    → New available = [2+0, 1+1, 3+0] = **[2, 2, 3]**
+    
+
+Safe sequence: **P0, P1**
+
+---
+
+#### **Iteration 3:**
+
+Available: [2, 2, 3]
+
+- P2: [1, 1, 0] → ✅  
+    → Can complete.  
+    → New available = [2+1, 2+3, 3+5] = **[3, 5, 8]**
+    
+
+Safe sequence: **P0, P1, P2**
+
+---
+
+#### **Iteration 4:**
+
+Available: [3, 5, 8]
+
+- P3: [0, 0, 2] → ✅  
+    → Can complete.  
+    → New available = [3+1, 5+0, 8+0] = **[4, 5, 8]**
+    
+
+Safe sequence: **P0, P1, P2, P3**
+
+---
+
+#### **Iteration 5:**
+
+Available: [4, 5, 8]
+
+- P4: [1, 0, 0] → ✅  
+    → Can complete.  
+    → New available = [4+0, 5+0, 8+1] = **[4, 5, 9]**
+    
+
+Safe sequence: **P0, P1, P2, P3, P4**
+
+---
+
+### ✅ **Conclusion:**
+
+The system is in a **SAFE state**.  
+**Safe Sequence:** P0 → P1 → P2 → P3 → P4
 
 **Question 18: Consider a paging system with a page size of 4 KB. How many bits are used for the offset in a 32-bit address?**
 *   **Answer:** b) 12 bits
