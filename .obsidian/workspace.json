@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/breadth first search.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/Binary search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "breadth first search"
+              "title": "Binary search"
             }
           }
         ]
@@ -169,8 +169,9 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
     "Obsidian Vault/! Placement/! Data Structures/breadth first search.md",
+    "Obsidian Vault/! Placement/! Data Structures/Binary search.md",
+    "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
     "Obsidian Vault/IEFT/Module 1/1. Production Possibility Curve.md",
     "Pasted image 20250517200414.png",
     "Obsidian Vault/Images/Pasted image 20250515215620.png",
