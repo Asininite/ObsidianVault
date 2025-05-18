@@ -44,3 +44,8 @@ A complete graph is a simple undirected graph in which every pair of distinct ve
 		  or K<sub>3,3</sub> (the complete bipartite graph with 3 vertices in each partition).
 
 *   **Dirac's Theorem (for Hamiltonian Cycles):** If G is a simple graph with 'n' vertices (n ≥ 3) and the degree of every vertex is at least n/2, then G has a **Hamiltonian** cycle.
+
+## Planar Graphs
+**When a connected graph can be drawn without any edges crossing**, it is called planar . When a planar graph is drawn in this way, it divides the plane into regions called faces . Draw, if possible, two different planar graphs with the same number of vertices, edges, and faces.
+
+
