@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/Pipelining.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paging System"
+              "title": "Pipelining"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Process Scheduling Algorithms"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,9 +195,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b6b3eb593bf5296b",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
     "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
+    "Obsidian Vault/! Placement/! Data Structures/Pipelining.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ May 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
@@ -227,7 +227,6 @@
     "Obsidian Vault/IEFT/Module 3/3. Monopolistic Competition.md",
     "Obsidian Vault/IEFT/Module 3/1. Perfect Competition.md",
     "Obsidian Vault/IEFT/Module 3/! 2. Monopoly.md",
-    "Obsidian Vault/IEFT/Module 4/1. Macro-Economics.md",
     "Obsidian Vault/Images/Pasted image 20250515190903.png",
     "Obsidian Vault/Images/Pasted image 20250515190843.png",
     "Obsidian Vault/IEFT/Module 2",
