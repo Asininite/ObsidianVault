@@ -49,3 +49,68 @@ Here are the time complexities for common operations in a binary heap, where 'n'
 The space complexity for a binary heap is typically O(n) to store the elements in an array. Most operations like insert, delete, and heapify can be done in-place, requiring O(1) auxiliary space for iterative versions. Recursive implementations of operations like heapify might use O(log n) space due to the recursion call stack.
 
 
+In a binary heap (whether max-heap or min-heap) with `n` elements, which is typically implemented as an array, the leaf nodes are stored in the latter half of the array.
+
+Here's why and where:
+
+**Understanding Heap Structure in an Array**
+
+Binary heaps are complete binary trees. When stored in an array (let's assume **0-indexed arrays**, which are common in programming):
+*   The root is at index `0`.
+*   For a node at index `i`:
+    *   Its left child is at index `2*i + 1`.
+    *   Its right child is at index `2*i + 2`.
+    *   Its parent is at index `floor((i-1)/2)`.
+
+**Identifying Leaf Nodes**
+
+A leaf node is a node that has no children.
+*   If a node at index `i` has a left child, that child's index is `2*i + 1`.
+*   For a node `i` to be a leaf, its potential left child `2*i + 1` must be outside the bounds of the heap. That is, `2*i + 1 >= n`.
+*   Solving for `i`:
+    `2*i >= n - 1`
+    `i >= (n - 1) / 2`
+
+Since `i` must be an integer, the first index `i` that could potentially be a leaf node is `floor((n-1)/2) + 1` if `(n-1)/2` is not an integer, or `(n-1)/2` itself in some cases.
+
+A simpler way to think about it is: **The last non-leaf node (the parent of the last element `n-1`) is at index `floor((n-1-1)/2) = floor(n/2) - 1`.**
+Therefore, all nodes with indices greater than this last parent must be leaf nodes.
+
+**Location of Leaf Nodes (0-indexed array):**
+
+The leaf nodes are stored in the array at indices starting from:
+**`floor(n/2)` up to `n-1`**
+
+Let's test this:
+*   **n = 1:** `floor(1/2) = 0`. Leaves: index `0` to `1-1=0`. (Node at 0 is a leaf). Correct.
+*   **n = 3:** `floor(3/2) = 1`. Leaves: index `1` to `3-1=2`. (Nodes at 1, 2 are leaves). Correct.
+    *   `0` (root)
+    *   `/ \`
+    *   `1   2` (leaves)
+*   **n = 5:** `floor(5/2) = 2`. Leaves: index `2` to `5-1=4`. (Nodes at 2, 3, 4 are leaves). Correct.
+    *   `    0`
+    *   `   / \`
+    *   `  1   2` (2 is a leaf)
+    *   ` / \`
+    *   `3   4` (3, 4 are leaves)
+*   **n = 7:** `floor(7/2) = 3`. Leaves: index `3` to `7-1=6`. (Nodes at 3, 4, 5, 6 are leaves). Correct.
+
+**Location of Leaf Nodes (1-indexed array):**
+
+If you are using a 1-indexed array (common in some textbooks):
+*   Root is at index `1`.
+*   Left child of `i` is `2*i`.
+*   Right child of `i` is `2*i + 1`.
+*   A node `i` is a leaf if `2*i > n`. So `i > n/2`.
+*   The leaf nodes are stored at indices:
+    **`floor(n/2) + 1` up to `n`**
+
+**Number of Leaf Nodes:**
+
+In a complete binary tree with `n` nodes, the number of leaf nodes is **`ceil(n/2)`**.
+
+So, to summarize for an `n`-element heap stored in a **0-indexed array**:
+*   **Leaf nodes are stored from index `floor(n/2)` to `n-1`.**
+*   There are `ceil(n/2)` leaf nodes.
+
+
