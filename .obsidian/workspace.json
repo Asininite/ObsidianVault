@@ -35,8 +35,7 @@
               "title": "! PYQ December 2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,10 +181,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b6b3eb593bf5296b",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
+    "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
     "Obsidian Vault/! Placement/! Data Structures/Dynamic Arrays.md",
     "Obsidian Vault/! Placement/! Data Structures/Graphs.md",
     "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
