@@ -520,7 +520,7 @@ The system is in a **SAFE state**.
     *   How different addressing modes affect instruction length and flexibility.
 
 **Question 24: A computer has 16 GB of RAM and a 32-bit virtual address space. If the page size is 4 KB, what is the size of the page table?**
-*   **Answer:** d) 32 MB (This assumes a single-level page table and specific PTE size)
+*   **Answer:** c) 4 MB (This assumes a single-level page table and specific PTE size)
 *   **Core Concept: Page Table Size Calculation**
     *   Virtual Address Space = 32-bit.
     *   Total Virtual Memory = 2<sup>32</sup> Bytes.
@@ -534,19 +534,10 @@ The system is in a **SAFE state**.
         = 2<sup>20</sup> * 2<sup>2</sup> Bytes = 2<sup>22</sup> Bytes.
     *   Converting 2<sup>22</sup> Bytes to MB:
         2<sup>22</sup> B = 2<sup>2</sup> * 2<sup>20</sup> B = 4 * 1 MB = 4 MB.
-    *   Wait, this doesn't match the option (d) 32 MB. Let's see if a different PTE size leads to an option.
         If PTE was 32 Bytes (unlikely, but to match 32MB): 2<sup>20</sup> * 32 = 2<sup>20</sup> * 2<sup>5</sup> = 2<sup>25</sup> Bytes = 32 MB. This is a very large PTE.
         If PTE was 8 Bytes: 2<sup>20</sup> * 8 = 2<sup>20</sup> * 2<sup>3</sup> = 2<sup>23</sup> Bytes = 8 MB. Option (a).
         If PTE was 16 Bytes: 2<sup>20</sup> * 16 = 2<sup>20</sup> * 2<sup>4</sup> = 2<sup>24</sup> Bytes = 16 MB. Option (b).
     *   **The RAM size (16 GB) is irrelevant for the size of a single process's page table for its *virtual* address space.**
-    *   The question likely implies a standard PTE size or expects one of the options to be derivable. If we assume 8 Bytes per PTE (e.g. for a 64-bit system or larger physical address space mapping), then it's 8MB (option a).
-    *   Let's re-check the options and my initial calculation. If PTE = 4 bytes, Page Table = 4MB. This is option (c).
-    *   Why would (d) 32 MB be the answer? Perhaps the question has an implicit assumption or context.
-    *   If we assume that for a 32-bit system, perhaps they map the page number (20 bits) to entries that are somewhat larger, or there's some overhead.
-    *   **If we strictly use PTE = 4 Bytes (common for 32-bit frame numbers + control bits), the answer is 4 MB (option c).**
-    *   Let's consider if any other interpretation gives 32MB. If the page directory itself (in a 2-level scheme) needs to cover the full 2^20 pages with large entries.
-    *   Given the choices, and standard PTE sizes, 4MB (from 4-byte PTEs) or 8MB (from 8-byte PTEs) are more plausible. **Option (c) 4MB is the most standard answer assuming 4-byte PTEs.** If the intended answer is 32MB, the assumed PTE size would have to be 32 bytes, which is unusually large for this context.
-    *   *Looking back at standard problems, often a PTE is assumed to be 4 bytes for a 32-bit system.*
 *   **Related Concepts/Similar Questions:**
     *   Multi-level page tables (to reduce the size of contiguous page table memory).
     *   Page Table Entry (PTE) contents.
