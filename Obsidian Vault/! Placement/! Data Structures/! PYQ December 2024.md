@@ -588,7 +588,7 @@ The system is in a **SAFE state**.
     *   The provided solution key for exams usually helps here. Without it, and assuming there's a valid interpretation matching an option, "Number of sets" (1024) or "Total cache lines" (2048) are common calculations.
 
 **Question 28: A system uses a direct-mapped cache with 512 blocks and a block size of 32 bytes. What is the size of the tag field for a 32-bit memory address?**
-*   **Answer:** c) 18 bits (re-evaluating, see below)
+*   **Answer:** b) 18 bits 
 *   **Core Concept: Direct-Mapped Cache Addressing**
     *   Physical Address (32 bits) is divided into: Tag | Index (Set) | Offset
     *   Number of Blocks (Cache Lines) = 512 = 2<sup>9</sup>.
@@ -599,12 +599,6 @@ The system is in a **SAFE state**.
         = 32 - 14 = 18 bits.
     *   Checking options: a) 19, b) 18, c) 17, d) 16.
     *   My calculation gives 18 bits. This matches option (b).
-    *   The provided answer in the image snippet seems to be (c) 17 bits for this question (from the user solving it previously perhaps). Let me recheck my logic.
-        Number of blocks = 512. So index needs to identify one of these 512 blocks. log<sub>2</sub>(512) = 9 bits for index.
-        Block size = 32 bytes. Offset needs to identify a byte within the block. log<sub>2</sub>(32) = 5 bits for offset.
-        Total bits = 32.
-        Tag bits = 32 - (Index bits + Offset bits) = 32 - (9 + 5) = 32 - 14 = 18 bits.
-    *   **My derivation is consistently 18 bits. So option (b) is correct.** If the intended answer was (c) 17 bits, then one of the parameters would have to change (e.g., if total address bits were 31, or index+offset was 15).
 *   **Related Concepts/Similar Questions:**
     *   Calculating these fields for set-associative and fully associative caches.
     *   Cache hit/miss determination using these fields.
