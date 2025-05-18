@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "2285ec033214da64",
@@ -196,10 +197,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a6fec68e3bf017a5",
+  "active": "b6b3eb593bf5296b",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
+    "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
     "Obsidian Vault/! Placement/! Data Structures/Dynamic Arrays.md",
     "Obsidian Vault/! Placement/! Data Structures/Graphs.md",
