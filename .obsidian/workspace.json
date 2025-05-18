@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paging System"
+            }
+          },
+          {
+            "id": "b6b3eb593bf5296b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "! PYQ December 2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,10 +182,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3062c507592c6cc8",
+  "active": "b6b3eb593bf5296b",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/! Data Structures/Dynamic Arrays.md",
+    "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
+    "Obsidian Vault/! Placement/! Data Structures/Dynamic Arrays.md",
     "Obsidian Vault/! Placement/! Data Structures/Graphs.md",
     "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
     "Obsidian Vault/! Placement/! Data Structures/BFS DFS.md",
@@ -198,7 +214,6 @@
     "Obsidian Vault/IEFT/Module 4/1. Macro-Economics.md",
     "Obsidian Vault/IEFT/Module 3/5. Non-price competitoin.md",
     "Obsidian Vault/IEFT/Module 3/4.2 Price Leadership.md",
-    "Obsidian Vault/IEFT/Module 2/3. Economies of Scale.md",
     "Obsidian Vault/Images/Pasted image 20250515190903.png",
     "Obsidian Vault/Images/Pasted image 20250515190843.png",
     "Obsidian Vault/IEFT/Module 2",
