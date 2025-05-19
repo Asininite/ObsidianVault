@@ -394,4 +394,17 @@ My assessment of individual FDs for the given instance seems robust. The issue i
 
 Given the structure of such questions, they usually look for a unique answer. The only unique evaluation here is that statement (b) is TRUE. Perhaps the question is a typo and should be "Identify the statement... that is TRUE"? If so, (b) is the choice. If it is indeed "FALSE", then the question is flawed. For now, I will provide answers based on the question as written and note the ambiguity.
 
-Answer for Q12 based on evaluation: Any of (a), (c), or (d). I will select (a) for bookkeeping.
+**Question 40: Consider a B+ tree with order 4. What is the maximum number of keys that can be stored in a node?**
+*   **Answer:** b) 3
+*   **Core Concept: B+ Tree Order**
+    *   The **order `p`** of a B+ tree (sometimes denoted `m`) defines the maximum number of *children* an internal node can have.
+    *   An internal node with `p` children has `p-1` keys.
+    *   A leaf node also typically holds up to `p-1` keys (or `p-1` data records/pointers depending on the B+ tree variant).
+    *   If order is 4 (meaning max 4 children for internal nodes), then the maximum number of keys in any node (internal or leaf) is `order - 1 = 4 - 1 = 3`.
+    *   Minimum keys in an internal node (except root) is `ceil(p/2) - 1`.
+    *   Minimum keys in a leaf node (except root if it's also a leaf) is `floor(p/2)` or `ceil(p/2)-1` depending on definition.
+*   **Related Concepts/Similar Questions:**
+    *   Minimum number of keys in a B+ tree node.
+    *   Structure of internal vs. leaf nodes in B+ trees.
+    *   Insertion and deletion operations in B+ trees.
+    *   Difference between B-tree and B+ tree.
