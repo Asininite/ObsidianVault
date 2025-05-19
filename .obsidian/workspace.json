@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Locality of Reference"
+              "title": "binary heap"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paging System"
+              "title": "! PYQ December 2024"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "! PYQ May 2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,37 +196,37 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3062c507592c6cc8",
+  "active": "b6b3eb593bf5296b",
   "lastOpenFiles": [
+    "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
+    "Obsidian Vault/! Placement/! Data Structures/Conflict Serializability.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
+    "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Linker.md",
-    "Obsidian Vault/! Placement/Operating Systems or COA/Dynamic Address Translation.md",
+    "Obsidian Vault/! Placement/! Random Stuff.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/System Generation.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Terminal Table.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Thrashing.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Bankers Algorithm.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Decision Tables.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Default Values.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Disk Scheduling Algorithms.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/! Pointer.md",
+    "Obsidian Vault/! Placement/DS 1/System Design Life Cycle.md",
+    "Obsidian Vault/! Placement/DS 1/SDLC System Development Life Cycle.md",
+    "Obsidian Vault/! Placement/DS 1/Expression Evaluation.md",
+    "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Dynamic Address Translation.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Addressing Structures.md",
     "Obsidian Vault/! Placement/Operating Systems/Storage Compaction.md",
-    "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ January 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ May 2024.md",
-    "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ June 2023.md",
     "Obsidian Vault/! Placement/! Data Structures/Direct Mapped Cache Addressing.md",
     "Obsidian Vault/! Placement/! Data Structures/Data hazards and forwarding,stalling.md",
-    "Obsidian Vault/! Placement/! Data Structures/! Formulae.md",
-    "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
-    "Obsidian Vault/! Placement/! Data Structures/Pipelining.md",
-    "Obsidian Vault/! Placement/! Data Structures/Dynamic Arrays.md",
-    "Obsidian Vault/! Placement/! Data Structures/Graphs.md",
-    "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
-    "Obsidian Vault/! Placement/! Data Structures/BFS DFS.md",
-    "Obsidian Vault/! Placement/! Random Stuff.md",
-    "Obsidian Vault/! Placement/! Data Structures/Binary search.md",
-    "Obsidian Vault/IEFT/Module 1/1. Production Possibility Curve.md",
     "Pasted image 20250517200414.png",
     "Obsidian Vault/Images/Pasted image 20250515215620.png",
     "Obsidian Vault/! Placement/! Data Structures",
-    "Obsidian Vault/IEFT/Module 1/! 1. Proprietorship.md",
-    "Obsidian Vault/IEFT/Module 5/1. Advantages Disadvantages Foreign Trade.md",
-    "Obsidian Vault/IEFT/Module 5/! 2. Absolute Advantage Theory.md",
-    "Obsidian Vault/IEFT/Module 5/8. Protectionism.md",
     "Pasted image 20250515215620.png",
     "Obsidian Vault/Images/Pasted image 20250515190903.png",
     "Obsidian Vault/Images/Pasted image 20250515190843.png",
