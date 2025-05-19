@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/Data hazards and forwarding,stalling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paging System"
+              "title": "Data hazards and forwarding,stalling"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Direct Mapped Cache Addressing"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,13 +195,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a6fec68e3bf017a5",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/! Data Structures/! Formulae.md",
-    "Obsidian Vault/! Placement/! Data Structures/Direct Mapped Cache Addressing.md",
-    "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
-    "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
     "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
+    "Obsidian Vault/! Placement/! Data Structures/Data hazards and forwarding,stalling.md",
+    "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
+    "Obsidian Vault/! Placement/! Data Structures/Direct Mapped Cache Addressing.md",
+    "Obsidian Vault/! Placement/! Data Structures/! Formulae.md",
+    "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
     "Obsidian Vault/! Placement/! Data Structures/Pipelining.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ May 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/Dynamic Arrays.md",
@@ -227,7 +227,6 @@
     "Obsidian Vault/IEFT/Module 4/! 4. Monetary Terms.md",
     "Obsidian Vault/IEFT/Module 4/! 2. Circular Flow of Economy.md",
     "Obsidian Vault/IEFT/Module 3/4.1 Kinked Demand Curve.md",
-    "Obsidian Vault/IEFT/Module 3/3. Monopolistic Competition.md",
     "Obsidian Vault/Images/Pasted image 20250515190903.png",
     "Obsidian Vault/Images/Pasted image 20250515190843.png",
     "Obsidian Vault/IEFT/Module 2",
