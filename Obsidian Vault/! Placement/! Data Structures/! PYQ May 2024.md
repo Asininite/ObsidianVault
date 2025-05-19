@@ -235,21 +235,6 @@ Between SCAN and C-SCAN, SCAN would generally have slightly less total head move
 
 Therefore, **b) Elevator** is the most likely intended answer if we are to choose the best among the given.
 
-*Self-correction: The question is about which results in *minimum* head movement. While SCAN/Elevator reduces it, Shortest Seek Time First (SSTF) is specifically designed to always pick the request with the minimum head movement from the current position. If SSTF were an option, it would be the answer. Since it's not, we look at the provided list. FCFS is often bad. SCAN and C-SCAN are better. SCAN (Elevator) services requests in one direction and then reverses. C-SCAN services in one direction and then jumps back to the beginning. Out of these, SCAN tends to have less overall arm movement than C-SCAN because C-SCAN has that large jump. However, for a given set of requests, it's complex. Some interpretations suggest LOOK/C-LOOK are best, which are variants of SCAN/C-SCAN.
-
-If the question is strictly about "minimum head movement", then one might argue that none achieve the *absolute* minimum that LOOK or SSTF might achieve in certain scenarios.
-
-Let's do a quick search for comparison.
-SSTF (Shortest Seek Time First) generally results in the minimum head movement because it always chooses the request closest to the current head position. However, SSTF is not an option here.
-Among FCFS, SCAN (Elevator), and C-SCAN:
-*   FCFS can result in a lot of head movement.
-*   SCAN (Elevator) moves the head from one end to the other, servicing requests in its path, and then reverses.
-*   C-SCAN also moves from one end to the other servicing requests, but on the return trip, it goes to the other end without servicing, then starts again. This offers more uniform wait times but can involve a long sweep without service.
-
-SCAN generally has less total head movement than C-SCAN because C-SCAN includes a full sweep back to the beginning without servicing requests, while SCAN reverses and services immediately. The LOOK and C-LOOK algorithms are optimizations of SCAN and C-SCAN where the head only travels as far as the last request in each direction, not necessarily to the physical end of the disk; these usually offer better performance in terms of head movement than their SCAN/C-SCAN counterparts.
-
-Given the choices, and recognizing that SSTF (the typical "minimum head movement" answer) is absent, **b) Elevator (SCAN)** is the most appropriate answer as it is designed to be more efficient in terms of head movement than FCFS and often results in less total movement than C-SCAN due to avoiding the unserviced return sweep to the start of the disk.
-
 ---
 
 ### Question 10:
