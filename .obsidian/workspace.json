@@ -41,15 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/Direct Mapped Cache Addressing.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/! PYQ June 2023.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Direct Mapped Cache Addressing"
+              "title": "! PYQ June 2023"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,13 +196,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3062c507592c6cc8",
+  "active": "a6fec68e3bf017a5",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/! Data Structures/Data hazards and forwarding,stalling.md",
+    "Obsidian Vault/! Placement/! Data Structures/Direct Mapped Cache Addressing.md",
+    "Obsidian Vault/! Placement/! Data Structures/! PYQ June 2023.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ January 2024.md",
+    "Obsidian Vault/! Placement/! Data Structures/Data hazards and forwarding,stalling.md",
     "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
-    "Obsidian Vault/! Placement/! Data Structures/Direct Mapped Cache Addressing.md",
     "Obsidian Vault/! Placement/! Data Structures/! Formulae.md",
     "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
     "Obsidian Vault/! Placement/! Data Structures/Pipelining.md",
@@ -226,7 +228,6 @@
     "Obsidian Vault/IEFT/Module 2/9. break-even point.md",
     "Pasted image 20250515215620.png",
     "Obsidian Vault/IEFT/Module 4/! 4. Monetary Terms.md",
-    "Obsidian Vault/IEFT/Module 4/! 2. Circular Flow of Economy.md",
     "Obsidian Vault/Images/Pasted image 20250515190903.png",
     "Obsidian Vault/Images/Pasted image 20250515190843.png",
     "Obsidian Vault/IEFT/Module 2",
