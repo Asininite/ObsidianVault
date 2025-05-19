@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/Binary search tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "binary heap"
+              "title": "Binary search tree"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/Operating Systems or COA/Dynamic Address Translation.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/! PYQ June 2023.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynamic Address Translation"
+              "title": "! PYQ June 2023"
             }
           },
           {
@@ -198,15 +198,17 @@
   },
   "active": "b6b3eb593bf5296b",
   "lastOpenFiles": [
-    "Obsidian Vault/! Placement/Operating Systems or COA/Interrupt Service Routine.md",
+    "Obsidian Vault/! Placement/! Data Structures/Binary search tree.md",
+    "Obsidian Vault/! Placement/! Data Structures/! PYQ June 2023.md",
+    "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
+    "Obsidian Vault/! Placement/! Data Structures/Conflict Serializability.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Dynamic Address Translation.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Interrupt Service Routine.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Re-enterable.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/MBR.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Macro.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Storage-To-Storage Instructions.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
-    "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
-    "Obsidian Vault/! Placement/! Data Structures/Conflict Serializability.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Linker.md",
     "Obsidian Vault/! Placement/! Random Stuff.md",
@@ -222,8 +224,6 @@
     "Obsidian Vault/! Placement/DS 1/SDLC System Development Life Cycle.md",
     "Obsidian Vault/! Placement/DS 1/Expression Evaluation.md",
     "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
-    "Obsidian Vault/! Placement/Operating Systems or COA/Addressing Structures.md",
-    "Obsidian Vault/! Placement/Operating Systems/Storage Compaction.md",
     "Pasted image 20250517200414.png",
     "Obsidian Vault/Images/Pasted image 20250515215620.png",
     "Obsidian Vault/! Placement/! Data Structures",
