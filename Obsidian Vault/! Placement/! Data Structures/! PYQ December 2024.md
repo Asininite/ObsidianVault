@@ -670,9 +670,11 @@ The system is in a **SAFE state**.
     *   Normalization (1NF, 2NF, 3NF, BCNF).
 
 **Question 33: Consider the following SQL query: 
+```
 SELECT COUNT(*) 
 FROM Employees 
 WHERE Salary > (SELECT AVG(Salary) FROM Employees); 
+```
 
 **What does this query compute?**
 	*   **Answer:** b) The number of employees earning above the average salary
