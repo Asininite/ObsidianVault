@@ -669,8 +669,13 @@ The system is in a **SAFE state**.
     *   Armstrong's Axioms for FDs.
     *   Normalization (1NF, 2NF, 3NF, BCNF).
 
-**Question 33: Consider the following SQL query: SELECT COUNT(*) FROM Employees WHERE Salary > (SELECT AVG(Salary) FROM Employees); What does this query compute?**
-*   **Answer:** b) The number of employees earning above the average salary
+**Question 33: Consider the following SQL query: 
+SELECT COUNT(*) 
+FROM Employees 
+WHERE Salary > (SELECT AVG(Salary) FROM Employees); 
+
+**What does this query compute?**
+	*   **Answer:** b) The number of employees earning above the average salary
 *   **Core Concept: SQL Subqueries**
     *   **Inner Query:** `(SELECT AVG(Salary) FROM Employees)` calculates the average salary of all employees.
     *   **Outer Query:** `SELECT COUNT(*) FROM Employees WHERE Salary > [result_of_inner_query]` counts the number of employees whose salary is greater than the calculated average salary.
