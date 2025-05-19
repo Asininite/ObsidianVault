@@ -619,7 +619,7 @@ Answer for Q12 based on evaluation: Any of (a), (c), or (d). I will select (a) f
 **Identify the statement among the following that is FALSE.**
 *   a) The relation in which all keys have only a single attribute is in its 2NF
 *   b) A relation that has two attributes is in its BCNF
-*   c) The prime=====================\attribute can depend transitively on any key in the case of a relation that is in its BCNF
+*   c) The prime attribute can depend transitively on any key in the case of a relation that is in its BCNF
 *   d) The prime attribute can depend transitively on any key in the case of a relation that is in its 3NF
 
 **Explanation of Normal Forms:**
