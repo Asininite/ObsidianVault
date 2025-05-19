@@ -753,3 +753,399 @@ Looking for options that combine these:
 *   **Related Concepts:** FCFS, SSTF, C-SCAN, LOOK, C-LOOK.
 
 ---
+Okay, let's continue with the rest of the questions from the June 2023 exam paper.
+
+---
+
+**Page 3**
+
+---
+
+**Question 18:**
+**At a particular time of computation, the value of a counting semaphore is 10. Then 12 P operations and "x" V operations were performed on this semaphore. If the final value of semaphore is 7, x will be**
+*   a) 8
+*   b) 9
+*   c) 10
+*   d) 11
+
+*   **Answer:** b) 9
+*   **Explanation:**
+    *   Initial semaphore value (S_initial) = 10.
+    *   P operation (wait): Decrements the semaphore value. If value becomes negative, process blocks.
+    *   V operation (signal): Increments the semaphore value. If value was negative, unblocks a waiting process.
+    *   Number of P operations = 12. Effect on semaphore value: -12.
+    *   Number of V operations = x. Effect on semaphore value: +x.
+    *   Final semaphore value (S_final) = 7.
+
+    The equation is: `S_initial - (Number of P ops) + (Number of V ops) = S_final`
+    `10 - 12 + x = 7`
+    `-2 + x = 7`
+    `x = 7 + 2`
+    `x = 9`
+*   **Core Concepts:**
+    *   **Semaphore:** A synchronization variable used for controlling access to shared resources by multiple processes.
+    *   **Counting Semaphore:** Can have any non-negative integer value (or even negative if it represents waiting processes).
+    *   **P operation (wait, down, acquire):** Decrements semaphore.
+    *   **V operation (signal, up, release):** Increments semaphore.
+*   **Related Concepts & Future MCQs:**
+    *   **Binary Semaphore (Mutex):** Can only take values 0 or 1.
+    *   Using semaphores for mutual exclusion and process synchronization (e.g., producer-consumer problem).
+    *   Potential for deadlocks with semaphores.
+
+---
+
+**Question 19:**
+**In the \_\_\_\_\_ algorithm, the disk head moves from one end to the other, servicing requests along the way. When the head reaches the other end, it immediately returns to the beginning of the disk without servicing any requests on the return trip.**
+*   a) LOOK
+*   b) SCAN
+*   c) C-SCAN
+*   d) C-LOOK
+
+*   **Answer:** c) C-SCAN
+*   **Explanation:**
+    This description perfectly matches the **C-SCAN (Circular SCAN)** algorithm.
+    *   **SCAN (Elevator):** Moves back and forth, servicing requests in both directions.
+    *   **C-SCAN:** Moves in one direction servicing requests. When it reaches the end, it makes a quick return to the other end *without* servicing and then starts servicing in one direction again. This provides more uniform waiting times compared to SCAN.
+    *   **LOOK:** A variant of SCAN where the head only travels as far as the last request in each direction, not necessarily to the physical end of the disk.
+    *   **C-LOOK:** A variant of C-SCAN where the head only travels as far as the last request in the servicing direction, and then jumps back to the first request in the opposite direction, not necessarily to the physical beginning.
+*   **Core Concepts:**
+    *   **Disk Scheduling Algorithms:** Managing disk I/O requests.
+    *   **C-SCAN (Circular SCAN):** One-way servicing with a quick return sweep.
+*   **Related Concepts & Future MCQs:**
+    *   Advantages of C-SCAN (more uniform response time) over SCAN.
+    *   Comparison of head movement and performance of SCAN, C-SCAN, LOOK, C-LOOK.
+
+---
+
+**Question 20:**
+**Paging suffers from \_\_\_\_\_\_\_\_ fragmentation**
+*   a) External
+*   b) Internal
+*   c) Physical
+*   d) All of the above
+
+*   **Answer:** b) Internal
+*   **Explanation:**
+    *   **Paging** is a memory management scheme where memory is divided into fixed-size blocks called pages (in logical memory) and frames (in physical memory).
+    *   **Internal Fragmentation:** Occurs when allocated memory is larger than the requested memory, and the unused space *within the allocated block* cannot be used by other processes. In paging, if a process needs, for example, 3.5 pages, it will be allocated 4 full pages. The last half-page allocated to the process is unused but unavailable to others, leading to internal fragmentation within that last allocated page.
+    *   **External Fragmentation:** Occurs when there is enough total free memory space to satisfy a request, but it is not contiguous; it's fragmented into many small, non-adjacent holes. Paging *avoids* external fragmentation because pages can be placed in any available frame (they don't need to be contiguous in physical memory).
+    *   `Physical fragmentation` is not a standard term in this context.
+*   **Core Concepts:**
+    *   **Memory Fragmentation:** Wasted memory space.
+    *   **Internal Fragmentation:** Wasted space *inside* an allocated block.
+    *   **External Fragmentation:** Total free space exists but is not contiguous.
+    *   **Paging:** Fixed-size allocation units.
+*   **Related Concepts & Future MCQs:**
+    *   **Segmentation:** Variable-size allocation units; suffers from external fragmentation but not internal (within a segment).
+    *   Compaction (solution for external fragmentation).
+    *   Page size selection and its impact on internal fragmentation.
+
+---
+
+**Question 21:**
+**The main virtue for using single Bus structure is**
+*   a) Fast data transfers
+*   b) Cost effective connectivity and speed
+*   c) Cost effective connectivity and ease of attaching peripheral devices
+*   d) None of the mentioned
+
+*   **Answer:** c) Cost effective connectivity and ease of attaching peripheral devices
+*   **Explanation:**
+    A **single bus structure** means that all components (CPU, Memory, I/O devices) share a common set of lines for address, data, and control.
+    *   **Advantages:**
+        *   **Low Cost:** Simpler design with fewer wires, leading to lower manufacturing costs.
+        *   **Simplicity and Ease of Adding Peripherals:** New devices can be easily attached to the common bus.
+    *   **Disadvantage:**
+        *   **Bottleneck:** Since all transfers share the same bus, only one transfer can happen at a time, limiting the overall system throughput (speed). This makes it *not* inherently "fast data transfers" (option a) especially under heavy load. Option (b) says "and speed" which is also questionable for single bus under load.
+    Option (c) best captures the primary virtues: low cost for connectivity and the flexibility of adding devices.
+*   **Core Concepts:**
+    *   **Bus Architecture:** A communication system that transfers data between components inside a computer or between computers.
+    *   **Single Bus vs. Multiple Bus Structures:** (e.g., dedicated memory bus, I/O bus).
+*   **Related Concepts & Future MCQs:**
+    *   Types of buses (Address, Data, Control).
+    *   Bus arbitration (how multiple devices share the bus).
+    *   Limitations of single bus systems (speed, bandwidth).
+    *   Advantages of multiple bus structures (e.g., in modern systems for higher performance).
+
+---
+
+**Question 22:**
+**Memory Buffer Register (MBR) is connected to**
+*   a) Control Bus
+*   b) Address Bus
+*   c) Data Bus
+*   d) System Bus
+
+*   **Answer:** c) Data Bus (primarily) and also d) System Bus (as System Bus includes Data Bus)
+    The most specific answer is Data Bus.
+*   **Explanation:**
+    *   **Memory Buffer Register (MBR) / Memory Data Register (MDR):** This register holds the data item being transferred *to* main memory (for a write operation) or the data item that has just been read *from* main memory (for a read operation).
+    *   Therefore, the MBR is directly connected to the **Data Bus** because the data itself avels on the data bus.
+    *   The **System Bus** is a general term that typically comprises the Address Bus, Data Bus, and Control Bus. So, if the MBR is connected to the Data Bus, it's also, by extension, connected to the System Bus.
+    However, the most direct and specific connection for the *data content* of the MBR is the Data Bus.
+    *   `Control Bus`: Carries control signals (read/write, timing). Not for data itself.
+    *   `Address Bus`: Carries memory addresses. The MAR (Memory Address Register) is connected to this.
+*   **Core Concepts:**
+    *   **CPU Registers:** MBR, MAR, PC, IR, Accumulator, etc.
+    *   **System Bus Components:** Address Bus, Data Bus, Control Bus.
+    *   **Memory Read/Write Operations:** How data is transferred between CPU and memory.
+*   **Related Concepts & Future MCQs:**
+    *   Role of MAR in memory operations.
+    *   Sequence of events during a memory read or write cycle involving these registers and buses.
+
+---
+
+**Question 23:**
+**The basic component of arithmetic circuit is**
+*   a) parallel subtractor.
+*   b) parallel adder.
+*   c) half adder.
+*   d) full adder.
+
+*   **Answer:** d) full adder (and by extension, c) half adder is a component OF a full adder)
+    The most fundamental building block for multi-bit arithmetic is the **full adder**.
+*   **Explanation:**
+    *   **Half Adder:** Adds two single bits, producing a sum and a carry. It cannot handle an incoming carry from a previous bit position.
+    *   **Full Adder:** Adds three single bits (two input bits and an incoming carry bit from the previous stage), producing a sum and an outgoing carry. This is essential for building multi-bit adders.
+    *   **Parallel Adder:** A circuit that adds two N-bit binary numbers simultaneously. It is typically constructed by cascading N full adders (or using more complex carry look-ahead logic built from full adder concepts).
+    *   **Parallel Subtractor:** Can be built using a parallel adder by taking the 2's complement of the subtrahend and adding.
+    Since a parallel adder (which can perform addition, and via 2's complement, subtraction) is made of full adders, and a full adder is made of half adders (or directly from logic gates), the **full adder** is the most versatile "basic component" listed that forms the core of arithmetic circuits. Half adder is even more basic but less complete for cascading.
+    Given the options, "full adder" is the best description of a fundamental reusable component for general arithmetic.
+*   **Core Concepts:**
+    *   **Binary Arithmetic:** Addition, subtraction in binary.
+    *   **Combinational Logic Circuits:** Half adder, Full adder.
+    *   **Arithmetic Logic Unit (ALU):** The part of the CPU that performs arithmetic and logical operations.
+*   **Related Concepts & Future MCQs:**
+    *   Logic diagrams for half adders and full adders (using AND, OR, XOR gates).
+    *   Ripple-carry adders vs. Carry-lookahead adders (for speed).
+    *   How subtraction is performed using 2's complement and an adder.
+
+---
+
+**Question 24:**
+**When we use auto increment or auto decrements, which of the following is/are true?**
+**1) In both, the address is used to retrieve the operand and then the address gets altered**
+**2) In auto increment, the operand is retrieved first and then the address altered**
+**3) Both of them can be used on general purpose registers as well as memory locations**
+*   a) 1,2,3
+*   b) 2
+*   c) 1,3
+*   d) 2,3
+
+*   **Answer:** (This depends on whether it's post-increment/decrement or pre-increment/decrement). The phrasing of (1) and (2) suggests post-modification.
+    Let's assume typical **post-increment/decrement** addressing modes like `(Ri)+` (use Ri, then increment Ri) or `-(Ri)` (decrement Ri, then use Ri for pre-decrement).
+    *   **Auto-increment (post-increment):** The address in the register is used to fetch the operand, and *then* the register is incremented.
+    *   **Auto-decrement (pre-decrement):** The register is decremented *first*, and *then* its new value is used as the address to fetch the operand.
+
+    Let's re-evaluate the statements based on common interpretations:
+    **1) In both, the address is used to retrieve the operand and then the address gets altered.**
+        *   For post-increment: True (use address, then alter address).
+        *   For post-decrement: True (use address, then alter address).
+        *   For pre-increment/decrement: False (alter address, then use address).
+        The statement says "auto increment or auto decrements" generally. If it refers to "post" versions, statement 1 is plausible.
+
+    **2) In auto increment, the operand is retrieved first and then the address altered.**
+        *   This specifically describes post-increment. True for post-increment.
+        *   It does not describe pre-increment.
+
+    **3) Both of them can be used on general purpose registers as well as memory locations.**
+        *   Auto-increment/decrement addressing modes typically operate on **registers** that hold addresses. The address pointed to *is* a memory location. It's less common for the auto-increment/decrement target itself to be a memory location directly (e.g., Memory[Memory[X]]++). Usually, it's `(Register)++`. Registers are the primary target for holding the address that is modified. So, it's applied to registers (that contain addresses pointing to memory locations). The statement might be slightly loose. "Used on general purpose registers" is correct. "as well as memory locations" for the *thing being incremented/decremented* is less common for the direct auto-increment/decrement addressing mode itself.
+
+    Let's consider the options for combinations:
+    The most common forms of auto-increment and auto-decrement are post-increment (use then increment) and pre-decrement (decrement then use), often used for stack operations or stepping through arrays.
+
+    If "auto increment" implicitly means "post-increment":
+    *   Statement 2 is TRUE. `(Ri)+`: operand at (Ri) is fetched, then Ri is incremented.
+
+    If "auto increment or auto decrements" in statement 1 refers to symmetric post- versions:
+    *   Post-increment: Use address, then increment.
+    *   Post-decrement: Use address, then decrement.
+    *   In this case, statement 1 would be TRUE for these versions.
+
+    Statement 3 phrasing: "used on general purpose registers as well as memory locations". The mode *uses* a general-purpose register (which contains an address). The address points to a memory location. The increment/decrement applies to the *register*. The phrasing is a bit ambiguous if it means the *thing being incremented* can be a memory location directly modified by the addressing mode hardware.
+
+    This question is tricky due to the potential for pre/post versions and the exact meaning of "used on".
+    Most assembly languages provide post-increment `(R)+` and pre-decrement `-(R)`.
+    *   For `(R)+` (post-increment): operand is at `(R)`, then `R` is incremented. (Statement 2 is true).
+    *   For `-(R)` (pre-decrement): `R` is decremented, then operand is at `(R)`. (Statement 1 does not perfectly fit this version of auto-decrement if "then the address gets altered" means *after* retrieval).
+
+    Let's assume the question implies the most common uses or a specific convention:
+    *   **Statement 2 (`In auto increment, the operand is retrieved first and then the address altered`) is a clear description of post-increment.** This one is very likely true.
+
+    If we assume Statement 2 is true. Options include (a), (b), (d).
+    *   Consider Statement 1 again: `In both, the address is used to retrieve the operand and then the address gets altered.`
+        If auto-decrement is pre-decrement `-(R)`, then address (R-1) is used and (R-1) was the altered address. So, address is altered *before* use. So statement 1 is false if it includes pre-decrement.
+        If auto-decrement is post-decrement `(R)-`, then R is used, then R is altered. In this case, 1 holds for both post-increment and post-decrement.
+
+    *   Consider Statement 3: `Both of them can be used on general purpose registers as well as memory locations.` Auto-increment/decrement as an *addressing mode* is typically applied to a register to generate an effective address. The register's content (the address) is modified. It's not directly applying ++ or -- to a memory location's value as part of the addressing mode itself (that would be a separate instruction). So, "used on general purpose registers" is true. "as well as memory locations" (for the *source* of the auto-increment attribute) is generally false.
+
+    If S2 is true and S3 is false (due to "memory locations" part), then option (b) is just "2".
+    This seems the safest interpretation. **Statement 2** is a standard definition of post-auto-increment.
+
+*   **Answer:** b) 2 (Assuming statement 2 is exclusively true, and others are either false or ambiguously worded for all cases).
+*   **Core Concepts:**
+    *   **Addressing Modes:** Auto-increment, Auto-decrement.
+    *   **Post-increment:** Use the address in the register, then increment the register.
+    *   **Pre-increment:** Increment the register, then use the address in the register.
+    *   (Similarly for decrement).
+*   **Related Concepts & Future MCQs:**
+    *   Common uses (e.g., accessing array elements sequentially, stack operations using SP).
+    *   Syntax in different assembly languages `(R)+`, `-(R)`, `R++`, etc.
+
+---
+
+**Question 25:**
+**When we perform subtraction on -7 and -5 the answer in 2's complement form is ....**
+This means: `(-7) - (-5)` = `(-7) + 5` = `-2`.
+We need to represent -2 in 2's complement.
+Let's assume a certain number of bits, e.g., 5 bits as suggested by the options (or enough bits).
+
+Representing numbers:
+*   `+7`: If 5 bits, `00111`
+*   `-7` (2's complement of `00111`): Invert (`11000`) + 1 = `11001`.
+*   `+5`: If 5 bits, `00101`
+*   `-5` (2's complement of `00101`): Invert (`11010`) + 1 = `11011`.
+
+Operation: `(-7) - (-5)`  is equivalent to `(-7) + (+5)`
+`-7` in 5-bit 2's complement: `11001`
+`+5` in 5-bit 2's complement: `00101`
+
+Add them:
+  `11001`  (-7)
++ `00101`  (+5)
+-------
+`111110`  (Carry out of MSB is discarded for 2's complement addition if result is within range)
+Result is `11110`.
+
+Let's check what `11110` represents in 5-bit 2's complement:
+It's a negative number (MSB is 1).
+To find its magnitude: Invert (`00001`) + 1 = `00010` (which is 2).
+So, `11110` represents **-2**. This is the correct arithmetic result.
+
+Options:
+*   a) `11110`
+*   b) `1110` (4 bits - if we use 4 bits for -2: +2 is 0010, invert 1101, add 1 -> 1110. This is -2 in 4 bits)
+*   c) `1010` (This is -6 in 4-bit 2's comp: +6 is 0110, inv 1001, +1 -> 1010)
+*   d) `0010` (This is +2)
+
+The array of options uses different bit lengths. Option (a) is 5 bits. Option (b) is 4 bits.
+Our 5-bit calculation gave `11110`.
+If the answer is expected in 4 bits, then -2 in 4-bit 2's complement:
+   Convert +2 to 4 bits: `0010`
+   Invert: `1101`
+   Add 1: `1110`.
+This matches option (b).
+
+The question doesn't specify the number of bits. However, many MCQs provide options that guide this.
+If we assume the answer should fit the shortest possible representation among options, (b) `1110` (4 bits for -2) is a possibility.
+If we work with 5 bits (like option a), then `11110` is -2.
+
+It's common for options to dictate the intended bit width.
+Option (a) `11110` is -2 in 5 bits.
+Option (b) `1110` is -2 in 4 bits.
+Which one is "the" answer? Usually, such questions imply a common bit width or provide options that are mostly consistent.
+Here, both (a) and (b) could claim to be -2 in different bit systems.
+
+If no bit width is specified and option (a) has more bits, perhaps it's the assumed default or a slightly larger context.
+However, it's also possible the question intends the "most compact correct form" that is an option.
+
+Let's check if the question implies a specific width from prior context (unlikely here).
+If we perform the operation `11001 (-7 in 5b) - 11011 (-5 in 5b)`, we do `11001 + (2's comp of 11011 which is 00101)`.
+`11001 + 00101 = 11110`.
+
+This result `11110` is option (a). This seems the most direct interpretation if we stick to a consistent bit width implied by the inputs if they were also given in binary originally.
+
+*   **Answer:** a) 11110 (assuming 5-bit representation for consistency with a 5-bit option for -2).
+*   **Core Concepts:**
+    *   **2's Complement Representation:** Standard way to represent signed integers.
+    *   Negating a number in 2's complement: Invert all bits and add 1.
+    *   Subtraction using addition: `A - B` is `A + (-B)`, where -B is the 2's complement of B.
+*   **Related Concepts & Future MCQs:**
+    *   Range of numbers representable with n bits in 2's complement.
+    *   Overflow detection in 2's complement arithmetic.
+    *   Sign extension.
+
+---
+
+**Question 26:**
+**The instruction -> Add LOCA, RO does**
+*   a) Adds the value of LOCA to RO and stores in the temp register
+*   b) Adds the value of RO to the address of LOCA
+*   c) Adds the values of both LOCA and R0 and stores it in R0
+*   d) Adds the value of LOCA with a value in accumulator and stores it in R0
+
+*   **Answer:** c) Adds the values of both LOCA and R0 and stores it in R0
+*   **Explanation:**
+    In typical assembly language two-operand instruction format `OPCODE DEST, SRC`, the operation is `DEST = DEST op SRC`.
+    So, `Add LOCA, R0` would usually mean `LOCA = LOCA + R0` (Value at memory location LOCA gets R0 added to it).
+    However, the syntax `Add Destination, Source` with the destination being the first operand is common.
+    If the syntax is `Add Source, Destination` then it means `Destination = Destination + Source`.
+
+    Let's consider the options. Many architectures use `OPCODE Destination, Source`.
+    *   `Add LOCA, R0` -> `LOCA = [LOCA] + [R0]`. (Content of memory location LOCA is added with content of R0, result stored back in memory location LOCA).
+    Other formats are `OPCODE Source, Destination`, meaning `Destination = [Destination] + [Source]`.
+    Or `OPCODE Operand1, Operand2, Destination`.
+
+    The options suggest a common two-operand format where one operand is also the destination.
+    *   Option (c): `Adds the values of both LOCA and R0 and stores it in R0`.
+        This implies the instruction might be interpreted as `Add R0, LOCA` (syntax `OPCODE Dest, Src`) meaning `R0 = R0 + Memory[LOCA]`.
+        Or, if the question `Add LOCA, R0` means `R0 = R0 + Memory[LOCA]` (treating R0 as implicit destination, or LOCA as the source and R0 as the destination if order is `OPCODE Dest, Src` and `LOCA` is the content found at address `LOCA`).
+        Let's assume `LOCA` refers to the *content* of memory location `LOCA`, and `R0` refers to the content of register `R0`.
+        If syntax is `OPCODE Destination, Source`:
+        `Add LOCA, R0` implies `[LOCA] ← [LOCA] + [R0]`. (Result stored in memory location LOCA).
+        If syntax is `OPCODE Source, Destination`:
+        `Add LOCA, R0` implies `[R0] ← [R0] + [LOCA]`. (Result stored in register R0).
+
+    Option (c) says "stores it in R0". This indicates R0 is the destination.
+    So the operation is `R0 = R0 + value_from_LOCA`.
+    "value_from_LOCA" means the content of memory at address LOCA.
+    "values of both LOCA and R0" implies `[LOCA]` (content of mem loc LOCA) and `[R0]` (content of reg R0).
+    So, "Adds the content of memory at LOCA and the content of R0, stores result in R0."
+    This best matches **`R0 ← [R0] + M[LOCA]`**.
+    This corresponds to an instruction like `ADD R0, LOCA` (if R0 is destination) or `ADD LOCA, R0` (if R0 is destination and syntax is `OPCODE SRC, DEST`).
+    Given the wording "Add LOCA, R0", if R0 is the destination, option (c) is the most plausible interpretation.
+    *   a) "stores in the temp register" - unlikely as explicit destination is usually R0 or LOCA.
+    *   b) "Adds the value of R0 to the address of LOCA" - this is address arithmetic, not data addition for the `Add` instruction as implied.
+    *   d) "value in accumulator" - accumulator is not mentioned, R0 is specified.
+
+    The most natural interpretation for `Add LOCA, R0` where R0 is a register, and the result goes back to R0 (as suggested by option c) is `R0 <- R0 + M[LOCA]`.
+    This means `LOCA` is the source operand (from memory) and `R0` is both a source operand and the destination.
+*   **Core Concepts:**
+    *   **Assembly Language Instructions:** Opcode and operands.
+    *   **Addressing Modes:** `LOCA` implies memory addressing (direct or symbolic). `R0` implies register addressing.
+    *   **Two-Operand Instruction Format:** Often `OP Dest, Src` (meaning `Dest = Dest OP Src`) or `OP Src, Dest` (meaning `Dest = Dest OP Src`).
+*   **Related Concepts & Future MCQs:**
+    *   Different instruction formats (zero-address, one-address, two-address, three-address).
+    *   Common assembly instructions (LOAD, STORE, ADD, SUB, JUMP, etc.).
+
+---
+
+**Question 27:**
+**Suppose, after analyzing a new cache design, you discover that the cache has far too many conflict misses, and this needs to be resolved. You know that you must increase associativity in order to decrease the number of cache misses. What are the implications of increasing associativity?**
+*   a) Slower cache access time (potentially, due to more complex lookup)
+*   b) Increase index bits (No, increasing associativity with same capacity REDUCES index bits)
+*   c) Increase block size (Independent decision, not a direct implication of increasing associativity for conflict misses)
+*   d) All of these
+
+*   **Answer:** a) Slower cache access time (potentially) is a common implication, alongside reduced conflict misses.
+*   **Explanation:**
+    *   **Increasing Associativity** (e.g., moving from direct-mapped to 2-way set associative, or 2-way to 4-way) means that a memory block can map to more than one possible cache line within a set.
+    *   **Benefit:** This reduces **conflict misses** because if two blocks map to the same *set*, they can now occupy different lines within that set, rather than constantly evicting each other (as they would if they mapped to the same single line in a direct-mapped cache).
+    *   **Implications/Costs:**
+        1.  **More Complex Hardware for Lookup:** To find a block within a set, the cache controller now has to compare the incoming tag with the tags of *all* the lines within that set simultaneously (e.g., in a 4-way set associative cache, 4 tag comparisons happen in parallel for the selected set). This requires more comparators and more complex selection logic.
+        2.  **Potentially Slower Cache Access Time:** The increased complexity of parallel tag comparison and selection can lead to a slightly longer cache hit time compared to a simpler direct-mapped cache of the same size. The critical path for determining a hit might be longer.
+        3.  **More Complex Replacement Policy Logic:** If a set is full and a new block needs to be brought in, a replacement policy (like LRU) must be implemented *within that set* to decide which of the existing lines to evict. This also adds hardware complexity.
+        4.  **Tag Bits:** For the same cache capacity and block size, increasing associativity decreases the number of sets, which means fewer index bits are needed. Consequently, more bits from the address are used for the tag. (So, "Increase index bits" is false).
+
+    So, while conflict misses decrease (good), the hit time might increase slightly, and hardware complexity/cost increases.
+    Option (a) "Slower cache access time" (hit time) is a well-known potential trade-off.
+*   **Core Concepts:**
+    *   **Cache Associativity:** Direct-mapped (1-way), N-way Set-Associative, Fully Associative.
+    *   **Conflict Misses:** Misses caused by multiple memory blocks mapping to the same cache line (in direct-mapped) or same set (if the set is full in set-associative).
+    *   **Cache Hit Time:** Time to access data if it's in the cache.
+*   **Related Concepts & Future MCQs:**
+    *   Types of cache misses (Compulsory, Capacity, Conflict - the 3 Cs).
+    *   Trade-offs in cache design (size, block size, associativity, replacement policy, write policy).
+    *   Calculating tag, index, offset bits for n-way set associative caches.
+
+---
