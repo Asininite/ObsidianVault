@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/! PYQ January 2024.md",
+                "file": "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! PYQ January 2024"
+              "title": "Locality of Reference"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! PYQ December 2024"
+              "title": "Paging System"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/! PYQ January 2024.md",
+                "file": "Obsidian Vault/! Placement/! Data Structures/! PYQ May 2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! PYQ January 2024"
+              "title": "! PYQ May 2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,18 +195,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b6b3eb593bf5296b",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! Placement/Operating Systems or COA/Linker.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Dynamic Address Translation.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Disk Scheduling Algorithms.md",
+    "Obsidian Vault/! Placement/Operating Systems or COA/Addressing Structures.md",
+    "Obsidian Vault/! Placement/Operating Systems/Storage Compaction.md",
+    "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ January 2024.md",
+    "Obsidian Vault/! Placement/! Data Structures/! PYQ May 2024.md",
+    "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ June 2023.md",
     "Obsidian Vault/! Placement/! Data Structures/Direct Mapped Cache Addressing.md",
     "Obsidian Vault/! Placement/! Data Structures/Data hazards and forwarding,stalling.md",
-    "Obsidian Vault/! Placement/! Data Structures/Paging System.md",
-    "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/! Formulae.md",
     "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
     "Obsidian Vault/! Placement/! Data Structures/Pipelining.md",
-    "Obsidian Vault/! Placement/! Data Structures/! PYQ May 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/Dynamic Arrays.md",
     "Obsidian Vault/! Placement/! Data Structures/Graphs.md",
     "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
@@ -222,12 +226,7 @@
     "Obsidian Vault/IEFT/Module 5/1. Advantages Disadvantages Foreign Trade.md",
     "Obsidian Vault/IEFT/Module 5/! 2. Absolute Advantage Theory.md",
     "Obsidian Vault/IEFT/Module 5/8. Protectionism.md",
-    "Obsidian Vault/IEFT/Module 5/4. Heckscher-Ohlin (Factor Endowment) Theory.md",
-    "Obsidian Vault/IEFT/Module 5/5. BOP Balance of Payment.md",
-    "Obsidian Vault/IEFT/Module 5/0. International Trade.md",
-    "Obsidian Vault/IEFT/Module 2/9. break-even point.md",
     "Pasted image 20250515215620.png",
-    "Obsidian Vault/IEFT/Module 4/! 4. Monetary Terms.md",
     "Obsidian Vault/Images/Pasted image 20250515190903.png",
     "Obsidian Vault/Images/Pasted image 20250515190843.png",
     "Obsidian Vault/IEFT/Module 2",
