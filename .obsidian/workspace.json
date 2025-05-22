@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/@ Important Questions.md",
+                "file": "Obsidian Vault/! Golang/1. Hello world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@ Important Questions"
-            }
-          },
-          {
-            "id": "b6b3eb593bf5296b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "! PYQ December 2024"
+              "title": "1. Hello world"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,9 +167,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b6b3eb593bf5296b",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
     "Obsidian Vault/! Placement/! Data Structures/@ Important Questions.md",
+    "Obsidian Vault/! Golang/1. Hello world.md",
+    "Obsidian Vault/! Golang",
+    "Obsidian Vault/! Golang.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/Binary search.md",
     "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
@@ -208,8 +196,6 @@
     "Obsidian Vault/! Placement/Operating Systems or COA/Terminal Table.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Thrashing.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Bankers Algorithm.md",
-    "Obsidian Vault/! Placement/Operating Systems or COA/Decision Tables.md",
-    "Obsidian Vault/! Placement/Operating Systems or COA/Default Values.md",
     "Obsidian Vault/Images/Pasted image 20250517200414.png",
     "Obsidian Vault/Images/Pasted image 20250515215620.png",
     "Obsidian Vault/! Placement/! Data Structures",
@@ -228,7 +214,6 @@
     "Obsidian Vault/IEFT/Module 5",
     "Obsidian Vault/IEFT/Module 1",
     "Obsidian Vault/Python/Module 1",
-    "Obsidian Vault/Python/Module 4",
-    "Obsidian Vault/Python/Module 5"
+    "Obsidian Vault/Python/Module 4"
   ]
 }
