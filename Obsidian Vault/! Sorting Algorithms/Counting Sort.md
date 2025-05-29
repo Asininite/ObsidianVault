@@ -30,11 +30,18 @@ vector<int> countSort(vector<int>& inputArray){
 
 	vector<int> countArray(M+1, 0);
 
-	// Mapping each element of inputArray[] as an index
-    // of countArray[] array
-    for (int i = 0; i < N; i++){
-        countArray[inputArray[i]]++;
+// we map the number of times each element in inputArray occurs by inputting that into countArray as the index and incrementing that using ++
+
+	for(int i = 0; i < N; i++){
+		countArray[inputArray[i]]++;
 	}
+
+//calculating prefix sum at every index of countArray[]
+
+	for(int i = 0; i < M+1; i++){
+		countArray[i] += countArray[i-1]; //similar to countArray[i] = countArray[i] + countArray[i-1];
+	}
+
 	
 
 
