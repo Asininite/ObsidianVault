@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Sorting Algorithms/Counting Sort.md",
+                "file": "Obsidian Vault/! DSA/! Patterns/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Counting Sort"
+              "title": "1"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/Binary Search/Hard/! Median Of Two Sorted Arrays.md",
     "Obsidian Vault/! Sorting Algorithms/Counting Sort.md",
+    "Obsidian Vault/! DSA/! Patterns/1.md",
+    "Obsidian Vault/! DSA/! Patterns.md",
+    "Obsidian Vault/! DSA/! Patterns",
+    "Obsidian Vault/! DSA/Binary Search/Hard/! Median Of Two Sorted Arrays.md",
     "Obsidian Vault/! Sorting Algorithms",
     "Obsidian Vault/! DSA/Arrays/Medium/2. Sort an array of 0s 1s and 2s without sort.md",
     "Obsidian Vault/! DSA/Arrays/Easy/1. Largest Element in Array.md",
@@ -196,8 +199,6 @@
     "Obsidian Vault/! Placement/Operating Systems or COA/Re-enterable.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/MBR.md",
     "Obsidian Vault/! Placement/Operating Systems or COA/Macro.md",
-    "Obsidian Vault/! Placement/Operating Systems or COA/Storage-To-Storage Instructions.md",
-    "Obsidian Vault/! Placement/Operating Systems or COA/Locality of Reference.md",
     "Obsidian Vault/Images/Pasted image 20250517200414.png",
     "Obsidian Vault/Images/Pasted image 20250515215620.png",
     "Obsidian Vault/! Placement/! Data Structures",
@@ -213,7 +214,6 @@
     "Obsidian Vault/IEFT/Module 3",
     "Obsidian Vault/IEFT/Module 4/Untitled",
     "Obsidian Vault/IEFT/Module 4",
-    "Obsidian Vault/IEFT/Module 5",
-    "Obsidian Vault/IEFT/Module 1"
+    "Obsidian Vault/IEFT/Module 5"
   ]
 }
