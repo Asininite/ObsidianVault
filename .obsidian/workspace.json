@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/C++/STL/Containers/8. Set.md",
+                "file": "Obsidian Vault/! DSA/! Questions/Math/1. Count all digits of a number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Set"
+              "title": "1. Count all digits of a number"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/C++/STL/Containers/7. Priority Queue.md",
     "Obsidian Vault/! DSA/C++/STL/Containers/8. Set.md",
+    "Obsidian Vault/! DSA/! Questions/Math/1. Count all digits of a number.md",
+    "Obsidian Vault/! DSA/! Questions/1.md",
+    "Obsidian Vault/! DSA/! Questions/Math",
+    "Obsidian Vault/! DSA/C++/STL/Containers/7. Priority Queue.md",
     "Obsidian Vault/! DSA/C++/STL/Containers/6. Queue.md",
     "Obsidian Vault/! DSA/C++/STL/Containers/5. Stack.md",
     "Obsidian Vault/! DSA/C++/STL/Containers/4. Dequeue.md",
@@ -178,10 +181,9 @@
     "Obsidian Vault/! DSA/C++/STL/Containers/2. Vector.md",
     "Obsidian Vault/! DSA/C++/STL/Containers/1. Pair.md",
     "Obsidian Vault/! DSA/C++/STL/Containers/! What is a container.md",
-    "Obsidian Vault/! DSA/! Patterns/1.md",
     "Obsidian Vault/! Sorting Algorithms/Counting Sort.md",
     "Obsidian Vault/! DSA/! Patterns.md",
-    "Obsidian Vault/! DSA/! Patterns",
+    "Obsidian Vault/! DSA/! Questions",
     "Obsidian Vault/! DSA/Binary Search/Hard/! Median Of Two Sorted Arrays.md",
     "Obsidian Vault/! Sorting Algorithms",
     "Obsidian Vault/! DSA/Arrays/Medium/2. Sort an array of 0s 1s and 2s without sort.md",
@@ -198,7 +200,6 @@
     "Obsidian Vault/! Placement/! Data Structures/binary heap.md",
     "Obsidian Vault/! Placement/! Data Structures/BFS DFS.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ May 2024.md",
-    "Obsidian Vault/! Placement/! Data Structures/Operating System Schedulers.md",
     "Obsidian Vault/Images/Pasted image 20250517200414.png",
     "Obsidian Vault/Images/Pasted image 20250515215620.png",
     "Obsidian Vault/! Placement/! Data Structures",
@@ -213,7 +214,6 @@
     "Obsidian Vault/Images/Pasted image 20250515161559.png",
     "Obsidian Vault/IEFT/Module 3",
     "Obsidian Vault/IEFT/Module 4/Untitled",
-    "Obsidian Vault/IEFT/Module 4",
-    "Obsidian Vault/IEFT/Module 5"
+    "Obsidian Vault/IEFT/Module 4"
   ]
 }
