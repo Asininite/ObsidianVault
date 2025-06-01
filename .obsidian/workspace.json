@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/! Questions/Math/7. Factorial of a Number.md",
+                "file": "Obsidian Vault/! DSA/! Questions/Math/8. Armstrong Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Factorial of a Number"
+              "title": "8. Armstrong Number"
             }
           }
         ]
@@ -169,8 +169,9 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/! Questions/Math/6. Find Divisors of a Number.md",
     "Obsidian Vault/! DSA/! Questions/Math/7. Factorial of a Number.md",
+    "Obsidian Vault/! DSA/! Questions/Math/8. Armstrong Number.md",
+    "Obsidian Vault/! DSA/! Questions/Math/6. Find Divisors of a Number.md",
     "Obsidian Vault/! DSA/C++/STL/Containers/2. Vector.md",
     "Obsidian Vault/(College)",
     "Obsidian Vault/! DSA/! Questions/Math/5. Largest Digit in Number.md",
@@ -199,7 +200,6 @@
     "Obsidian Vault/! Golang/1. Hello world.md",
     "Obsidian Vault/! Spring Boot",
     "Obsidian Vault/! Spring Boot.md",
-    "Obsidian Vault/! Placement/! Data Structures/@ Important Questions.md",
     "Obsidian Vault/! Golang",
     "Obsidian Vault/Images/Pasted image 20250517200414.png",
     "Obsidian Vault/Images/Pasted image 20250515215620.png",
