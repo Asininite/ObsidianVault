@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/! Questions/Math/13. Find LCM.md",
+                "file": "Obsidian Vault/! DSA/! Questions/Arrays/2. Count of odd numbers in array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Find LCM"
+              "title": "2. Count of odd numbers in array"
             }
           }
         ]
@@ -169,8 +169,14 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/! Questions/Math/12. Find GCD.md",
+    "Obsidian Vault/! DSA/! Questions/Arrays/1. Sum of array.md",
+    "Obsidian Vault/! DSA/! Questions/Arrays/2. Count of odd numbers in array.md",
+    "Obsidian Vault/! DSA/Two Pointers/Hard/Trapping Rain Water.md",
+    "Obsidian Vault/! DSA/! Questions/Arrays",
+    "Obsidian Vault/! DSA/! Questions/Untitled.md",
+    "Obsidian Vault/! DSA/Two Pointers/Merge Two Sorted Arrays.md",
     "Obsidian Vault/! DSA/! Questions/Math/13. Find LCM.md",
+    "Obsidian Vault/! DSA/! Questions/Math/12. Find GCD.md",
     "Obsidian Vault/! DSA/! Questions/Math/11. Count of Prime Numbers.md",
     "Obsidian Vault/! DSA/! Questions/Math/10. Prime.md",
     "Obsidian Vault/! DSA/! Questions/Math/9. Perfect Number.md",
@@ -192,12 +198,7 @@
     "Obsidian Vault/! DSA/C++/STL/Containers/5. Stack.md",
     "Obsidian Vault/! DSA/C++/STL/Containers/4. Dequeue.md",
     "Obsidian Vault/! DSA/C++/STL/Containers/3. List.md",
-    "Obsidian Vault/! DSA/C++/STL/Containers/1. Pair.md",
-    "Obsidian Vault/! DSA/C++/STL/Containers/! What is a container.md",
-    "Obsidian Vault/! DSA/! Sorting Algorithms/Counting Sort.md",
-    "Obsidian Vault/! DSA/! Patterns.md",
     "Obsidian Vault/! DSA/! Questions",
-    "Obsidian Vault/! DSA/Binary Search/Hard/! Median Of Two Sorted Arrays.md",
     "Obsidian Vault/! DSA/! Sorting Algorithms",
     "Obsidian Vault/! Spring Boot",
     "Obsidian Vault/! Golang",
@@ -213,7 +214,6 @@
     "Obsidian Vault/Images/Pasted image 20250515161634.png",
     "Obsidian Vault/Images/Pasted image 20250515161624.png",
     "Obsidian Vault/Images/Pasted image 20250515161559.png",
-    "Obsidian Vault/(College)/IEFT/Module 3",
-    "Obsidian Vault/IEFT/Module 4/Untitled"
+    "Obsidian Vault/(College)/IEFT/Module 3"
   ]
 }
