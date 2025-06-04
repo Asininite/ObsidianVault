@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/! Questions/Arrays/4. Check if array sorted.md",
+                "file": "Obsidian Vault/! DSA/! Sorting Algorithms/Counting Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Check if array sorted"
+              "title": "Counting Sort"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/! Questions/Arrays/3. Reverse Array.md",
     "Obsidian Vault/! DSA/! Questions/Arrays/4. Check if array sorted.md",
+    "Obsidian Vault/! DSA/! Questions/Arrays/3. Reverse Array.md",
     "Obsidian Vault/! DSA/! Questions/Arrays/2. Count of odd numbers in array.md",
     "Obsidian Vault/! DSA/! Questions/Arrays/1. Sum of array.md",
     "Obsidian Vault/! DSA/Two Pointers/Hard/Trapping Rain Water.md",
