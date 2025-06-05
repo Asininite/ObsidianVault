@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/! Questions/Math/13. Find LCM.md",
+                "file": "Obsidian Vault/! DSA/! Questions/Hashing/1. Find Smallest Most Occurring Element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Find LCM"
+              "title": "1. Find Smallest Most Occurring Element"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/! Questions/Math/12. Find GCD.md",
     "Obsidian Vault/! DSA/! Questions/Math/13. Find LCM.md",
+    "Obsidian Vault/! DSA/! Questions/Hashing/1. Find Smallest Most Occurring Element.md",
+    "Obsidian Vault/! DSA/! Questions/Hashing",
+    "Obsidian Vault/! DSA/! Questions/Math/12. Find GCD.md",
     "Obsidian Vault/! Placement/! Data Structures/BFS DFS.md",
     "Obsidian Vault/! Placement/! Data Structures/! PYQ December 2024.md",
     "Obsidian Vault/! Placement/! Data Structures/Process Scheduling Algorithms.md",
@@ -204,7 +206,6 @@
     "Obsidian Vault/(College)/System Software/Module 4/Loader.md",
     "Obsidian Vault/(College)/System Software/Module 4/Loader Design.md",
     "Obsidian Vault/(College)/System Software/Module 4/Linkage Editor vs Linking Loader.md",
-    "Obsidian Vault/(College)/System Software/Module 4/Bootstrap Loader.md",
     "Obsidian Vault/(College)/System Software/PYQ",
     "Obsidian Vault/(College)/System Software/Module 5",
     "Obsidian Vault/(College)/System Software/Module 4",
@@ -213,7 +214,6 @@
     "Obsidian Vault/(College)/System Software/Module 2",
     "Obsidian Vault/(College)/System Software/Lab",
     "Obsidian Vault/(College)/System Software",
-    "Obsidian Vault/(College)/RDBMS/PL SQL",
-    "Obsidian Vault/(College)/RDBMS"
+    "Obsidian Vault/(College)/RDBMS/PL SQL"
   ]
 }
