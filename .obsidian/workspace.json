@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/(College)/Computer Networks/Module 1/Computer Network Applications.md",
+                "file": "Obsidian Vault/(College)/Computer Networks/Module 1/TCP IP Reference Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Network Applications"
+              "title": "TCP IP Reference Model"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
+    "Obsidian Vault/(College)/Computer Networks/Module 1/Computer Network Applications.md",
     "Obsidian Vault/(College)/Computer Networks/Module 1/Byte Stuffing and Bit Stuffing.md",
     "Obsidian Vault/! DSA/! Questions/String/3. Largest Odd Number in String.md",
     "Obsidian Vault/! DSA/! Questions/String/2. Palindrome.md",
@@ -206,7 +207,6 @@
     "Obsidian Vault/(College)/System Software/Module 5/Macro Processor.md",
     "Obsidian Vault/(College)/System Software/Module 5/machine independent features.md",
     "Obsidian Vault/(College)/System Software/Module 5/Device Drivers.md",
-    "Obsidian Vault/(College)/System Software/Module 5/@@ macroprocess algorithm.md",
     "Obsidian Vault/(College)/System Software/PYQ",
     "Obsidian Vault/(College)/System Software/Module 5",
     "Obsidian Vault/(College)/System Software/Module 4",
