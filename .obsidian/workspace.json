@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "2285ec033214da64",
@@ -169,6 +170,7 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Pasted image 20250612163149.png",
     "Obsidian Vault/! DSA/! beg Questions/Untitled.md",
     "Obsidian Vault/! DSA/! Java/0. Basics.md",
     "Obsidian Vault/! DSA/! Java",
@@ -200,7 +202,6 @@
     "Obsidian Vault/! DSA/C++/STL/Containers/2. Vector.md",
     "Obsidian Vault/(College)",
     "Obsidian Vault/! DSA/! beg Questions/Math/5. Largest Digit in Number.md",
-    "Obsidian Vault/! DSA/! beg Questions/Math/4. Check if Number is PALINDROME.md",
     "Obsidian Vault/! DSA/! beg Questions/Math",
     "Obsidian Vault/! DSA/! beg Questions",
     "Obsidian Vault/! DSA/! Sorting Algorithms",
