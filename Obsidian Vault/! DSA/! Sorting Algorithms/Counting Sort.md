@@ -46,7 +46,7 @@ vector<int> countSort(vector<int>& inputArray){
 	vector<int> outputArray(N);
 
 	for(int i = N-1; i >= 0; i--){
-		outputArray[countArray[intputArray[i]] - 1] = inputArray[i];
+		outputArray[countArray[inputArray[i]] - 1] = inputArray[i];
 		countArray[inputArray[i]]--;
     }
 
