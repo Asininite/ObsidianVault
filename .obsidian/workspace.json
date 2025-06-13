@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/! Java/0. Basics.md",
+                "file": "Obsidian Vault/! DSA/! Sorting Algorithms/3. Insertion Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Basics"
+              "title": "3. Insertion Sort"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "2285ec033214da64",
@@ -170,9 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/! Java/0. Basics.md",
+    "Obsidian Vault/! DSA/! Sorting Algorithms/3. Insertion Sort.md",
     "Pasted image 20250612163149.png",
     "Obsidian Vault/! DSA/! beg Questions/Untitled.md",
-    "Obsidian Vault/! DSA/! Java/0. Basics.md",
     "Obsidian Vault/! DSA/! Java",
     "! Self Intro/! Self Introduction.md",
     "Obsidian Vault/! DSA/! beg Questions/String/3. Largest Odd Number in String.md",
@@ -214,7 +214,6 @@
     "Obsidian Vault/Images/Pasted image 20250515161654.png",
     "Obsidian Vault/Images/Pasted image 20250515161644.png",
     "Obsidian Vault/Images/Pasted image 20250515161634.png",
-    "Obsidian Vault/Images/Pasted image 20250515161624.png",
-    "Obsidian Vault/Images/Pasted image 20250515161559.png"
+    "Obsidian Vault/Images/Pasted image 20250515161624.png"
   ]
 }
