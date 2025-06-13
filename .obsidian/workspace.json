@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/! Sorting Algorithms/4. Merge Sort.md",
+                "file": "Obsidian Vault/! DSA/! Sorting Algorithms/5. Quick Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Merge Sort"
+              "title": "5. Quick Sort"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "2285ec033214da64",
@@ -169,8 +170,9 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/! Sorting Algorithms/3. Insertion Sort.md",
     "Obsidian Vault/! DSA/! Sorting Algorithms/4. Merge Sort.md",
+    "Obsidian Vault/! DSA/! Sorting Algorithms/5. Quick Sort.md",
+    "Obsidian Vault/! DSA/! Sorting Algorithms/3. Insertion Sort.md",
     "Obsidian Vault/! DSA/! Java/0. Basics.md",
     "Pasted image 20250612163149.png",
     "Obsidian Vault/! DSA/! beg Questions/Untitled.md",
@@ -200,7 +202,6 @@
     "Obsidian Vault/! DSA/! beg Questions/Math/6. Find Divisors of a Number.md",
     "Obsidian Vault/! DSA/! beg Questions/Math/8. Armstrong Number.md",
     "Obsidian Vault/! DSA/! beg Questions/Math/7. Factorial of a Number.md",
-    "Obsidian Vault/! DSA/C++/STL/Containers/2. Vector.md",
     "Obsidian Vault/(College)",
     "Obsidian Vault/! DSA/! beg Questions/Math",
     "Obsidian Vault/! DSA/! beg Questions",
