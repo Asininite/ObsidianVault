@@ -18,42 +18,38 @@
 - Traverse array **inputArray[]** from end and update **outputArray[ countArray[ inputArray[i] ] - 1] = inputArray[i]****. Also, update **countArray[ inputArray[i] ] = countArray[ inputArray[i] ]- -**** 
 
 ```cpp
-#include <bits/stdc++.h>
-using namespace std;
+class Solution {
+    void countingSort(vector<int> &arr) {
+        // Create the counting hash map.
+        unordered_map<int, int> counts;
+        // Find the minimum and maximum values in the array.
+        int minVal = *min_element(arr.begin(), arr.end());
+        int maxVal = *max_element(arr.begin(), arr.end());
 
-vector<int> countSort(vector<int>& inputArray){
-	int N = inputArray.size();
-	
-	int M = 0
-	for (int i = 0; i < N; i++){
-		M = max(M, inputArray[i]);
-	}
-
-	vector<int> countArray(M+1, 0);
-
-// we map the number of times each element in inputArray occurs by inputting that into countArray as the index and incrementing that using ++
-
-	for(int i = 0; i < N; i++){
-		countArray[inputArray[i]]++;
-	}
-
-//calculating prefix sum at every index of countArray[]
-
-	for(int i = 0; i < M+1; i++){
-		countArray[i] += countArray[i-1]; //similar to countArray[i] = countArray[i] + countArray[i-1];
-	}
-
-	vector<int> outputArray(N);
-
-	for(int i = N-1; i >= 0; i--){
-		outputArray[countArray[inputArray[i]] - 1] = inputArray[i];
-		countArray[inputArray[i]]--;
+        // Update element's count in the hash map.
+        for (auto& val : arr) {
+            counts[val]++;
+        }
+        
+        int index = 0;
+        // Place each element in its correct position in the array.
+        for (int val = minVal; val <= maxVal; ++val) {
+            // Append all 'val's together if they exist.
+            if (counts.find(val) != counts.end()) {
+                while (counts[val] > 0) {
+                    arr[index] = val;
+                    index += 1;
+                    counts[val] -= 1;
+                }
+            }
+        }
     }
 
-    return outputArray;
-}
-
-
-
+public:
+    vector<int> sortArray(vector<int>& nums) {
+        countingSort(nums);
+        return nums;
+    }
+};
 
 ```
