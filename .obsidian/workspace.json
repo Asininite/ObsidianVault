@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5,
-    "collapsed": true
+    "width": 377.5
   },
   "right": {
     "id": "2285ec033214da64",
@@ -168,13 +167,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3062c507592c6cc8",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
     "Obsidian Vault/! DSA/! Sorting Algorithms/4. Merge Sort.md",
     "Obsidian Vault/! DSA/! Sorting Algorithms/5. Quick Sort.md",
     "Obsidian Vault/! DSA/! Sorting Algorithms/3. Insertion Sort.md",
     "Obsidian Vault/! DSA/! Java/0. Basics.md",
-    "Pasted image 20250612163149.png",
+    "Obsidian Vault/Images/Pasted image 20250612163149.png",
     "Obsidian Vault/! DSA/! beg Questions/Untitled.md",
     "Obsidian Vault/! DSA/! Java",
     "! Self Intro/! Self Introduction.md",
