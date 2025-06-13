@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/Arrays/Easy/2. Second Largest and Second Smallest in Array.md",
+                "file": "Obsidian Vault/! DSA/! Sorting Algorithms/Counting Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Second Largest and Second Smallest in Array"
+              "title": "Counting Sort"
             }
           }
         ]
@@ -169,6 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/Arrays/Easy/7. Concatenate array.md",
+    "Obsidian Vault/! DSA/C++/STL/Containers/2. Vector.md",
+    "Obsidian Vault/! DSA/! Sorting Algorithms/Counting Sort.md",
+    "Obsidian Vault/! DSA/Arrays/Easy/2. Second Largest and Second Smallest in Array.md",
     "Obsidian Vault/! DSA/Arrays/Easy/Return Second Largest Sum.md",
     "Obsidian Vault/! DSA/! Sorting Algorithms/5. Quick Sort.md",
     "Obsidian Vault/! DSA/! Sorting Algorithms/4. Merge Sort.md",
@@ -186,7 +190,6 @@
     "Obsidian Vault/! DSA/! beg Questions/Hashing/1. Find Smallest Most Occurring Element.md",
     "Obsidian Vault/! DSA/! beg Questions/Hashing",
     "! Self Intro",
-    "Obsidian Vault/! DSA/! Sorting Algorithms/Counting Sort.md",
     "Obsidian Vault/! DSA/! beg Questions/Arrays/4. Check if array sorted.md",
     "Obsidian Vault/! DSA/! beg Questions/Arrays/3. Reverse Array.md",
     "Obsidian Vault/! DSA/! beg Questions/Arrays/2. Count of odd numbers in array.md",
@@ -198,9 +201,6 @@
     "Obsidian Vault/! DSA/! beg Questions/Math/12. Find GCD.md",
     "Obsidian Vault/! DSA/! beg Questions/Math/11. Count of Prime Numbers.md",
     "Obsidian Vault/! DSA/! beg Questions/Math/10. Prime.md",
-    "Obsidian Vault/! DSA/! beg Questions/Math/9. Perfect Number.md",
-    "Obsidian Vault/! DSA/! beg Questions/Math/6. Find Divisors of a Number.md",
-    "Obsidian Vault/! DSA/! beg Questions/Math/8. Armstrong Number.md",
     "Obsidian Vault/(College)",
     "Obsidian Vault/! DSA/! beg Questions/Math",
     "Obsidian Vault/! DSA/! beg Questions",
