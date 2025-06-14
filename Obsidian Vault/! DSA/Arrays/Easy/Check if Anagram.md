@@ -31,23 +31,28 @@ Copy
 ```cpp
 class Solution {
 public:
-    bool isAnagram(string s, string t) {
-        if (s.length() != t.length()) {
-            return false;
-        }
+    bool isAnagram(string s, string t) {
+       
+		unordered_map <int,int> count;
+        if(s.length() != t.length()){
+            return false;
+        }
 
-        vector<int> count(26, 0);
-        for (int i = 0; i < s.length(); i++) {
-            count[s[i] - 'a']++;
-            count[t[i] - 'a']--;
-        }
+        for(auto& val1 : s){
+            count[val1]++;
+        }
 
-        for (int val : count) {
-            if (val != 0) {
-                return false;
-            }
-        }
-        return true;
-    }
+        for(auto& val1 : t){
+            count[val1]--;
+        }
+
+        for(auto& val : count){
+            if(val.second != 0){
+                return false;
+            }
+        }
+
+        return true;
+    }
 };
 ```
