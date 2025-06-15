@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! C-sharp/7. Arithmetic.md",
+                "file": "Obsidian Vault/! DSA/Arrays/Easy/! 6. Rotate Array by n places.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Arithmetic"
+              "title": "! 6. Rotate Array by n places"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! C-sharp/1. Starting Up.md",
     "Obsidian Vault/! C-sharp/7. Arithmetic.md",
+    "Obsidian Vault/! C-sharp/1. Starting Up.md",
     "Obsidian Vault/! C-sharp/6. User Input.md",
     "Obsidian Vault/! C-sharp/5. Type Casting.md",
     "Obsidian Vault/! C-sharp/4. Constants.md",
