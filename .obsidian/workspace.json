@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! C-sharp/3. Variables.md",
+                "file": "Obsidian Vault/! C-sharp/5. Type Casting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Variables"
+              "title": "5. Type Casting"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! C-sharp/2. Format Output and Comments.md",
+    "Obsidian Vault/! C-sharp/4. Constants.md",
+    "Obsidian Vault/! C-sharp/5. Type Casting.md",
     "Obsidian Vault/! C-sharp/3. Variables.md",
+    "Obsidian Vault/! C-sharp/2. Format Output and Comments.md",
     "Obsidian Vault/! C-sharp/1. Starting Up.md",
     "Obsidian Vault/! DSA/Arrays/Medium/2. Sort an array of 0s 1s and 2s without sort.md",
     "Obsidian Vault/! C-sharp",
@@ -199,8 +201,6 @@
     "Obsidian Vault/! DSA/! beg Questions/Arrays/4. Check if array sorted.md",
     "Obsidian Vault/! DSA/! beg Questions/Arrays/3. Reverse Array.md",
     "Obsidian Vault/! DSA/! beg Questions/Arrays/2. Count of odd numbers in array.md",
-    "Obsidian Vault/! DSA/! beg Questions/Arrays/1. Sum of array.md",
-    "Obsidian Vault/! DSA/Two Pointers/Hard/Trapping Rain Water.md",
     "Obsidian Vault/! DSA/! beg Questions/Arrays",
     "Obsidian Vault/(College)",
     "Obsidian Vault/! DSA/! beg Questions/Math",
