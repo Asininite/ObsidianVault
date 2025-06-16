@@ -160,11 +160,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3062c507592c6cc8",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
+    "Obsidian Vault/! C-sharp/ASP.NET Course",
     "Obsidian Vault/! DSA/Arrays/Easy/! 6. Rotate Array by n places.md",
     "Obsidian Vault/! DSA/Arrays/Easy/8. Move 0s to end of array.md",
     "Obsidian Vault/! C-sharp/7. Arithmetic.md",
@@ -194,7 +199,6 @@
     "Obsidian Vault/! DSA/! beg Questions/String/2. Palindrome.md",
     "Obsidian Vault/! DSA/! beg Questions/String/1. REVERSE A STRING.md",
     "Obsidian Vault/! DSA/! beg Questions/String",
-    "Obsidian Vault/! DSA/! beg Questions/Hashing/2. Second Smallest Highest Occurring Element.md",
     "Obsidian Vault/! DSA/! beg Questions/Hashing",
     "! Self Intro",
     "Obsidian Vault/! DSA/! beg Questions/Arrays",
