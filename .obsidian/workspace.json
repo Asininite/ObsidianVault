@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/2 Hashing/Longest Consecutive Sequence in an Array.md",
+                "file": "Obsidian Vault/! DSA/2 Hashing/Hard/1. Longest Subarray with Sum k.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest Consecutive Sequence in an Array"
+              "title": "1. Longest Subarray with Sum k"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/Binary Trees/Introduction.md",
     "Obsidian Vault/! DSA/2 Hashing/Longest Consecutive Sequence in an Array.md",
+    "Obsidian Vault/! DSA/2 Hashing/Hard/1. Longest Subarray with Sum k.md",
+    "Obsidian Vault/! DSA/2 Hashing/Hard",
+    "Obsidian Vault/! DSA/Binary Trees/Introduction.md",
     "Obsidian Vault/! DSA/! C++/STL/Containers/2. Vector.md",
     "Obsidian Vault/! DSA/2 Hashing",
     "Obsidian Vault/! DSA/1 Arrays/Medium/3. Rearrange Array Elements By Sign.md",
@@ -207,13 +209,11 @@
     "Obsidian Vault/! DSA/1 Arrays/Easy/Check if Anagram.md",
     "Obsidian Vault/! DSA/! Sorting Algorithms/Counting Sort.md",
     "Obsidian Vault/! DSA/1 Arrays/Easy/7. Concatenate array.md",
-    "Obsidian Vault/! DSA/1 Arrays/Easy/2. Second Largest and Second Smallest in Array.md",
     "Obsidian Vault/! DSA/! Java",
     "Obsidian Vault/! DSA/! beg Questions/String",
     "Obsidian Vault/! DSA/! beg Questions/Hashing",
     "! Self Intro",
     "Obsidian Vault/! DSA/! beg Questions/Arrays",
-    "Obsidian Vault/(College)",
-    "Obsidian Vault/! DSA/! beg Questions/Math"
+    "Obsidian Vault/(College)"
   ]
 }
