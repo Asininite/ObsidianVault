@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! C-sharp/ASP.NET Course/7. Entity Framework Core (Proper Database).md",
+                "file": "Obsidian Vault/! C-sharp/ASP.NET Course/8. Defining Data Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Entity Framework Core (Proper Database)"
+              "title": "8. Defining Data Models"
             }
           }
         ]
@@ -169,11 +169,12 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! C-sharp/ASP.NET Course/7. Entity Framework Core (Proper Database).md",
+    "Obsidian Vault/! C-sharp/ASP.NET Course/8. Defining Data Models.md",
     "Pasted image 20250618170354.png",
     "Pasted image 20250618170255.png",
     "Pasted image 20250618170225.png",
     "Obsidian Vault/! C-sharp/ASP.NET Course/5. Using Route Groups.md",
-    "Obsidian Vault/! C-sharp/ASP.NET Course/7. Entity Framework Core (Proper Database).md",
     "Pasted image 20250618155021.png",
     "Obsidian Vault/! C-sharp/ASP.NET Course/6. Handling invalid inputs.md",
     "Pasted image 20250618154628.png",
@@ -199,7 +200,6 @@
     "Obsidian Vault/Images/Pasted image 20250616054617.png",
     "Obsidian Vault/Images/Pasted image 20250616054508.png",
     "Obsidian Vault/Images/Pasted image 20250616054417.png",
-    "Obsidian Vault/Images/Pasted image 20250616031250.png",
     "Obsidian Vault/! DSA/1 Arrays/Easy/8. Move 0s to end of array.md",
     "Obsidian Vault/! C-sharp/ASP.NET Course",
     "Obsidian Vault/! DSA/1 Arrays/Easy/6. Rotate Array by n places !!!.md",
