@@ -47,7 +47,7 @@ public:
             else if (nums[mid] >= nums[left]) {
                 if (target >= nums[left] && target < nums[mid]) {
                     right = mid - 1;
-                } else {
+	                } else {
                     left = mid + 1;
                 }
             }
