@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/Binary Search/Easy/4. ! Search for Insert Position.md",
+                "file": "Obsidian Vault/! DSA/Binary Search/Easy/5. ! Find Floor and Ceiling in Sorted Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. ! Search for Insert Position"
+              "title": "5. ! Find Floor and Ceiling in Sorted Array"
             }
           }
         ]
@@ -167,10 +167,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3062c507592c6cc8",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/Binary Search/Easy/3. Upper Bound (same as 2 ish).md",
     "Obsidian Vault/! DSA/Binary Search/Easy/4. ! Search for Insert Position.md",
+    "Obsidian Vault/! DSA/Binary Search/Easy/5. ! Find Floor and Ceiling in Sorted Array.md",
+    "Obsidian Vault/! DSA/Binary Search/Easy/3. Upper Bound (same as 2 ish).md",
     "Obsidian Vault/! DSA/Binary Search/Easy/2. Find Lower Bound in an Array.md",
     "Obsidian Vault/! DSA/Binary Search/Easy/1. Find Element in Sorted Array.md",
     "Obsidian Vault/! C-sharp/ASP.NET Course/9. Generating the Database.md",
@@ -209,7 +210,6 @@
     "Obsidian Vault/! DSA/1 Arrays/Medium/1. Find Leaders in an Array.md",
     "Obsidian Vault/! DSA/1 Arrays/Easy/10. Intersection of Two Sorted Arrays.md",
     "Obsidian Vault/! DSA/1 Arrays/Easy/9. Union of Two Sorted Arrays.md",
-    "Obsidian Vault/! DSA/! C++/STL/Containers/8. Set.md",
     "Obsidian Vault/! C-sharp/ASP.NET Course",
     "Obsidian Vault/! C-sharp",
     "Obsidian Vault/! DSA/! Java",
