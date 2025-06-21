@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! C-sharp/ASP.NET Course/15. Mapping Entities to DtOs.md",
+                "file": "Obsidian Vault/! C-sharp/ASP.NET Course/16. Querying, Updating and Deleting Entities from Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. Mapping Entities to DtOs"
+              "title": "16. Querying, Updating and Deleting Entities from Database"
             }
           }
         ]
@@ -169,8 +169,12 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/Binary Search/2. Medium/7. Find Nth root of a number.md",
     "Obsidian Vault/! C-sharp/ASP.NET Course/15. Mapping Entities to DtOs.md",
+    "Obsidian Vault/! C-sharp/ASP.NET Course/16. Querying, Updating and Deleting Entities from Database.md",
+    "Pasted image 20250622034015.png",
+    "Pasted image 20250622034006.png",
+    "Pasted image 20250622033935.png",
+    "Obsidian Vault/! DSA/Binary Search/2. Medium/7. Find Nth root of a number.md",
     "Obsidian Vault/! C-sharp/ASP.NET Course/14. Saving new entities to database.md",
     "Pasted image 20250621214637.png",
     "Obsidian Vault/! DSA/Binary Search/2. Medium/Koko Eating Bananas.md",
@@ -183,11 +187,8 @@
     "Pasted image 20250621185658.png",
     "Obsidian Vault/! C-sharp/ASP.NET Course/12. ! Dependency Injection.md",
     "Pasted image 20250621185621.png",
-    "Pasted image 20250621184759.png",
-    "Pasted image 20250621184700.png",
     "Obsidian Vault/! C-sharp/ASP.NET Course/11. Seeding Data.md",
     "Obsidian Vault/! C-sharp/ASP.NET Course/10. Data Extensions.md",
-    "Pasted image 20250621183815.png",
     "Obsidian Vault/! C-sharp/ASP.NET Course/9. Generating the Database.md",
     "Obsidian Vault/! C-sharp/ASP.NET Course/8. Defining Data Models.md",
     "Obsidian Vault/! DSA/Binary Search/2. Medium/5. Find the single non-duplicate element.md",
@@ -207,7 +208,6 @@
     "Obsidian Vault/! TUF/OS/1. Process and Its State.md",
     "Obsidian Vault/! TUF/OS",
     "Obsidian Vault/! TUF",
-    "Obsidian Vault/! TUF.md",
     "Obsidian Vault/! DSA/2 Hashing/Hard",
     "Obsidian Vault/! DSA/2 Hashing",
     "Obsidian Vault/! C-sharp/ASP.NET Course",
