@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! C-sharp/ASP.NET Course/12. ! Dependency Injection.md",
+                "file": "Obsidian Vault/! C-sharp/ASP.NET Course/14. Saving new entities to database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. ! Dependency Injection"
+              "title": "14. Saving new entities to database"
             }
           }
         ]
@@ -169,10 +169,17 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! C-sharp/ASP.NET Course/13. ! Service Lifetime.md",
+    "Obsidian Vault/! C-sharp/ASP.NET Course/14. Saving new entities to database.md",
+    "Pasted image 20250621185905.png",
+    "Pasted image 20250621185834.png",
+    "Pasted image 20250621185758.png",
+    "Pasted image 20250621185658.png",
+    "Obsidian Vault/! C-sharp/ASP.NET Course/12. ! Dependency Injection.md",
+    "Pasted image 20250621185621.png",
     "Pasted image 20250621184759.png",
     "Pasted image 20250621184700.png",
     "Obsidian Vault/! C-sharp/ASP.NET Course/11. Seeding Data.md",
-    "Obsidian Vault/! C-sharp/ASP.NET Course/12. ! Dependency Injection.md",
     "Obsidian Vault/! C-sharp/ASP.NET Course/10. Data Extensions.md",
     "Pasted image 20250621183815.png",
     "Pasted image 20250621183758.png",
@@ -194,20 +201,13 @@
     "Obsidian Vault/! C-sharp/7. Arithmetic.md",
     "Obsidian Vault/! C-sharp/ASP.NET Course/8. ASP.NET Core Configuration File.md",
     "Pasted image 20250618231751.png",
-    "Pasted image 20250618231742.png",
-    "Pasted image 20250618231323.png",
     "Obsidian Vault/! TUF/OS/1. Process and Its State.md",
     "Obsidian Vault/! TUF/OS",
     "Obsidian Vault/! TUF",
     "Obsidian Vault/! TUF.md",
-    "Obsidian Vault/Images/Pasted image 20250618181031.png",
     "Obsidian Vault/! C-sharp/ASP.NET Course/7. Entity Framework Core (Proper Database).md",
-    "Obsidian Vault/Images/Pasted image 20250618170354.png",
-    "Obsidian Vault/Images/Pasted image 20250618170255.png",
-    "Obsidian Vault/Images/Pasted image 20250618170225.png",
     "Obsidian Vault/! C-sharp/ASP.NET Course/5. Using Route Groups.md",
     "Obsidian Vault/! C-sharp/ASP.NET Course/6. Handling invalid inputs.md",
-    "Obsidian Vault/! C-sharp/ASP.NET Course/4. Extension Methods.md",
     "Obsidian Vault/! DSA/2 Hashing/Hard",
     "Obsidian Vault/! DSA/2 Hashing",
     "Obsidian Vault/! C-sharp/ASP.NET Course",
