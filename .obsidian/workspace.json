@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/Binary Search/2. Medium/! 9. Koko Eating Bananas.md",
+                "file": "Obsidian Vault/! Progress Software/xUnit/1. Starting Out.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "! 9. Koko Eating Bananas"
+              "title": "1. Starting Out"
             }
           }
         ]
@@ -169,18 +169,23 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! C-sharp/2. Better ASP.NET Course/6. POST(Create).md",
-    "Obsidian Vault/! C-sharp/2. Better ASP.NET Course/5. DTOs (Data Transfer Objects).md",
-    "Obsidian Vault/! C-sharp/2. Better ASP.NET Course/4. Api Controllers.md",
+    "Obsidian Vault/! DSA/Binary Search/2. Medium/! 9. Koko Eating Bananas.md",
+    "Obsidian Vault/! Progress Software/xUnit/1. Starting Out.md",
+    "Obsidian Vault/! Progress Software/xUnit",
+    "Obsidian Vault/! Progress Software/xUnit.md",
+    "Obsidian Vault/! Progress Software",
+    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/6. POST(Create).md",
+    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/5. DTOs (Data Transfer Objects).md",
+    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/4. Api Controllers.md",
     "Pasted image 20250626165421.png",
-    "Obsidian Vault/! C-sharp/2. Better ASP.NET Course/3. Entity Framework.md",
+    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/3. Entity Framework.md",
     "Pasted image 20250626163907.png",
-    "Obsidian Vault/! C-sharp/2. Better ASP.NET Course/2. ORM.md",
+    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/2. ORM.md",
     "Pasted image 20250626153639.png",
-    "Obsidian Vault/! C-sharp/2. Better ASP.NET Course/1. Data and One-To-Many.md",
+    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/1. Data and One-To-Many.md",
     "Pasted image 20250626153414.png",
     "Obsidian Vault/! TUF/DBMS/1. Data, Information and Database.md",
-    "Obsidian Vault/! C-sharp/2. Better ASP.NET Course",
+    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course",
     "Obsidian Vault/! C-sharp/2. ASP.NET Course Better.md",
     "Obsidian Vault/! DSA/Linked List/Medium/! 1. Add Two Numbers In LL.md",
     "Obsidian Vault/! TUF/DBMS",
@@ -200,9 +205,6 @@
     "Obsidian Vault/! DSA/1 Arrays/Medium/5. ! 3 Sum.md",
     "Obsidian Vault/! DSA/1 Arrays/Easy/3. Two Sum.md",
     "Obsidian Vault/! DSA/1 Arrays/Medium/4. ! Kadane's Algorithm.md",
-    "Obsidian Vault/! DSA/1 Arrays/Medium/2. Sort an array of 0s 1s and 2s without sort.md",
-    "Obsidian Vault/! DSA/! Sorting Algorithms/Counting Sort.md",
-    "Obsidian Vault/! DSA/Binary Search/2. Medium/8.  ! Find the Smallest Divisor.md",
     "Obsidian Vault/Images/Pasted image 20250622034015.png",
     "Obsidian Vault/Images/Pasted image 20250622034006.png",
     "Obsidian Vault/Images/Pasted image 20250622033935.png",
@@ -212,8 +214,6 @@
     "Obsidian Vault/! DSA/Binary Search/1. Easy",
     "Obsidian Vault/! TUF/OS",
     "Obsidian Vault/! TUF",
-    "Obsidian Vault/! DSA/2 Hashing/Hard",
-    "Obsidian Vault/! DSA/2 Hashing",
-    "Obsidian Vault/! C-sharp/ASP.NET Course"
+    "Obsidian Vault/! DSA/2 Hashing/Hard"
   ]
 }
