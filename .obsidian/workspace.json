@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/Binary Search/3. Hard/1. Aggressive Cows.md",
+                "file": "Obsidian Vault/! DSA/Linked List/Medium/2. Segregate Odd and Even nodes in LL.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Aggressive Cows"
+              "title": "2. Segregate Odd and Even nodes in LL"
             }
           }
         ]
@@ -167,11 +167,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/Binary Search/3. Hard/1. Aggressive Cows.md",
+    "Obsidian Vault/! DSA/Linked List/Medium/2. Segregate Odd and Even nodes in LL.md",
     "Obsidian Vault/! DSA/3. Bit Manipulation",
     "Obsidian Vault/! DSA/3. Bit Manipulation.md",
-    "Obsidian Vault/! DSA/Binary Search/3. Hard/1. Aggressive Cows.md",
     "Obsidian Vault/! DSA/Binary Search/3. Hard/2 ! Median Of Two Sorted Arrays.md",
     "Obsidian Vault/! DSA/Binary Search/2. Medium/! 10. Minimum Days to Make M Bouquets.md",
     "Obsidian Vault/! Progress Software/xUnit/1. Starting Out.md",
@@ -213,7 +214,6 @@
     "Obsidian Vault/Images/Pasted image 20250621185905.png",
     "Obsidian Vault/! DSA/Binary Search/1. Easy",
     "Obsidian Vault/! TUF/OS",
-    "Obsidian Vault/! TUF",
-    "Obsidian Vault/! DSA/2 Hashing/Hard"
+    "Obsidian Vault/! TUF"
   ]
 }
