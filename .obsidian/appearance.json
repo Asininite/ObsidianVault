@@ -1,5 +1,8 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Tokyo Night",
-  "showRibbon": true
+  "cssTheme": "Atom",
+  "showRibbon": true,
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "Andale Mono"
 }
