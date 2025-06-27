@@ -1,8 +1,9 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Atom",
+  "cssTheme": "Royal Velvet",
   "showRibbon": true,
   "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter",
-  "monospaceFontFamily": "Andale Mono"
+  "textFontFamily": "Rubik,Inter",
+  "monospaceFontFamily": "Andale Mono",
+  "accentColor": ""
 }
