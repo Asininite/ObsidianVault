@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/Concepts and Stuff/3. Attributes.md",
+                "file": "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/9. Async Await.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Attributes"
+              "title": "9. Async Await"
             }
           }
         ]
@@ -169,10 +169,12 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/Concepts and Stuff/4. Routing Attribute.md",
+    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/9. Async Await.md",
+    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/Concepts and Stuff/3. Attributes.md",
     "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/Concepts and Stuff/2. LINQ.md",
     "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/Concepts and Stuff/1. DbContext.md",
     "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/8. DELETE.md",
-    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/Concepts and Stuff/3. Attributes.md",
     "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/Concepts and Stuff",
     "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/7. PUT (Update).md",
     "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/2. ORM.md",
@@ -204,8 +206,6 @@
     "Obsidian Vault/! TUF/DBMS",
     "Obsidian Vault/! DSA/Linked List/Easy/6. Inserting before the value X in LL.md",
     "Obsidian Vault/! DSA/Linked List/Medium",
-    "Obsidian Vault/! DSA/Linked List/Easy/5. Inserting at Kth position of LL.md",
-    "Obsidian Vault/! DSA/Linked List/Easy/1. Inserting in the beginning of LL.md",
     "Obsidian Vault/! DSA/Linked List/! Approaches",
     "Obsidian Vault/Images/Pasted image 20250622034015.png",
     "Obsidian Vault/Images/Pasted image 20250622034006.png",
