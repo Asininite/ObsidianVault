@@ -29,4 +29,10 @@
 
 ---
 - DBMS Concepts, queries, relations and designing databases. **BE THOROUGH WITH RESUME**
-- numbers represent
+- numbers represented as linked lists, find the sum
+- given array, find indices of two numbers that add up to target
+- second largest element in binary search tree
+
+---
+- ACID property of DBMS
+- 
