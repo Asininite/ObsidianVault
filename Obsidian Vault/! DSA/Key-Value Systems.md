@@ -21,3 +21,12 @@
 	  - implement stack using queue
 	  - implement queue using stack
 	  - given two intersecting linked lists, find the intersecting point
+
+---
+- query to find user owning maximum number of games in database of online game store
+- find if cycle exists in linked list and where it begins
+- level order traversal of binary tree but at each level reverse the order of traversal
+
+---
+- DBMS Concepts, queries, relations and designing databases. **BE THOROUGH WITH RESUME**
+- numbers represent
