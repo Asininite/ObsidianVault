@@ -35,4 +35,4 @@
 
 ---
 - ACID property of DBMS
-- 
+- Deadlock and Page Replacement
