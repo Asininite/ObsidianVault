@@ -37,11 +37,11 @@ public:
 			} else {
 				swap(arr[l], arr[r]);
 				l++;
-				r--:
+				r--;
 			}
 		}
 		
-		for(int i = 0; i < arr.size(); i++){
+		for(int i = arr.size() - 1; i >= 0; i++){
 			ans = ans*10 + arr[i];
 		}
 		
