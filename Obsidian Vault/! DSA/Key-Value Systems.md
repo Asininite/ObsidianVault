@@ -13,3 +13,39 @@
 - SQL Queries and OOPS Concepts
 - Popular interview questions
 	  - reverse a number but leave the zeros in place
+
+```cpp
+class Solution{
+public:
+	int reverseArray(int num){
+		vector<int> arr;
+		int digit;
+		while(num > 0){
+			digit = num%10;
+			num = num/10;
+			arr.push_back(digit);
+		}
+		
+		int l = 0;
+		int r = arr.size() - 1;
+		int ans = 0;
+		while(l < r){
+			if(arr[l] == 0){
+				l++;
+			} else if(arr[r] == 0){
+				r--;
+			} else {
+				swap(arr[l], arr[r]);
+				l++;
+				r--:
+			}
+		}
+		
+		for(int i = 0; i < arr.size(); i++){
+			ans = ans*10 + arr[i];
+		}
+		
+		return ans;
+	}
+}
+```
