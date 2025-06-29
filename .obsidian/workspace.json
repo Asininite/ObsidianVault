@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! TUF/OOPS/4. Constructors.md",
+                "file": "Obsidian Vault/! TUF/DBMS/2. Types of Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Constructors"
+              "title": "2. Types of Database"
             }
           }
         ]
@@ -169,10 +169,12 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! TUF/OOPS/3.2 printf in java.md",
+    "Obsidian Vault/! TUF/DBMS/1. Data, Information and Database.md",
+    "Obsidian Vault/! TUF/DBMS/2. Types of Database.md",
     "Obsidian Vault/! TUF/OOPS/4. Constructors.md",
-    "Obsidian Vault/! TUF/OOPS/3.1 Instance Variables.md",
     "Obsidian Vault/! TUF/OOPS/3. Attributes and Methods.md",
+    "Obsidian Vault/! TUF/OOPS/3.2 printf in java.md",
+    "Obsidian Vault/! TUF/OOPS/3.1 Instance Variables.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/1. Inorder Traversal.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Traversal.md",
     "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction to Binary Trees.md",
@@ -196,8 +198,6 @@
     "Obsidian Vault/! DSA/! Sorting Algorithms/5. Quick Sort.md",
     "Obsidian Vault/! DSA/1 Arrays/Medium/5. ! 3 Sum.md",
     "Obsidian Vault/! DSA/Two Pointers/3Sum.md",
-    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/12. Comment System.md",
-    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/11. Refactor to Repository Pattern.md",
     "Pasted image 20250627164006.png",
     "Pasted image 20250627163823.png",
     "Pasted image 20250627160258.png",
