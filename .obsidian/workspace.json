@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction to Binary Trees.md",
+                "file": "Obsidian Vault/! TUF/OOPS/0. Getters and Setters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Introduction to Binary Trees"
+              "title": "0. Getters and Setters"
             }
           }
         ]
@@ -169,13 +169,14 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction to Binary Trees.md",
+    "Obsidian Vault/! TUF/OOPS/0. Getters and Setters.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/! DSA/5. Linked List/Medium/! 4. Find Starting Point of Loop in LL.md",
     "Obsidian Vault/! DSA/5. Linked List/Medium/3. Detect Loop in Linked List.md",
     "Obsidian Vault/! DSA/5. Linked List/! Revise/2. Dereferencing a NULL pointer.md",
     "Obsidian Vault/! DSA/5. Linked List/! Revise/0. Defining a Linked List.md",
-    "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction to Binary Trees.md",
     "Obsidian Vault/! DSA/Progress Software.md",
     "Obsidian Vault/! DSA/6. Binary Trees",
     "Obsidian Vault/! DSA/Untitled.md",
@@ -212,7 +213,6 @@
     "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course",
     "Obsidian Vault/! TUF/DBMS",
     "Obsidian Vault/! DSA/5. Linked List/Medium",
-    "Obsidian Vault/! DSA/5. Linked List/! Revise",
     "Obsidian Vault/Images/Pasted image 20250622034015.png",
     "Obsidian Vault/Images/Pasted image 20250622034006.png"
   ]
