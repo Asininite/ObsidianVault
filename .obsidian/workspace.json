@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! TUF/OOPS/0. Getters and Setters.md",
+                "file": "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction to Binary Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Getters and Setters"
+              "title": "0. Introduction to Binary Trees"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction to Binary Trees.md",
     "Obsidian Vault/! TUF/OOPS/0. Getters and Setters.md",
+    "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction to Binary Trees.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/! DSA/5. Linked List/Medium/! 4. Find Starting Point of Loop in LL.md",
