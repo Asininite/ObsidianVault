@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction.md",
+                "file": "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction to Binary Trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Introduction"
+              "title": "0. Introduction to Binary Trees"
             }
           }
         ]
@@ -167,7 +167,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
@@ -175,7 +175,7 @@
     "Obsidian Vault/! DSA/5. Linked List/Medium/3. Detect Loop in Linked List.md",
     "Obsidian Vault/! DSA/5. Linked List/! Revise/2. Dereferencing a NULL pointer.md",
     "Obsidian Vault/! DSA/5. Linked List/! Revise/0. Defining a Linked List.md",
-    "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction.md",
+    "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction to Binary Trees.md",
     "Obsidian Vault/! DSA/Progress Software.md",
     "Obsidian Vault/! DSA/6. Binary Trees",
     "Obsidian Vault/! DSA/Untitled.md",
