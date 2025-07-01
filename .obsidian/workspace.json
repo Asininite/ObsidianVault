@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! TUF/DBMS/7. Database Users and Interactions.md",
+                "file": "Obsidian Vault/! C-sharp/2. Better ASP.NET Course/13. Comment GET + Include().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Database Users and Interactions"
+              "title": "13. Comment GET + Include()"
             }
           }
         ]
@@ -167,11 +167,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! TUF/DBMS/7. Database Users and Interactions.md",
+    "Obsidian Vault/! C-sharp/2. Better ASP.NET Course/13. Comment GET + Include().md",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
     "Obsidian Vault/! TUF/DBMS/6. Database Architecture.md",
-    "Obsidian Vault/! TUF/DBMS/7. Database Users and Interactions.md",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/! DSA/X Progress Software X.md",
     "Obsidian Vault/! TUF/DBMS/5. Database Abstraction.md",
@@ -202,7 +203,7 @@
     "Pasted image 20250627163823.png",
     "Pasted image 20250627160258.png",
     "Pasted image 20250627160237.png",
-    "Obsidian Vault/Progress Software/! C-sharp/2. Better ASP.NET Course/Concepts and Stuff",
+    "Obsidian Vault/! C-sharp/Concepts and Stuff",
     "Obsidian Vault/! DSA/3. Bit Manipulation",
     "Obsidian Vault/Progress Software/xUnit",
     "Obsidian Vault/Progress Software",
@@ -210,9 +211,8 @@
     "Pasted image 20250626163907.png",
     "Pasted image 20250626153639.png",
     "Pasted image 20250626153414.png",
-    "Obsidian Vault/Progress Software/! C-sharp/2. Better ASP.NET Course",
+    "Obsidian Vault/! C-sharp/2. Better ASP.NET Course",
     "Obsidian Vault/! TUF/DBMS",
-    "Obsidian Vault/! DSA/5. Linked List/Medium",
     "Obsidian Vault/Images/Pasted image 20250622034015.png",
     "Obsidian Vault/Images/Pasted image 20250622034006.png"
   ]
