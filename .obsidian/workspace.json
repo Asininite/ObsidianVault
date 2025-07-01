@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! TUF/DBMS/5. Database Abstraction.md",
+                "file": "Obsidian Vault/! DSA/Key-Value Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Database Abstraction"
+              "title": "Key-Value Systems"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! TUF/DBMS/4. Need, Advantages and Disadvantages.md",
+    "Obsidian Vault/! DSA/X Progress Software X.md",
+    "Obsidian Vault/! DSA/Key-Value Systems.md",
+    "Obsidian Vault/! TUF/DBMS/6. Database Architecture.md",
     "Obsidian Vault/! TUF/DBMS/5. Database Abstraction.md",
+    "Obsidian Vault/! TUF/DBMS/4. Need, Advantages and Disadvantages.md",
     "Obsidian Vault/! TUF/DBMS/3. Database Management System.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/1. Inorder Traversal.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/3. PostOrder Traversal.md",
@@ -186,31 +189,28 @@
     "Obsidian Vault/! DSA/6. Binary Trees/0. Introduction to Binary Trees.md",
     "Obsidian Vault/! TUF/OOPS/0. Getters and Setters.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy",
-    "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/! DSA/5. Linked List/Medium/! 4. Find Starting Point of Loop in LL.md",
     "Obsidian Vault/! DSA/5. Linked List/Medium/3. Detect Loop in Linked List.md",
     "Obsidian Vault/! DSA/5. Linked List/! Revise/2. Dereferencing a NULL pointer.md",
     "Obsidian Vault/! DSA/5. Linked List/! Revise/0. Defining a Linked List.md",
-    "Obsidian Vault/! DSA/Progress Software.md",
     "Obsidian Vault/! DSA/6. Binary Trees",
     "Obsidian Vault/! DSA/Untitled.md",
     "Obsidian Vault/Placement/Untitled.md",
     "Obsidian Vault/! DSA/4. Binary Search/3. Hard/2 ! Median Of Two Sorted Arrays.md",
-    "Obsidian Vault/! DSA/4. Binary Search/2. Medium/11. Find Peak Element.md",
     "Obsidian Vault/! TUF/OOPS",
     "Pasted image 20250627164006.png",
     "Pasted image 20250627163823.png",
     "Pasted image 20250627160258.png",
     "Pasted image 20250627160237.png",
-    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course/Concepts and Stuff",
+    "Obsidian Vault/Progress Software/! C-sharp/2. Better ASP.NET Course/Concepts and Stuff",
     "Obsidian Vault/! DSA/3. Bit Manipulation",
-    "Obsidian Vault/! Progress Software/xUnit",
-    "Obsidian Vault/! Progress Software",
+    "Obsidian Vault/Progress Software/xUnit",
+    "Obsidian Vault/Progress Software",
     "Pasted image 20250626165421.png",
     "Pasted image 20250626163907.png",
     "Pasted image 20250626153639.png",
     "Pasted image 20250626153414.png",
-    "Obsidian Vault/! Progress Software/! C-sharp/2. Better ASP.NET Course",
+    "Obsidian Vault/Progress Software/! C-sharp/2. Better ASP.NET Course",
     "Obsidian Vault/! TUF/DBMS",
     "Obsidian Vault/! DSA/5. Linked List/Medium",
     "Obsidian Vault/Images/Pasted image 20250622034015.png",
