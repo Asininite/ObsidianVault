@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! TUF/OS/3. Context Switching.md",
+                "file": "Obsidian Vault/! TUF/OS/5. Scheduling Queues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Context Switching"
+              "title": "5. Scheduling Queues"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! TUF/OS/2. Process Control Block.md",
+    "Obsidian Vault/! TUF/OS/4. User Mode and Kernel Mode.md",
+    "Obsidian Vault/! TUF/OS/5. Scheduling Queues.md",
     "Obsidian Vault/! TUF/OS/3. Context Switching.md",
+    "Obsidian Vault/! TUF/OS/2. Process Control Block.md",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/5. In, Pre, Post order in one traversal.md",
     "Obsidian Vault/Progress Software/xUnit/1. Starting Out.md",
@@ -194,8 +196,6 @@
     "Obsidian Vault/! TUF/DBMS/3. Database Management System.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/1. Inorder Traversal.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/3. PostOrder Traversal.md",
-    "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/2. PreOrder Traversal.md",
-    "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/4. Level Order Traversal.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy",
     "Obsidian Vault/! DSA/6. Binary Trees",
     "Obsidian Vault/! TUF/OOPS",
