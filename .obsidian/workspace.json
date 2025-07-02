@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! TUF/OS/3. Synchronization/3. Semaphores.md",
+                "file": "Obsidian Vault/Placement/Operating Systems or COA/Lexical Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Semaphores"
+              "title": "Lexical Analysis"
             }
           }
         ]
@@ -169,8 +169,12 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/Placement/Operating Systems or COA/Locality of Reference.md",
+    "Pasted image 20250702221553.png",
+    "Obsidian Vault/! TUF/OS/2. Process Management/0. Questions.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Lexical Analysis.md",
+    "Pasted image 20250702221456.png",
     "Obsidian Vault/! TUF/OS/3. Synchronization/3. Semaphores.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Locality of Reference.md",
     "Obsidian Vault/! TUF/OS/3. Synchronization/2.1 Starvation.md",
     "Obsidian Vault/! TUF/OS/3. Synchronization/2. Critical Section Problem.md",
     "Pasted image 20250702200623.png",
@@ -188,7 +192,6 @@
     "Obsidian Vault/Placement/Operating Systems or COA/MBR.md",
     "Obsidian Vault/Placement/Operating Systems or COA/Addressing Structures.md",
     "Obsidian Vault/Placement/Operating Systems or COA/Bankers Algorithm.md",
-    "Obsidian Vault/! TUF/OS/2. Process Management/0. Questions.md",
     "Obsidian Vault/! TUF/OS/2. Process Management/10. Multithreading Models.md",
     "Obsidian Vault/! TUF/OS/2. Process Management",
     "Obsidian Vault/! TUF/OS/2. Process Management/9. Threads.md",
@@ -197,8 +200,6 @@
     "Obsidian Vault/! TUF/OS/2. Process Management/6. Process Scheduling Algorithms.md",
     "Obsidian Vault/! TUF/OS/2. Process Management/5. Scheduling Queues.md",
     "Obsidian Vault/! TUF/OS/2. Process Management/4. User Mode and Kernel Mode.md",
-    "Obsidian Vault/! TUF/OS/2. Process Management/3. Context Switching.md",
-    "Obsidian Vault/! TUF/OS/2. Process Management/2. Process Control Block.md",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy",
     "Obsidian Vault/! DSA/6. Binary Trees",
@@ -213,7 +214,6 @@
     "Obsidian Vault/Progress Software",
     "Pasted image 20250626165421.png",
     "Pasted image 20250626163907.png",
-    "Pasted image 20250626153639.png",
-    "Pasted image 20250626153414.png"
+    "Pasted image 20250626153639.png"
   ]
 }
