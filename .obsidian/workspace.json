@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! TUF/OS/2. Process Management/0. Questions.md",
+                "file": "Obsidian Vault/Placement/Operating Systems or COA/Storage-To-Storage Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Questions"
+              "title": "Storage-To-Storage Instructions"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! TUF/OS/2. Process Management/10. Multithreading Models.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/MBR.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Addressing Structures.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Bankers Algorithm.md",
     "Obsidian Vault/! TUF/OS/2. Process Management/0. Questions.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management/10. Multithreading Models.md",
     "Obsidian Vault/! TUF/OS/2. Process Management",
     "Obsidian Vault/! TUF/OS/2. Process Management/9. Threads.md",
     "Obsidian Vault/! TUF/OS/2. Process Management/8. ! Scheduling Algorithms 2.md",
@@ -193,10 +196,7 @@
     "Obsidian Vault/! C-sharp/5. Type Casting.md",
     "Obsidian Vault/! C-sharp/2. Format Output and Comments.md",
     "Obsidian Vault/! C-sharp/1. Starting Up.md",
-    "Obsidian Vault/! C-sharp/2. Better ASP.NET Course/13. Comment GET + Include().md",
-    "Obsidian Vault/! TUF/DBMS/7. Database Users and Interactions.md",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
-    "Obsidian Vault/! TUF/DBMS/6. Database Architecture.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy",
     "Obsidian Vault/! DSA/6. Binary Trees",
     "Obsidian Vault/! TUF/OOPS",
