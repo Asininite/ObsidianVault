@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! TUF/OS/10. Multithreading Models.md",
+                "file": "Obsidian Vault/! TUF/OS/2. Process Management/0. Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Multithreading Models"
+              "title": "0. Questions"
             }
           }
         ]
@@ -169,15 +169,17 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! TUF/OS/9. Threads.md",
-    "Obsidian Vault/! TUF/OS/10. Multithreading Models.md",
-    "Obsidian Vault/! TUF/OS/8. ! Scheduling Algorithms 2.md",
-    "Obsidian Vault/! TUF/OS/7. ! Scheduling Algorithms 1.md",
-    "Obsidian Vault/! TUF/OS/6. Process Scheduling Algorithms.md",
-    "Obsidian Vault/! TUF/OS/5. Scheduling Queues.md",
-    "Obsidian Vault/! TUF/OS/4. User Mode and Kernel Mode.md",
-    "Obsidian Vault/! TUF/OS/3. Context Switching.md",
-    "Obsidian Vault/! TUF/OS/2. Process Control Block.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management/10. Multithreading Models.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management/0. Questions.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management",
+    "Obsidian Vault/! TUF/OS/2. Process Management/9. Threads.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management/8. ! Scheduling Algorithms 2.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management/7. ! Scheduling Algorithms 1.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management/6. Process Scheduling Algorithms.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management/5. Scheduling Queues.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management/4. User Mode and Kernel Mode.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management/3. Context Switching.md",
+    "Obsidian Vault/! TUF/OS/2. Process Management/2. Process Control Block.md",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/5. In, Pre, Post order in one traversal.md",
     "Obsidian Vault/Progress Software/xUnit/1. Starting Out.md",
@@ -195,7 +197,6 @@
     "Obsidian Vault/! TUF/DBMS/7. Database Users and Interactions.md",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
     "Obsidian Vault/! TUF/DBMS/6. Database Architecture.md",
-    "Obsidian Vault/! DSA/X Progress Software X.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy",
     "Obsidian Vault/! DSA/6. Binary Trees",
     "Obsidian Vault/! TUF/OOPS",
@@ -212,7 +213,6 @@
     "Pasted image 20250626153639.png",
     "Pasted image 20250626153414.png",
     "Obsidian Vault/! C-sharp/2. Better ASP.NET Course",
-    "Obsidian Vault/! TUF/DBMS",
     "Obsidian Vault/Images/Pasted image 20250622034015.png",
     "Obsidian Vault/Images/Pasted image 20250622034006.png"
   ]
