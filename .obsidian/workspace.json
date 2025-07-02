@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! TUF/OS/3. Synchronization/2.1 Starvation.md",
+                "file": "Obsidian Vault/! TUF/OS/3. Synchronization/3. Semaphores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 Starvation"
+              "title": "3. Semaphores"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! TUF/OS/3. Synchronization/2. Critical Section Problem.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Locality of Reference.md",
+    "Obsidian Vault/! TUF/OS/3. Synchronization/3. Semaphores.md",
     "Obsidian Vault/! TUF/OS/3. Synchronization/2.1 Starvation.md",
+    "Obsidian Vault/! TUF/OS/3. Synchronization/2. Critical Section Problem.md",
     "Pasted image 20250702200623.png",
     "Obsidian Vault/! TUF/OS/3. Synchronization/1.1 Race Condition.md",
     "Obsidian Vault/Placement/Operating Systems/HIPO Diagram.md",
@@ -197,8 +199,6 @@
     "Obsidian Vault/! TUF/OS/2. Process Management/4. User Mode and Kernel Mode.md",
     "Obsidian Vault/! TUF/OS/2. Process Management/3. Context Switching.md",
     "Obsidian Vault/! TUF/OS/2. Process Management/2. Process Control Block.md",
-    "Obsidian Vault/! DSA/Key-Value Systems.md",
-    "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/5. In, Pre, Post order in one traversal.md",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy",
     "Obsidian Vault/! DSA/6. Binary Trees",
