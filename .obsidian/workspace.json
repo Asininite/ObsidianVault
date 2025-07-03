@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! TUF/OOPS/6. Access Specifier.md",
+                "file": "Obsidian Vault/! TUF/OS/3. Synchronization/4. Producer Consumer Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Access Specifier"
+              "title": "4. Producer Consumer Problem"
             }
           }
         ]
@@ -169,13 +169,13 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! TUF/OOPS/5. Encapsulation.md",
+    "Obsidian Vault/! TUF/OS/3. Synchronization/3. Semaphores.md",
     "Obsidian Vault/! TUF/OOPS/6. Access Specifier.md",
+    "Obsidian Vault/! TUF/OOPS/5. Encapsulation.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/1. Max Depth of Binary Tree.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/4. Level Order Traversal.md",
     "Obsidian Vault/! TUF/OS/3. Synchronization/4. Producer Consumer Problem.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium",
-    "Obsidian Vault/! TUF/OS/3. Synchronization/3. Semaphores.md",
     "Obsidian Vault/Placement/Operating Systems or COA/Lexical Analysis.md",
     "Pasted image 20250702221553.png",
     "Obsidian Vault/! TUF/OS/2. Process Management/0. Questions.md",
