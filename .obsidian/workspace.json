@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/2. Check if two trees are indentical.md",
+                "file": "Obsidian Vault/! DSA/Key-Value Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Check if two trees are indentical"
+              "title": "Key-Value Systems"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! TUF/OS/3. Synchronization/5. Deadlock.md",
+    "Obsidian Vault/! DSA/Binary Trees/Introduction.md",
+    "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/2. Check if two trees are indentical.md",
+    "Obsidian Vault/! TUF/OS/3. Synchronization/5. Deadlock.md",
     "Obsidian Vault/! TUF/OS/3. Synchronization/4. Producer Consumer Problem.md",
     "Obsidian Vault/! TUF/OS/3. Synchronization/3. Semaphores.md",
     "Obsidian Vault/! TUF/OOPS/6. Access Specifier.md",
@@ -199,8 +201,6 @@
     "Obsidian Vault/! TUF/OS/3. Synchronization",
     "Obsidian Vault/Placement/Operating Systems or COA/MBR.md",
     "Obsidian Vault/Placement/Operating Systems or COA/Addressing Structures.md",
-    "Obsidian Vault/Placement/Operating Systems or COA/Bankers Algorithm.md",
-    "Obsidian Vault/! TUF/OS/2. Process Management/10. Multithreading Models.md",
     "Obsidian Vault/! TUF/OS/2. Process Management",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy",
