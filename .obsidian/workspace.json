@@ -167,10 +167,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3062c507592c6cc8",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/! C++/1. Passing By Reference.md",
+    "Obsidian Vault/Untitled.md",
+    "Obsidian Vault/Final Project",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/4. ! Find the DIAMETER of the binary tree.md",
+    "Obsidian Vault/! DSA/! C++/1. Passing By Reference.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/3. Check if binary tree is balanced.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/2. Check if two trees are indentical.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/1. Max Depth of Binary Tree.md",
@@ -198,8 +200,6 @@
     "Obsidian Vault/Placement/Operating Systems/External Fragmentation.md",
     "Obsidian Vault/Placement/Operating Systems/Loader.md",
     "Obsidian Vault/Placement/Operating Systems/Storage Compaction.md",
-    "Obsidian Vault/Placement/Operating Systems or COA/Thrashing.md",
-    "Obsidian Vault/! TUF/OS/3. Synchronization/1. Process Synchronization.md",
     "Obsidian Vault/! TUF/OS/3. Synchronization",
     "Obsidian Vault/! TUF/OS/2. Process Management",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
@@ -212,7 +212,6 @@
     "Pasted image 20250627160237.png",
     "Obsidian Vault/! C-sharp/Concepts and Stuff",
     "Obsidian Vault/! DSA/3. Bit Manipulation",
-    "Obsidian Vault/Progress Software/xUnit",
     "Pasted image 20250626165421.png",
     "Pasted image 20250626163907.png"
   ]
