@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Final Project/1. Music Genre Classification.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Final Project/my.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Music Genre Classification"
+              "title": "my"
             }
           }
         ]
@@ -170,7 +170,7 @@
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/4. ! Find the DIAMETER of the binary tree.md",
-    "Obsidian Vault/Final Project/1. Music Genre Classification.md",
+    "Obsidian Vault/Final Project/my.md",
     "Obsidian Vault/Untitled.md",
     "Obsidian Vault/Final Project",
     "Obsidian Vault/! DSA/! C++/1. Passing By Reference.md",
