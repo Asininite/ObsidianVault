@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Final Project/deepfake.md",
+                "file": "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/5. Boundary Traversal.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "deepfake"
+              "title": "5. Boundary Traversal"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/Final Project/music.md",
+    "Obsidian Vault/! DSA/6. Binary Trees/1. Traversal.md",
+    "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/5. Boundary Traversal.md",
+    "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/Final Project/deepfake.md",
+    "Obsidian Vault/Final Project/music.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/4. ! Find the DIAMETER of the binary tree.md",
     "Obsidian Vault/Untitled.md",
     "Obsidian Vault/Final Project",
@@ -178,7 +181,6 @@
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/3. Check if binary tree is balanced.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/2. Check if two trees are indentical.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/1. Max Depth of Binary Tree.md",
-    "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/! DSA/Binary Trees/Introduction.md",
     "Obsidian Vault/! TUF/OS/3. Synchronization/5. Deadlock.md",
     "Obsidian Vault/! TUF/OS/3. Synchronization/4. Producer Consumer Problem.md",
@@ -199,8 +201,6 @@
     "Obsidian Vault/Placement/Operating Systems/HIPO Diagram.md",
     "Obsidian Vault/Placement/Operating Systems/Nassi-Shneiderman Diagram.md",
     "Pasted image 20250702195805.png",
-    "Obsidian Vault/Placement/Operating Systems/External Fragmentation.md",
-    "Obsidian Vault/Placement/Operating Systems/Loader.md",
     "Obsidian Vault/! TUF/OS/3. Synchronization",
     "Obsidian Vault/! TUF/OS/2. Process Management",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
