@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/! Sorting Algorithms/6. ! Shell Sort.md",
+                "file": "Obsidian Vault/! DSA/Sliding Window/Longest substring without repeating characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. ! Shell Sort"
+              "title": "Longest substring without repeating characters"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/Two Pointers/Hard/2. Merge Two Sorted Arrays In Place.md",
+    "Obsidian Vault/! DSA/Dynamic Programming/n-th number Fibonacci Sequence.md",
+    "Obsidian Vault/! DSA/7. Graphs/1. Intro.md",
+    "Obsidian Vault/! DSA/! Sorting Algorithms/3. Insertion Sort.md",
     "Obsidian Vault/! DSA/! Sorting Algorithms/6. ! Shell Sort.md",
+    "Obsidian Vault/! DSA/Two Pointers/Hard/2. Merge Two Sorted Arrays In Place.md",
     "Obsidian Vault/! DSA/Two Pointers/Merge Two Sorted Arrays.md",
     "Obsidian Vault/! DSA/Two Pointers/Hard/Trapping Rain Water.md",
     "Obsidian Vault/! DSA/Two Pointers/3Sum.md",
@@ -180,14 +183,12 @@
     "Obsidian Vault/! DSA/1 Arrays/Easy/2. Second Largest and Second Smallest in Array.md",
     "Obsidian Vault/! DSA/1 Arrays/Easy/1. Largest Element in Array.md",
     "Obsidian Vault/! DSA/1 Arrays/Easy/6. Rotate Array by n places !!!.md",
-    "Obsidian Vault/! DSA/! Sorting Algorithms/3. Insertion Sort.md",
     "Obsidian Vault/! DSA/! C++/1. Passing By Reference.md",
     "Obsidian Vault/! DSA/! beg Questions/Untitled.md",
     "Obsidian Vault/Images/Pasted image 20250626153414.png",
     "Obsidian Vault/Images/Pasted image 20250702221456.png",
     "Untitled 1.md",
     "Untitled.md",
-    "Obsidian Vault/! DSA/7. Graphs/1. Intro.md",
     "Obsidian Vault/! TUF/OOPS.md",
     "Obsidian Vault/! DSA/7. Graphs",
     "Obsidian Vault/! DSA/7. Graphs.md",
@@ -197,7 +198,6 @@
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/5. Boundary Traversal.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Traversal.md",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
-    "Obsidian Vault/Final Project/deepfake.md",
     "Obsidian Vault/Final Project",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium",
     "Obsidian Vault/Images/Pasted image 20250702221553.png",
