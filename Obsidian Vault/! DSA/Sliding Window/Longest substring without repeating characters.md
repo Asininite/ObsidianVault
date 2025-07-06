@@ -1,4 +1,4 @@
-O(2n) solution [ since we traverse the string twice using the two pointers in the worst case scenario]
+	O(2n) solution [ since we traverse the string twice using the two pointers in the worst case scenario]
 ```cpp
 class Solution {
 public:
