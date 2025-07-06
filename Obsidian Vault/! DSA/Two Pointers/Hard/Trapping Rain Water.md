@@ -21,6 +21,44 @@ Copy
 - `1 <= height.length <= 1000`
 - `0 <= height[i] <= 1000`
 
+---
+
+
+### Core Idea
+
+The amount of rainwater that can be trapped above any single bar is determined by the "walls" on its left and right. Specifically, the water level can only rise to the height of the **shorter** of the two walls.
+
+The two "walls" for any given bar at index `i` are:
+1.  The tallest bar to its left (`max_left`).
+2.  The tallest bar to its right (`max_right`).
+
+Therefore, the water trapped above bar `i` is: `min(max_left, max_right) - height[i]`. This value is only added if it's positive. The total trapped water is the sum of these values for all bars.
+
+---
+
+### Two Main Approaches
+
+The video explains two efficient ways to implement this logic:
+
+#### 1. Pre-computation Approach (O(n) Time, O(n) Space)
+
+This is a more intuitive, multi-pass solution:
+1.  **Create a `max_left` array:** Iterate from left to right, pre-computing the tallest bar to the left of each position.
+2.  **Create a `max_right` array:** Iterate from right to left, pre-computing the tallest bar to the right of each position.
+3.  **Calculate Total:** Iterate through the `height` array a final time. For each bar `i`, calculate the trapped water using the formula `min(max_left[i], max_right[i]) - height[i]` and add it to a running total.
+
+#### 2. Two-Pointer Approach (O(n) Time, O(1) Space)
+
+This is the most optimal solution, using constant extra memory:
+1.  **Initialize:** Set a `left` pointer at the start of the array and a `right` pointer at the end. Also, initialize `max_left = 0` and `max_right = 0`.
+2.  **Loop:** While `left < right`:
+    *   Compare the heights at the pointers: `height[left]` and `height[right]`.
+    *   **If `height[left]` is smaller**, process the left side. The `max_left` height is the limiting boundary. Calculate trapped water as `max_left - height[left]` and add it to the total. Then, move the `left` pointer one step to the right.
+    *   **Otherwise**, process the right side. The `max_right` height is the limiting boundary. Calculate trapped water as `max_right - height[right]` and add it to the total. Then, move the `right` pointer one step to the left.
+3.  **Update Maxes:** In each step, update `max_left` or `max_right` if a new taller bar is encountered.
+
+This works because when we process a pointer (e.g., `left`), we know its `max_left` is smaller than or equal to the `max_right`, making `max_left` the bottleneck for trapping water at that position.
+
 ### Brute force
 ```cpp
 class Solution {

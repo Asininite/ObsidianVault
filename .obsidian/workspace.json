@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/Two Pointers/Merge Two Sorted Arrays.md",
+                "file": "Obsidian Vault/! DSA/Two Pointers/Hard/Trapping Rain Water.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge Two Sorted Arrays"
+              "title": "Trapping Rain Water"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/Two Pointers/Merge Two Sorted Arrays.md",
     "Obsidian Vault/! DSA/Two Pointers/3Sum.md",
     "Obsidian Vault/! DSA/Two Pointers/Hard/Trapping Rain Water.md",
     "Obsidian Vault/! DSA/2 Hashing/Longest Consecutive Sequence in an Array.md",
@@ -197,7 +198,6 @@
     "Obsidian Vault/Final Project/deepfake.md",
     "Obsidian Vault/Final Project/music.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/4. ! Find the DIAMETER of the binary tree.md",
-    "Obsidian Vault/Untitled.md",
     "Obsidian Vault/Final Project",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium",
     "Pasted image 20250702221553.png",
