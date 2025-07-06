@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/5. Boundary Traversal.md",
+                "file": "Obsidian Vault/! TUF/DBMS.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Boundary Traversal"
+              "title": "DBMS"
             }
           }
         ]
@@ -169,8 +169,13 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/6. Binary Trees/1. Traversal.md",
+    "Obsidian Vault/! TUF/OS.md",
+    "Obsidian Vault/! TUF/DBMS.md",
+    "Obsidian Vault/! TUF/CN.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/5. Boundary Traversal.md",
+    "Obsidian Vault/! DSA/6. Binary Trees/1. Traversal.md",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/Final Project/deepfake.md",
     "Obsidian Vault/Final Project/music.md",
@@ -194,12 +199,7 @@
     "Obsidian Vault/! TUF/OS/2. Process Management/0. Questions.md",
     "Pasted image 20250702221456.png",
     "Obsidian Vault/Placement/Operating Systems or COA/Locality of Reference.md",
-    "Obsidian Vault/! TUF/OS/3. Synchronization/2.1 Starvation.md",
-    "Obsidian Vault/! TUF/OS/3. Synchronization/2. Critical Section Problem.md",
     "Pasted image 20250702200623.png",
-    "Obsidian Vault/! TUF/OS/3. Synchronization/1.1 Race Condition.md",
-    "Obsidian Vault/Placement/Operating Systems/HIPO Diagram.md",
-    "Obsidian Vault/Placement/Operating Systems/Nassi-Shneiderman Diagram.md",
     "Pasted image 20250702195805.png",
     "Obsidian Vault/! TUF/OS/3. Synchronization",
     "Obsidian Vault/! TUF/OS/2. Process Management",
