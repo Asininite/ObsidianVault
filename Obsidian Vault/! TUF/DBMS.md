@@ -1,9 +1,9 @@
 ### **Module 1: Introduction & Entity Relationship (ER) Model**
 
 - [ ] **Concept & Overview of Database Management Systems (DBMS)**
-    - [ ] Characteristics of Database system
-    - [ ] Database Users
-    - [ ] Structured, semi-structured and unstructured data
+    - [x] Characteristics of Database system
+    - [x] Database Users
+    - [x] Structured, semi-structured and unstructured data
 - [ ] **Data Models and Schema**
     - [ ] Three Schema architecture
 - [ ] **Database Languages, Architectures and Classification**
