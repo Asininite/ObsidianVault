@@ -45,7 +45,7 @@ public:
         // At least one of l1 and l2 can still have nodes at this point, so
         // connect the non-null list to the end of the merged list.
         prev->next = l1 == nullptr ? l2 : l1;
-        return prehead.next;
+        return prehead->next;
     }
 };
 ```
