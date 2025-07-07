@@ -20,7 +20,7 @@ Normal Forms
 
 [Normalization](https://www.geeksforgeeks.org/introduction-of-database-normalization/) is a technique used in database design to [reduce redundancy](https://www.geeksforgeeks.org/the-problem-of-redundancy-in-database/) and improve [data integrity](https://www.geeksforgeeks.org/dbms-integrity-constraints/) by organizing data into tables and ensuring proper relationships. Normal Forms are different stages of normalization, and each stage imposes certain rules to improve the structure and performance of a database. Let's break down the various normal forms step-by-step to understand the conditions that need to be satisfied at each level:
 
-### 1. ****First Normal Form (1NF)****: Eliminating Duplicate Records
+### 1. **First Normal Form (1NF)**: Eliminating Duplicate Records
 
 A table is in [1NF](https://www.geeksforgeeks.org/first-normal-form-1nf/) if it satisfies the following conditions:
 
@@ -29,13 +29,13 @@ A table is in [1NF](https://www.geeksforgeeks.org/first-normal-form-1nf/) if i
 - Each column has a unique name.
 - The order in which data is stored does not matter.
 
-****Example of 1NF Violation:**** If a table has a column "****Phone Numbers****" that stores multiple phone numbers in a single cell, it violates 1NF. To bring it into 1NF, you need to separate phone numbers into individual rows.
+***Example of 1NF Violation:*** If a table has a column **"Phone Numbers"** that stores multiple phone numbers in a single cell, it violates 1NF. To bring it into 1NF, you need to separate phone numbers into individual rows.
 
-### 2. ****Second Normal Form (2NF)****: Eliminating Partial Dependency
+### 2. ***Second Normal Form (2NF)***: Eliminating Partial Dependency
 
 A relation is in [2NF](https://www.geeksforgeeks.org/second-normal-form-2nf/) if it satisfies the conditions of 1NF and additionally. No partial dependency exists, meaning every non-prime attribute (non-key attribute) must depend on the entire primary key, not just a part of it.
 
-****Example:**** For a composite key ****(StudentID, CourseID)****, if the ****StudentName**** depends only on ****StudentID**** and not on the entire key, it violates 2NF. To normalize, move ****StudentName**** into a separate table where it depends only on ****StudentID****.
+***Example:*** For a composite key ****(StudentID, CourseID)****, if the ***StudentName*** depends only on ***StudentID*** and not on the entire key, it violates 2NF. To normalize, move ****StudentName**** into a separate table where it depends only on ****StudentID****.
 
 ### 3. ****Third Normal Form (3NF)****: Eliminating Transitive Dependency
 
