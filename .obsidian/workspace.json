@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy/3. Delete Tail.md",
+                "file": "Obsidian Vault/! JavaScript/1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Delete Tail"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy/2. Delete Head.md",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy/3. Delete Tail.md",
+    "Obsidian Vault/! JavaScript/1. Introduction.md",
+    "Obsidian Vault/! JavaScript",
+    "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy/2. Delete Head.md",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy/1. Convert Array To DLL.md",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/! DSA/5. Linked List/Medium/Merge Two Sorted Linked Lists.md",
@@ -199,7 +201,6 @@
     "Obsidian Vault/! DSA/Sliding Window/Longest substring without repeating characters.md",
     "Obsidian Vault/! DSA/Dynamic Programming/n-th number Fibonacci Sequence.md",
     "Obsidian Vault/! DSA/7. Graphs/1. Intro.md",
-    "Obsidian Vault/! DSA/! Sorting Algorithms/3. Insertion Sort.md",
     "Obsidian Vault/Images/Pasted image 20250626153414.png",
     "Obsidian Vault/Images/Pasted image 20250702221456.png",
     "Obsidian Vault/! DSA/7. Graphs",
@@ -209,7 +210,6 @@
     "Obsidian Vault/Images/Pasted image 20250702200623.png",
     "Obsidian Vault/Images/Pasted image 20250702195805.png",
     "Obsidian Vault/! TUF/OS/3. Synchronization",
-    "Obsidian Vault/! TUF/OS/2. Process Management",
     "Obsidian Vault/Images/Pasted image 20250627164006.png",
     "Obsidian Vault/Images/Pasted image 20250627163823.png",
     "Obsidian Vault/Images/Pasted image 20250627160258.png",
