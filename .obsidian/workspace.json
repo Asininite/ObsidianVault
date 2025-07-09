@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! JavaScript/1. Introduction.md",
+                "file": "Obsidian Vault/! DSA/2 Hashing/Longest Consecutive Sequence in an Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "Longest Consecutive Sequence in an Array"
             }
           }
         ]
@@ -169,13 +169,16 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/1 Arrays/Medium/Container With Most Water.md",
+    "Obsidian Vault/! DSA/1 Arrays/Medium/Dutch National Flag Algorithm.md",
+    "Obsidian Vault/! DSA/1 Arrays/Medium/Valid Sudoku.md",
+    "Obsidian Vault/! JavaScript/1. Introduction.md",
     "Pasted image 20250709193710.png",
     "Pasted image 20250709193017.png",
     "Pasted image 20250709192956.png",
     "Pasted image 20250709192351.png",
     "Pasted image 20250709192333.png",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy/3. Delete Tail.md",
-    "Obsidian Vault/! JavaScript/1. Introduction.md",
     "Obsidian Vault/! JavaScript",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy/2. Delete Head.md",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy/1. Convert Array To DLL.md",
@@ -203,8 +206,6 @@
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/3. Check if binary tree is balanced.md",
     "Obsidian Vault/! DSA/1 Arrays/Medium/5. ! 3 Sum.md",
     "Obsidian Vault/! DSA/! beg Questions/Math/4. Check if Number is PALINDROME.md",
-    "Obsidian Vault/! DSA/Sliding Window/Longest substring without repeating characters.md",
-    "Obsidian Vault/! DSA/Dynamic Programming/n-th number Fibonacci Sequence.md",
     "Obsidian Vault/Images/Pasted image 20250626153414.png",
     "Obsidian Vault/Images/Pasted image 20250702221456.png",
     "Obsidian Vault/! DSA/7. Graphs",
@@ -213,7 +214,6 @@
     "Obsidian Vault/Images/Pasted image 20250702221553.png",
     "Obsidian Vault/Images/Pasted image 20250702200623.png",
     "Obsidian Vault/Images/Pasted image 20250702195805.png",
-    "Obsidian Vault/! TUF/OS/3. Synchronization",
-    "Obsidian Vault/Images/Pasted image 20250627164006.png"
+    "Obsidian Vault/! TUF/OS/3. Synchronization"
   ]
 }
