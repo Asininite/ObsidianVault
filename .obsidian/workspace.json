@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/2 Hashing/Longest Consecutive Sequence in an Array.md",
+                "file": "Obsidian Vault/! DSA/! C++/STL/Containers/8. Set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Longest Consecutive Sequence in an Array"
+              "title": "8. Set"
             }
           }
         ]
@@ -169,6 +169,14 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/! C++/STL/Containers/2. Vector.md",
+    "Obsidian Vault/! DSA/! C++/STL/Containers/3. List.md",
+    "Obsidian Vault/! DSA/! C++/STL/Containers/4. Dequeue.md",
+    "Obsidian Vault/! DSA/! C++/STL/Containers/8. Set.md",
+    "Obsidian Vault/! DSA/! C++/STL/Containers/7. Priority Queue.md",
+    "Obsidian Vault/! DSA/! C++/STL/Containers/6. Queue.md",
+    "Obsidian Vault/! DSA/! C++/STL/Containers/1. Pair.md",
+    "Obsidian Vault/! DSA/2 Hashing/Longest Consecutive Sequence in an Array.md",
     "Obsidian Vault/! DSA/1 Arrays/Medium/Container With Most Water.md",
     "Obsidian Vault/! DSA/1 Arrays/Medium/Dutch National Flag Algorithm.md",
     "Obsidian Vault/! DSA/1 Arrays/Medium/Valid Sudoku.md",
@@ -198,14 +206,6 @@
     "Obsidian Vault/! TUF/OOPS/1. What is OOPS.md",
     "Obsidian Vault/! TUF/DBMS/9. Data Models and their Types.md",
     "Obsidian Vault/! TUF/DBMS/Normal Forms in DBMS.md",
-    "Obsidian Vault/! TUF/DBMS/8. DBMS Interfaces.md",
-    "Obsidian Vault/! TUF/DBMS.md",
-    "Obsidian Vault/! TUF/DBMS/2. Types of Database.md",
-    "Obsidian Vault/! TUF/DBMS/3. Database Management System.md",
-    "Obsidian Vault/! TUF/DBMS/7. Database Users and Interactions.md",
-    "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/3. Check if binary tree is balanced.md",
-    "Obsidian Vault/! DSA/1 Arrays/Medium/5. ! 3 Sum.md",
-    "Obsidian Vault/! DSA/! beg Questions/Math/4. Check if Number is PALINDROME.md",
     "Obsidian Vault/Images/Pasted image 20250626153414.png",
     "Obsidian Vault/Images/Pasted image 20250702221456.png",
     "Obsidian Vault/! DSA/7. Graphs",
