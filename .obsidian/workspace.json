@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/7. Graphs/1. Easy/1. Perimeter of Islands.md",
+                "file": "Obsidian Vault/! DSA/7. Graphs/2. Medium/1. Rotting Oranges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Perimeter of Islands"
+              "title": "1. Rotting Oranges"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/4. ! Find the DIAMETER of the binary tree.md",
     "Obsidian Vault/! DSA/7. Graphs/1. Easy/1. Perimeter of Islands.md",
+    "Obsidian Vault/! DSA/7. Graphs/2. Medium/1. Rotting Oranges.md",
+    "Obsidian Vault/! DSA/7. Graphs/2. Medium",
+    "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/4. ! Find the DIAMETER of the binary tree.md",
     "Obsidian Vault/! DSA/7. Graphs/1. Easy",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/0. PreOrder vs InOrder vs PostOrder.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/1. Inorder Traversal.md",
@@ -201,7 +203,6 @@
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy/1. Convert Array To DLL.md",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
     "Obsidian Vault/! DSA/5. Linked List/Medium/Merge Two Sorted Linked Lists.md",
-    "Obsidian Vault/! DSA/5. Linked List/! Revise/1. What is LL.md",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Hard",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Medium",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy",
@@ -211,7 +212,6 @@
     "Obsidian Vault/Images/Pasted image 20250702221456.png",
     "Obsidian Vault/! DSA/7. Graphs",
     "Obsidian Vault/Final Project",
-    "Obsidian Vault/! DSA/6. Binary Trees/2. Medium",
     "Obsidian Vault/Images/Pasted image 20250702221553.png",
     "Obsidian Vault/Images/Pasted image 20250702200623.png",
     "Obsidian Vault/Images/Pasted image 20250702195805.png"
