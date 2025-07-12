@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/7. Graphs/2. Medium/3. Number Of Islands.md",
+                "file": "Obsidian Vault/! DSA/7. Graphs/! Revise/4. Detect Cycle in Undirected Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Number Of Islands"
+              "title": "4. Detect Cycle in Undirected Graph"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/7. Graphs/! Revise/3. ALL TRAVERSALS.md",
+    "Obsidian Vault/! DSA/7. Graphs/! Revise/4. Topological Sort.md",
+    "Obsidian Vault/! DSA/7. Graphs/! Revise/4. Detect Cycle in Undirected Graph.md",
+    "Obsidian Vault/! DSA/7. Graphs/! Revise/4. Detect Cycle in Undirected Graph",
     "Obsidian Vault/! DSA/7. Graphs/2. Medium/3. Number Of Islands.md",
+    "Obsidian Vault/! DSA/7. Graphs/! Revise/3. ALL TRAVERSALS.md",
     "Obsidian Vault/! DSA/7. Graphs/! Revise/1. BFS Of Graph.md",
     "Obsidian Vault/! DSA/7. Graphs/1. Easy/1. Connected Components.md",
     "Obsidian Vault/! DSA/7. Graphs/! Revise/2. DFS.md",
@@ -197,8 +200,6 @@
     "Obsidian Vault/! DSA/! C++/STL/Containers/7. Priority Queue.md",
     "Obsidian Vault/! DSA/! C++/STL/Containers/6. Queue.md",
     "Obsidian Vault/! DSA/! C++/STL/Containers/1. Pair.md",
-    "Obsidian Vault/! DSA/2 Hashing/Longest Consecutive Sequence in an Array.md",
-    "Obsidian Vault/! DSA/1 Arrays/Medium/Container With Most Water.md",
     "Pasted image 20250709193710.png",
     "Pasted image 20250709193017.png",
     "Pasted image 20250709192956.png",
@@ -209,7 +210,6 @@
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Medium",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List",
-    "Obsidian Vault/! React",
     "Obsidian Vault/Images/Pasted image 20250626153414.png",
     "Obsidian Vault/Images/Pasted image 20250702221456.png",
     "Obsidian Vault/Images/Pasted image 20250702221553.png",
