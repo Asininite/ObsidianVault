@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/7. Graphs/2. Medium/2. Rotting Oranges.md",
+                "file": "Obsidian Vault/! DSA/7. Graphs/1. Easy/1. Connected Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Rotting Oranges"
+              "title": "1. Connected Components"
             }
           }
         ]
@@ -167,15 +167,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/7. Graphs/2. Medium/2. Rotting Oranges.md",
+    "Obsidian Vault/! DSA/7. Graphs/1. Easy/1. Connected Components.md",
     "Obsidian Vault/! DSA/7. Graphs/2. Medium/1. Perimeter of Islands.md",
     "Obsidian Vault/! DSA/7. Graphs/3. Hard/2. Word Ladder I.md",
     "Obsidian Vault/! DSA/7. Graphs/1. Intro.md",
     "Obsidian Vault/! DSA/7. Graphs/3. Hard/3. Word Ladder II.md",
     "Obsidian Vault/! DSA/7. Graphs/3. Hard",
     "Obsidian Vault/! DSA/7. Graphs/! Revise/1. BFS Of Graph.md",
-    "Obsidian Vault/! DSA/7. Graphs/2. Medium/2. Rotting Oranges.md",
     "Obsidian Vault/! DSA/7. Graphs/! Revise",
     "Obsidian Vault/! DSA/7. Graphs/2. Medium",
     "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/4. ! Find the DIAMETER of the binary tree.md",
@@ -203,7 +204,6 @@
     "Pasted image 20250709192956.png",
     "Pasted image 20250709192351.png",
     "Pasted image 20250709192333.png",
-    "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Easy/3. Delete Tail.md",
     "Obsidian Vault/! JavaScript",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Hard",
     "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Medium",
