@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/9. Binary Search Tree/2. Kth smallest and largest elements.md",
+                "file": "Obsidian Vault/! DSA/9. Binary Search Tree/3. Check if tree is a BST.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2. Kth smallest and largest elements"
+              "title": "3. Check if tree is a BST"
             }
           }
         ]
@@ -169,8 +169,9 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/1. Inorder Traversal.md",
     "Obsidian Vault/! DSA/9. Binary Search Tree/2. Kth smallest and largest elements.md",
+    "Obsidian Vault/! DSA/9. Binary Search Tree/3. Check if tree is a BST.md",
+    "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/1. Inorder Traversal.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/0. PreOrder vs InOrder vs PostOrder.md",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/2. PreOrder Traversal.md",
     "Obsidian Vault/! DSA/9. Binary Search Tree/1. Floor and Ceiling of BST.md",
@@ -199,7 +200,6 @@
     "Obsidian Vault/! DSA/7. Graphs/2. Medium/3. Number Of Islands.md",
     "Obsidian Vault/! DSA/7. Graphs/! Revise/3. ALL TRAVERSALS.md",
     "Obsidian Vault/! DSA/7. Graphs/! Revise/1. BFS Of Graph.md",
-    "Obsidian Vault/! DSA/7. Graphs/1. Easy/1. Connected Components.md",
     "Obsidian Vault/! DSA/7. Graphs/3. Hard",
     "Obsidian Vault/! DSA/7. Graphs/! Revise",
     "Obsidian Vault/! DSA/7. Graphs/2. Medium",
