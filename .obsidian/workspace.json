@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/8. Stacks or Queues/LRU CACHE.md",
+                "file": "Obsidian Vault/! DSA/1 Arrays/2. Medium/Common elements in 3 arrays.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "LRU CACHE"
+              "title": "Common elements in 3 arrays"
             }
           }
         ]
@@ -170,7 +170,10 @@
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/10. Find Repeating And Missing Number.md",
+    "Obsidian Vault/! DSA/1 Arrays/2. Medium/Common elements in 3 arrays.md",
     "Obsidian Vault/! DSA/8. Stacks or Queues/LRU CACHE.md",
+    "Obsidian Vault/! TUF/DBMS.md",
+    "Obsidian Vault/! TUF/CN.md",
     "Obsidian Vault/! DSA/8. Stacks or Queues",
     "Obsidian Vault/! DSA/1 Arrays/! Revise/1. Moore's Voting Algorithm.md",
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/9. Majority Element I.md",
@@ -196,13 +199,10 @@
     "Obsidian Vault/! DSA/7. Graphs/2. Medium/1. Perimeter of Islands.md",
     "Obsidian Vault/! DSA/7. Graphs/3. Hard/2. Word Ladder I.md",
     "Obsidian Vault/! DSA/7. Graphs/1. Intro.md",
-    "Obsidian Vault/! DSA/7. Graphs/3. Hard/3. Word Ladder II.md",
     "Obsidian Vault/! DSA/7. Graphs/3. Hard",
     "Obsidian Vault/! DSA/7. Graphs/! Revise",
     "Obsidian Vault/! DSA/7. Graphs/2. Medium",
-    "Obsidian Vault/! DSA/6. Binary Trees/2. Medium/4. ! Find the DIAMETER of the binary tree.md",
     "Obsidian Vault/! DSA/7. Graphs/1. Easy",
-    "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/0. PreOrder vs InOrder vs PostOrder.md",
     "Pasted image 20250709193710.png",
     "Pasted image 20250709193017.png",
     "Pasted image 20250709192956.png",
