@@ -49,9 +49,10 @@
 - push each array element into stack
 - pop elements from stack to form array
 
-`void reverseArrayUsingStack(int arr[], int size)
-`{
-  ``  std::stack<int> stack;
+```cpp
+void reverseArrayUsingStack(int arr[], int size)
+{
+   std::stack<int> stack;
 
     // Push elements onto the stack
     for (int i = 0; i < size; i++) {
@@ -63,5 +64,6 @@
         arr[i] = stack.top();
         stack.pop();
     }
-`}
+}
+```
 
