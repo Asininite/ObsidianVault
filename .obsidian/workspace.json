@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/1 Arrays/2. Medium/Common elements in 3 arrays.md",
+                "file": "Obsidian Vault/! DSA/9. Binary Search Tree/1. Floor and Ceiling of BST.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Common elements in 3 arrays"
+              "title": "1. Floor and Ceiling of BST"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/10. Find Repeating And Missing Number.md",
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/Common elements in 3 arrays.md",
+    "Obsidian Vault/! DSA/9. Binary Search Tree/1. Floor and Ceiling of BST.md",
+    "Obsidian Vault/! DSA/9. Binary Search Tree",
+    "Obsidian Vault/! DSA/1 Arrays/2. Medium/10. Find Repeating And Missing Number.md",
     "Obsidian Vault/! DSA/8. Stacks or Queues/LRU CACHE.md",
     "Obsidian Vault/! TUF/DBMS.md",
     "Obsidian Vault/! TUF/CN.md",
@@ -198,7 +200,6 @@
     "Obsidian Vault/! DSA/7. Graphs/2. Medium/2. Rotting Oranges.md",
     "Obsidian Vault/! DSA/7. Graphs/2. Medium/1. Perimeter of Islands.md",
     "Obsidian Vault/! DSA/7. Graphs/3. Hard/2. Word Ladder I.md",
-    "Obsidian Vault/! DSA/7. Graphs/1. Intro.md",
     "Obsidian Vault/! DSA/7. Graphs/3. Hard",
     "Obsidian Vault/! DSA/7. Graphs/! Revise",
     "Obsidian Vault/! DSA/7. Graphs/2. Medium",
@@ -209,7 +210,6 @@
     "Pasted image 20250709192351.png",
     "Pasted image 20250709192333.png",
     "Obsidian Vault/! JavaScript",
-    "Obsidian Vault/! DSA/5. Linked List/! Double Linked List/Hard",
     "Obsidian Vault/Images/Pasted image 20250626153414.png",
     "Obsidian Vault/Images/Pasted image 20250702221456.png",
     "Obsidian Vault/Images/Pasted image 20250702221553.png",
