@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/9. Binary Search Tree/1. Floor and Ceiling of BST.md",
+                "file": "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/1. Inorder Traversal.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Floor and Ceiling of BST"
+              "title": "1. Inorder Traversal"
             }
           }
         ]
@@ -169,8 +169,11 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/Common elements in 3 arrays.md",
+    "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/0. PreOrder vs InOrder vs PostOrder.md",
+    "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/1. Inorder Traversal.md",
+    "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/2. PreOrder Traversal.md",
     "Obsidian Vault/! DSA/9. Binary Search Tree/1. Floor and Ceiling of BST.md",
+    "Obsidian Vault/! DSA/1 Arrays/2. Medium/Common elements in 3 arrays.md",
     "Obsidian Vault/! DSA/9. Binary Search Tree",
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/10. Find Repeating And Missing Number.md",
     "Obsidian Vault/! DSA/8. Stacks or Queues/LRU CACHE.md",
@@ -197,9 +200,6 @@
     "Obsidian Vault/! DSA/7. Graphs/! Revise/1. BFS Of Graph.md",
     "Obsidian Vault/! DSA/7. Graphs/1. Easy/1. Connected Components.md",
     "Obsidian Vault/! DSA/7. Graphs/! Revise/2. DFS.md",
-    "Obsidian Vault/! DSA/7. Graphs/2. Medium/2. Rotting Oranges.md",
-    "Obsidian Vault/! DSA/7. Graphs/2. Medium/1. Perimeter of Islands.md",
-    "Obsidian Vault/! DSA/7. Graphs/3. Hard/2. Word Ladder I.md",
     "Obsidian Vault/! DSA/7. Graphs/3. Hard",
     "Obsidian Vault/! DSA/7. Graphs/! Revise",
     "Obsidian Vault/! DSA/7. Graphs/2. Medium",
