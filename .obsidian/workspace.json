@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/9. Binary Search Tree/4. Find LCA.md",
+                "file": "Obsidian Vault/! DSA/! Patterns/1. Sliding Window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Find LCA"
+              "title": "1. Sliding Window"
             }
           }
         ]
@@ -167,9 +167,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/Patterns",
+    "Obsidian Vault/! DSA/9. Binary Search Tree/4. Find LCA.md",
+    "Obsidian Vault/! DSA/! Patterns/1. Sliding Window.md",
+    "Obsidian Vault/! DSA/! Patterns",
     "Obsidian Vault/! DSA/9. Binary Search Tree/7. ! Two Sum in BST.md",
     "Obsidian Vault/! DSA/9. Binary Search Tree/6. ! BST Iterator.md",
     "Pasted image 20250716192847.png",
@@ -184,7 +186,6 @@
     "Obsidian Vault/! DSA/9. Binary Search Tree/2. Kth smallest and largest elements.md",
     "Obsidian Vault/! DSA/9. Binary Search Tree/1. Floor and Ceiling of BST.md",
     "Obsidian Vault/! DSA/9. Binary Search Tree/5. Two Sum in BST.md",
-    "Obsidian Vault/! DSA/9. Binary Search Tree/4. Find LCA.md",
     "Obsidian Vault/! DSA/9. Binary Search Tree/3. Check if tree is a BST.md",
     "Pasted image 20250716005011.png",
     "Obsidian Vault/! DSA/6. Binary Trees/1. Easy/1. Inorder Traversal.md",
@@ -211,7 +212,6 @@
     "Pasted image 20250709192956.png",
     "Pasted image 20250709192351.png",
     "Pasted image 20250709192333.png",
-    "Obsidian Vault/! JavaScript",
     "Obsidian Vault/Images/Pasted image 20250626153414.png",
     "Obsidian Vault/Images/Pasted image 20250702221456.png",
     "Obsidian Vault/Images/Pasted image 20250702221553.png"
