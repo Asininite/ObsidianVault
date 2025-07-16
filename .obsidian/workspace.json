@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/1 Arrays/! Revise/1. Moore's Voting Algorithm.md",
+                "file": "Obsidian Vault/! DSA/9. Binary Search Tree/6. ! BST Iterator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Moore's Voting Algorithm"
+              "title": "6. ! BST Iterator"
             }
           }
         ]
@@ -169,6 +169,10 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/1 Arrays/2. Medium/2. Sort an array of 0s 1s and 2s without sort.md",
+    "Obsidian Vault/! DSA/9. Binary Search Tree/6. ! BST Iterator.md",
+    "Obsidian Vault/! DSA/1 Arrays/2. Medium/1. Find Leaders in an Array.md",
+    "Obsidian Vault/! DSA/1 Arrays/! Revise/1. Moore's Voting Algorithm.md",
     "Obsidian Vault/! DSA/Two Pointers/Hard/2. Merge Two Sorted Arrays In Place.md",
     "Obsidian Vault/! DSA/Two Pointers/3Sum.md",
     "Obsidian Vault/! DSA/Stack/Valid Parantheses.md",
@@ -190,16 +194,12 @@
     "Obsidian Vault/! TUF/DBMS.md",
     "Obsidian Vault/! TUF/CN.md",
     "Obsidian Vault/! DSA/8. Stacks or Queues",
-    "Obsidian Vault/! DSA/1 Arrays/! Revise/1. Moore's Voting Algorithm.md",
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/9. Majority Element I.md",
     "Obsidian Vault/! DSA/1 Arrays/! Revise",
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/8. Majority Element Appearing More than 0.33 times.md",
     "Obsidian Vault/! DSA/1 Arrays/3. Hard/Number of subarrays with XOR as K.md",
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/7. ! Next Permutation.md",
     "Obsidian Vault/! DSA/1 Arrays/3. Hard",
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/6. ALL PERMUTATIONS OF STRING.md",
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/Valid Sudoku.md",
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/Dutch National Flag Algorithm.md",
     "Obsidian Vault/! DSA/7. Graphs/! Revise/4. Detect Cycle in Undirected Graph",
     "Obsidian Vault/! DSA/7. Graphs/3. Hard",
     "Obsidian Vault/! DSA/7. Graphs/! Revise",
