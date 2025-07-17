@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/4. Binary Search/1. Easy/4. ! Search for Insert Position.md",
+                "file": "Obsidian Vault/! DSA/4. Binary Search/1. Easy/6. ! First and Last Occurrences of Element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. ! Search for Insert Position"
+              "title": "6. ! First and Last Occurrences of Element"
             }
           }
         ]
@@ -169,6 +169,8 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/4. Binary Search/1. Easy/5. ! Find Floor and Ceiling in Sorted Array.md",
+    "Obsidian Vault/! DSA/4. Binary Search/1. Easy/4. ! Search for Insert Position.md",
     "Obsidian Vault/! DSA/4. Binary Search/1. Easy/3. Upper Bound (same as 2 ish).md",
     "Obsidian Vault/! DSA/4. Binary Search/1. Easy/2. Find Lower Bound in an Array.md",
     "Obsidian Vault/! DSA/4. Binary Search/1. Easy/1. Find Element in Sorted Array.md",
@@ -197,8 +199,6 @@
     "Obsidian Vault/! DSA/Two Pointers/3Sum.md",
     "Obsidian Vault/! DSA/Stack/Valid Parantheses.md",
     "Obsidian Vault/! DSA/Sliding Window/Longest substring without repeating characters.md",
-    "Obsidian Vault/! DSA/Dynamic Programming/n-th number Fibonacci Sequence.md",
-    "Obsidian Vault/! DSA/9. Binary Search Tree/2. Kth smallest and largest elements.md",
     "Pasted image 20250716005011.png",
     "Obsidian Vault/! DSA/9. Binary Search Tree",
     "Obsidian Vault/! DSA/8. Stacks or Queues",
