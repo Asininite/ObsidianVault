@@ -54,3 +54,9 @@ public:
   13 >> 1
   1 1 0 1 -> 0 1 1 0
 - right shift is dividing by 2
+### Left Shift
+- <<
+  13 << 1
+  1 1 0 1 -> 1 1 0 1 0
+- left shift is multiplying by 2
+### NOT Operator
