@@ -39,6 +39,7 @@ public:
 ### 2s Complement
 - add 1 to 1s complement
 - 1 1 0 1 -> 0 0 1 1
+- **Computer never stores a negative number, it always stores its 2s complement form**
 ### AND Operator
 - all true -> true
 - 1 false -> false
