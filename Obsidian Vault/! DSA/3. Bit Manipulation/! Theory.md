@@ -53,3 +53,4 @@ public:
 - >> 
   13 >> 1
   1 1 0 1 -> 0 1 1 0
+- right shift is dividing by 2
