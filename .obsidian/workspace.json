@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/3. Bit Manipulation/2. Medium/1. Generate Power Set.md",
+                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/1. Generate Power Set.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,14 +167,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3062c507592c6cc8",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking",
     "Pasted image 20250723201820.png",
     "Obsidian Vault/! DSA/3. Bit Manipulation/1. Tricks.md",
-    "Obsidian Vault/! DSA/3. Bit Manipulation/2. Medium/1. Generate Power Set.md",
-    "Obsidian Vault/! DSA/3. Bit Manipulation/2. Medium",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/1. Generate Power Set.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium",
     "Obsidian Vault/! DSA/3. Bit Manipulation/Untitled.md",
-    "Obsidian Vault/! DSA/3. Bit Manipulation/3. Hard",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard",
     "Obsidian Vault/! DSA/3. Bit Manipulation/! Theory.md",
     "Obsidian Vault/! DSA/6. Stack and Queues/Striver 79/5. Sliding Window Maximum.md",
     "Obsidian Vault/! DSA/6. Stack and Queues/Striver 79/4. Asteroid Collision.md",
@@ -193,12 +194,12 @@
     "Obsidian Vault/! DSA/10. Graphs/! Revise/5. Topological Sort.md",
     "Obsidian Vault/! DSA/10. Graphs/! Revise/4. Detect Cycle in Undirected Graph.md",
     "Obsidian Vault/! DSA/10. Graphs/! Revise/1. BFS Of Graph.md",
-    "Obsidian Vault/! DSA/4. Binary Search/2. Medium/3. ! Search in Rotated Sorted Array (with duplicates).md",
-    "Obsidian Vault/! DSA/4. Binary Search/2. Medium/2. Find Minimum in Rotated Search Array.md",
-    "Obsidian Vault/! DSA/4. Binary Search/2. Medium/1. Search in Rotated Sorted Array.md",
-    "Obsidian Vault/! DSA/4. Binary Search/1. Easy/6. ! First and Last Occurrences of Element.md",
-    "Obsidian Vault/! DSA/4. Binary Search/1. Easy/5. ! Find Floor and Ceiling in Sorted Array.md",
-    "Obsidian Vault/! DSA/4. Binary Search/1. Easy/4. ! Search for Insert Position.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/3. ! Search in Rotated Sorted Array (with duplicates).md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/2. Find Minimum in Rotated Search Array.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/1. Search in Rotated Sorted Array.md",
+    "Obsidian Vault/! DSA/5. Binary Search/1. Easy/6. ! First and Last Occurrences of Element.md",
+    "Obsidian Vault/! DSA/5. Binary Search/1. Easy/5. ! Find Floor and Ceiling in Sorted Array.md",
+    "Obsidian Vault/! DSA/5. Binary Search/1. Easy/4. ! Search for Insert Position.md",
     "Obsidian Vault/Images/Pasted image 20250716222030.png",
     "Obsidian Vault/Images/Pasted image 20250716222015.png",
     "Obsidian Vault/! DSA/! Patterns",
@@ -213,7 +214,6 @@
     "Obsidian Vault/Images/Pasted image 20250709193710.png",
     "Obsidian Vault/Images/Pasted image 20250709193017.png",
     "Obsidian Vault/Images/Pasted image 20250709192956.png",
-    "Obsidian Vault/Images/Pasted image 20250709192351.png",
-    "Obsidian Vault/Images/Pasted image 20250709192333.png"
+    "Obsidian Vault/Images/Pasted image 20250709192351.png"
   ]
 }
