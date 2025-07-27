@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! My Stuff/! Self Introduction.md",
+                "file": "Obsidian Vault/! DSA/10. Graphs/1. Easy/1. Connected Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! Self Introduction"
+              "title": "1. Connected Components"
             }
           }
         ]
@@ -169,11 +169,16 @@
   },
   "active": "3062c507592c6cc8",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/1. N Queens.md",
+    "Obsidian Vault/! DSA/10. Graphs/2. Medium/2. Rotting Oranges.md",
+    "Obsidian Vault/! DSA/10. Graphs/2. Medium/1. Perimeter of Islands.md",
+    "Obsidian Vault/! DSA/10. Graphs/! Revise/1. BFS Of Graph.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/2. Combination Sum.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/1. Generate Power Set.md",
+    "Obsidian Vault/! DSA/6. Stack and Queues/Striver 79/1. Next Greater Element.md",
+    "! My Stuff/! Self Introduction.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/1. N Queens.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/Untitled",
     "Pasted image 20250723205324.png",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/1. Generate Power Set.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking",
     "Pasted image 20250723201820.png",
     "Obsidian Vault/! DSA/3. Bit Manipulation/1. Tricks.md",
@@ -185,7 +190,6 @@
     "Obsidian Vault/! DSA/6. Stack and Queues/Striver 79/4. Asteroid Collision.md",
     "Obsidian Vault/! DSA/6. Stack and Queues/Striver 79/3. Largest Rectangle In Histogram.md",
     "Obsidian Vault/! DSA/6. Stack and Queues/Striver 79/2. Next Greater Element II.md",
-    "Obsidian Vault/! DSA/6. Stack and Queues/Striver 79/1. Next Greater Element.md",
     "Obsidian Vault/! DSA/8. Two Pointers/Hard/Trapping Rain Water.md",
     "Obsidian Vault/! DSA/6. Stack and Queues/Valid Parantheses.md",
     "Obsidian Vault/! DSA/6. Stack and Queues/Striver 79",
@@ -197,12 +201,8 @@
     "Obsidian Vault/! DSA/10. Graphs/1. Easy/1. Connected Components.md",
     "Obsidian Vault/! DSA/10. Graphs/! Revise/5. Topological Sort.md",
     "Obsidian Vault/! DSA/10. Graphs/! Revise/4. Detect Cycle in Undirected Graph.md",
-    "Obsidian Vault/! DSA/10. Graphs/! Revise/1. BFS Of Graph.md",
     "Obsidian Vault/! DSA/5. Binary Search/2. Medium/3. ! Search in Rotated Sorted Array (with duplicates).md",
     "Obsidian Vault/! DSA/5. Binary Search/2. Medium/2. Find Minimum in Rotated Search Array.md",
-    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/1. Search in Rotated Sorted Array.md",
-    "Obsidian Vault/! DSA/5. Binary Search/1. Easy/6. ! First and Last Occurrences of Element.md",
-    "Obsidian Vault/! DSA/5. Binary Search/1. Easy/5. ! Find Floor and Ceiling in Sorted Array.md",
     "Obsidian Vault/Images/Pasted image 20250716222030.png",
     "Obsidian Vault/Images/Pasted image 20250716222015.png",
     "Obsidian Vault/! DSA/! Patterns",
