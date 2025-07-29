@@ -1,5 +1,4 @@
 ```cpp
-
 class Solution {
 
 public:

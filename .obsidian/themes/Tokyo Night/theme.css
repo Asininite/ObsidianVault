@@ -577,6 +577,12 @@ span.cm-hmd-frontmatter.cm-meta {
   color: rgba(var(--blue0_x), 0.9);
 }
 
+.nav-folder-title-content {
+  color: var(--color-purple) !important;
+  font-weight: 600;
+}
+
+
 /* checkboxes (credit: border) */
 
 body:not(.disable-alternative-checkboxes) input[data-task="<"]:checked,
