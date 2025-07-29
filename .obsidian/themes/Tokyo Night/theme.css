@@ -22,7 +22,7 @@
   --bg: rgb(var(--bg_x));
   --bg_highlight_x: 41, 46, 66;
   --bg_highlight: rgb(var(--bg_highlight_x));
-  --bg_highlight_dark_x: 36, 40, 59;
+  --bg_highlight_dark_x: 26, 30, 39;
   --bg_highlight_dark: rgb(var(--bg_highlight_dark_x));
   --terminal_black_x: 65, 72, 104;
   --terminal_black: rgb(var(--terminal_black_x));
