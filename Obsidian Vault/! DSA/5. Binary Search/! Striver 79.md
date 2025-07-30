@@ -2,9 +2,9 @@
 [[3. ! Search in Rotated Sorted Array (with duplicates)]]
 [[2. Find Minimum in Rotated Search Array]]
 [[11. Find Peak Element]]
-[[! 9. Koko Eating Bananas]]
+[[9. Koko Eating Bananas]]
 [[1. Aggressive Cows]]
-[[Book Allocation Problem]]
+[[12. Book Allocation Problem]]
 [[2 ! Median Of Two Sorted Arrays]]
 [[Minimize Max Distance to Gas Station]]
 

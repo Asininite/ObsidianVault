@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/! C++/STL/2. Accumulate and min_element max_element.md",
+                "file": "Obsidian Vault/! DSA/5. Binary Search/2. Medium/12. Book Allocation Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Accumulate and min_element max_element"
+              "title": "12. Book Allocation Problem"
             }
           }
         ]
@@ -167,10 +167,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "47da42fb65718a08",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/! C++/STL/1. Passing By Reference.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/11. Find Peak Element.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/12. Book Allocation Problem.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/8.  ! Find the Smallest Divisor.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/9. Koko Eating Bananas.md",
+    "Obsidian Vault/! DSA/5. Binary Search/! Striver 79.md",
     "Obsidian Vault/! DSA/! C++/STL/2. Accumulate and min_element max_element.md",
+    "Obsidian Vault/! DSA/! C++/STL/1. Passing By Reference.md",
     "Obsidian Vault/! DSA/5. Binary Search/3. Hard/1. Aggressive Cows.md",
     "Obsidian Vault/! DSA/5. Binary Search/2. Medium/2. Find Minimum in Rotated Search Array.md",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
@@ -180,7 +185,6 @@
     "Obsidian Vault/! DSA/5. Binary Search/2. Medium/3. ! Search in Rotated Sorted Array (with duplicates).md",
     "2025-07-28.md",
     "Obsidian Vault/! DSA/5. Binary Search/0 What is Binary Search.md",
-    "Obsidian Vault/! DSA/5. Binary Search/! Striver 79.md",
     "Obsidian Vault/! DSA/5. Binary Search/3. Hard/2 ! Median Of Two Sorted Arrays.md",
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/! 12. Maximum Product Subarray.md",
     "Obsidian Vault/! DSA/1 Arrays/! Striver 79.md",
@@ -194,11 +198,7 @@
     "Obsidian Vault/! DSA/11. Graphs/2. Medium/2. Rotting Oranges.md",
     "Obsidian Vault/Placement/! Data Structures/Graphs.md",
     "Obsidian Vault/! DSA/11. Graphs/! Revise/1. BFS Of Graph.md",
-    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/! 10. Minimum Days to Make M Bouquets.md",
-    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/! 9. Koko Eating Bananas.md",
-    "Obsidian Vault/(College)/Computer Networks/Module 2 Syllabus.md",
-    "Obsidian Vault/(College)/Computer Networks/Module 1 Syllabus.md",
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/Dutch National Flag Algorithm.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/10. Minimum Days to Make M Bouquets.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/Untitled",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium",
