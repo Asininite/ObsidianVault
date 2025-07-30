@@ -5,5 +5,5 @@
 [[Number of subarrays with XOR as K]]
 [[10. Find Repeating And Missing Number]]
 [[2. Count Inversions]]
-[[! 12. Maximum Product Subarray]]
+[[12. ! Maximum Product Subarray]]
 
