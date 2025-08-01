@@ -65,9 +65,7 @@ There are four main approaches to defining and creating AI, which can be categor
     
     - This approach focuses on designing "intelligent agents," which are entities that act3030303030303030.
         
-    - A
-        
-        **rational agent** is one that acts to achieve the best possible outcome, or the best expected outcome when there is uncertainty31313131.
+    - A **rational agent** is one that acts to achieve the best possible outcome, or the best expected outcome when there is uncertainty31313131.
         
     - This is the most general approach, as correct inference (from the "thinking rationally" approach) is one of several mechanisms for achieving rationality32.
         
