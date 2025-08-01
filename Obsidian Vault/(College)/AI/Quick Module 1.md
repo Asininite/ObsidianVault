@@ -23,7 +23,7 @@ There are four main approaches to defining and creating AI, which can be categor
         
     - It involves automating activities associated with human thought, such as decision-making, problem-solving, and learning9999.
         
-    - To achieve this, we first need to understand how humans think, which can be done through introspection, psychological experiments, or brain imaging101010101010101010. A precise theory of the mind is then expressed as a computer program11.
+    - To achieve this, we first need to understand how humans think, which can be done through introspection, psychological experiments, or brain imaging. A precise theory of the mind is then expressed as a computer program.
         
     - An example is the General Problem Solver (GPS) by Newell and Simon, who were concerned with comparing the program's reasoning steps to those of humans solving the same problems12121212.
         
