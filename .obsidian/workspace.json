@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/(College)/AI/Quick Module 1.md",
+                "file": "Obsidian Vault/(College)/AI/Quick Module 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Module 1"
+              "title": "Quick Module 2"
             }
           }
         ]
@@ -169,12 +169,13 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Obsidian Vault/(College)/AI/Quick Module 1.md",
+    "Obsidian Vault/(College)/AI/Quick Module 2.md",
     "Pasted image 20250802003659.png",
     "Pasted image 20250802003657.png",
     "Pasted image 20250802003655.png",
     "Pasted image 20250802003651.png",
     "Obsidian Vault/! DSA/5. Binary Search/2. Medium/! Search a 2D Matrix.md",
-    "Obsidian Vault/(College)/AI/Quick Module 1.md",
     "Obsidian Vault/(College)/AI",
     "Obsidian Vault/(College)/Untitled.md",
     "Obsidian Vault/! DSA/1 Arrays/! Striver 79.md",
@@ -213,7 +214,6 @@
     "Obsidian Vault/Images/Pasted image 20250716222015.png",
     "Obsidian Vault/! DSA/! Patterns",
     "Obsidian Vault/Images/Pasted image 20250716192847.png",
-    "Obsidian Vault/Images/Pasted image 20250716005011.png",
     "Obsidian Vault/! DSA/9. Binary Search Tree"
   ]
 }
