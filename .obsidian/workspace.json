@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5b3eb67f63af0fba",
+        "id": "bd6fad136503c050",
         "type": "tabs",
         "children": [
           {
-            "id": "47da42fb65718a08",
+            "id": "b5f67f8b12514166",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/! DSA/5. Binary Search/2. Medium/! Search a 2D Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "! Search a 2D Matrix"
             }
           }
         ]
@@ -163,7 +167,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "47da42fb65718a08",
+  "active": "b5f67f8b12514166",
   "lastOpenFiles": [
     "Obsidian Vault/! DSA/1 Arrays/! Striver 79.md",
     "Obsidian Vault/! DSA/1 Arrays/3. Hard/Number of subarrays with XOR as K.md",
