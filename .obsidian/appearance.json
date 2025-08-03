@@ -5,5 +5,6 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Rubik,Inter",
   "monospaceFontFamily": "Andale Mono",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 14
 }
