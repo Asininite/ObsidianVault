@@ -15,7 +15,7 @@
               "state": {
                 "file": "Obsidian Vault/! React/4. createRoot.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "4. createRoot"
@@ -169,9 +169,9 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
-    "Obsidian Vault/! React/5. Rules of JSX.md",
-    "Obsidian Vault/! React/4. createRoot.md",
     "Obsidian Vault/! React/3. Imperative vs Declarative.md",
+    "Obsidian Vault/! React/4. createRoot.md",
+    "Obsidian Vault/! React/5. Rules of JSX.md",
     "Obsidian Vault/! React/2. Updating the UI using JavaScript.md",
     "Pasted image 20250803161810.png",
     "Obsidian Vault/! React/1. Starting Out and DOM.md",
