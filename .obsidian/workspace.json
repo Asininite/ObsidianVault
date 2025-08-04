@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! next.js & React/11. Using next.js.md",
+                "file": "Obsidian Vault/Final Project/Seminar Stuff/1. Cryptographic Accumulator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Using next.js"
+              "title": "1. Cryptographic Accumulator"
             }
           }
         ]
@@ -169,8 +169,10 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
-    "Obsidian Vault/! next.js & React/10. React to nextjs.md",
     "Obsidian Vault/! next.js & React/11. Using next.js.md",
+    "Obsidian Vault/Final Project/Seminar Stuff/1. Cryptographic Accumulator.md",
+    "Obsidian Vault/Final Project/Seminar Stuff",
+    "Obsidian Vault/! next.js & React/10. React to nextjs.md",
     "Obsidian Vault/! next.js & React/9. Adding Interactivity With State.md",
     "Pasted image 20250804173551.png",
     "Obsidian Vault/! next.js & React/8. Displaying Data With Props.md",
@@ -206,14 +208,12 @@
     "Obsidian Vault/! DSA/5. Binary Search/2. Medium/12. Book Allocation Problem.md",
     "Obsidian Vault/! DSA/1 Arrays/@ Revise/1. Moore's Voting Algorithm.md",
     "Obsidian Vault/! DSA/2 Hashing/Longest Consecutive Sequence in an Array.md",
-    "Obsidian Vault/! DSA/! C++/STL/2. Accumulate and min_element max_element.md",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
     "Obsidian Vault/! DSA/1 Arrays/! Striver 79",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/Untitled",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard",
-    "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79",
-    "Obsidian Vault/! DSA/! Patterns"
+    "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79"
   ]
 }
