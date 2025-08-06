@@ -11,16 +11,14 @@
             "id": "b5f67f8b12514166",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "! My Stuff/Ashwin Suresh - Resume.pdf",
-                "page": 1,
-                "left": -12,
-                "top": 846,
-                "zoom": 1.209433581939125
+                "file": "Obsidian Vault/! next.js & React/15. Optimizing fonts and images.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ashwin Suresh - Resume"
+              "icon": "lucide-file",
+              "title": "15. Optimizing fonts and images"
             }
           }
         ]
@@ -171,6 +169,8 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Obsidian Vault/! next.js & React/16..md",
+    "! My Stuff/Ashwin Suresh - Resume.pdf",
     "Obsidian Vault/Final Project/Literature Review/Evading DeepFake Detectors via Adversarial Statistical Consistency.md",
     "Obsidian Vault/Final Project/Untitled.md",
     "Obsidian Vault/Final Project/Literature Review",
@@ -204,14 +204,11 @@
     "Pasted image 20250803175413.png",
     "Obsidian Vault/! next.js & React/3. Imperative vs Declarative.md",
     "Obsidian Vault/! next.js & React/1. Starting Out and DOM.md",
-    "Obsidian Vault/! next.js & React/2. Updating the UI using JavaScript.md",
-    "Obsidian Vault/! DSA/11. Graphs/! Revise/3. ALL TRAVERSALS.md",
     "Obsidian Vault/Images/Pasted image 20250803161810.png",
     "Obsidian Vault/Images/Pasted image 20250803154357.png",
     "Obsidian Vault/Images/Pasted image 20250803154353.png",
     "Obsidian Vault/Images/Pasted image 20250802003659.png",
     "Obsidian Vault/(College)/AI",
-    "! My Stuff/Ashwin Suresh - Resume.pdf",
     "Obsidian Vault/! DSA/1 Arrays/! Striver 79",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/Untitled",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking",
