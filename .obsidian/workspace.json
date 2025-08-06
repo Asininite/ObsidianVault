@@ -11,14 +11,16 @@
             "id": "b5f67f8b12514166",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Obsidian Vault/Final Project/Literature Review/Evading DeepFake Detectors via Adversarial Statistical Consistency.md",
-                "mode": "source",
-                "source": false
+                "file": "! My Stuff/Ashwin Suresh - Resume.pdf",
+                "page": 1,
+                "left": -12,
+                "top": 846,
+                "zoom": 1.209433581939125
               },
-              "icon": "lucide-file",
-              "title": "Evading DeepFake Detectors via Adversarial Statistical Consistency"
+              "icon": "lucide-file-text",
+              "title": "Ashwin Suresh - Resume"
             }
           }
         ]
@@ -169,8 +171,8 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
-    "Obsidian Vault/Final Project/Untitled.md",
     "Obsidian Vault/Final Project/Literature Review/Evading DeepFake Detectors via Adversarial Statistical Consistency.md",
+    "Obsidian Vault/Final Project/Untitled.md",
     "Obsidian Vault/Final Project/Literature Review",
     "Obsidian Vault/! DSA/7. Binary Trees/2. Medium/4. ! Find the DIAMETER of the binary tree.md",
     "Obsidian Vault/! next.js & React/15. Optimizing fonts and images.md",

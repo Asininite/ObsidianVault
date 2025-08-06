@@ -1,0 +1,3 @@
+- DeepFake detection methods typically work by identifying statistical differences between natural (real) and DeepFake-generated images in both spatial and frequency domains. The authors' goal is to exploit this by proposing an attack that explicitly minimizes these statistical differences, making it difficult for detectors to distinguish between real and fake images.
+
+- traditional adversarial attacks fool a specific detector but fail due to variations in network architectures and training methods.
