@@ -1,4 +1,3 @@
-## Important String Questions
 
 **Parenthesis problem:-**
 1.[https://leetcode.com/problems/generate-parentheses](https://leetcode.com/problems/generate-parentheses)  
