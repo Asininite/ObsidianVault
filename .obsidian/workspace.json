@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/1. Introduction.md",
+                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/1. Pow(x, n).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "1. Pow(x, n)"
             }
           }
         ]
@@ -167,11 +167,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/13. Dynamic Programming/1. Introduction.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/1. Pow(x, n).md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy",
     "Obsidian Vault/! DSA/10. Heaps",
     "Obsidian Vault/! DSA/!! Important/! Strings/Important String Questions.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1. Introduction.md",
     "Obsidian Vault/! DSA/12. Dynamic Programming/n-th number Fibonacci Sequence.md",
     "Obsidian Vault/! DSA/!! Important/Untitled.md",
     "Obsidian Vault/! DSA/!! Important/! Strings",
@@ -212,8 +214,6 @@
     "Obsidian Vault/Images/Pasted image 20250803161810.png",
     "Obsidian Vault/(College)/AI",
     "Obsidian Vault/! DSA/1 Arrays/! Striver 79",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/Untitled",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium"
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking"
   ]
 }
