@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Database Design/1. Data Integrity.md",
+                "file": "Obsidian Vault/Database Design/2. Database Terms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Data Integrity"
+              "title": "2. Database Terms"
             }
           }
         ]
@@ -170,6 +170,7 @@
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
     "Obsidian Vault/Database Design/1. Data Integrity.md",
+    "Obsidian Vault/Database Design/2. Database Terms.md",
     "Obsidian Vault/Database Design",
     "Obsidian Vault/! JavaScript/2..md",
     "Obsidian Vault/! JavaScript/1. Introduction.md",
@@ -203,7 +204,6 @@
     "Obsidian Vault/Placement/Operating Systems or COA/Phases of Compiler.md",
     "Obsidian Vault/Placement/Operating Systems or COA/MBR.md",
     "Obsidian Vault/Placement/Operating Systems or COA/Linker.md",
-    "Obsidian Vault/Placement/Operating Systems or COA/Macro.md",
     "Obsidian Vault/Placement/System Analysis and Design",
     "Obsidian Vault/Images/Pasted image 20250806203353.png",
     "Obsidian Vault/Images/Pasted image 20250806155716.png",
