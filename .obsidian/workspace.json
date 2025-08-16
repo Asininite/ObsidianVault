@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd6fad136503c050",
+        "id": "8e16fa96869ff49d",
         "type": "tabs",
         "children": [
           {
-            "id": "b5f67f8b12514166",
+            "id": "19da6addde94afe2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/3. Generate All Parantheses.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. Generate All Parantheses"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Computer_Networks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 377.5
   },
   "right": {
     "id": "2285ec033214da64",
@@ -167,53 +163,53 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b5f67f8b12514166",
+  "active": "19da6addde94afe2",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/1. Pow(x, n).md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/3. Generate All Parantheses.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1. Introduction.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy",
-    "Obsidian Vault/! DSA/10. Heaps",
-    "Obsidian Vault/! DSA/!! Important/! Strings/Important String Questions.md",
-    "Obsidian Vault/! DSA/12. Dynamic Programming/n-th number Fibonacci Sequence.md",
-    "Obsidian Vault/! DSA/!! Important/Untitled.md",
-    "Obsidian Vault/! DSA/!! Important/! Strings",
-    "! My Stuff/Quick Notes.md",
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/12. ! Maximum Product Subarray.md",
-    "Obsidian Vault/! DSA/1 Arrays/! Striver 79.md",
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/4. ! Kadane's Algorithm.md",
-    "Obsidian Vault/! DSA/!! Important/2. Kadane's Algorithm.md",
-    "Obsidian Vault/! DSA/11. Two Pointers/3Sum.md",
-    "Obsidian Vault/! DSA/5. Binary Search/! Striver 79.md",
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/7. ! Next Permutation.md",
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/6. ALL PERMUTATIONS OF STRING.md",
-    "Obsidian Vault/! next.js & React/22. Streaming.md",
-    "Untitled.md",
-    "Obsidian Vault/! next.js & React/21. Static and Dynamic Rendering.md",
+    "Obsidian Vault/Spring Boot/1. Hello World....md",
+    "Obsidian Vault/Spring Boot",
+    "Obsidian Vault/Progress Software/xUnit/1. Starting Out.md",
+    "Obsidian Vault/Progress Software/xUnit",
+    "Obsidian Vault/Progress Software",
+    "Obsidian Vault/Placement/System Analysis and Design/Phased Conversion.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Thrashing.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Terminal Table.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/System Generation.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Storage-To-Storage Instructions.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Re-enterable.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Phases of Compiler.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/MBR.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Linker.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Macro.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/LRU.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Locality of Reference.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Lexical Analysis.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Interrupt Service Routine.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Dynamic Address Translation.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Disk Scheduling Algorithms.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Default Values.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Decision Tables.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Bankers Algorithm.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/Addressing Structures.md",
+    "Obsidian Vault/Placement/Operating Systems or COA/! Pointer.md",
+    "Obsidian Vault/Placement/Operating Systems/Storage Compaction.md",
+    "Obsidian Vault/Placement/Operating Systems/Nassi-Shneiderman Diagram.md",
+    "Obsidian Vault/Placement/Operating Systems/Loader.md",
+    "Obsidian Vault/Placement/System Analysis and Design",
+    "Obsidian Vault/Placement/Operating Systems or COA",
+    "Obsidian Vault/Placement/Operating Systems",
+    "Obsidian Vault/Placement/Java",
+    "Obsidian Vault/Placement/DS 1",
+    "Obsidian Vault/Placement/! Data Structures",
+    "Obsidian Vault/Placement",
     "Obsidian Vault/Images/Pasted image 20250806203353.png",
-    "Obsidian Vault/! next.js & React/19. Route Handlers.md",
-    "Obsidian Vault/! next.js & React/18. Navigating Between Pages.md",
     "Obsidian Vault/Images/Pasted image 20250806155716.png",
-    "Obsidian Vault/! next.js & React/17. Creating Layouts and Pages.md",
     "Obsidian Vault/Images/Pasted image 20250806155438.png",
-    "Obsidian Vault/! next.js & React/0. Props.md",
-    "Obsidian Vault/! next.js & React/! 16. Tailwind CSS Utility Classes.md",
-    "Obsidian Vault/! next.js & React/15. Optimizing fonts and images.md",
-    "! My Stuff/Ashwin Suresh - Resume.pdf",
-    "Obsidian Vault/Final Project/Literature Review/Evading DeepFake Detectors via Adversarial Statistical Consistency.md",
-    "Obsidian Vault/Final Project/Untitled.md",
-    "Obsidian Vault/Final Project/Literature Review",
     "Obsidian Vault/Images/Pasted image 20250805191837.png",
     "Obsidian Vault/Images/Pasted image 20250805184534.png",
-    "Obsidian Vault/Final Project/Seminar Stuff",
     "Obsidian Vault/Images/Pasted image 20250804173551.png",
     "Obsidian Vault/Images/Pasted image 20250803231207.png",
-    "Obsidian Vault/! React/Untitled",
     "Obsidian Vault/Images/Pasted image 20250803230832.png",
     "Obsidian Vault/Images/Pasted image 20250803175413.png",
-    "Obsidian Vault/Images/Pasted image 20250803161810.png",
-    "Obsidian Vault/(College)/AI",
-    "Obsidian Vault/! DSA/1 Arrays/! Striver 79",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking"
+    "Obsidian Vault/Images/Pasted image 20250803161810.png"
   ]
 }
