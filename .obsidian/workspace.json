@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/3. Combination Sum I.md",
+                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/4. Combination Sum II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Combination Sum I"
+              "title": "4. Combination Sum II"
             }
           }
         ]
@@ -169,8 +169,8 @@
   },
   "active": "19da6addde94afe2",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/4. Combination Sum II.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/3. Combination Sum I.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/4. Combination Sum II.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/3. Count all subsequences with sum K.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/2. Check if there exists a subsequence with sum K.md",
     "Obsidian Vault/Database Design/4. Relationships.md",
