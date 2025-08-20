@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/(College)/AI/Module 1/! 3. History of AI.md",
+                "file": "Obsidian Vault/(College)/AI/Module 1/4. Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! 3. History of AI"
+              "title": "4. Agent"
             }
           }
         ]
@@ -168,10 +168,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "dd1b28331d45c774",
   "lastOpenFiles": [
-    "Obsidian Vault/(College)/AI/Module 1/1. Four Definitions.md",
     "Obsidian Vault/(College)/AI/Module 1/! 3. History of AI.md",
+    "Obsidian Vault/(College)/AI/Module 1/4. Agent.md",
+    "Obsidian Vault/(College)/AI/Module 1/1. Four Definitions.md",
     "Obsidian Vault/(College)/AI/Module 1/0. Turing Test.md",
     "Obsidian Vault/(College)/AI/Module 1/2. PEAS Description.md",
     "Untitled 1.md",
@@ -199,7 +200,6 @@
     "Obsidian Vault/! DSA/@ Java",
     "Obsidian Vault/! DSA/!! Important/@ Sorting Algorithms/Counting Sort.md",
     "Obsidian Vault/! DSA/!! Important/@ Sorting Algorithms/5. Quick Sort.md",
-    "Obsidian Vault/! DSA/!! Important/@ Sorting Algorithms/6. ! Shell Sort.md",
     "Obsidian Vault/! DSA/!! Important/@ Sorting Algorithms",
     "Obsidian Vault/! DSA/!! Important/! Strings",
     "Obsidian Vault/! DSA/!! Important",
