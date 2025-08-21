@@ -12,6 +12,8 @@
 	  function to determine if a state is a goal state
 - Path Cost
 	  function assigning numeric cost to each path
+![[Pasted image 20250821115610.png]]![[Pasted image 20250821115617.png]]
+
 
 ## Toy Problems 
 **examples to illustrate and test problem solving methods**
