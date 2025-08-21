@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/(College)/AI/Module 2/! State Space Representation.md",
+                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/3. Palindrome Partitioning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! State Space Representation"
+              "title": "3. Palindrome Partitioning"
             }
           }
         ]
@@ -170,12 +170,17 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/1. N Queens.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/3. Palindrome Partitioning.md",
+    "Obsidian Vault/(College)/AI/Module 1/! 3. History of AI.md",
+    "Obsidian Vault/(College)/AI/Module 1/! 2. PEAS Description.md",
+    "Obsidian Vault/(College)/AI/Module 1/! 0.1 Applications of AI.md",
+    "Obsidian Vault/(College)/AI/Module 2/! State Space Representation.md",
     "Obsidian Vault/(College)/AI/Module 2/! Search Strategies.md",
     "Pasted image 20250802003659.png",
     "Pasted image 20250802003657.png",
     "Pasted image 20250802003655.png",
     "Pasted image 20250802003651.png",
-    "Obsidian Vault/(College)/AI/Module 2/! State Space Representation.md",
     "Pasted image 20250821120106.png",
     "Pasted image 20250821115617.png",
     "Pasted image 20250821115610.png",
@@ -184,13 +189,10 @@
     "Obsidian Vault/(College)/AI/Module 2",
     "Obsidian Vault/(College)/AI/Module 1/1. Four Definitions.md",
     "Obsidian Vault/(College)/AI/Module 1/6. Structure of Agents.md",
-    "Obsidian Vault/(College)/AI/Module 1/! 2. PEAS Description.md",
     "Obsidian Vault/(College)/AI/Module 1/4. Agent.md",
-    "Obsidian Vault/(College)/AI/Module 1/! 0.1 Applications of AI.md",
     "Pasted image 20250820203652.png",
     "Pasted image 20250820201642.png",
     "Pasted image 20250820200849.png",
-    "Obsidian Vault/(College)/AI/Module 1/! 3. History of AI.md",
     "Obsidian Vault/(College)/AI/Module 1/0. Turing Test.md",
     "Untitled 1.md",
     "Obsidian Vault/(College)/AI/Module 1",
@@ -206,7 +208,6 @@
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/2. Check if there exists a subsequence with sum K.md",
     "Obsidian Vault/Database Design/4. Relationships.md",
     "Untitled.md",
-    "Obsidian Vault/Database Design/3. Atomic Values.md",
     "Obsidian Vault/Database Design",
     "Obsidian Vault/! JavaScript",
     "Obsidian Vault/! DSA/@ Java",
