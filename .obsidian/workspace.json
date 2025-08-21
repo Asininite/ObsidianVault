@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/4. Word Search.md",
+                "file": "Obsidian Vault/! DSA/1 Arrays/1. Easy/Check if Anagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Word Search"
+              "title": "Check if Anagram"
             }
           }
         ]
@@ -170,8 +170,10 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/3. Palindrome Partitioning.md",
+    "Obsidian Vault/! DSA/1 Arrays/1. Easy/Group Anagrams.md",
+    "Obsidian Vault/! DSA/1 Arrays/1. Easy/1. Largest Element in Array.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/4. Word Search.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/3. Palindrome Partitioning.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/1. N Queens.md",
     "Obsidian Vault/(College)/AI/Module 1/! 3. History of AI.md",
     "Obsidian Vault/(College)/AI/Module 1/! 2. PEAS Description.md",
@@ -206,8 +208,6 @@
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/4. Combination Sum II.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/3. Combination Sum I.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/3. Count all subsequences with sum K.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/2. Check if there exists a subsequence with sum K.md",
-    "Obsidian Vault/Database Design/4. Relationships.md",
     "Obsidian Vault/Database Design",
     "Obsidian Vault/! JavaScript",
     "Obsidian Vault/! DSA/@ Java",
