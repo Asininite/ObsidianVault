@@ -17,3 +17,7 @@
 
 ## Toy Problems 
 **examples to illustrate and test problem solving methods**
+
+### Vacuum Problem
+![[Pasted image 20250821120106.png]]
+
