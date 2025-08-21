@@ -11,16 +11,14 @@
             "id": "dd1b28331d45c774",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "! My Stuff/Ashwin Suresh - Resume.pdf",
-                "page": 1,
-                "left": -12,
-                "top": 651,
-                "zoom": 1.3543136464422496
+                "file": "Obsidian Vault/! DSA/1 Arrays/2. Medium/5. ! 3 Sum.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ashwin Suresh - Resume"
+              "icon": "lucide-file",
+              "title": "5. ! 3 Sum"
             }
           }
         ]
@@ -172,6 +170,7 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "! My Stuff/Ashwin Suresh - Resume.pdf",
     "! My Stuff/Ashwin Suresh - Resume.docx",
     "! My Stuff/~$hwin Suresh - Resume.pdf",
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/6. ALL PERMUTATIONS OF STRING.md",
@@ -216,7 +215,6 @@
     "Obsidian Vault/! DSA/@ Java",
     "Obsidian Vault/! DSA/!! Important/@ Sorting Algorithms",
     "Obsidian Vault/! DSA/!! Important/! Strings",
-    "Obsidian Vault/! DSA/!! Important",
-    "Obsidian Vault/Spring Boot"
+    "Obsidian Vault/! DSA/!! Important"
   ]
 }
