@@ -83,3 +83,29 @@ DFS is a recursive algorithm that explores each path to its greatest depth befor
 - **Time Complexity:**
     - Depth-first graph search is bounded by the size of the state space.
     - Depth-first tree search can generate all **O(b^m)** nodes in the worst case, where `m` is the maximum depth. This can be significantly larger than the actual number of states and can be infinite if the tree is unbounded.
+
+Uninformed Search Strategies 🤖
+Uninformed search strategies, also known as blind search, are algorithms that explore a problem's state space without using any domain-specific knowledge about the location of the goal. They rely only on the information provided in the problem definition, such as the initial state, available actions, and goal test.
+Breadth-First Search (BFS)
+For a 3-Mark Question:
+BFS is a complete and optimal search algorithm that explores a state space level by level. It starts at the root node and expands all nodes at the current depth before moving to the next level. It uses a FIFO (First-In, First-Out) queue to manage the order of node expansion. This guarantees that the shallowest goal node is found first, which is optimal for unweighted graphs. However, a major drawback is its high memory consumption, as it has to store all nodes at the current level to generate the next one.
+For a 5-Mark Question:
+Concept & Mechanism
+Breadth-First Search is a fundamental uninformed search algorithm used for traversing or searching tree or graph data structures. It begins at the root node and systematically expands all of its immediate successors before moving on to the next level of nodes. This is achieved by using a FIFO queue to store the nodes to be visited. New nodes are added to the back of the queue, and the search always expands the oldest, and therefore shallowest, node first.
+Performance Analysis
+ * Completeness: BFS is complete because if a solution exists at a finite depth d, it is guaranteed to find it. This is because it explores all nodes at depth d before expanding any at d+1.
+ * Optimality: BFS is optimal when all action costs are identical. It finds the solution with the fewest steps, which in this case is the cheapest solution.
+ * Time Complexity: The worst-case time complexity is O(b^d), where b is the branching factor and d is the depth of the shallowest goal. In the worst case, the algorithm must expand every node at the goal's depth before finding it.
+ * Space Complexity: The space complexity is also O(b^d) because BFS must store every generated node in memory. This is its most significant drawback, as memory usage can be exponential.
+Depth-First Search (DFS)
+For a 3-Mark Question:
+DFS is a recursive, memory-efficient search algorithm that explores as deeply as possible down a single path before backtracking. It is implemented using a stack. DFS is not optimal as it may find a solution that is not the shortest. It is also not guaranteed to be complete in infinite search spaces with non-goal paths. However, its main advantage is its low memory usage, as it only needs to store the nodes on the current path from the root.
+For a 5-Mark Question:
+Concept & Mechanism
+Depth-First Search is a recursive algorithm that uses the concept of backtracking. Starting from the root, it follows a single path to its greatest possible depth. If it reaches a leaf node or a dead end without finding the goal, it "backtracks" to the most recent unexpanded node and explores another path. This behavior can be efficiently implemented using a stack or a recursive function call.
+Performance Analysis
+ * Completeness: The tree-search version of DFS is incomplete because it can get trapped in an infinite loop if the search space contains a long, non-goal path. The graph-search version is complete in finite state spaces because it keeps track of visited nodes to avoid repeating states.
+ * Optimality: DFS is not optimal. It may find a solution on a deep, non-optimal path even if a shallower, optimal solution exists elsewhere in the tree.
+ * Time Complexity: The worst-case time complexity is O(b^m), where m is the maximum depth of any node in the state space. This can be much larger than d (the depth of the shallowest solution).
+ * Space Complexity: The space complexity is remarkably low, at just O(bm). It only needs to store the nodes on the single path from the root to the current node, making it highly memory-efficient compared to BFS.
+ * 
