@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/(College)/AI/Module 2/! Search Strategies.md",
+                "file": "Obsidian Vault/(College)/AI/Module 2/! State Space Representation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! Search Strategies"
+              "title": "! State Space Representation"
             }
           }
         ]
@@ -170,12 +170,12 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/(College)/AI/Module 2/! Search Strategies.md",
     "Pasted image 20250802003659.png",
     "Pasted image 20250802003657.png",
     "Pasted image 20250802003655.png",
     "Pasted image 20250802003651.png",
     "Obsidian Vault/(College)/AI/Module 2/! State Space Representation.md",
-    "Obsidian Vault/(College)/AI/Module 2/! Search Strategies.md",
     "Pasted image 20250821120106.png",
     "Pasted image 20250821115617.png",
     "Pasted image 20250821115610.png",
@@ -214,7 +214,6 @@
     "Obsidian Vault/! DSA/!! Important/! Strings",
     "Obsidian Vault/! DSA/!! Important",
     "Obsidian Vault/Spring Boot",
-    "Obsidian Vault/Progress Software/xUnit",
-    "Obsidian Vault/Images/Pasted image 20250806203353.png"
+    "Obsidian Vault/Progress Software/xUnit"
   ]
 }
