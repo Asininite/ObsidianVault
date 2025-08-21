@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/(College)/AI/Module 2/! State Space Representation.md",
+                "file": "Obsidian Vault/(College)/AI/Module 2/! Search Strategies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! State Space Representation"
+              "title": "! Search Strategies"
             }
           }
         ]
@@ -170,11 +170,12 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/(College)/AI/Module 2/! State Space Representation.md",
+    "Obsidian Vault/(College)/AI/Module 2/! Search Strategies.md",
     "Pasted image 20250821120106.png",
     "Pasted image 20250821115617.png",
     "Pasted image 20250821115610.png",
     "Obsidian Vault/(College)/AI/Quick Module 1.md",
-    "Obsidian Vault/(College)/AI/Module 2/! State Space Representation.md",
     "Obsidian Vault/(College)/AI/Module 1/! 5. Task Environments.md",
     "Obsidian Vault/(College)/AI/Module 2",
     "Obsidian Vault/(College)/AI/Module 1/1. Four Definitions.md",
@@ -214,7 +215,6 @@
     "Obsidian Vault/Images/Pasted image 20250806203353.png",
     "Obsidian Vault/Images/Pasted image 20250806155716.png",
     "Obsidian Vault/Images/Pasted image 20250806155438.png",
-    "Obsidian Vault/Images/Pasted image 20250805191837.png",
-    "Obsidian Vault/Images/Pasted image 20250805184534.png"
+    "Obsidian Vault/Images/Pasted image 20250805191837.png"
   ]
 }
