@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Thieves Library.md",
+                "file": "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79/1. Next Greater Element.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thieves Library"
+              "title": "1. Next Greater Element"
             }
           }
         ]
@@ -168,11 +168,23 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/8. Stack and Queues/LRU CACHE.md",
+    "Obsidian Vault/! DSA/5.1 Sliding Window/Longest substring without repeating characters.md",
+    "Obsidian Vault/! DSA/2 Hashing/Hard/2..md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/3. Palindrome Partitioning.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/11. Find Peak Element.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/9. Koko Eating Bananas.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/6. Find Square Root.md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/3. ! Search in Rotated Sorted Array (with duplicates).md",
+    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/2. Find Minimum in Rotated Search Array.md",
+    "Obsidian Vault/! DSA/@ Java/0. Basics.md",
+    "Obsidian Vault/! DSA/@ C++/STL/Containers/2. Vector.md",
+    "Obsidian Vault/! DSA/3. Bit Manipulation/! Theory.md",
+    "Obsidian Vault/Thieves Library.md",
     "Obsidian Vault/Images/Pasted image 20250828195323.png",
     "Obsidian Vault/(College)/Renewable Energy Systems/1.1 Energy.md",
-    "Obsidian Vault/Thieves Library.md",
     "Obsidian Vault/(College)/Renewable Energy Systems/1.2 OTEC.md",
     "Obsidian Vault/(College)/Renewable Energy Systems/1.1 Intro to Energy.md",
     "Obsidian Vault/(College)/Renewable Energy Systems",
@@ -191,17 +203,6 @@
     "Obsidian Vault/! DSA/5. Binary Search/3. Hard/1. Aggressive Cows.md",
     "Obsidian Vault/! DSA/5. Binary Search/1. Easy/2. Find Lower Bound in an Array.md",
     "Obsidian Vault/! DSA/5. Binary Search/1. Easy/1. Find Element in Sorted Array.md",
-    "Obsidian Vault/! DSA/5.1 Sliding Window/Longest substring without repeating characters.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/1. Generate Power Set.md",
-    "Obsidian Vault/! DSA/1 Arrays/2. Medium/2. Sort an array of 0s 1s and 2s without sort.md",
-    "Obsidian Vault/! DSA/1 Arrays/3. Hard/Number of subarrays with XOR as K.md",
-    "Obsidian Vault/! DSA/1 Arrays/1. Easy/10. Intersection of Two Sorted Arrays.md",
-    "Obsidian Vault/! DSA/1 Arrays/1. Easy/Check if Anagram.md",
-    "Obsidian Vault/! DSA/1 Arrays/1. Easy/Group Anagrams.md",
-    "Obsidian Vault/! DSA/1 Arrays/1. Easy/1. Largest Element in Array.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/4. Word Search.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/3. Palindrome Partitioning.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/1. N Queens.md",
     "Obsidian Vault/Images/Pasted image 20250802003659 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003657 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003655 1.png",
@@ -212,7 +213,6 @@
     "Obsidian Vault/(College)/AI/Module 2",
     "Obsidian Vault/Images/Pasted image 20250820203652.png",
     "Obsidian Vault/Images/Pasted image 20250820201642.png",
-    "Obsidian Vault/Images/Pasted image 20250820200849.png",
     "Obsidian Vault/(College)/AI/Module 1",
     "Obsidian Vault/Database Design",
     "Obsidian Vault/! JavaScript"
