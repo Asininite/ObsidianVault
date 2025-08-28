@@ -11,7 +11,8 @@
 - community hub 
 	  users can search for books and contact the owners of said books through a contact button
 - ISBNdb API https://isbndb.com/isbndb-api-documentation-v2
-
+  
+  ![[Pasted image 20250828195323.png]]
 
 ## To be Implemented in Future
 - real-time chat interface with chatrooms (groups)
