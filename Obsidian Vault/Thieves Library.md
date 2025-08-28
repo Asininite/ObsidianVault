@@ -1,6 +1,7 @@
 ## Stack
 - nextjs
 - FastAPI
+- Supabase (PostgreSQL)
   
 
 ## MVP
@@ -9,4 +10,8 @@
 - community hub where users can search for books and contact the owners of said books through a contact button
 	  
 - ISBNdb API https://isbndb.com/isbndb-api-documentation-v2
-- 
+
+
+## To be Implemented in Future
+- real-time chat interface with chatrooms (groups)
+- recommendation system ()
