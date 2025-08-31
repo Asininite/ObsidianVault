@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Thieves Library"
             }
+          },
+          {
+            "id": "1d7e0daa15101f5c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dd1b28331d45c774",
+  "active": "1d7e0daa15101f5c",
   "lastOpenFiles": [
     "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79/1. Next Greater Element.md",
     "Obsidian Vault/! DSA/8. Stack and Queues/LRU CACHE.md",
