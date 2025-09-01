@@ -25,12 +25,14 @@
             "id": "1d7e0daa15101f5c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/5. Rat in a Maze.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "5. Rat in a Maze"
             }
           }
         ],
@@ -183,6 +185,8 @@
   },
   "active": "1d7e0daa15101f5c",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/4. Word Search.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/5. Rat in a Maze.md",
     "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79/1. Next Greater Element.md",
     "Obsidian Vault/! DSA/8. Stack and Queues/LRU CACHE.md",
     "Obsidian Vault/! DSA/5.1 Sliding Window/Longest substring without repeating characters.md",
@@ -214,8 +218,6 @@
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/6. ALL PERMUTATIONS OF STRING.md",
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/4. ! Kadane's Algorithm.md",
     "Obsidian Vault/! DSA/1 Arrays/2. Medium/1. Find Leaders in an Array.md",
-    "Obsidian Vault/! DSA/5. Binary Search/3. Hard/1. Aggressive Cows.md",
-    "Obsidian Vault/! DSA/5. Binary Search/1. Easy/2. Find Lower Bound in an Array.md",
     "Obsidian Vault/Images/Pasted image 20250802003659 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003657 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003655 1.png",
