@@ -1,0 +1,38 @@
+- Data Structures, DBMS, OOPS, CN
+- implement basic data structures
+- write queries to fetch data from database
+- **implement file system using a tree in the form of a class with all required operations and methods**
+	  - what are different HTTP methods
+	  - SQL Queries based on project
+	  - implement stack and queue with operations
+	  - operations on linked lists and merge two sorted linked lists into single sorted linked list
+	  - simulate file system using tree data structure
+---
+- theory taught in class
+- code up questions based on strings and arrays
+- SQL Queries and OOPS Concepts
+- Popular interview questions
+	  - reverse a number but leave the zeros in place
+	  - what happens when we enter URL into web browser
+	  - design database schema for e-commerce app
+	  - largest subarray with 0 sum
+	  - count number of leaf nodes at particular level in binary tree
+	  - level order traversal on a tree
+	  - implement stack using queue
+	  - implement queue using stack
+	  - given two intersecting linked lists, find the intersecting point
+
+---
+- query to find user owning maximum number of games in database of online game store
+- find if cycle exists in linked list and where it begins
+- level order traversal of binary tree but at each level reverse the order of traversal
+
+---
+- DBMS Concepts, queries, relations and designing databases. **BE THOROUGH WITH RESUME**
+- numbers represented as linked lists, find the sum
+- given array, find indices of two numbers that add up to target
+- second largest element in binary search tree
+
+---
+- ACID property of DBMS
+- Deadlock and Page Replacement
