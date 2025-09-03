@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/4. Maximum Sum of Non-Adjacent Elements.md",
+                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/5. House Robber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Maximum Sum of Non-Adjacent Elements"
+              "title": "5. House Robber"
             }
           }
         ]
@@ -168,11 +168,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/4. Maximum Sum of Non-Adjacent Elements.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/5. House Robber.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/! Revise",
     "Obsidian Vault/! DSA/Key-Value Systems.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/4. Maximum Sum of Non-Adjacent Elements.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/3. Frog Jump with K Distances.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/2. Frog Jump.md",
     "! My Stuff/~WRL0002.tmp",
@@ -206,7 +207,6 @@
     "Obsidian Vault/! DSA/@ Java/0. Basics.md",
     "Obsidian Vault/Images/Pasted image 20250828195323.png",
     "Obsidian Vault/(College)/Renewable Energy Systems",
-    "Obsidian Vault/(College)/Web Programming",
     "Obsidian Vault/Images/Pasted image 20250802003659 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003657 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003655 1.png",
