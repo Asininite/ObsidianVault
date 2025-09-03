@@ -1,5 +1,6 @@
 [
   "pdf-plus",
   "shiki-highlighter",
-  "obsidian-git"
+  "obsidian-git",
+  "ace-code-editor"
 ]
