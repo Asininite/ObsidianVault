@@ -11,12 +11,14 @@
             "id": "dd1b28331d45c774",
             "type": "leaf",
             "state": {
-              "type": "ace-code-editor",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/2. Radiation_Balls.cpp"
+                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/1. Introduction.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "code-xml",
-              "title": "2. Radiation_Balls"
+              "icon": "lucide-file",
+              "title": "1. Introduction"
             }
           }
         ]
@@ -167,10 +169,12 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "dd1b28331d45c774",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1. Introduction.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/2D DP",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction",
     "Obsidian Vault/! DSA/13. Dynamic Programming/2. Radiation_Balls.cpp",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/1. Introduction.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/2. Frog Jump.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/5. House Robber.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/4. Maximum sum of non-adjacent elements.md",
@@ -182,7 +186,7 @@
     "! My Stuff/msoB5A2.tmp",
     "! My Stuff/~$hwin Suresh - Resume _ word.docx",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/1. Climbing Stairs.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/! 0. Shortcut.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
     "Untitled.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP",
     "Obsidian Vault/! DSA/@ TUF/LLD/1. Introduction.md",
@@ -204,7 +208,6 @@
     "Obsidian Vault/! DSA/5. Binary Search/2. Medium/2. Find Minimum in Rotated Search Array.md",
     "Obsidian Vault/! DSA/@ Java/0. Basics.md",
     "Obsidian Vault/Images/Pasted image 20250828195323.png",
-    "Obsidian Vault/(College)/Renewable Energy Systems",
     "Obsidian Vault/Images/Pasted image 20250802003659 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003657 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003655 1.png",
