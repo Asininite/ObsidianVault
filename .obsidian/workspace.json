@@ -11,14 +11,12 @@
             "id": "dd1b28331d45c774",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "ace-code-editor",
               "state": {
-                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/2. Frog Jump.md",
-                "mode": "preview",
-                "source": false
+                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/2. Radiation_Balls.cpp"
               },
-              "icon": "lucide-file",
-              "title": "2. Frog Jump"
+              "icon": "code-xml",
+              "title": "2. Radiation_Balls"
             }
           }
         ]
@@ -171,10 +169,12 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/13. Dynamic Programming/1. Introduction.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/2. Radiation_Balls.cpp",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/2. Frog Jump.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/5. House Robber.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/4. Maximum sum of non-adjacent elements.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/3. Frog Jump With K.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/2. Frog Jump.md",
     "! My Stuff/~WRL0002.tmp",
     "! My Stuff/~WRD0001.tmp",
     "! My Stuff/~WRD0000.tmp",
@@ -184,7 +184,6 @@
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/1. Climbing Stairs.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/! 0. Shortcut.md",
     "Untitled.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1. Introduction.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP",
     "Obsidian Vault/! DSA/@ TUF/LLD/1. Introduction.md",
     "Obsidian Vault/Thieves Library.md",
@@ -204,10 +203,8 @@
     "Obsidian Vault/! DSA/5. Binary Search/2. Medium/3. ! Search in Rotated Sorted Array (with duplicates).md",
     "Obsidian Vault/! DSA/5. Binary Search/2. Medium/2. Find Minimum in Rotated Search Array.md",
     "Obsidian Vault/! DSA/@ Java/0. Basics.md",
-    "Obsidian Vault/! DSA/@ C++/STL/Containers/2. Vector.md",
     "Obsidian Vault/Images/Pasted image 20250828195323.png",
     "Obsidian Vault/(College)/Renewable Energy Systems",
-    "Obsidian Vault/(College)/Web Programming",
     "Obsidian Vault/Images/Pasted image 20250802003659 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003657 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003655 1.png",
