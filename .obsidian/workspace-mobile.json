@@ -157,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "ace-code-editor:Open CSS snippet manager": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -170,7 +171,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fcff251a9473d181",
+  "active": "f7d23ea1ef129056",
   "lastOpenFiles": [
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/2. Frog Jump.md",
     "Obsidian Vault/(College)/Web Programming/0. Questions.md",
