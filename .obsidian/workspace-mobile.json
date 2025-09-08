@@ -12,29 +12,25 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/3. Generate All Parantheses.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "3. Generate All Parantheses"
+              "title": "New tab"
             }
           },
           {
-            "id": "fcff251a9473d181",
+            "id": "205126ed71132d8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/1. Climbing Stairs.md",
+                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP/1. Ninjas Training.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Climbing Stairs"
+              "title": "1. Ninjas Training"
             }
           }
         ],
@@ -113,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/(College)/Web Programming/0. Questions.md",
+            "file": "Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP/1. Ninjas Training.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,8 +167,33 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f7d23ea1ef129056",
+  "active": "205126ed71132d8e",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/1. Introduction.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/1. Climbing Stairs.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids/2. Unique Paths II.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP/1. Ninjas Training.md",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids/2. Unique Paths II.md",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP/1. Ninjas Training.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/2. Frog Jump.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/1. Climbing Stairs.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids/1. Grid Unique Paths.md",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/2. Frog Jump.md",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/1. Climbing Stairs.md",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids/1. Grid Unique Paths.md",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/1. Introduction.md",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/1D DP",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/2. Frog Jump.md",
     "Obsidian Vault/(College)/Web Programming/0. Questions.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/1. N Queens.md",
@@ -181,34 +202,9 @@
     "/Obsidian Vault/(College)/Web Programming/2. HTTP Request and Response, GET and POST.md",
     "/Obsidian Vault/(College)/Web Programming/1. URL URI URN.md",
     "/Obsidian Vault/(College)/Web Programming/0. Questions.md",
-    "/Obsidian Vault/(College)/Web Programming",
-    "Obsidian Vault/(College)/Web Programming",
-    "/Obsidian Vault/(College)",
-    "/Obsidian Vault",
     "Obsidian Vault/! DSA/6. Linked List/! Double Linked List/Medium/6. Delete Duplicates in sorted DLL.md",
     "Obsidian Vault/! DSA/6. Linked List/! Double Linked List/Medium/5. Delete all occurrences of key in DOUBLE LINKED LIST.md",
     "Obsidian Vault/! DSA/7. Binary Trees/1. Easy/0. PreOrder vs InOrder vs PostOrder.md",
-    "Obsidian Vault/! DSA/7. Binary Trees/0. Introduction to Binary Trees.md",
-    "Obsidian Vault/! DSA/11. Two Pointers/Hard/Trapping Rain Water.md",
-    "Obsidian Vault/! DSA/11. Two Pointers/Hard/2. Merge Two Sorted Arrays In Place.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1. Introduction.md",
-    "Obsidian Vault/! DSA/12. Graphs/3. Hard/2. Word Ladder I.md",
-    "Obsidian Vault/! DSA/12. Graphs/3. Hard/3. Word Ladder II.md",
-    "Obsidian Vault/! DSA/12. Graphs/2. Medium/2. Rotting Oranges.md",
-    "Obsidian Vault/! DSA/7. Binary Trees/1. Easy/2. PreOrder Traversal.md",
-    "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79/2. Next Greater Element II.md",
-    "Obsidian Vault/(College)/AI/Module 1/! 5. Task Environments.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/4. Word Search.md",
-    "/Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/4. Word Search.md",
-    "/Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/3. Palindrome Partitioning.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/3. Palindrome Partitioning.md",
-    "/Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard",
-    "/Obsidian Vault/! DSA/4. Recursion and Backtracking",
-    "/Obsidian Vault/! DSA",
-    "/! My Stuff/Ashwin Suresh - Resume.pdf",
-    "/! My Stuff/Ashwin Suresh - Resume _ word.docx",
-    "! My Stuff/Ashwin Suresh - Resume _ word.docx",
-    "Obsidian Vault/(College)/AI/Module 1/! 3. History of AI.md",
     "Pasted image 20250821120106.png",
     "Pasted image 20250821115617.png",
     "Pasted image 20250821115610.png",
