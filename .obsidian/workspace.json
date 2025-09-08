@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP/1. Ninjas Training.md",
-                "mode": "preview",
+                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids/2. Unique Paths II.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Ninjas Training"
+              "title": "2. Unique Paths II"
             }
           }
         ]
@@ -167,8 +167,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids/1. Grid Unique Paths.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids/2. Unique Paths II.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP/1. Ninjas Training.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids",
     "Obsidian Vault/(College)/AI/Module 2/! State Space Representation.md",
     "Obsidian Vault/(College)/AI/Module 2/! Search Strategies.md",
@@ -208,12 +211,9 @@
     "Obsidian Vault/Images/Pasted image 20250820200849.png",
     "Obsidian Vault/Images/Pasted image 20250802003659 1.png",
     "Obsidian Vault/Images/Pasted image 20250802003657 1.png",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/7. Sudoku Solver.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/6. M Coloring Problem.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP",
     "Obsidian Vault/! DSA/13. Dynamic Programming/2. Radiation_Balls.cpp",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction",
     "Obsidian Vault/Images/Pasted image 20250806203353.png"
   ]
 }
