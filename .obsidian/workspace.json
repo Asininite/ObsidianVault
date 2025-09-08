@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4f80edbf5d0f44",
+        "id": "bd6fad136503c050",
         "type": "tabs",
         "children": [
           {
-            "id": "dd1b28331d45c774",
+            "id": "b5f67f8b12514166",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/2D DP/1. Ninjas Training.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1. Ninjas Training"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Computer_Networks",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 310.5
   },
   "right": {
     "id": "2285ec033214da64",
@@ -155,67 +151,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false,
-      "ace-code-editor:Open CSS snippet manager": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dd1b28331d45c774",
+  "active": "b5f67f8b12514166",
   "lastOpenFiles": [
-    "Obsidian Vault/Thieves Library.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/2D DP/1. Ninjas Training.md",
-    "Untitled.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/1. Introduction.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/2D DP",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/2. Radiation_Balls.cpp",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/2. Frog Jump.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/5. House Robber.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/4. Maximum sum of non-adjacent elements.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/3. Frog Jump With K.md",
-    "! My Stuff/~WRL0002.tmp",
-    "! My Stuff/~WRD0001.tmp",
-    "! My Stuff/~WRD0000.tmp",
-    "! My Stuff/msoB758.tmp",
-    "! My Stuff/msoB5A2.tmp",
-    "! My Stuff/~$hwin Suresh - Resume _ word.docx",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/1. Climbing Stairs.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP",
+    "Obsidian Vault/(College)/AI/Module 2/! State Space Representation.md",
+    "Obsidian Vault/(College)/AI/Module 2/! Search Strategies.md",
+    "Obsidian Vault/(College)/AI/Module 2",
+    "Obsidian Vault/(College)/AI/Module 1/6. Structure of Agents.md",
+    "Obsidian Vault/(College)/AI/Module 1/4. Agent.md",
+    "Obsidian Vault/(College)/AI/Module 1/1. Four Definitions.md",
+    "Obsidian Vault/(College)/AI/Module 1/0. Turing Test.md",
+    "Obsidian Vault/(College)/AI/Module 1/! 5. Task Environments.md",
+    "Obsidian Vault/(College)/AI/Module 1/! 3. History of AI.md",
+    "Obsidian Vault/(College)/AI/Module 1/! 2. PEAS Description.md",
+    "Obsidian Vault/(College)/AI/Module 1/! 0.1 Applications of AI.md",
+    "Obsidian Vault/(College)/AI/Module 1",
     "Obsidian Vault/! DSA/@ TUF/LLD/1. Introduction.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/7. Sudoku Solver.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/6. M Coloring Problem.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/5. Rat in a Maze.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/4. Word Search.md",
-    "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79/1. Next Greater Element.md",
-    "Obsidian Vault/! DSA/8. Stack and Queues/LRU CACHE.md",
-    "Obsidian Vault/! DSA/5.1 Sliding Window/Longest substring without repeating characters.md",
-    "Obsidian Vault/! DSA/2 Hashing/Hard/2..md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/3. Palindrome Partitioning.md",
-    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/11. Find Peak Element.md",
-    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/9. Koko Eating Bananas.md",
-    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/6. Find Square Root.md",
-    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/3. ! Search in Rotated Sorted Array (with duplicates).md",
-    "Obsidian Vault/! DSA/5. Binary Search/2. Medium/2. Find Minimum in Rotated Search Array.md",
-    "Obsidian Vault/! DSA/@ Java/0. Basics.md",
+    "Obsidian Vault/! DSA/@ TUF/LLD",
+    "Obsidian Vault/Database Design/4. Relationships.md",
+    "Obsidian Vault/Database Design/3. Atomic Values.md",
+    "Obsidian Vault/Database Design/2. Database Terms.md",
+    "Obsidian Vault/Database Design/1. Data Integrity.md",
+    "Obsidian Vault/Database Design",
+    "Obsidian Vault/(College)/Web Programming/2. HTTP Request and Response, GET and POST.md",
+    "Obsidian Vault/(College)/Web Programming/1. URL URI URN.md",
+    "Obsidian Vault/(College)/Web Programming/0. Questions.md",
+    "Obsidian Vault/(College)/Web Programming",
+    "Obsidian Vault/(College)/Renewable Energy Systems/1.2 OTEC.md",
+    "Obsidian Vault/(College)/Renewable Energy Systems/1.1 Intro to Energy.md",
+    "Obsidian Vault/(College)/Renewable Energy Systems/1.1 Energy.md",
+    "Obsidian Vault/(College)/Renewable Energy Systems",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/3. Generate All Parantheses.md",
+    "Obsidian Vault/Thieves Library.md",
     "Obsidian Vault/Images/Pasted image 20250828195323.png",
-    "Obsidian Vault/Images/Pasted image 20250802003659 1.png",
-    "Obsidian Vault/Images/Pasted image 20250802003657 1.png",
-    "Obsidian Vault/Images/Pasted image 20250802003655 1.png",
-    "Obsidian Vault/Images/Pasted image 20250802003651 1.png",
     "Obsidian Vault/Images/Pasted image 20250821120106.png",
     "Obsidian Vault/Images/Pasted image 20250821115617.png",
     "Obsidian Vault/Images/Pasted image 20250821115610.png",
     "Obsidian Vault/Images/Pasted image 20250820203652.png",
-    "Obsidian Vault/Images/Pasted image 20250820201642.png"
+    "Obsidian Vault/Images/Pasted image 20250820201642.png",
+    "Obsidian Vault/Images/Pasted image 20250820200849.png",
+    "Obsidian Vault/Images/Pasted image 20250802003659 1.png",
+    "Obsidian Vault/Images/Pasted image 20250802003657 1.png",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/7. Sudoku Solver.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/6. M Coloring Problem.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/3. Hard/5. Rat in a Maze.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/2D DP",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/2. Radiation_Balls.cpp",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction",
+    "Obsidian Vault/Images/Pasted image 20250806203353.png"
   ]
 }
