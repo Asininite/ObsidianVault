@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/3. Count all subsequences with sum K.md",
+                "file": "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/4. Combination Sum II.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Count all subsequences with sum K"
+              "title": "4. Combination Sum II"
             }
           }
         ],
@@ -169,15 +169,22 @@
   },
   "active": "205126ed71132d8e",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/1. Generate Power Set.md",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/3. Combination Sum I.md",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/4. Count Subsets with Sum K.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/4. Count Subsets with Sum K.md",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction",
+    "/Obsidian Vault/! DSA/13. Dynamic Programming",
+    "/Obsidian Vault/! DSA",
+    "/Obsidian Vault",
+    "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/3. Count all subsequences with sum K.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/2. Check if there exists a subsequence with sum K.md",
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/1. Pow(x, n).md",
     "Obsidian Vault/! DSA/6. Linked List/Easy/4. Deleting Element with value X.md",
     "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/3. partition into two subsets.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/3. partition into two subsets.md",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming",
-    "/Obsidian Vault/! DSA",
-    "/Obsidian Vault",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/1. Subset Sum Equals Target.md",
     "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/1. Subset Sum Equals Target.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/2. Partition Equal Subset Sum.md",
@@ -196,15 +203,8 @@
     "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1D DP/1. Climbing Stairs.md",
     "/Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP/1. Ninjas Training.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/2. Frog Jump.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/1. Climbing Stairs.md",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/2. Frog Jump.md",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/1. Climbing Stairs.md",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids/1. Grid Unique Paths.md",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/1. Introduction.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids",
     "Obsidian Vault/! DSA/13. Dynamic Programming/2. 2D DP",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP",
     "Pasted image 20250821120106.png",
     "Pasted image 20250821115617.png",
     "Pasted image 20250821115610.png",
