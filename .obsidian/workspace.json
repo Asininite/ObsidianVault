@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Java/17. anonymous inner class.md",
+                "file": "Obsidian Vault/! Java/18. implicit vs explicit type conversion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. anonymous inner class"
+              "title": "18. implicit vs explicit type conversion"
             }
           }
         ]
@@ -171,11 +171,15 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Pasted image 20250911004330.png",
+    "Pasted image 20250911004327.png",
+    "Obsidian Vault/! Java/17. anonymous inner class.md",
+    "Obsidian Vault/! Java/18. implicit vs explicit type conversion.md",
+    "Pasted image 20250911004233.png",
     "Pasted image 20250911004208.png",
     "Pasted image 20250911004206.png",
     "Pasted image 20250911004141.png",
     "Obsidian Vault/! Java/16. aggregation vs composition.md",
-    "Obsidian Vault/! Java/17. anonymous inner class.md",
     "Pasted image 20250911004035.png",
     "Obsidian Vault/! Java/15. singleton class.md",
     "Pasted image 20250911003955.png",
@@ -184,10 +188,7 @@
     "Pasted image 20250911003916.png",
     "Obsidian Vault/! Java/13. exception handling.md",
     "Pasted image 20250911003820.png",
-    "Pasted image 20250911003803.png",
     "Obsidian Vault/! Java/12. method overriding.md",
-    "Pasted image 20250911003736.png",
-    "Pasted image 20250911003657.png",
     "Obsidian Vault/! Java/11. method overloading.md",
     "Obsidian Vault/! Java/10. abstract class and interface.md",
     "Obsidian Vault/! Java/9. stringbuffer and stringbuilde.md",
@@ -207,7 +208,6 @@
     "Obsidian Vault/! JavaScript/1. Introduction.md",
     "Obsidian Vault/Placement/Java/Questions.md",
     "Obsidian Vault/Placement/Java/char.md",
-    "Obsidian Vault/Database Design/4. Relationships.md",
     "Obsidian Vault/! SQL",
     "! My Stuff/Q",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/Untitled",
