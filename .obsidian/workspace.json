@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! My Stuff/Q/Untitled.md",
+                "file": "! My Stuff/Q/1. Send emails to customers based on certain criteria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1. Send emails to customers based on certain criteria"
             }
           }
         ]
@@ -172,7 +172,7 @@
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
     "Obsidian Vault/! DSA/12. Graphs/! Revise/1. BFS Of Graph.md",
-    "! My Stuff/Q/Untitled.md",
+    "! My Stuff/Q/1. Send emails to customers based on certain criteria.md",
     "! My Stuff/Q",
     "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/4. Count Subsets with Sum K.md",
