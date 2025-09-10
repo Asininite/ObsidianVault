@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! SQL/Untitled.md",
+                "file": "Obsidian Vault/! SQL/10. Normalization and Normal Forms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "10. Normalization and Normal Forms"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Pasted image 20250910221850.png",
+    "Obsidian Vault/! SQL/9. Indexing and Clustered Index.md",
+    "Obsidian Vault/! SQL/10. Normalization and Normal Forms.md",
     "Obsidian Vault/! SQL/8. Aggregate Functions in SQL.md",
-    "Obsidian Vault/! SQL/Untitled.md",
     "Pasted image 20250910221702.png",
     "Obsidian Vault/! SQL/7. WHERE vs HAVING clause.md",
     "Pasted image 20250910221308.png",
@@ -205,8 +207,6 @@
     "Obsidian Vault/(College)/AI/Module 2",
     "Obsidian Vault/(College)/AI/Module 1/6. Structure of Agents.md",
     "Obsidian Vault/(College)/AI/Module 1/4. Agent.md",
-    "Obsidian Vault/(College)/AI/Module 1/1. Four Definitions.md",
-    "Obsidian Vault/(College)/AI/Module 1/0. Turing Test.md",
     "Obsidian Vault/(College)/AI/Module 1",
     "Obsidian Vault/! DSA/@ TUF/LLD",
     "Obsidian Vault/Database Design",
