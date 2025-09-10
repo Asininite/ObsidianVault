@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Java/24. calculate number of times digit D occurs in number N.md",
+                "file": "Obsidian Vault/! Java/25. Print reverse array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24. calculate number of times digit D occurs in number N"
+              "title": "25. Print reverse array"
             }
           }
         ]
@@ -171,9 +171,11 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Pasted image 20250911012555.png",
+    "Obsidian Vault/! Java/24. calculate number of times digit D occurs in number N.md",
+    "Obsidian Vault/! Java/25. Print reverse array.md",
     "Pasted image 20250911004956.png",
     "Obsidian Vault/! Java/23. string toggling ques.md",
-    "Obsidian Vault/! Java/24. calculate number of times digit D occurs in number N.md",
     "Pasted image 20250911004908.png",
     "Pasted image 20250911004845.png",
     "Pasted image 20250911004812.png",
@@ -188,7 +190,6 @@
     "Obsidian Vault/! Java/18. implicit vs explicit type conversion.md",
     "Pasted image 20250911004347.png",
     "Pasted image 20250911004330.png",
-    "Pasted image 20250911004327.png",
     "Obsidian Vault/! Java/17. anonymous inner class.md",
     "Obsidian Vault/! Java/16. aggregation vs composition.md",
     "Obsidian Vault/! Java/15. singleton class.md",
@@ -206,7 +207,6 @@
     "Obsidian Vault/! Java/3. string pool.md",
     "Obsidian Vault/! Java/2. Components.md",
     "Obsidian Vault/! Java/1. Intro.md",
-    "Untitled.md",
     "Obsidian Vault/! Java",
     "Obsidian Vault/! SQL",
     "! My Stuff/Q",
