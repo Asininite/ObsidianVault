@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
+                "file": "Obsidian Vault/! DSA/12. Graphs/! Revise/1. BFS Of Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! 0. Shortcut"
-            }
-          },
-          {
-            "id": "265d192507306b2c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "1. BFS Of Graph"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +169,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "265d192507306b2c",
+  "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/4. Count Subsets with Sum K.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/3. partition into two subsets.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/2. Frog Jump.md",
@@ -216,7 +204,6 @@
     "Obsidian Vault/Database Design",
     "Obsidian Vault/(College)/Web Programming/2. HTTP Request and Response, GET and POST.md",
     "Obsidian Vault/(College)/Web Programming/1. URL URI URN.md",
-    "Obsidian Vault/(College)/Web Programming/0. Questions.md",
     "Obsidian Vault/(College)/Web Programming",
     "Obsidian Vault/(College)/Renewable Energy Systems",
     "Obsidian Vault/Images/Pasted image 20250828195323.png",
