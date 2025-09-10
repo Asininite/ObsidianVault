@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! SQL/7. WHERE vs HAVING clause.md",
+                "file": "Obsidian Vault/! SQL/8. Aggregate Functions in SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. WHERE vs HAVING clause"
+              "title": "8. Aggregate Functions in SQL"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Obsidian Vault/! SQL/7. WHERE vs HAVING clause.md",
+    "Obsidian Vault/! SQL/8. Aggregate Functions in SQL.md",
     "Pasted image 20250910221308.png",
     "Obsidian Vault/! SQL/6. Group By vs Order By.md",
-    "Obsidian Vault/! SQL/7. WHERE vs HAVING clause.md",
     "Pasted image 20250910220955.png",
     "Pasted image 20250910220837.png",
     "Obsidian Vault/! SQL/5. Difference between DELETE DROP TRUNCATE.md",
@@ -215,7 +216,6 @@
     "Obsidian Vault/Images/Pasted image 20250821115610.png",
     "Obsidian Vault/Images/Pasted image 20250820203652.png",
     "Obsidian Vault/Images/Pasted image 20250820201642.png",
-    "Obsidian Vault/Images/Pasted image 20250820200849.png",
-    "Obsidian Vault/Images/Pasted image 20250802003659 1.png"
+    "Obsidian Vault/Images/Pasted image 20250820200849.png"
   ]
 }
