@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! SQL/5. Difference between DELETE DROP TRUNCATE.md",
+                "file": "Obsidian Vault/! SQL/6. Group By vs Order By.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Difference between DELETE DROP TRUNCATE"
+              "title": "6. Group By vs Order By"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
-    "Obsidian Vault/! SQL/4. DDL and DML.md",
     "Obsidian Vault/! SQL/5. Difference between DELETE DROP TRUNCATE.md",
+    "Obsidian Vault/! SQL/6. Group By vs Order By.md",
+    "Obsidian Vault/! SQL/4. DDL and DML.md",
     "Obsidian Vault/! SQL/3. contraints.md",
     "Obsidian Vault/! SQL/2. primary key and foreign key.md",
     "Obsidian Vault/! SQL/1. DBMS vs RDBMS.md",
@@ -202,7 +203,6 @@
     "Obsidian Vault/(College)/AI/Module 1/! 5. Task Environments.md",
     "Obsidian Vault/(College)/AI/Module 1/! 3. History of AI.md",
     "Obsidian Vault/(College)/AI/Module 1/! 2. PEAS Description.md",
-    "Obsidian Vault/(College)/AI/Module 1/! 0.1 Applications of AI.md",
     "Obsidian Vault/(College)/AI/Module 1",
     "Obsidian Vault/! DSA/@ TUF/LLD",
     "Obsidian Vault/Database Design",
