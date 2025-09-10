@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "! 0. Shortcut"
             }
+          },
+          {
+            "id": "265d192507306b2c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,6 +168,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "ace-code-editor:Open CSS snippet manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,7 +182,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b5f67f8b12514166",
+  "active": "265d192507306b2c",
   "lastOpenFiles": [
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/4. Count Subsets with Sum K.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/3. partition into two subsets.md",
