@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Java/29. deep copy vs shallow copy.md",
+                "file": "Obsidian Vault/! Java/8. Constructor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29. deep copy vs shallow copy"
+              "title": "8. Constructor"
             }
           }
         ]
@@ -171,10 +171,11 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Obsidian Vault/! Java/29. deep copy vs shallow copy.md",
+    "Pasted image 20250911013508.png",
     "Pasted image 20250911013403.png",
     "Pasted image 20250911013333.png",
     "Obsidian Vault/! Java/28. Why make strings immutable....md",
-    "Obsidian Vault/! Java/29. deep copy vs shallow copy.md",
     "Pasted image 20250911013013.png",
     "Obsidian Vault/! Java/27. program to find first last occurrence of element.md",
     "Pasted image 20250911012942.png",
@@ -186,9 +187,7 @@
     "Pasted image 20250911012722.png",
     "Pasted image 20250911012555.png",
     "Obsidian Vault/! Java/24. calculate number of times digit D occurs in number N.md",
-    "Pasted image 20250911004956.png",
     "Obsidian Vault/! Java/23. string toggling ques.md",
-    "Pasted image 20250911004908.png",
     "Obsidian Vault/! Java/22. final finally finalize.md",
     "Obsidian Vault/! Java/21. access specifiers.md",
     "Obsidian Vault/! Java/20. system.out .err .in.md",
