@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Java/8. Constructor.md",
+                "file": "Obsidian Vault/! Java/9. stringbuffer and stringbuilde.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Constructor"
+              "title": "9. stringbuffer and stringbuilde"
             }
           }
         ]
@@ -171,9 +171,12 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Pasted image 20250911003155.png",
+    "Obsidian Vault/! Java/8. Constructor.md",
+    "Obsidian Vault/! Java/9. stringbuffer and stringbuilde.md",
+    "Pasted image 20250911003142.png",
     "Pasted image 20250911003017.png",
     "Obsidian Vault/! Java/7. static and instance method.md",
-    "Obsidian Vault/! Java/8. Constructor.md",
     "Pasted image 20250911003000.png",
     "Pasted image 20250911002956.png",
     "Pasted image 20250911002948.png",
@@ -183,8 +186,6 @@
     "Obsidian Vault/! Java/6. this and super.md",
     "Pasted image 20250911002854.png",
     "Pasted image 20250911002849.png",
-    "Pasted image 20250911002842.png",
-    "Pasted image 20250911002838.png",
     "Obsidian Vault/! Java/5. bookstore question.md",
     "Obsidian Vault/! Java/4. wrapper class.md",
     "Obsidian Vault/! Java/3. string pool.md",
@@ -207,7 +208,6 @@
     "Obsidian Vault/! SQL/0. SQL vs MySQL.md",
     "Obsidian Vault/! SQL/16. Joins.md",
     "Obsidian Vault/! SQL/2. primary key and foreign key.md",
-    "Obsidian Vault/! SQL/15. Triggers.md",
     "Obsidian Vault/! SQL",
     "! My Stuff/Q",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/Untitled",
