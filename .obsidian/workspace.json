@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! SQL/2. primary key and foreign key.md",
+                "file": "Obsidian Vault/! SQL/16. Joins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. primary key and foreign key"
+              "title": "16. Joins"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Obsidian Vault/! SQL/2. primary key and foreign key.md",
+    "Obsidian Vault/! SQL/16. Joins.md",
     "Obsidian Vault/! SQL/15. Triggers.md",
     "Pasted image 20250910223328.png",
     "Obsidian Vault/! SQL/14. Convert Text Into Date Format.md",
@@ -195,7 +197,6 @@
     "Obsidian Vault/! SQL/5. Difference between DELETE DROP TRUNCATE.md",
     "Obsidian Vault/! SQL/4. DDL and DML.md",
     "Obsidian Vault/! SQL/3. contraints.md",
-    "Obsidian Vault/! SQL/2. primary key and foreign key.md",
     "Obsidian Vault/! SQL/1. DBMS vs RDBMS.md",
     "! My Stuff/Q/1. Send emails to customers based on certain criteria.md",
     "Obsidian Vault/! SQL",
