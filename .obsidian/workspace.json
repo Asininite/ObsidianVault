@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! SQL/11. Union and Union All.md",
+                "file": "Obsidian Vault/! SQL/12. How to find SECOND HIGHEST SALARY in a table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Union and Union All"
+              "title": "12. How to find SECOND HIGHEST SALARY in a table"
             }
           }
         ]
@@ -171,10 +171,13 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Obsidian Vault/! SQL/11. Union and Union All.md",
+    "Obsidian Vault/! SQL/12. How to find SECOND HIGHEST SALARY in a table.md",
+    "Pasted image 20250910222251.png",
+    "Pasted image 20250910222239.png",
     "Pasted image 20250910222223.png",
     "Pasted image 20250910222213.png",
     "Obsidian Vault/! SQL/10. Normalization and Normal Forms.md",
-    "Obsidian Vault/! SQL/11. Union and Union All.md",
     "Pasted image 20250910222017.png",
     "Pasted image 20250910222006.png",
     "Pasted image 20250910221945.png",
@@ -183,11 +186,8 @@
     "Pasted image 20250910221850.png",
     "Obsidian Vault/! SQL/9. Indexing and Clustered Index.md",
     "Obsidian Vault/! SQL/8. Aggregate Functions in SQL.md",
-    "Pasted image 20250910221702.png",
     "Obsidian Vault/! SQL/7. WHERE vs HAVING clause.md",
-    "Pasted image 20250910221308.png",
     "Obsidian Vault/! SQL/6. Group By vs Order By.md",
-    "Pasted image 20250910220955.png",
     "Obsidian Vault/! SQL/5. Difference between DELETE DROP TRUNCATE.md",
     "Obsidian Vault/! SQL/4. DDL and DML.md",
     "Obsidian Vault/! SQL/3. contraints.md",
