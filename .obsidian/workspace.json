@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Java/16. aggregation vs composition.md",
+                "file": "Obsidian Vault/! Java/17. anonymous inner class.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. aggregation vs composition"
+              "title": "17. anonymous inner class"
             }
           }
         ]
@@ -171,9 +171,13 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Pasted image 20250911004208.png",
+    "Pasted image 20250911004206.png",
+    "Pasted image 20250911004141.png",
+    "Obsidian Vault/! Java/16. aggregation vs composition.md",
+    "Obsidian Vault/! Java/17. anonymous inner class.md",
     "Pasted image 20250911004035.png",
     "Obsidian Vault/! Java/15. singleton class.md",
-    "Obsidian Vault/! Java/16. aggregation vs composition.md",
     "Pasted image 20250911003955.png",
     "Obsidian Vault/! Java/14. thread.md",
     "Pasted image 20250911003918.png",
@@ -184,10 +188,7 @@
     "Obsidian Vault/! Java/12. method overriding.md",
     "Pasted image 20250911003736.png",
     "Pasted image 20250911003657.png",
-    "Pasted image 20250911003631.png",
     "Obsidian Vault/! Java/11. method overloading.md",
-    "Pasted image 20250911003553.png",
-    "Pasted image 20250911003445.png",
     "Obsidian Vault/! Java/10. abstract class and interface.md",
     "Obsidian Vault/! Java/9. stringbuffer and stringbuilde.md",
     "Obsidian Vault/! Java/8. Constructor.md",
@@ -207,7 +208,6 @@
     "Obsidian Vault/Placement/Java/Questions.md",
     "Obsidian Vault/Placement/Java/char.md",
     "Obsidian Vault/Database Design/4. Relationships.md",
-    "Obsidian Vault/Database Design/3. Atomic Values.md",
     "Obsidian Vault/! SQL",
     "! My Stuff/Q",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/Untitled",
