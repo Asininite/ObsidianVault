@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Java/4. wrapper class.md",
+                "file": "Obsidian Vault/! Java/6. this and super.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. wrapper class"
+              "title": "6. this and super"
             }
           }
         ]
@@ -171,9 +171,17 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Pasted image 20250911002820.png",
+    "Obsidian Vault/! Java/5. bookstore question.md",
+    "Obsidian Vault/! Java/6. this and super.md",
+    "Pasted image 20250911002756.png",
+    "Pasted image 20250911002746.png",
+    "Pasted image 20250911002741.png",
+    "Pasted image 20250911002736.png",
+    "Obsidian Vault/! Java/4. wrapper class.md",
+    "Pasted image 20250911002715.png",
     "Pasted image 20250911002658.png",
     "Obsidian Vault/! Java/3. string pool.md",
-    "Obsidian Vault/! Java/4. wrapper class.md",
     "Pasted image 20250911002638.png",
     "Pasted image 20250911002630.png",
     "Obsidian Vault/! Java/2. Components.md",
@@ -194,20 +202,12 @@
     "Obsidian Vault/! SQL/! Questions.md",
     "Pasted image 20250910231310.png",
     "Pasted image 20250910230657.png",
-    "Pasted image 20250910230442.png",
-    "Pasted image 20250910230258.png",
     "Obsidian Vault/! SQL/0. SQL vs MySQL.md",
     "Obsidian Vault/! SQL/16. Joins.md",
     "Obsidian Vault/! SQL/2. primary key and foreign key.md",
     "Obsidian Vault/! SQL/15. Triggers.md",
-    "Pasted image 20250910223328.png",
     "Obsidian Vault/! SQL/14. Convert Text Into Date Format.md",
     "Obsidian Vault/! SQL/13. Views.md",
-    "Pasted image 20250910223015.png",
-    "Obsidian Vault/! SQL/12. How to find SECOND HIGHEST SALARY in a table.md",
-    "Obsidian Vault/! SQL/11. Union and Union All.md",
-    "Pasted image 20250910222251.png",
-    "Pasted image 20250910222239.png",
     "Obsidian Vault/! SQL",
     "! My Stuff/Q",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/Untitled",
