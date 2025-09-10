@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Java/22. final finally finalize.md",
+                "file": "Obsidian Vault/! Java/23. string toggling question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22. final finally finalize"
+              "title": "23. string toggling question"
             }
           }
         ]
@@ -171,9 +171,11 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Pasted image 20250911004812.png",
+    "Obsidian Vault/! Java/22. final finally finalize.md",
+    "Obsidian Vault/! Java/23. string toggling question.md",
     "Pasted image 20250911004630.png",
     "Obsidian Vault/! Java/21. access specifiers.md",
-    "Obsidian Vault/! Java/22. final finally finalize.md",
     "Pasted image 20250911004530.png",
     "Obsidian Vault/! Java/20. system.out .err .in.md",
     "Pasted image 20250911004503.png",
@@ -187,7 +189,6 @@
     "Pasted image 20250911004233.png",
     "Pasted image 20250911004208.png",
     "Pasted image 20250911004206.png",
-    "Pasted image 20250911004141.png",
     "Obsidian Vault/! Java/16. aggregation vs composition.md",
     "Obsidian Vault/! Java/15. singleton class.md",
     "Obsidian Vault/! Java/14. thread.md",
@@ -207,7 +208,6 @@
     "Untitled.md",
     "Obsidian Vault/! DSA/11. Two Pointers/Hard/2. Merge Two Sorted Arrays In Place.md",
     "Obsidian Vault/! Java",
-    "Obsidian Vault/! DSA/11. Two Pointers/Hard/Trapping Rain Water.md",
     "Obsidian Vault/! SQL",
     "! My Stuff/Q",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/Untitled",
