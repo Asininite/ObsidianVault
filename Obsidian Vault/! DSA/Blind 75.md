@@ -1,6 +1,6 @@
 ## 1D DP
 [[1. Climbing Stairs]]
-[[House Robber]]
+[[3. House Robber]]
 [[House Robber II]]
 [[Longest Palindromic Substring]]
 [[Palindromic Substrings]]
