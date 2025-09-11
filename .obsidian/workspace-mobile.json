@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/6. Linked List/Medium/5. Remove Nth Node from Linked List.md",
-                "mode": "preview",
+                "file": "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79/1. Next Greater Element.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Remove Nth Node from Linked List"
+              "title": "1. Next Greater Element"
             }
           }
         ],
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/! DSA/6. Linked List/Medium/5. Remove Nth Node from Linked List.md",
+            "file": "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79/1. Next Greater Element.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,6 +169,8 @@
   },
   "active": "205126ed71132d8e",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/6. Linked List/Medium/Merge Two Sorted Linked Lists.md",
+    "Obsidian Vault/! DSA/6. Linked List/Medium/5. Remove Nth Node from Linked List.md",
     "Obsidian Vault/! DSA/6. Linked List/Medium/! 4. Find Starting Point of Loop in LL.md",
     "Obsidian Vault/! DSA/6. Linked List/Medium/2. Segregate Odd and Even nodes in LL.md",
     "Obsidian Vault/! DSA/6. Linked List/Medium/3. Detect Loop in Linked List.md",
@@ -201,8 +203,6 @@
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/3. partition into two subsets.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/1. Subset Sum Equals Target.md",
     "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/1. Subset Sum Equals Target.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/2. Partition Equal Subset Sum.md",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/2. Partition Equal Subset Sum.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences",
     "/Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids",
     "Pasted image 20250821120106.png",
