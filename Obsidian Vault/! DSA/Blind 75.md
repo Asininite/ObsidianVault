@@ -1,7 +1,7 @@
 ## 1D DP
 [[1. Climbing Stairs]]
 [[3. House Robber]]
-[[House Robber II]]
+[[4. House Robber II]]
 [[Longest Palindromic Substring]]
 [[Palindromic Substrings]]
 [[Decode Ways]]
