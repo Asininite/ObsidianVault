@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/Blind 75.md",
+                "file": "Obsidian Vault/! DSA/13. Dynamic Programming/6. DP on Strings/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blind 75"
+              "title": "Untitled"
             }
           }
         ]
@@ -171,9 +171,13 @@
   },
   "active": "b5f67f8b12514166",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/Blind 75.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/6. DP on Strings/Untitled.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/6. DP on Strings",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/Untitled.md",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/5. LIS",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/4. House Robber II.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/1. 1D DP/3. House Robber.md",
-    "Obsidian Vault/! DSA/Blind 75.md",
     "Obsidian Vault/! Java/8. Constructor.md",
     "Obsidian Vault/! DSA/!! Important/Untitled.md",
     "Obsidian Vault/! Java/29. deep copy vs shallow copy.md",
@@ -205,8 +209,6 @@
     "Obsidian Vault/! Java/13. exception handling.md",
     "Obsidian Vault/! Java/12. method overriding.md",
     "Obsidian Vault/! Java/11. method overloading.md",
-    "Obsidian Vault/! Java/10. abstract class and interface.md",
-    "Obsidian Vault/! Java/9. stringbuffer and stringbuilde.md",
     "Obsidian Vault/! Java",
     "Obsidian Vault/! SQL",
     "! My Stuff/Q",
@@ -214,8 +216,6 @@
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences",
     "Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids",
     "Obsidian Vault/(College)/AI/Module 2",
-    "Obsidian Vault/(College)/AI/Module 1",
-    "Obsidian Vault/! DSA/@ TUF/LLD",
-    "Obsidian Vault/Database Design"
+    "Obsidian Vault/(College)/AI/Module 1"
   ]
 }
