@@ -11,12 +11,14 @@
             "id": "e162113b279ec379",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20250910220837.png"
+                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250910220837"
+              "icon": "lucide-file",
+              "title": "1. Longest Common Subsequence"
             }
           }
         ]
@@ -167,10 +169,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "e162113b279ec379",
   "lastOpenFiles": [
-    "Obsidian Vault/Images/Pasted image 20250910220955.png",
     "Obsidian Vault/Images/Pasted image 20250910220837.png",
+    "Obsidian Vault/Images/Pasted image 20250910220955.png",
     "! My Stuff/Quick Notes.md",
     "Obsidian Vault/Placement/! DSA/8. Stack and Queues/LRU CACHE.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
