@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bd6fad136503c050",
+        "id": "7da5e3157bf5a191",
         "type": "tabs",
         "children": [
           {
-            "id": "b5f67f8b12514166",
+            "id": "e162113b279ec379",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "! My Stuff/Quick Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250910220837.png"
               },
-              "icon": "lucide-file",
-              "title": "Quick Notes"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250910220837"
             }
           }
         ]
@@ -169,8 +167,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Pasted image 20250910220955.png",
+    "Pasted image 20250910220837.png",
+    "! My Stuff/Quick Notes.md",
     "Obsidian Vault/Placement/! DSA/8. Stack and Queues/LRU CACHE.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
     "Obsidian Vault/Placement/Core Subjects/! Random Stuff.md",
@@ -199,7 +200,6 @@
     "Pasted image 20250911012752.png",
     "Obsidian Vault/Placement/Languages/! Java/25. Print reverse array.md",
     "Pasted image 20250911012722.png",
-    "Pasted image 20250911012555.png",
     "Obsidian Vault/Placement/Languages/! Java/24. calculate number of times digit D occurs in number N.md",
     "Obsidian Vault/Placement/Languages/! Java/23. string toggling ques.md",
     "Obsidian Vault/Placement/Languages/! Java/22. final finally finalize.md",
@@ -210,8 +210,6 @@
     "Obsidian Vault/Placement/Languages/! Java/17. anonymous inner class.md",
     "Obsidian Vault/Placement/Languages/! Java/16. aggregation vs composition.md",
     "Obsidian Vault/Placement/Languages/! Java/15. singleton class.md",
-    "Obsidian Vault/Placement/Languages/! Java/14. thread.md",
-    "Obsidian Vault/Placement/Languages/! Java/13. exception handling.md",
     "Obsidian Vault/Placement/Languages/! Java",
     "Obsidian Vault/Placement/Languages/! SQL",
     "! My Stuff/Q",
