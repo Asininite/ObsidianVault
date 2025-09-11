@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/11. Two Pointers/Merge Two Sorted Arrays.md",
+                "file": "Obsidian Vault/! DSA/!! Important/@ Sorting Algorithms/4. Merge Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merge Two Sorted Arrays"
+              "title": "4. Merge Sort"
             }
           }
         ],
@@ -109,7 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian Vault/! DSA/11. Two Pointers/Merge Two Sorted Arrays.md",
+            "file": "Obsidian Vault/! DSA/!! Important/@ Sorting Algorithms/4. Merge Sort.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,6 +169,7 @@
   },
   "active": "205126ed71132d8e",
   "lastOpenFiles": [
+    "Obsidian Vault/! DSA/11. Two Pointers/Merge Two Sorted Arrays.md",
     "Obsidian Vault/! DSA/11. Two Pointers/3Sum.md",
     "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79/1. Next Greater Element.md",
     "Obsidian Vault/! DSA/6. Linked List/Medium/Merge Two Sorted Linked Lists.md",
@@ -202,7 +203,6 @@
     "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/1. Pow(x, n).md",
     "Obsidian Vault/! DSA/6. Linked List/Easy/4. Deleting Element with value X.md",
     "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/3. partition into two subsets.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/3. partition into two subsets.md",
     "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences",
     "/Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids",
     "Pasted image 20250821120106.png",
