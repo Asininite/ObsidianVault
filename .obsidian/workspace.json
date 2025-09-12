@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/2. Longest Common Substring.md",
+                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/3. Longest Palindromic Subsequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Longest Common Substring"
+              "title": "3. Longest Palindromic Subsequence"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
-    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/2. Longest Common Substring.md",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/3. Longest Palindromic Subsequence.md",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
     "Obsidian Vault/Images/Pasted image 20250910220837.png",
     "Obsidian Vault/Images/Pasted image 20250910220955.png",
     "! My Stuff/Quick Notes.md",
@@ -211,7 +212,6 @@
     "Obsidian Vault/Placement/Languages/! Java/18. implicit vs explicit type conversion.md",
     "Obsidian Vault/Placement/Languages/! Java/17. anonymous inner class.md",
     "Obsidian Vault/Placement/Languages/! Java/16. aggregation vs composition.md",
-    "Obsidian Vault/Placement/Languages/! Java/15. singleton class.md",
     "Obsidian Vault/Placement/Languages/! Java",
     "Obsidian Vault/Placement/Languages/! SQL",
     "! My Stuff/Q",
