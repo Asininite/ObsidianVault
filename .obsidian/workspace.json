@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
+                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/2. Longest Common Substring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Longest Common Subsequence"
+              "title": "2. Longest Common Substring"
             }
           }
         ]
@@ -171,11 +171,12 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/2. Longest Common Substring.md",
     "Obsidian Vault/Images/Pasted image 20250910220837.png",
     "Obsidian Vault/Images/Pasted image 20250910220955.png",
     "! My Stuff/Quick Notes.md",
     "Obsidian Vault/Placement/! DSA/8. Stack and Queues/LRU CACHE.md",
-    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
     "Obsidian Vault/Placement/Core Subjects/! Random Stuff.md",
     "Obsidian Vault/Projects",
     "Obsidian Vault/Placement/Core Subjects",
@@ -201,7 +202,6 @@
     "Obsidian Vault/Images/Pasted image 20250911012808.png",
     "Obsidian Vault/Images/Pasted image 20250911012752.png",
     "Obsidian Vault/Placement/Languages/! Java/25. Print reverse array.md",
-    "Obsidian Vault/Images/Pasted image 20250911012722.png",
     "Obsidian Vault/Placement/Languages/! Java/24. calculate number of times digit D occurs in number N.md",
     "Obsidian Vault/Placement/Languages/! Java/23. string toggling ques.md",
     "Obsidian Vault/Placement/Languages/! Java/22. final finally finalize.md",
