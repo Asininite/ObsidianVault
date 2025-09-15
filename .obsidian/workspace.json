@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
+                "file": "Obsidian Vault/Placement/! DSA/14. Strings/1. Minimum Flips To Convert Binary String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Longest Common Subsequence"
+              "title": "1. Minimum Flips To Convert Binary String"
             }
           }
         ]
@@ -171,12 +171,14 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
+    "Obsidian Vault/Placement/! DSA/14. Strings/1. Minimum Flips To Convert Binary String.md",
+    "Obsidian Vault/Placement/! DSA/14. Strings",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/8. Maximum Product Subarray.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/5. Palindromic Substrings.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/4. Longest Palindromic Substring.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/3. Longest Palindromic Subsequence.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/2. Longest Common Substring.md",
-    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
     "Obsidian Vault/Images/Pasted image 20250910220837.png",
     "Obsidian Vault/Images/Pasted image 20250910220955.png",
     "! My Stuff/Quick Notes.md",
@@ -211,11 +213,9 @@
     "Obsidian Vault/Placement/Languages/! Java/22. final finally finalize.md",
     "Obsidian Vault/Placement/Languages/! Java/21. access specifiers.md",
     "Obsidian Vault/Placement/Languages/! Java/20. system.out .err .in.md",
-    "Obsidian Vault/Placement/Languages/! Java/19. volatile keyword.md",
     "Obsidian Vault/Placement/Languages/! Java",
     "Obsidian Vault/Placement/Languages/! SQL",
     "! My Stuff/Q",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/Untitled",
-    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/4. DP on Subsequences"
+    "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/Untitled"
   ]
 }
