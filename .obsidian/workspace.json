@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4f80edbf5d0f44",
+        "id": "7da5e3157bf5a191",
         "type": "tabs",
         "children": [
           {
-            "id": "dd1b28331d45c774",
+            "id": "e162113b279ec379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/8. Maximum Product Subarray.md",
+                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Maximum Product Subarray"
+              "title": "1. Longest Common Subsequence"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Computer_Networks",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 310.5
   },
   "right": {
     "id": "2285ec033214da64",
@@ -156,66 +156,66 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
+      "ace-code-editor:Open CSS snippet manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false,
-      "ace-code-editor:Open CSS snippet manager": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "dd1b28331d45c774",
+  "active": "e162113b279ec379",
   "lastOpenFiles": [
-    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/5. Palindromic Substrings.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/8. Maximum Product Subarray.md",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/5. Palindromic Substrings.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/4. Longest Palindromic Substring.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/3. Longest Palindromic Subsequence.md",
-    "Obsidian Vault/College/Web Programming/2. HTTP Request and Response, GET and POST.md",
-    "Obsidian Vault/College/Web Programming/1. URL URI URN.md",
-    "Obsidian Vault/College/Web Programming/0. Questions.md",
-    "Obsidian Vault/College/Web Programming",
-    "Obsidian Vault/College/RDBMS/PL SQL/Procedures.md",
-    "Obsidian Vault/College/RDBMS/PL SQL/Functions.md",
-    "Obsidian Vault/College/RDBMS/Untitled.md",
-    "Obsidian Vault/College/RDBMS/SQL Aggregate Functions.md",
-    "Obsidian Vault/College/RDBMS/PL SQL",
-    "Obsidian Vault/College/RDBMS/MYSQL Commands.md",
-    "Obsidian Vault/College/RDBMS/MYSQL Data Types.md",
-    "Obsidian Vault/College/RDBMS/Group By, Having, Order By.md",
-    "Obsidian Vault/College/RDBMS",
-    "Obsidian Vault/Projects/Final Project/Seminar Stuff/3. Cryptographic Accumulator.md",
-    "Obsidian Vault/Projects/Final Project/Seminar Stuff/2. Use of BEATS.md",
-    "Obsidian Vault/Projects/Final Project/Seminar Stuff/1. Audit Trail.md",
-    "Obsidian Vault/Projects/Final Project/Seminar Stuff/0. Transcript.md",
-    "Obsidian Vault/Projects/Final Project/Literature Review/Evading DeepFake Detectors via Adversarial Statistical Consistency.md",
-    "Obsidian Vault/Projects/Final Project/Untitled.md",
-    "Obsidian Vault/Projects/Final Project/Seminar Stuff",
-    "Obsidian Vault/Projects/Final Project/music.md",
-    "Obsidian Vault/Projects/Final Project/Literature Review",
-    "Obsidian Vault/Projects/Final Project/deepfake.md",
-    "Obsidian Vault/Projects/Thieves Library.md",
-    "Obsidian Vault/Projects/Final Project",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/2. Longest Common Substring.md",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
+    "Obsidian Vault/Images/Pasted image 20250910220837.png",
+    "Obsidian Vault/Images/Pasted image 20250910220955.png",
+    "! My Stuff/Quick Notes.md",
+    "Obsidian Vault/Placement/! DSA/8. Stack and Queues/LRU CACHE.md",
+    "Obsidian Vault/Placement/Core Subjects/! Random Stuff.md",
     "Obsidian Vault/Projects",
-    "Obsidian Vault/Placement/Misc/@ Sorting Algorithms/Counting Sort.md",
-    "Obsidian Vault/Placement/Misc/@ Sorting Algorithms/6. ! Shell Sort.md",
-    "Obsidian Vault/Placement/Misc/@ Sorting Algorithms/5. Quick Sort.md",
-    "Obsidian Vault/Placement/Misc/@ Sorting Algorithms",
-    "Obsidian Vault/Placement/Misc/! Strings",
-    "Obsidian Vault/Placement/Misc",
+    "Obsidian Vault/Placement/Core Subjects",
+    "Obsidian Vault/Placement/Languages",
+    "Obsidian Vault/Placement/! DSA/Blind 75.md",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/Untitled.md",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/5. LIS",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/1. 1D DP/4. House Robber II.md",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/1. 1D DP/3. House Robber.md",
+    "Obsidian Vault/Placement/Languages/! Java/8. Constructor.md",
+    "Obsidian Vault/! DSA/!! Important/Untitled.md",
+    "Obsidian Vault/Placement/Languages/! Java/29. deep copy vs shallow copy.md",
     "Obsidian Vault/Images/Pasted image 20250911013508.png",
     "Obsidian Vault/Images/Pasted image 20250911013403.png",
     "Obsidian Vault/Images/Pasted image 20250911013333.png",
+    "Obsidian Vault/Placement/Languages/! Java/28. Why make strings immutable....md",
     "Obsidian Vault/Images/Pasted image 20250911013013.png",
+    "Obsidian Vault/Placement/Languages/! Java/27. program to find first last occurrence of element.md",
     "Obsidian Vault/Images/Pasted image 20250911012942.png",
     "Obsidian Vault/Images/Pasted image 20250911012930.png",
+    "Obsidian Vault/Placement/Languages/! Java/26. program to check if strings are anagram.md",
     "Obsidian Vault/Images/Pasted image 20250911012808.png",
     "Obsidian Vault/Images/Pasted image 20250911012752.png",
-    "Obsidian Vault/Images/Pasted image 20250911012722.png",
-    "Obsidian Vault/Images/Pasted image 20250911012555.png"
+    "Obsidian Vault/Placement/Languages/! Java/25. Print reverse array.md",
+    "Obsidian Vault/Placement/Languages/! Java/24. calculate number of times digit D occurs in number N.md",
+    "Obsidian Vault/Placement/Languages/! Java/23. string toggling ques.md",
+    "Obsidian Vault/Placement/Languages/! Java/22. final finally finalize.md",
+    "Obsidian Vault/Placement/Languages/! Java/21. access specifiers.md",
+    "Obsidian Vault/Placement/Languages/! Java/20. system.out .err .in.md",
+    "Obsidian Vault/Placement/Languages/! Java/19. volatile keyword.md",
+    "Obsidian Vault/Placement/Languages/! Java",
+    "Obsidian Vault/Placement/Languages/! SQL",
+    "! My Stuff/Q",
+    "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/Untitled",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/4. DP on Subsequences"
   ]
 }
