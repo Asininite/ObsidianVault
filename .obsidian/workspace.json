@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Placement/! DSA/IBM.md",
+                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/4. DP on Subsequences/6. Coin Change.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IBM"
+              "title": "6. Coin Change"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
-    "Obsidian Vault/Placement/! DSA/14. Strings/1. Minimum Flips To Convert Binary String.md",
     "Obsidian Vault/Placement/! DSA/IBM.md",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/4. DP on Subsequences/6. Coin Change.md",
+    "Obsidian Vault/Placement/! DSA/14. Strings/1. Minimum Flips To Convert Binary String.md",
     "Obsidian Vault/Placement/! DSA/14. Strings/2. chmod permission value.md",
     "Obsidian Vault/Placement/Languages/! C++/STL/3. Stringstream.md",
     "Obsidian Vault/Placement/Languages/! C++/STL/Containers/! What is a container.md",
@@ -212,7 +213,6 @@
     "Obsidian Vault/Images/Pasted image 20250911012808.png",
     "Obsidian Vault/Images/Pasted image 20250911012752.png",
     "Obsidian Vault/Placement/Languages/! Java/25. Print reverse array.md",
-    "Obsidian Vault/Placement/Languages/! Java/24. calculate number of times digit D occurs in number N.md",
     "Obsidian Vault/Placement/Languages/! Java",
     "Obsidian Vault/Placement/Languages/! SQL",
     "! My Stuff/Q",
