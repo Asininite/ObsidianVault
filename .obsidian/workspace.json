@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
+                "file": "Obsidian Vault/College/AI/Module 3/3. Minimax Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Adversarial Search"
+              "title": "3. Minimax Algorithm"
             }
           }
         ]
@@ -171,9 +171,11 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Pasted image 20251012235626.png",
+    "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
+    "Obsidian Vault/College/AI/Module 3/3. Minimax Algorithm.md",
     "Pasted image 20251012235336.png",
     "Obsidian Vault/College/AI/Module 3/2. Alpha Beta Pruning.md",
-    "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
     "Obsidian Vault/College/AI/Module 3/1. CSP.md",
     "Pasted image 20251012141631.png",
     "Pasted image 20251012141340.png",
@@ -184,7 +186,6 @@
     "Pasted image 20251012140704.png",
     "Pasted image 20251012140355.png",
     "Pasted image 20251012135821.png",
-    "Pasted image 20251012135753.png",
     "! My Stuff/! Self Introduction.md",
     "Obsidian Vault/College/AI/Module 3",
     "Obsidian Vault/College/AI/Untitled.md",
@@ -210,7 +211,6 @@
     "Obsidian Vault/Placement/! DSA/1 Arrays/1. Easy/1. Largest Element in Array.md",
     "Obsidian Vault/Placement/! DSA/1 Arrays/@ Revise/1. Moore's Voting Algorithm.md",
     "Obsidian Vault/Placement/! DSA/4. Recursion and Backtracking/2. Medium/5. Subsets I.md",
-    "Obsidian Vault/Placement/! DSA/3. Bit Manipulation/1. Tricks.md",
     "Obsidian Vault/Placement/! DSA/14. Strings",
     "Obsidian Vault/Projects",
     "Obsidian Vault/Placement/Core Subjects",
