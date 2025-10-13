@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1. CSP"
             }
+          },
+          {
+            "id": "440465dccdfc65ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e162113b279ec379",
+  "active": "440465dccdfc65ca",
   "lastOpenFiles": [
     "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
     "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
