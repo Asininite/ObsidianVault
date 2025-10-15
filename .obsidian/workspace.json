@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Placement/Languages/! SQL/12. How to find SECOND HIGHEST SALARY in a table.md",
+                "file": "Obsidian Vault/Placement/Languages/! SQL/2. primary key and foreign key.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. How to find SECOND HIGHEST SALARY in a table"
+              "title": "2. primary key and foreign key"
             }
           }
         ]
@@ -171,6 +171,11 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Obsidian Vault/Placement/Languages/! SQL/1. DBMS vs RDBMS.md",
+    "Obsidian Vault/Placement/Languages/! SQL/0. SQL vs MySQL.md",
+    "Obsidian Vault/Placement/Languages/! SQL/! Questions.md",
+    "Obsidian Vault/Placement/Languages/! SQL/6. Group By vs Order By.md",
+    "Obsidian Vault/Placement/Languages/! SQL/12. How to find SECOND HIGHEST SALARY in a table.md",
     "Obsidian Vault/Placement/Languages/! SQL/13. Views.md",
     "Obsidian Vault/Placement/Languages/! SQL/16. Joins.md",
     "Obsidian Vault/Placement/Languages/! SQL/15. Triggers.md",
@@ -194,7 +199,6 @@
     "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
     "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
     "Obsidian Vault/College/AI/Module 3/4. Cryptarithmetic problem.md",
-    "Obsidian Vault/College/AI/Module 4/1. Logic.md",
     "Pasted image 20251013130122.png",
     "Pasted image 20251013113341.png",
     "Obsidian Vault/College/AI/Module 4",
@@ -204,12 +208,8 @@
     "Pasted image 20251013003737.png",
     "Pasted image 20251013003725.png",
     "Pasted image 20251013003717.png",
-    "Obsidian Vault/Placement/! DSA/Blind 75.md",
-    "Obsidian Vault/Placement/! DSA/IBM.md",
     "Obsidian Vault/Images/Pasted image 20251013001038.png",
     "Obsidian Vault/Images/Pasted image 20251012141340.png",
-    "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
-    "! My Stuff/! Self Introduction.md",
     "Obsidian Vault/College/AI/Module 3",
     "Obsidian Vault/College/ISE/Module 1",
     "Obsidian Vault/College/ISE",
