@@ -11,14 +11,12 @@
             "id": "e162113b279ec379",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/Placement/Languages/! SQL/2. primary key and foreign key.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251013003717.png"
               },
-              "icon": "lucide-file",
-              "title": "2. primary key and foreign key"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251013003717"
             }
           }
         ]
@@ -171,6 +169,9 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "teaching.md",
+    "Untitled.md",
+    "Obsidian Vault/Placement/Languages/! SQL/2. primary key and foreign key.md",
     "Obsidian Vault/Placement/Languages/! SQL/1. DBMS vs RDBMS.md",
     "Obsidian Vault/Placement/Languages/! SQL/0. SQL vs MySQL.md",
     "Obsidian Vault/Placement/Languages/! SQL/! Questions.md",
@@ -182,7 +183,6 @@
     "Obsidian Vault/Placement/Languages/! SQL/14. Convert Text Into Date Format.md",
     "Obsidian Vault/Placement/Languages/! SQL/11. Union and Union All.md",
     "Obsidian Vault/Placement/Languages/! SQL/8. Aggregate Functions in SQL.md",
-    "Obsidian Vault/Placement/Languages/! SQL/2. primary key and foreign key.md",
     "Obsidian Vault/College/Renewable Energy Systems/4.4 Site Selection.md",
     "Obsidian Vault/College/Renewable Energy Systems/4.1 Biomass Gasification.md",
     "Obsidian Vault/College/Renewable Energy Systems/3.1 Wind Turbine Components and Classification.md",
@@ -191,9 +191,7 @@
     "Obsidian Vault/College/Web Programming/Module 4/3. Cookies.md",
     "Obsidian Vault/College/Web Programming/Module 4/4. Form Processing.md",
     "Obsidian Vault/College/Web Programming/Module 4/6. sorting.md",
-    "teaching.md",
     "Obsidian Vault/College/Web Programming/Module 4/1. PHP Basics.md",
-    "Untitled.md",
     "Obsidian Vault/College/AI/Module 3/1. CSP.md",
     "Obsidian Vault/College/Web Programming/Module 4",
     "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
