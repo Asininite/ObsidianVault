@@ -11,12 +11,14 @@
             "id": "e162113b279ec379",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251013003717.png"
+                "file": "Obsidian Vault/Projects/Final Project/Presentation/1. Explaining the project.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251013003717"
+              "icon": "lucide-file",
+              "title": "1. Explaining the project"
             }
           }
         ]
@@ -167,8 +169,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Pasted image 20251013003717.png",
+    "Obsidian Vault/Projects/Final Project/Presentation/1. Explaining the project.md",
+    "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/College/ISE/Module 3",
     "teaching.md",
     "Untitled.md",
@@ -196,7 +201,6 @@
     "Obsidian Vault/College/AI/Module 3/1. CSP.md",
     "Obsidian Vault/College/Web Programming/Module 4",
     "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
-    "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
     "Pasted image 20251013130122.png",
     "Pasted image 20251013113341.png",
     "Obsidian Vault/College/AI/Module 4",
@@ -205,15 +209,12 @@
     "Pasted image 20251013003745.png",
     "Pasted image 20251013003737.png",
     "Pasted image 20251013003725.png",
-    "Pasted image 20251013003717.png",
     "Obsidian Vault/Images/Pasted image 20251013001038.png",
     "Obsidian Vault/Images/Pasted image 20251012141340.png",
     "Obsidian Vault/College/AI/Module 3",
     "Obsidian Vault/College/ISE/Module 1",
     "Obsidian Vault/College/ISE",
     "! My Stuff/Ashwin Suresh - Resume.pdf",
-    "Obsidian Vault/Placement/! DSA/14. Strings",
-    "Obsidian Vault/Projects",
-    "Obsidian Vault/Placement/Core Subjects"
+    "Obsidian Vault/Placement/! DSA/14. Strings"
   ]
 }
