@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "3edd272639ec00fe",
+            "id": "da08407d3133b297",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,10 +184,10 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "3edd272639ec00fe",
+  "active": "da08407d3133b297",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
+    "conflict-files-obsidian-git.md",
     "Obsidian Vault/Placement/Languages/! C++/STL/3. Stringstream.md",
     "Obsidian Vault/Placement/! DSA/IBM.md",
     "Obsidian Vault/Placement/! DSA/14. Strings/2. chmod permission value.md",
