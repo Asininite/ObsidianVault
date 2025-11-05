@@ -11,14 +11,12 @@
             "id": "dd1b28331d45c774",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Images/Pasted image 20251013003717.png"
               },
-              "icon": "lucide-file",
-              "title": "1. Longest Common Subsequence"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251013003717"
             }
           }
         ]
@@ -169,19 +167,19 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "dd1b28331d45c774",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
     "teaching.md",
-    "Pasted image 20251013130122.png",
-    "Pasted image 20251013113341.png",
-    "Pasted image 20251013003825.png",
-    "Pasted image 20251013003802.png",
-    "Pasted image 20251013003745.png",
-    "Pasted image 20251013003737.png",
-    "Pasted image 20251013003725.png",
-    "Pasted image 20251013003717.png",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/1. Longest Common Subsequence.md",
+    "conflict-files-obsidian-git.md",
+    "Obsidian Vault/Images/Pasted image 20251013130122.png",
+    "Obsidian Vault/Images/Pasted image 20251013113341.png",
+    "Obsidian Vault/Images/Pasted image 20251013003825.png",
+    "Obsidian Vault/Images/Pasted image 20251013003802.png",
+    "Obsidian Vault/Images/Pasted image 20251013003745.png",
+    "Obsidian Vault/Images/Pasted image 20251013003737.png",
+    "Obsidian Vault/Images/Pasted image 20251013003725.png",
+    "Obsidian Vault/Images/Pasted image 20251013003717.png",
     "Obsidian Vault/Projects/Final Project/Presentation/1. Explaining the project.md",
     "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/Images/Pasted image 20251013002057.png",
