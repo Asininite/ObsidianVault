@@ -6,4 +6,4 @@ Outside of academics, I lead my college's literary club, volunteer at technical 
 
 I believe my mix of technical knowledge, attention to detail and clear communication skills is useful in supporting CertifyMes users and resolving real world technical issues
 
-thank youm
+thank you
