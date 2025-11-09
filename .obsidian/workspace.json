@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
+                "file": "Obsidian Vault/College/AI/Module 2/2.2 Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Alpha Beta Pruning"
+              "title": "2.2 Search"
             }
           }
         ]
@@ -171,6 +171,10 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
+    "Obsidian Vault/College/AI/Module 3/1. CSP.md",
+    "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
+    "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
     "Obsidian Vault/College/AI/Module 2/2.2 Search.md",
     "Pasted image 20251109221348.png",
     "Pasted image 20251109221031.png",
@@ -205,9 +209,6 @@
     "Obsidian Vault/College/Web Programming/Module 4/1. PHP Basics.md",
     "Obsidian Vault/College/Web Programming/Module 4",
     "Obsidian Vault/College/Renewable Energy Systems/4.4 Site Selection.md",
-    "Obsidian Vault/College/Renewable Energy Systems/4.1 Biomass Gasification.md",
-    "Obsidian Vault/College/Renewable Energy Systems/3.1 Wind Turbine Components and Classification.md",
-    "Obsidian Vault/College/ISE/Module 1/1. Need For Safety.md",
     "Obsidian Vault/College/ISE/Module 1",
     "Obsidian Vault/College/ISE",
     "Obsidian Vault/College/AI/Module 4",
