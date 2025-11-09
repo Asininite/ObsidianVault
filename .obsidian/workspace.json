@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "4. Agent"
             }
+          },
+          {
+            "id": "f75762a55da8463b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "dd1b28331d45c774",
+  "active": "f75762a55da8463b",
   "lastOpenFiles": [
     "Pasted image 20251107212958.png",
     "Pasted image 20251107212949.png",
