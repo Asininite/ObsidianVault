@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 2/2.2 Search.md",
+                "file": "Obsidian Vault/College/AI/Module 2/2.3 Toy Problems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Search"
+              "title": "2.3 Toy Problems"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/College/AI/Module 2/2.2 Search.md",
+    "Obsidian Vault/College/AI/Module 2/2.3 Toy Problems.md",
+    "Pasted image 20251110192527.png",
     "Pasted image 20251109221649.png",
     "Pasted image 20251109221611.png",
     "Pasted image 20251109221557.png",
@@ -180,14 +183,11 @@
     "Obsidian Vault/College/AI/Module 3/1. CSP.md",
     "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
     "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
-    "Obsidian Vault/College/AI/Module 2/2.2 Search.md",
     "Pasted image 20251109221348.png",
     "Pasted image 20251109221031.png",
     "Obsidian Vault/College/AI/Module 2/2.1 Problem Solving Agents.md",
     "Pasted image 20251109220406.png",
     "Pasted image 20251109171746.png",
-    "Pasted image 20251109171559.png",
-    "Pasted image 20251109171415.png",
     "Obsidian Vault/College/AI/Module 2/! State Space Representation.md",
     "Obsidian Vault/College/AI/Module 2/! Search Strategies.md",
     "Obsidian Vault/College/AI/Module 1/4. Agent.md",
