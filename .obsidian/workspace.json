@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 2/2.7 Depth First Search.md",
+                "file": "Obsidian Vault/College/AI/Module 2/2.8 Depth Limited Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.7 Depth First Search"
+              "title": "2.8 Depth Limited Search"
             }
           }
         ]
@@ -171,12 +171,13 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/College/AI/Module 2/2.7 Depth First Search.md",
+    "Obsidian Vault/College/AI/Module 2/2.8 Depth Limited Search.md",
     "Pasted image 20251112021232.png",
     "Pasted image 20251112020751.png",
     "Pasted image 20251112020633.png",
     "Pasted image 20251112020121.png",
     "Obsidian Vault/College/AI/Module 2/2.6 Uniform Cost Search.md",
-    "Obsidian Vault/College/AI/Module 2/2.7 Depth First Search.md",
     "Pasted image 20251112013140.png",
     "Pasted image 20251112013130.png",
     "Pasted image 20251112012930.png",
@@ -184,7 +185,6 @@
     "Pasted image 20251112003925.png",
     "Obsidian Vault/College/AI/Module 2/2.5 Breadth First Search.md",
     "Pasted image 20251112003246.png",
-    "Pasted image 20251112003012.png",
     "Obsidian Vault/College/AI/Module 2/2.4 Searching For Solution - Tree and Graph Search.md",
     "Obsidian Vault/College/AI/Module 2/2.1 Problem Solving Agents.md",
     "Obsidian Vault/College/AI/Module 2/2.2 Search.md",
