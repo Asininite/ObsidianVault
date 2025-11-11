@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 2/2.5 Breadth First Search.md",
+                "file": "Obsidian Vault/College/AI/Module 2/2.6 Uniform Cost Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 Breadth First Search"
+              "title": "2.6 Uniform Cost Search"
             }
           }
         ]
@@ -171,12 +171,14 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Pasted image 20251112003925.png",
+    "Obsidian Vault/College/AI/Module 2/2.5 Breadth First Search.md",
+    "Obsidian Vault/College/AI/Module 2/2.6 Uniform Cost Search.md",
     "Pasted image 20251112003246.png",
     "Pasted image 20251112003012.png",
     "Obsidian Vault/College/AI/Module 2/2.4 Searching For Solution - Tree and Graph Search.md",
     "Pasted image 20251111164040.png",
     "Pasted image 20251111164031.png",
-    "Obsidian Vault/College/AI/Module 2/2.5 Breadth First Search.md",
     "Pasted image 20251111021208.png",
     "Pasted image 20251111020952.png",
     "Pasted image 20251111020832.png",
@@ -185,7 +187,6 @@
     "Obsidian Vault/College/AI/Module 2/2.1 Problem Solving Agents.md",
     "Obsidian Vault/College/AI/Module 2/2.2 Search.md",
     "Pasted image 20251111014126.png",
-    "Pasted image 20251111014039.png",
     "Obsidian Vault/College/AI/Module 2/2.3 Toy Problems.md",
     "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
     "Obsidian Vault/College/AI/Module 3/1. CSP.md",
@@ -207,7 +208,6 @@
     "Obsidian Vault/Projects/Final Project/Presentation/1. Explaining the project.md",
     "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/College/Web Programming/Module 4/6. sorting.md",
-    "Obsidian Vault/College/Web Programming/Module 4/5. PHP MySQL connection.md",
     "Obsidian Vault/College/Web Programming/Module 4",
     "Obsidian Vault/College/ISE/Module 1",
     "Obsidian Vault/College/ISE",
