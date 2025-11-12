@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 3/1.6 CSP Sudoku.md",
+                "file": "Obsidian Vault/College/AI/Module 3/1.7 CSP Backtracking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.6 CSP Sudoku"
+              "title": "1.7 CSP Backtracking"
             }
           }
         ]
@@ -171,26 +171,27 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Pasted image 20251113014527.png",
+    "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
+    "Obsidian Vault/College/AI/Module 3/1.7 CSP Backtracking.md",
+    "Obsidian Vault/College/AI/Module 3/1.6 CSP Sudoku.md",
     "Pasted image 20251113014239.png",
     "Pasted image 20251113014134.png",
     "Pasted image 20251113014124.png",
     "Pasted image 20251113014101.png",
     "Pasted image 20251113014030.png",
     "Obsidian Vault/College/AI/Module 3/1.5 Bound Propagation.md",
-    "Obsidian Vault/College/AI/Module 3/1.6 CSP Sudoku.md",
     "Pasted image 20251113004953.png",
     "Pasted image 20251113004901.png",
     "Pasted image 20251113004736.png",
     "Obsidian Vault/College/AI/Module 3/1.4 Hyperarc, K-Path, Path Consistency.md",
     "Pasted image 20251113004701.png",
     "Pasted image 20251113004640.png",
-    "Pasted image 20251113004519.png",
     "Obsidian Vault/College/AI/Module 3/1.3 Arc Consistency Algorithm.md",
     "Obsidian Vault/College/AI/Module 3/1.2 Constraint Propagation - Inference in CSP.md",
     "Obsidian Vault/College/AI/Module 3/1. CSP.md",
     "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
     "Obsidian Vault/College/AI/Module 3/1.1 Why formulate as CSP.md",
-    "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
     "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
     "Obsidian Vault/College/AI/Module 2/2.14 Heuristic Functions.md",
     "Obsidian Vault/College/AI/Module 2/2.13 Over and Under Estimation.md",
@@ -206,7 +207,6 @@
     "Obsidian Vault/College/AI/Module 2/2.10 Summary.md",
     "Obsidian Vault/College/AI/Module 2/2.4 Searching For Solution - Tree and Graph Search.md",
     "Obsidian Vault/College/AI/Module 2/2.7 Depth First Search.md",
-    "Obsidian Vault/College/AI/Module 2/2.6 Uniform Cost Search.md",
     "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/College/Web Programming/Module 4",
     "Obsidian Vault/College/ISE/Module 1",
