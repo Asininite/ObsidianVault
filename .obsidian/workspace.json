@@ -11,14 +11,12 @@
             "id": "dd1b28331d45c774",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 3/1.7 CSP Backtracking.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Images/Pasted image 20251111014039.png"
               },
-              "icon": "lucide-file",
-              "title": "1.7 CSP Backtracking"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251111014039"
             }
           }
         ]
@@ -169,24 +167,23 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "dd1b28331d45c774",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Pasted image 20251113021759.png",
-    "Pasted image 20251113021751.png",
-    "Pasted image 20251113020559.png",
-    "Pasted image 20251113020542.png",
-    "Pasted image 20251113020447.png",
-    "Pasted image 20251113020338.png",
+    "Obsidian Vault/College/AI/Module 3/1.7 CSP Backtracking.md",
+    "Obsidian Vault/Images/Pasted image 20251113021759.png",
+    "Obsidian Vault/Images/Pasted image 20251113021751.png",
+    "Obsidian Vault/Images/Pasted image 20251113020559.png",
+    "Obsidian Vault/Images/Pasted image 20251113020542.png",
+    "Obsidian Vault/Images/Pasted image 20251113020447.png",
+    "Obsidian Vault/Images/Pasted image 20251113020338.png",
     "Obsidian Vault/College/AI/Module 4/1. Logic.md",
     "Obsidian Vault/College/AI/Quick Module 1.md",
-    "Obsidian Vault/College/AI/Module 3/1.7 CSP Backtracking.md",
-    "Pasted image 20251113014527.png",
+    "Obsidian Vault/Images/Pasted image 20251113014527.png",
     "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
     "Obsidian Vault/College/AI/Module 3/1.6 CSP Sudoku.md",
-    "Pasted image 20251113014239.png",
-    "Pasted image 20251113014134.png",
-    "Pasted image 20251113014124.png",
-    "Pasted image 20251113014101.png",
+    "Obsidian Vault/Images/Pasted image 20251113014239.png",
+    "Obsidian Vault/Images/Pasted image 20251113014134.png",
+    "Obsidian Vault/Images/Pasted image 20251113014124.png",
     "Obsidian Vault/College/AI/Module 3/1.5 Bound Propagation.md",
     "Obsidian Vault/College/AI/Module 3/1.4 Hyperarc, K-Path, Path Consistency.md",
     "Obsidian Vault/College/AI/Module 3/1.3 Arc Consistency Algorithm.md",
