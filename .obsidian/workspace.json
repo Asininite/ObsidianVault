@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
+                "file": "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Minimax Algorithm"
+              "title": "3. Alpha Beta Pruning"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
+    "Obsidian Vault/College/AI/Module 3/1. CSP.md",
     "Pasted image 20251112195559.png",
     "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
-    "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
     "Pasted image 20251112194635.png",
     "Pasted image 20251112194558.png",
     "Pasted image 20251112194547.png",
@@ -184,10 +185,8 @@
     "Pasted image 20251112193934.png",
     "Pasted image 20251112193928.png",
     "Pasted image 20251112193710.png",
-    "Obsidian Vault/College/AI/Module 3/1. CSP.md",
     "Pasted image 20251112193443.png",
     "Obsidian Vault/College/AI/Module 2/2.13 Over and Under Estimation.md",
-    "Pasted image 20251112193146.png",
     "Obsidian Vault/College/AI/Module 2/2.12 Informed Search A-star Search Algorithm.md",
     "Obsidian Vault/College/AI/Module 2/2.11 Informed Search - Best First Search.md",
     "Obsidian Vault/College/AI/Module 2/2.2 Search.md",
