@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 3/1.5 Bound Propagation.md",
+                "file": "Obsidian Vault/College/AI/Module 3/1.6 CSP Sudoku.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 Bound Propagation"
+              "title": "1.6 CSP Sudoku"
             }
           }
         ]
@@ -171,11 +171,13 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Pasted image 20251113014030.png",
+    "Obsidian Vault/College/AI/Module 3/1.5 Bound Propagation.md",
+    "Obsidian Vault/College/AI/Module 3/1.6 CSP Sudoku.md",
     "Pasted image 20251113004953.png",
     "Pasted image 20251113004901.png",
     "Pasted image 20251113004736.png",
     "Obsidian Vault/College/AI/Module 3/1.4 Hyperarc, K-Path, Path Consistency.md",
-    "Obsidian Vault/College/AI/Module 3/1.5 Bound Propagation.md",
     "Pasted image 20251113004701.png",
     "Pasted image 20251113004640.png",
     "Pasted image 20251113004519.png",
@@ -184,7 +186,6 @@
     "Pasted image 20251113003508.png",
     "Pasted image 20251112234556.png",
     "Obsidian Vault/College/AI/Module 3/1.3 Arc Consistency Algorithm.md",
-    "Pasted image 20251112234401.png",
     "Obsidian Vault/College/AI/Module 3/1.2 Constraint Propagation - Inference in CSP.md",
     "Obsidian Vault/College/AI/Module 3/1. CSP.md",
     "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
@@ -206,7 +207,6 @@
     "Obsidian Vault/College/AI/Module 2/2.4 Searching For Solution - Tree and Graph Search.md",
     "Obsidian Vault/College/AI/Module 2/2.7 Depth First Search.md",
     "Obsidian Vault/College/AI/Module 2/2.6 Uniform Cost Search.md",
-    "Obsidian Vault/College/AI/Module 2/2.3 Toy Problems.md",
     "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/College/Web Programming/Module 4",
     "Obsidian Vault/College/ISE/Module 1",
