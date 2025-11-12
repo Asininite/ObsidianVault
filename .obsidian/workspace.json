@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 2/2.14 Heuristic Functions.md",
+                "file": "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.14 Heuristic Functions"
+              "title": "0. Adversarial Search"
             }
           }
         ]
@@ -171,11 +171,13 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/College/AI/Module 3/Untitled.md",
+    "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
+    "Obsidian Vault/College/AI/Module 2/2.14 Heuristic Functions.md",
     "Pasted image 20251112193934.png",
     "Pasted image 20251112193928.png",
     "Pasted image 20251112193710.png",
     "Obsidian Vault/College/AI/Module 3/1. CSP.md",
-    "Obsidian Vault/College/AI/Module 2/2.14 Heuristic Functions.md",
     "Pasted image 20251112193443.png",
     "Obsidian Vault/College/AI/Module 2/2.13 Over and Under Estimation.md",
     "Pasted image 20251112193146.png",
@@ -185,7 +187,6 @@
     "Pasted image 20251112173547.png",
     "Pasted image 20251112173533.png",
     "Pasted image 20251112173525.png",
-    "Pasted image 20251112173508.png",
     "Obsidian Vault/College/AI/Module 2/2.11 Informed Search - Best First Search.md",
     "Obsidian Vault/College/AI/Module 2/2.2 Search.md",
     "Obsidian Vault/College/AI/Module 2/2.1 Problem Solving Agents.md",
@@ -199,7 +200,6 @@
     "Obsidian Vault/College/AI/Module 2/2.7 Depth First Search.md",
     "Obsidian Vault/College/AI/Module 2/2.6 Uniform Cost Search.md",
     "Obsidian Vault/College/AI/Module 2/2.3 Toy Problems.md",
-    "Obsidian Vault/College/AI/Module 3/0. Adversarial Search.md",
     "Obsidian Vault/College/AI/Module 3/2. Minimax Algorithm.md",
     "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
     "Obsidian Vault/College/AI/Module 1/4. Agent.md",
