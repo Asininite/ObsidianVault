@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 2/2.12 Informed Search A-star Search Algorithm.md",
+                "file": "Obsidian Vault/College/AI/Module 2/2.13 Over and Under Estimation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.12 Informed Search A-star Search Algorithm"
+              "title": "2.13 Over and Under Estimation"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "dd1b28331d45c774",
   "lastOpenFiles": [
+    "Obsidian Vault/College/AI/Module 2/2.12 Informed Search A-star Search Algorithm.md",
+    "Obsidian Vault/College/AI/Module 2/2.13 Over and Under Estimation.md",
     "Pasted image 20251112173558.png",
     "Pasted image 20251112173547.png",
     "Pasted image 20251112173533.png",
@@ -181,9 +183,7 @@
     "Pasted image 20251112150033.png",
     "Pasted image 20251112145935.png",
     "Pasted image 20251112145719.png",
-    "Pasted image 20251112145622.png",
     "Obsidian Vault/College/AI/Module 2/2.11 Informed Search - Best First Search.md",
-    "Obsidian Vault/College/AI/Module 2/2.12 Informed Search A-star Search Algorithm.md",
     "Obsidian Vault/College/AI/Module 2/2.2 Search.md",
     "Obsidian Vault/College/AI/Module 2/2.1 Problem Solving Agents.md",
     "Obsidian Vault/College/AI/Module 2/2.5 Breadth First Search.md",
