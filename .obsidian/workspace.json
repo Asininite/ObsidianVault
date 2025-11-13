@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 4/11. Unification FOL.md",
+                "file": "Obsidian Vault/College/AI/Module 4/12. Resolution in FOL IMP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Unification FOL"
+              "title": "12. Resolution in FOL IMP"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Pasted image 20251113163318.png",
+    "Obsidian Vault/College/AI/Module 4/11. Unification FOL.md",
+    "Obsidian Vault/College/AI/Module 4/12. Resolution in FOL IMP.md",
     "Pasted image 20251113163226.png",
     "Pasted image 20251113163221.png",
     "Pasted image 20251113163201.png",
@@ -181,10 +184,8 @@
     "Pasted image 20251113162055.png",
     "Pasted image 20251113161241.png",
     "Obsidian Vault/College/AI/Module 4/2. Logic, Entailment and Inference.md",
-    "Obsidian Vault/College/AI/Module 4/11. Unification FOL.md",
     "Pasted image 20251113161043.png",
     "Obsidian Vault/College/AI/Module 4/9. First Order Logic.md",
-    "Pasted image 20251113161016.png",
     "Obsidian Vault/College/AI/Module 4/10. FOL Questions.md",
     "Obsidian Vault/College/AI/Module 4/8. Propositional Logic Examples.md",
     "Obsidian Vault/College/AI/Module 4/7. Propositional Logic Inference.md",
@@ -206,7 +207,6 @@
     "Obsidian Vault/College/AI/Module 2/2.8 Depth Limited Search.md",
     "Obsidian Vault/College/AI/Module 2/2.7 Depth First Search.md",
     "Obsidian Vault/College/AI/Module 2/2.6 Uniform Cost Search.md",
-    "Obsidian Vault/College/AI/Module 2/2.14 Heuristic Functions.md",
     "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/College/ISE/Module 3",
     "Obsidian Vault/College/Renewable Energy Systems/Untitled",
