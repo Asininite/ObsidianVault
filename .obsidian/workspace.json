@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 5/1. Learning from Example.md",
+                "file": "Obsidian Vault/College/AI/Module 5/2. Types of learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Learning from Example"
+              "title": "2. Types of learning"
             }
           }
         ]
@@ -171,13 +171,15 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Pasted image 20251113184701.png",
+    "Obsidian Vault/College/AI/Module 5/1. Learning from Example.md",
+    "Obsidian Vault/College/AI/Module 5/2. Types of learning.md",
     "Pasted image 20251113184105.png",
     "Pasted image 20251113184024.png",
     "Pasted image 20251113184023.png",
     "Pasted image 20251113183929.png",
     "Pasted image 20251113183823.png",
     "Obsidian Vault/College/AI/Module 4/13. Forward Chaining and Backward Chaining.md",
-    "Obsidian Vault/College/AI/Module 5/1. Learning from Example.md",
     "Obsidian Vault/College/AI/Module 5/1. Linear Regression.md",
     "Obsidian Vault/College/AI/Quick Module 5.md",
     "Obsidian Vault/College/AI/Module 4/12. Resolution in FOL IMP.md",
@@ -187,7 +189,6 @@
     "Pasted image 20251113171120.png",
     "Pasted image 20251113171024.png",
     "Pasted image 20251113171009.png",
-    "Pasted image 20251113164204.png",
     "Obsidian Vault/College/AI/Module 4/11. Unification FOL.md",
     "Obsidian Vault/College/AI/Module 4/2. Logic, Entailment and Inference.md",
     "Obsidian Vault/College/AI/Module 4/9. First Order Logic.md",
@@ -207,7 +208,6 @@
     "Obsidian Vault/College/AI/Module 3/1.4 Hyperarc, K-Path, Path Consistency.md",
     "Obsidian Vault/College/AI/Module 3/1.3 Arc Consistency Algorithm.md",
     "Obsidian Vault/College/AI/Module 3/1.2 Constraint Propagation - Inference in CSP.md",
-    "Obsidian Vault/College/AI/Module 3/1.1 Why formulate as CSP.md",
     "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/College/ISE/Module 3",
     "Obsidian Vault/College/Renewable Energy Systems/Untitled",
