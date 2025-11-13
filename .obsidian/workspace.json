@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 4/6. And Elimination, Unit Resolution, DNF CNF, Converting to CNF.md",
+                "file": "Obsidian Vault/College/AI/Module 4/7. Propositional Logic Inference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. And Elimination, Unit Resolution, DNF CNF, Converting to CNF"
+              "title": "7. Propositional Logic Inference"
             }
           }
         ]
@@ -171,13 +171,14 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Obsidian Vault/College/AI/Module 4/6. And Elimination, Unit Resolution, DNF CNF, Converting to CNF.md",
+    "Obsidian Vault/College/AI/Module 4/7. Propositional Logic Inference.md",
     "Pasted image 20251113110456.png",
     "Obsidian Vault/College/AI/Module 4/3. Propositional Logic.md",
     "Pasted image 20251113110444.png",
     "Obsidian Vault/College/AI/Module 4/5. Inference (Modus Ponens) & Modus Tollens.md",
     "Obsidian Vault/College/AI/Module 4/4. Contrapositive and Inverse.md",
     "Obsidian Vault/College/AI/Module 4/2. Logic, Entailment and Inference.md",
-    "Obsidian Vault/College/AI/Module 4/6. And Elimination, Unit Resolution, DNF CNF, Converting to CNF.md",
     "Pasted image 20251113110051.png",
     "Pasted image 20251113110020.png",
     "Pasted image 20251113105859.png",
@@ -186,7 +187,6 @@
     "Pasted image 20251113105553.png",
     "Pasted image 20251113105246.png",
     "Pasted image 20251113104425.png",
-    "Pasted image 20251113102607.png",
     "Obsidian Vault/College/AI/Module 4/1. Logical Agent & Knowledge Based Agent.md",
     "Obsidian Vault/College/AI/Module 4/0. Logic.md",
     "Obsidian Vault/College/AI/Module 3/1.7 CSP Backtracking.md",
