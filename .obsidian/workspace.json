@@ -11,14 +11,12 @@
             "id": "e162113b279ec379",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 4/12. Resolution in FOL IMP.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Images/Pasted image 20251113095644.png"
               },
-              "icon": "lucide-file",
-              "title": "12. Resolution in FOL IMP"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251113095644"
             }
           }
         ]
@@ -169,26 +167,26 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e162113b279ec379",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
+    "Obsidian Vault/College/AI/Module 4/12. Resolution in FOL IMP.md",
     "Obsidian Vault/College/AI/Module 5/4. 3 input Decision tree.md",
-    "Pasted image 20251113201837.png",
-    "Pasted image 20251113201734.png",
-    "Pasted image 20251113201620.png",
-    "Pasted image 20251113201555.png",
-    "Pasted image 20251113201537.png",
+    "Obsidian Vault/Images/Pasted image 20251113201837.png",
+    "Obsidian Vault/Images/Pasted image 20251113201734.png",
+    "Obsidian Vault/Images/Pasted image 20251113201620.png",
+    "Obsidian Vault/Images/Pasted image 20251113201555.png",
+    "Obsidian Vault/Images/Pasted image 20251113201537.png",
     "Obsidian Vault/College/AI/Module 5/3. Decision Tree.md",
-    "Pasted image 20251113201423.png",
-    "Pasted image 20251113201410.png",
-    "Pasted image 20251113201353.png",
-    "Pasted image 20251113201337.png",
-    "Pasted image 20251113201323.png",
+    "Obsidian Vault/Images/Pasted image 20251113201423.png",
+    "Obsidian Vault/Images/Pasted image 20251113201410.png",
+    "Obsidian Vault/Images/Pasted image 20251113201353.png",
+    "Obsidian Vault/Images/Pasted image 20251113201337.png",
+    "Obsidian Vault/Images/Pasted image 20251113201323.png",
     "Obsidian Vault/College/AI/Module 5/2. Types of learning.md",
     "Obsidian Vault/College/AI/Module 5/1. Learning from Example.md",
     "Obsidian Vault/College/AI/Module 4/13. Forward Chaining and Backward Chaining.md",
     "Obsidian Vault/College/AI/Module 5/1. Linear Regression.md",
     "Obsidian Vault/College/AI/Quick Module 5.md",
-    "Obsidian Vault/College/AI/Module 4/12. Resolution in FOL IMP.md",
     "Obsidian Vault/College/AI/Module 5",
     "Obsidian Vault/College/AI/Module 4/11. Unification FOL.md",
     "Obsidian Vault/College/AI/Module 4/2. Logic, Entailment and Inference.md",
