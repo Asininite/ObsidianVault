@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 4/5. Inference (Modus Ponens) & Modus Tollens.md",
+                "file": "Obsidian Vault/College/AI/Module 4/6. And Elimination, Unit Resolution, DNF CNF, Converting to CNF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Inference (Modus Ponens) & Modus Tollens"
+              "title": "6. And Elimination, Unit Resolution, DNF CNF, Converting to CNF"
             }
           }
         ]
@@ -171,11 +171,12 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Obsidian Vault/College/AI/Module 4/5. Inference (Modus Ponens) & Modus Tollens.md",
+    "Obsidian Vault/College/AI/Module 4/6. And Elimination, Unit Resolution, DNF CNF, Converting to CNF.md",
     "Pasted image 20251113105730.png",
     "Pasted image 20251113105631.png",
     "Pasted image 20251113105553.png",
     "Obsidian Vault/College/AI/Module 4/4. Contrapositive and Inverse.md",
-    "Obsidian Vault/College/AI/Module 4/5. Inference (Modus Ponens) & Modus Tollens.md",
     "Obsidian Vault/College/AI/Module 4/3. Propositional Logic.md",
     "Pasted image 20251113105246.png",
     "Pasted image 20251113104425.png",
@@ -184,7 +185,6 @@
     "Pasted image 20251113102414.png",
     "Pasted image 20251113102342.png",
     "Pasted image 20251113102333.png",
-    "Pasted image 20251113102033.png",
     "Obsidian Vault/College/AI/Module 4/2. Logic, Entailment and Inference.md",
     "Obsidian Vault/College/AI/Module 4/1. Logical Agent & Knowledge Based Agent.md",
     "Obsidian Vault/College/AI/Module 4/0. Logic.md",
