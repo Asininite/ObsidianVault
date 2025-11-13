@@ -11,12 +11,14 @@
             "id": "e162113b279ec379",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20251113095644.png"
+                "file": "Obsidian Vault/College/AI/Module 5/4. 3 input Decision tree.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251113095644"
+              "icon": "lucide-file",
+              "title": "4. 3 input Decision tree"
             }
           }
         ]
@@ -167,8 +169,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "! My Stuff/Quick Notes.md",
+    "Obsidian Vault/Images/Pasted image 20251113095644.png",
     "Obsidian Vault/College/AI/Module 4/12. Resolution in FOL IMP.md",
     "Obsidian Vault/College/AI/Module 5/4. 3 input Decision tree.md",
     "Obsidian Vault/Images/Pasted image 20251113201837.png",
@@ -181,7 +185,6 @@
     "Obsidian Vault/Images/Pasted image 20251113201410.png",
     "Obsidian Vault/Images/Pasted image 20251113201353.png",
     "Obsidian Vault/Images/Pasted image 20251113201337.png",
-    "Obsidian Vault/Images/Pasted image 20251113201323.png",
     "Obsidian Vault/College/AI/Module 5/2. Types of learning.md",
     "Obsidian Vault/College/AI/Module 5/1. Learning from Example.md",
     "Obsidian Vault/College/AI/Module 4/13. Forward Chaining and Backward Chaining.md",
