@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 3/1.7 CSP Backtracking.md",
+                "file": "Obsidian Vault/College/AI/Module 4/1. Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.7 CSP Backtracking"
+              "title": "1. Logic"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Obsidian Vault/College/AI/Module 3/1.7 CSP Backtracking.md",
     "Obsidian Vault/College/AI/Module 2/2.5 Breadth First Search.md",
     "Obsidian Vault/Images/Pasted image 20251113021759.png",
     "Obsidian Vault/Images/Pasted image 20251113021751.png",
@@ -182,7 +183,6 @@
     "Obsidian Vault/Images/Pasted image 20251113014239.png",
     "Obsidian Vault/Images/Pasted image 20251113014134.png",
     "Obsidian Vault/Images/Pasted image 20251113014124.png",
-    "Obsidian Vault/College/AI/Module 3/1.7 CSP Backtracking.md",
     "Obsidian Vault/College/AI/Module 3/1.6 CSP Sudoku.md",
     "Obsidian Vault/College/AI/Module 3/1.5 Bound Propagation.md",
     "Obsidian Vault/College/AI/Module 3/1.4 Hyperarc, K-Path, Path Consistency.md",
