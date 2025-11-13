@@ -11,14 +11,12 @@
             "id": "e162113b279ec379",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 2/2.8 Depth Limited Search.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Images/Pasted image 20251112145134.png"
               },
-              "icon": "lucide-file",
-              "title": "2.8 Depth Limited Search"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251112145134"
             }
           }
         ]
@@ -171,6 +169,12 @@
   },
   "active": "e162113b279ec379",
   "lastOpenFiles": [
+    "Obsidian Vault/Images/Pasted image 20251112145250.png",
+    "Obsidian Vault/Images/Pasted image 20251113163318.png",
+    "Obsidian Vault/Images/Pasted image 20251113201837.png",
+    "Obsidian Vault/Images/Screenshot_20250424-143945.YouTube ReVanced.png",
+    "Obsidian Vault/College/AI/Module 2/2.14 Heuristic Functions.md",
+    "Obsidian Vault/College/AI/Module 2/2.8 Depth Limited Search.md",
     "Obsidian Vault/College/AI/Module 2/2.7 Depth First Search.md",
     "Obsidian Vault/College/AI/Module 2/2.1 Problem Solving Agents.md",
     "Obsidian Vault/College/AI/Module 2/! Search Strategies.md",
@@ -193,10 +197,7 @@
     "Pasted image 20251113203358.png",
     "Pasted image 20251113203346.png",
     "! My Stuff/Quick Notes.md",
-    "Obsidian Vault/Images/Pasted image 20251113095644.png",
     "Obsidian Vault/College/AI/Module 4/12. Resolution in FOL IMP.md",
-    "Obsidian Vault/Images/Pasted image 20251113201837.png",
-    "Obsidian Vault/Images/Pasted image 20251113201734.png",
     "Obsidian Vault/College/AI/Module 5/3. Decision Tree.md",
     "Obsidian Vault/College/AI/Module 5/2. Types of learning.md",
     "Obsidian Vault/College/AI/Module 5/1. Learning from Example.md",
@@ -205,9 +206,6 @@
     "Obsidian Vault/College/AI/Module 5",
     "Obsidian Vault/College/AI/Module 4/11. Unification FOL.md",
     "Obsidian Vault/College/AI/Module 4/2. Logic, Entailment and Inference.md",
-    "Obsidian Vault/College/AI/Module 4/9. First Order Logic.md",
-    "Obsidian Vault/College/AI/Module 4/10. FOL Questions.md",
-    "Obsidian Vault/College/AI/Module 4/8. Propositional Logic Examples.md",
     "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/College/ISE/Module 3",
     "Obsidian Vault/College/Renewable Energy Systems/Untitled",
