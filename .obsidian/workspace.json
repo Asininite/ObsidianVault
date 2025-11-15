@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Web Programming/Module 1/1. Evolution of Internet.md",
+                "file": "Obsidian Vault/College/Web Programming/Module 1/2. Web Addressing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Evolution of Internet"
+              "title": "2. Web Addressing"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "1d7016308c311e82",
   "lastOpenFiles": [
-    "Obsidian Vault/College/Web Programming/0. Questions.md",
     "Obsidian Vault/College/Web Programming/Module 1/1. Evolution of Internet.md",
+    "Obsidian Vault/College/Web Programming/Module 1/2. Web Addressing.md",
+    "Obsidian Vault/College/Web Programming/0. Questions.md",
     "conflict-files-obsidian-git.md",
     "Obsidian Vault/College/Web Programming/Module 1",
     "Obsidian Vault/College/AI/Module 5/5. Supervised Learning.md",
@@ -223,7 +224,6 @@
     "Obsidian Vault/College/AI/Module 3/3. Alpha Beta Pruning.md",
     "Obsidian Vault/College/AI/Module 3/1.6 CSP Sudoku.md",
     "Obsidian Vault/College/AI/Module 3/1.5 Bound Propagation.md",
-    "Obsidian Vault/College/AI/Module 3/1.4 Hyperarc, K-Path, Path Consistency.md",
     "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/College/Web Programming/Module 4",
     "Obsidian Vault/College/ISE/Module 1",
