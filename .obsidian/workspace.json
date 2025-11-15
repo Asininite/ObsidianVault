@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2.5 Breadth First Search"
             }
+          },
+          {
+            "id": "1d7016308c311e82",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "dd1b28331d45c774",
+  "active": "1d7016308c311e82",
   "lastOpenFiles": [
     "Obsidian Vault/College/AI/Module 2/2.4 Searching For Solution - Tree and Graph Search.md",
     "Obsidian Vault/College/AI/Module 2/2.3 Toy Problems.md",
