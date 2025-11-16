@@ -1,86 +1,87 @@
 <!DOCTYPE html>
 <html lang="en">
-    <meta charset="utf-8">
-    <head>
-        <title> Module 1 </title>
-    </head>
+<meta charset="utf-8">
 
-    <body>
-        <p><a href="index.html"> Home </a></p>
-        <a href="mailto:asininite@gmail.com"> Mail to me </a> <br>
-        <hr>
-        <img src="image.png" alt="an image">
+<head>
+    <title> Module 1 </title>
+</head>
 
-        <ul>
-            <li> tea</li>
-            <li> coffee</li>
-            <ol>
-                <li> &lt </li>
-                <li> &gt &nbsp; &amp; </li>
-            </ol>
-            <li> something </li>
-        </ul>
+<body>
+    <p><a href="index.html"> Home </a></p>
+    <a href="mailto:asininite@gmail.com"> Mail to me </a> <br>
+    <hr>
+    <img src="image.png" alt="an image">
 
-        <form action="register.php" method="post">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" required><br>
+    <ul>
+        <li> tea</li>
+        <li> coffee</li>
+        <ol>
+            <li> &lt </li>
+            <li> &gt &nbsp; &amp; </li>
+        </ol>
+        <li> something </li>
+    </ul>
 
-  <label for="address">Address:</label>
-  <textarea id="address" name="address" rows="3" cols="40"></textarea><br>
+    <form action="register.php" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br>
 
-  <label for="email">Email:</label>
-  <input type="email" id="email" name="email" required><br>
+        <label for="address">Address:</label>
+        <textarea id="address" name="address" rows="3" cols="40"></textarea><br>
 
-  <label for="contact">Contact No:</label>
-  <input type="tel" id="contact" name="contact" pattern="[0-9]{10}"><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br>
+        <label for="contact">Contact No:</label>
+        <input type="tel" id="contact" name="contact" pattern="[0-9]{10}"><br>
 
-  <label for="dob">Date of Birth:</label>
-  <input type="date" id="dob" name="dob"><br>
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" name="dob"><br>
 
-  Sex:
-  <label><input type="radio" name="sex" value="M"> Male</label>
-  <label><input type="radio" name="sex" value="F"> Female</label><br>
+        Sex:
+        <label><input type="radio" name="sex" value="M"> Male</label>
+        <label><input type="radio" name="sex" value="F"> Female</label><br>
 
-  Areas of interest:<br>
-  <label><input type="checkbox" name="interest[]" value="web"> Web Dev</label>
-  <label><input type="checkbox" name="interest[]" value="db"> Databases</label>
-  <label><input type="checkbox" name="interest[]" value="ml"> Machine Learning</label><br>
+        Areas of interest:<br>
+        <label><input type="checkbox" name="interest[]" value="web"> Web Dev</label>
+        <label><input type="checkbox" name="interest[]" value="db"> Databases</label>
+        <label><input type="checkbox" name="interest[]" value="ml"> Machine Learning</label><br>
 
-  <label for="exp">Experience:</label>
-  <select id="exp" name="experience">
-    <option value="0">0-1 years</option>
-    <option value="1">1-3 years</option>
-    <option value="3">3+ years</option>
-  </select><br>
+        <label for="exp">Experience:</label>
+        <select id="exp" name="experience">
+            <option value="0">0-1 years</option>
+            <option value="1">1-3 years</option>
+            <option value="3">3+ years</option>
+        </select><br>
 
-  <input type="submit" value="Register">
-  <input type="reset" value="Reset">
-</form>
+        <input type="submit" value="Register">
+        <input type="reset" value="Reset">
+    </form>
 
-        <table border="l" align="center">
-            <caption><strong> Something in the way</strong></caption>
-            <thead>
-                <tr>
-                    <th> Name </th>
-                    <th> Age </th>
-                    <th> Height </th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td> John </td>
-                    <td> 25 </td>
-                    <td> 5'9" </td>
-                </tr>
-            </tbody>
-            <tfoot>
-                <tr>
-                    <th> Names</th>
-                    <th> Ages </th>
-                    <th> Heights </th>
-                </tr>
-            </tfoot>
-        </table> 
+    <table border="l" align="center">
+        <caption><strong> Something in the way</strong></caption>
+        <thead>
+            <tr>
+                <th> Name </th>
+                <th> Age </th>
+                <th> Height </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td> John </td>
+                <td> 25 </td>
+                <td> 5'9" </td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th> Names</th>
+                <th> Ages </th>
+                <th> Heights </th>
+            </tr>
+        </tfoot>
+    </table>
 
-    </body>
+</body>
+
 </html>
