@@ -153,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "ace-code-editor:Open CSS snippet manager": false,
       "switcher:Open quick switcher": false,
