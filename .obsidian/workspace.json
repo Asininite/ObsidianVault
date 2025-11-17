@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1. Logical Agent & Knowledge Based Agent"
             }
+          },
+          {
+            "id": "4165616b41b061e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "e162113b279ec379",
+  "active": "4165616b41b061e8",
   "lastOpenFiles": [
     "Obsidian Vault/College/AI/Module 3/1. CSP.md",
     "Obsidian Vault/College/AI/Module 2/2.7 Depth First Search.md",
