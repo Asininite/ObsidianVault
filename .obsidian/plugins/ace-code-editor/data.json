@@ -6,7 +6,7 @@
   "lightTheme": "chrome",
   "darkTheme": "monokai",
   "keyboard": "default",
-  "lineNumbers": true,
+  "showLineNumbers": true,
   "fontSize": 14,
   "fontFamily": [
     "Consolas",
@@ -17,5 +17,12 @@
   "snippetsManager": {
     "location": true,
     "icon": "code"
-  }
+  },
+  "showPrintMargin": true,
+  "showInvisibles": false,
+  "displayIndentGuides": true,
+  "showFoldWidgets": true,
+  "embedMaxHeight": 500,
+  "wrap": true,
+  "lineNumbers": true
 }
