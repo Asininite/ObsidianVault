@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7da5e3157bf5a191",
+        "id": "c84d9af6b1330dbb",
         "type": "tabs",
         "children": [
           {
-            "id": "e162113b279ec379",
+            "id": "760b9bafaadacb39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 4/1. Logical Agent & Knowledge Based Agent.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Images/Pasted image 20251113203346.png"
               },
-              "icon": "lucide-file",
-              "title": "1. Logical Agent & Knowledge Based Agent"
-            }
-          },
-          {
-            "id": "4165616b41b061e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251113203346"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,18 +161,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "4165616b41b061e8",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
+    "Obsidian Vault/Images/Pasted image 20251113203346.png",
+    "Obsidian Vault/College/AI/Module 4/1. Logical Agent & Knowledge Based Agent.md",
     "conflict-files-obsidian-git.md",
-    "Pasted image 20251116201901.png",
-    "Pasted image 20251116200423.png",
-    "Pasted image 20251116181630.png",
+    "Obsidian Vault/Images/Pasted image 20251116201901.png",
+    "Obsidian Vault/Images/Pasted image 20251116200423.png",
+    "Obsidian Vault/Images/Pasted image 20251116181630.png",
     "Obsidian Vault/College/Web Programming/Module 5/1. JSOn.md",
     "Obsidian Vault/College/Web Programming/Module 5",
     "Obsidian Vault/College/Web Programming/Module 1/stuff.html",
@@ -219,10 +205,8 @@
     "Obsidian Vault/Images/Pasted image 20251113163318.png",
     "Obsidian Vault/Images/Pasted image 20251113201837.png",
     "Obsidian Vault/Images/Screenshot_20250424-143945.YouTube ReVanced.png",
-    "Obsidian Vault/College/AI/Module 2/2.1 Problem Solving Agents.md",
-    "Obsidian Vault/College/AI/Module 2/! Search Strategies.md",
-    "Pasted image 20251113203837.png",
-    "Pasted image 20251113203737.png",
+    "Obsidian Vault/Images/Pasted image 20251113203837.png",
+    "Obsidian Vault/Images/Pasted image 20251113203737.png",
     "Obsidian Vault/College/AI/Module 5",
     "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/College/ISE/Module 3",
