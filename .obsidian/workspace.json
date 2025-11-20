@@ -145,13 +145,23 @@
               "icon": "lucide-list",
               "title": "Outline of 16 Bit Addition With 8086"
             }
+          },
+          {
+            "id": "d45d13907037c03f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
