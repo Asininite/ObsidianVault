@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Web Programming/0. Questions.md",
+                "file": "Obsidian Vault/College/Renewable Energy Systems/PYQs/urban waste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Questions"
+              "title": "urban waste"
             }
           }
         ],
@@ -147,9 +147,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "b3dfbf8662048fea",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +177,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f7d23ea1ef129056",
+  "active": "205126ed71132d8e",
   "lastOpenFiles": [
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/4..md",
+    "Obsidian Vault/College/Web Programming/0. Questions.md",
     "Pasted image 20251121010558.png",
     "Pasted image 20251121010552.png",
     "Pasted image 20251121010540.png",
@@ -179,7 +191,6 @@
     "Pasted image 20251120155929.png",
     "Pasted image 20251120131527.png",
     "Pasted image 20251120131520.png",
-    "Pasted image 20251120131514.png",
     "Obsidian Vault/College/Web Programming/Module 5/2. Laravel.md",
     "Obsidian Vault/College/Web Programming/Module 5/1. JSOn.md",
     "Obsidian Vault/College/Web Programming/Module 5",
@@ -189,7 +200,6 @@
     "Obsidian Vault/College/Web Programming/Module 1/3.2 Client side caching.md",
     "Obsidian Vault/College/Renewable Energy Systems/PYQs/urban waste.md",
     "Obsidian Vault/College/Renewable Energy Systems/PYQs/5.md",
-    "Obsidian Vault/College/Renewable Energy Systems/PYQs/4..md",
     "Obsidian Vault/College/Renewable Energy Systems/PYQs",
     "Obsidian Vault/College/Renewable Energy Systems/5.2 Small Hydropower Plants.md",
     "Obsidian Vault/College/Renewable Energy Systems/5.1 Turbines.md",
