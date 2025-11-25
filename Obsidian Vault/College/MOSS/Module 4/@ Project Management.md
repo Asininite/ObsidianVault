@@ -12,8 +12,8 @@
 	  if consumer product, formal records of management decisions are unnecessary
 	  if safety-critical product, records and safety practices are necessary
 - Organizational Culture 
-	  some like Bungie are nice and welcoming
-	  some like EA are torture and involve lots of hours
+	  some like Google are nice and welcoming
+	  some like TCS are torture and involve lots of hours
 - Software Development Process
 	  agile processes have lightweight management
 	  formal processes have management monitoring 
