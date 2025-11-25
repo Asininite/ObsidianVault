@@ -1,4 +1,4 @@
-AAPSMIFR
+AAPSMIFR (aa-pas-miff-ruh)
 
 - **Abstraction**
 - **Architecture**
