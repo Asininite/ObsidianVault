@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "ISO 9126 Quality Factors FRUEMP"
             }
-          },
-          {
-            "id": "e39989d821a2e320",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +184,7 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "e39989d821a2e320",
+  "active": "1d7016308c311e82",
   "lastOpenFiles": [
     "Obsidian Vault/College/MOSS/Module 5/Software Quality.md",
     "Obsidian Vault/College/MOSS/Module 5/Microservices.md",
