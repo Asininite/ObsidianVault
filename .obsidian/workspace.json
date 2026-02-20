@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4f80edbf5d0f44",
+        "id": "c84d9af6b1330dbb",
         "type": "tabs",
         "children": [
           {
-            "id": "dd1b28331d45c774",
+            "id": "760b9bafaadacb39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/AI/Module 2/2.5 Breadth First Search.md",
-                "mode": "preview",
+                "file": "Obsidian Vault/College/ISE/Module 1/2.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 Breadth First Search"
-            }
-          },
-          {
-            "id": "1d7016308c311e82",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251120131503.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251120131503"
+              "title": "2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Computer_Networks",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 310.5
   },
   "right": {
     "id": "2285ec033214da64",
@@ -158,8 +145,19 @@
               "icon": "lucide-list",
               "title": "Outline of 16 Bit Addition With 8086"
             }
+          },
+          {
+            "id": "d45d13907037c03f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,7 +166,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
+      "ace-code-editor:Open CSS snippet manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,58 +177,56 @@
       "command-palette:Open command palette": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false,
-      "ace-code-editor:Open CSS snippet manager": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "1d7016308c311e82",
+  "active": "760b9bafaadacb39",
   "lastOpenFiles": [
-    "Obsidian Vault/College/AI/Module 2/2.5 Breadth First Search.md",
-    "Pasted image 20251120131503.png",
-    "Pasted image 20251121004213.png",
-    "Obsidian Vault/Placement/! DSA/11. Two Pointers/Two Pointers.md",
-    "Obsidian Vault/Placement/! DSA/11. Two Pointers/Merge Two Sorted Arrays.md",
-    "Obsidian Vault/Placement/! DSA/8. Stack and Queues/LRU CACHE.md",
-    "Obsidian Vault/Placement/! DSA/1 Arrays/1. Easy/1. Largest Element in Array.md",
-    "Obsidian Vault/Placement/! DSA/1 Arrays/@ Revise/1. Moore's Voting Algorithm.md",
+    "Obsidian Vault/Projects/Final Project/Untitled 1.md",
     "Obsidian Vault/Projects/Final Project/To Do/2. Prompts.md",
     "Obsidian Vault/Projects/Final Project/To Do/1. Update the SDD SRS.md",
-    "Obsidian Vault/Projects/Final Project/Untitled 1.md",
     "Obsidian Vault/Projects/Final Project/To Do",
-    "Obsidian Vault/College/MOSS/Module 5/ISO 9126 Quality Factors FRUEMP.md",
-    "Obsidian Vault/College/MOSS/Module 5/Software Quality.md",
-    "Obsidian Vault/College/MOSS/Module 5/Microservices.md",
-    "Obsidian Vault/College/MOSS/Module 5/CMMI  Capability Maturity Model Integration.md",
-    "Obsidian Vault/College/MOSS/Module 5/Garvins Quality Dimensions PFRCDSAP.md",
-    "Obsidian Vault/College/MOSS/Module 5/Achieving Software Quality.md",
-    "Obsidian Vault/College/MOSS/Module 4/@ Agile Planning.md",
-    "Obsidian Vault/College/MOSS/Module 4/@ Software Pricing.md",
-    "Obsidian Vault/College/MOSS/Module 4/@ SCRUM.md",
-    "Obsidian Vault/College/MOSS/Module 4/@ Risk Management.md",
-    "Obsidian Vault/College/MOSS/Module 4/@ Project Management.md",
-    "Obsidian Vault/College/MOSS/Module 4/@ Configuration Management.md",
-    "Obsidian Vault/College/MOSS/Module 4/@ Algorithmic Cost Modeling.md",
-    "Obsidian Vault/College/MOSS/Module 3/!!Short Stuff.md",
-    "Obsidian Vault/College/MOSS/Module 2/Functional and non functional.md",
-    "Obsidian Vault/College/MOSS/Module 2/Requirement engineering.md",
-    "Obsidian Vault/College/MOSS/Module 2/Scenarios, Personas, User Stories,.md",
+    "Obsidian Vault/College/ISE/Module 1/1. Need For Safety.md",
+    "Obsidian Vault/College/ISE/Module 1/2.md",
+    "Obsidian Vault/College/ISE/Module 5/6. HAZOP.md",
+    "Obsidian Vault/College/ISE/Module 5/3. Risk Assessment Tools.md",
+    "Obsidian Vault/College/ISE/Module 5/2. Hazard Identification and Risk Assessment.md",
+    "Obsidian Vault/College/ISE/Module 5/5. PHA.md",
+    "Obsidian Vault/College/ISE/Module 5/7. MSDS & Chemical Hazard and Control.md",
+    "Obsidian Vault/College/ISE/Module 4/2. Barrier Guards and Safeguarding Devices.md",
     "Pasted image 20251124231156.png",
+    "Obsidian Vault/College/ISE/Module 4",
     "Pasted image 20251124202302.png",
+    "Obsidian Vault/College/ISE/Module 5/1. MSDS.md",
+    "Obsidian Vault/College/ISE/Module 5/4. Dow Fire.md",
     "Pasted image 20251124194433.png",
     "Pasted image 20251124193204.png",
     "Pasted image 20251124193117.png",
     "Pasted image 20251124192559.png",
     "Pasted image 20251124192430.png",
     "Pasted image 20251124192414.png",
+    "Pasted image 20251124192354.png",
+    "Pasted image 20251124192222.png",
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/1..md",
+    "Obsidian Vault/College/ISE/Module 5.md",
     "Obsidian Vault/College/ISE/Module 5",
-    "Obsidian Vault/College/ISE/Module 4",
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/2..md",
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/3..md",
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/urban waste.md",
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/4..md",
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/5.md",
+    "Obsidian Vault/College/Renewable Energy Systems/1.3 Tidal.md",
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/5/Head and Discharge.md",
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/5/Small Hydro Classification.md",
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/5",
     "Obsidian Vault/College/Renewable Energy Systems/PYQs",
+    "Obsidian Vault/College/Renewable Energy Systems/1.2 OTEC.md",
+    "Obsidian Vault/College/Renewable Energy Systems/3.2 Horizontal Axis vs Vertical Axis.md",
+    "Obsidian Vault/College/Renewable Energy Systems/4.4 Biogas Plants.md",
     "Obsidian Vault/College/Web Programming/Module 5",
     "Obsidian Vault/College/Web Programming/Module 1/stuff.html",
     "Obsidian Vault/College/Web Programming/Module 1",
     "Obsidian Vault/College/AI/Module 5",
-    "Obsidian Vault/Projects/Final Project/Presentation",
-    "Obsidian Vault/College/Web Programming/Module 4"
+    "Obsidian Vault/Projects/Final Project/Presentation"
   ]
 }
