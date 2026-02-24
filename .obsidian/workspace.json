@@ -37,12 +37,14 @@
             "id": "fd7c45c2c4c8c76c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20251120124929.png"
+                "file": "Obsidian Vault/Chess/1.e4 2.c5 3.c4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251120124929"
+              "icon": "lucide-file",
+              "title": "1.e4 2.c5 3.c4"
             }
           }
         ],
@@ -194,10 +196,12 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "fd7c45c2c4c8c76c",
   "lastOpenFiles": [
-    "Obsidian Vault/Images/Pasted image 20251120130743.png",
     "Obsidian Vault/Images/Pasted image 20251120124929.png",
+    "Obsidian Vault/Chess/1.e4 2.c5 3.c4.md",
+    "Obsidian Vault/Chess",
+    "Obsidian Vault/Images/Pasted image 20251120130743.png",
     "Obsidian Vault/Images/Pasted image 20251120131503.png",
     "Obsidian Vault/College/AI/Module 2/2.5 Breadth First Search.md",
     "Obsidian Vault/Images/Pasted image 20251121004213.png",
@@ -225,14 +229,12 @@
     "Obsidian Vault/College/MOSS/Module 4/@ Algorithmic Cost Modeling.md",
     "Obsidian Vault/College/MOSS/Module 3/!!Short Stuff.md",
     "Obsidian Vault/College/MOSS/Module 2/Functional and non functional.md",
-    "Obsidian Vault/College/MOSS/Module 2/Requirement engineering.md",
     "Obsidian Vault/Images/Pasted image 20251124231156.png",
     "Obsidian Vault/Images/Pasted image 20251124202302.png",
     "Obsidian Vault/Images/Pasted image 20251124194433.png",
     "Obsidian Vault/Images/Pasted image 20251124193204.png",
     "Obsidian Vault/Images/Pasted image 20251124193117.png",
     "Obsidian Vault/Images/Pasted image 20251124192559.png",
-    "Obsidian Vault/Images/Pasted image 20251124192430.png",
     "Obsidian Vault/College/ISE/Module 5",
     "Obsidian Vault/College/ISE/Module 4",
     "Obsidian Vault/College/Renewable Energy Systems/PYQs",
@@ -240,7 +242,6 @@
     "Obsidian Vault/College/Web Programming/Module 1/stuff.html",
     "Obsidian Vault/College/Web Programming/Module 1",
     "Obsidian Vault/College/AI/Module 5",
-    "Obsidian Vault/Projects/Final Project/Presentation",
-    "Obsidian Vault/College/Web Programming/Module 4"
+    "Obsidian Vault/Projects/Final Project/Presentation"
   ]
 }
