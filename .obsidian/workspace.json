@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Chess/1. d4 2. e5 (Englund Gambit).md",
+                "file": "Obsidian Vault/Chess/1. e4 2. c5 3. c4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. d4 2. e5 (Englund Gambit)"
+              "title": "1. e4 2. c5 3. c4"
             }
           }
         ],
@@ -212,6 +212,7 @@
   },
   "active": "c2cde0a369d6e183",
   "lastOpenFiles": [
+    "Obsidian Vault/Chess/1. d4 2. e5 (Englund Gambit).md",
     "Pasted image 20260224153022.png",
     "Pasted image 20260224153016.png",
     "Pasted image 20260224153005.png",
@@ -222,9 +223,7 @@
     "Pasted image 20260224150332.png",
     "Pasted image 20260224150312.png",
     "Untitled.md",
-    "Obsidian Vault/Chess/1. d4 2. e5 (Englund Gambit).md",
     "Pasted image 20260224145420.png",
-    "Pasted image 20260224145303.png",
     "Obsidian Vault/Chess/1. e4 2. c5 3. c4.md",
     "Obsidian Vault/Chess",
     "Obsidian Vault/College/AI/Module 2/2.5 Breadth First Search.md",
