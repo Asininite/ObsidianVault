@@ -65,12 +65,14 @@
             "id": "a5c80894fcb4970f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Obsidian Vault/Chess/1. d4 2. e5 (Englund Gambit).md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "1. d4 2. e5 (Englund Gambit)"
             }
           }
         ],
