@@ -74,9 +74,21 @@
               "icon": "lucide-file",
               "title": "1. d4 2. e5 (Englund Gambit)"
             }
+          },
+          {
+            "id": "00ab3177034a1327",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -224,7 +236,7 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "a5c80894fcb4970f",
+  "active": "00ab3177034a1327",
   "lastOpenFiles": [
     "Obsidian Vault/Chess/1. e4 2. c5 3. c4.md",
     "Obsidian Vault/Chess/1. d4 2. e5 (Englund Gambit).md",
