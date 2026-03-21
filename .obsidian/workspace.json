@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Placement/! DSA/Misc/@ Sorting Algorithms/4. Merge Sort.md",
+                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/0. Introduction/1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Merge Sort"
+              "title": "1. Introduction"
             }
           }
         ]
@@ -171,10 +171,12 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
+    "Obsidian Vault/Placement/! DSA/Misc/@ Sorting Algorithms/3. Insertion Sort.md",
+    "Obsidian Vault/Placement/! DSA/Misc/@ Sorting Algorithms/4. Merge Sort.md",
     "Obsidian Vault/Placement/! DSA/Misc/2. Kadane's Algorithm.md",
     "Obsidian Vault/Placement/! DSA/Blind 75.md",
     "Obsidian Vault/Placement/! DSA/IBM.md",
-    "Obsidian Vault/Placement/! DSA/Misc/@ Sorting Algorithms/4. Merge Sort.md",
     "Obsidian Vault/Placement/! DSA/11. Two Pointers/Hard/2. Merge Two Sorted Arrays In Place.md",
     "Obsidian Vault/College/AAD/Module 3/2. Merge Sort.md",
     "Obsidian Vault/Placement/Core Subjects/CCW/! PYQ January 2024.md",
@@ -210,8 +212,6 @@
     "Obsidian Vault/Placement/! DSA/8. Stack and Queues/LRU CACHE.md",
     "Obsidian Vault/Placement/! DSA/1 Arrays/1. Easy/1. Largest Element in Array.md",
     "Obsidian Vault/Placement/! DSA/1 Arrays/@ Revise/1. Moore's Voting Algorithm.md",
-    "Obsidian Vault/Projects/Final Project/To Do/2. Prompts.md",
-    "Obsidian Vault/Projects/Final Project/To Do/1. Update the SDD SRS.md",
     "Obsidian Vault/Projects/Final Project/To Do",
     "Obsidian Vault/College/ISE/Module 5",
     "Obsidian Vault/College/ISE/Module 4",
