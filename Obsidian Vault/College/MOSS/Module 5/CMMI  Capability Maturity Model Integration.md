@@ -5,11 +5,11 @@
 	  continuous defines a process in two dimensions 
 
 
-- LEve 0 : incomplete 
+- Level 0 : incomplete 
 	  process area not performed and all goals and objectives not achieved
 - level 1 : performed
 	  all specific goals have been achieved
 - level 2 : managed
-- level 3 : defiend
+- level 3 : defined
 - level 4 : quantitatively managed
-- level 5 : optimised
+- level 5 : optimized

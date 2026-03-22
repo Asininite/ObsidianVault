@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! DSA/!! Important/@ Sorting Algorithms/4. Merge Sort.md",
+                "file": "Obsidian Vault/College/Programming Paradigms/Module 3/2. Coroutines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Merge Sort"
+              "title": "2. Coroutines"
             }
           }
         ],
@@ -147,9 +147,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "b3dfbf8662048fea",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,51 +179,50 @@
   },
   "active": "205126ed71132d8e",
   "lastOpenFiles": [
-    "Obsidian Vault/! DSA/11. Two Pointers/Merge Two Sorted Arrays.md",
-    "Obsidian Vault/! DSA/11. Two Pointers/3Sum.md",
-    "Obsidian Vault/! DSA/8. Stack and Queues/Striver 79/1. Next Greater Element.md",
-    "Obsidian Vault/! DSA/6. Linked List/Medium/Merge Two Sorted Linked Lists.md",
-    "Obsidian Vault/! DSA/6. Linked List/Medium/5. Remove Nth Node from Linked List.md",
-    "Obsidian Vault/! DSA/6. Linked List/Medium/! 4. Find Starting Point of Loop in LL.md",
-    "Obsidian Vault/! DSA/6. Linked List/Medium/2. Segregate Odd and Even nodes in LL.md",
-    "Obsidian Vault/! DSA/6. Linked List/Medium/3. Detect Loop in Linked List.md",
-    "Obsidian Vault/! DSA/6. Linked List/Medium/! 1. Add Two Numbers In LL.md",
-    "Obsidian Vault/! DSA/5. Binary Search/3. Hard/1. Aggressive Cows.md",
-    "! My Stuff/Q/1. Send emails to customers based on certain criteria.md",
-    "/! My Stuff/Q/1. Send emails to customers based on certain criteria.md",
-    "/! My Stuff/Q",
-    "! My Stuff/Q",
-    "/! My Stuff",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/7. Combination Sum III.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/6. Subsets II.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/5. Subsets I.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/4. Combination Sum II.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/1. Generate Power Set.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/2. Medium/3. Combination Sum I.md",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/4. Count Subsets with Sum K.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/4. Count Subsets with Sum K.md",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction/! 0. Shortcut.md",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/0. Introduction",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming",
-    "/Obsidian Vault/! DSA",
+    "Obsidian Vault/College/Programming Paradigms/Module 3/1. Closure.md",
+    "Obsidian Vault/Chess/1. d4 2. e5 (Englund Gambit).md",
+    "Obsidian Vault/Images/Pasted image 20260224153022.png",
+    "Obsidian Vault/Images/Pasted image 20260224153016.png",
+    "Obsidian Vault/Images/Pasted image 20260224153005.png",
+    "Obsidian Vault/Images/Pasted image 20260224152254.png",
+    "Obsidian Vault/Images/Pasted image 20260224152238.png",
+    "Obsidian Vault/Images/Pasted image 20260224152129.png",
+    "Obsidian Vault/Images/Pasted image 20260224150457.png",
+    "Obsidian Vault/Images/Pasted image 20260224150332.png",
+    "Obsidian Vault/Images/Pasted image 20260224150312.png",
+    "Obsidian Vault/Images/Pasted image 20260224145420.png",
+    "Obsidian Vault/College/Programming Paradigms/Module 3/5. Dijkstra's Guarded Commands.md",
+    "Obsidian Vault/College/Programming Paradigms/Module 3/4. Overloaded Subprograms.md",
+    "Obsidian Vault/College/Programming Paradigms/Module 3/3. Iterative Statements.md",
+    "Obsidian Vault/College/Programming Paradigms/Module 3/2. Coroutines.md",
+    "/Obsidian Vault/Images",
+    "/Obsidian Vault/College/Programming Paradigms/Module 3/5. Dijkstra's Guarded Commands.md",
+    "/Obsidian Vault/College/Programming Paradigms/Module 3/4. Overloaded Subprograms.md",
+    "/Obsidian Vault/College/Programming Paradigms/Module 3/3. Iterative Statements.md",
+    "/Obsidian Vault/College/Programming Paradigms/Module 3/2. Coroutines.md",
+    "/Obsidian Vault/College/Programming Paradigms/Module 3/1. Closure.md",
+    "Obsidian Vault/College/Programming Paradigms/Module 3",
+    "/Obsidian Vault/College/Programming Paradigms/Module 3",
+    "/Obsidian Vault/College/Programming Paradigms",
+    "Obsidian Vault/College/Programming Paradigms",
+    "/Obsidian Vault/College",
     "/Obsidian Vault",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/3. Count all subsequences with sum K.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/2. Check if there exists a subsequence with sum K.md",
-    "Obsidian Vault/! DSA/4. Recursion and Backtracking/1. Easy/1. Pow(x, n).md",
-    "Obsidian Vault/! DSA/6. Linked List/Easy/4. Deleting Element with value X.md",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences/3. partition into two subsets.md",
-    "Obsidian Vault/! DSA/13. Dynamic Programming/4. DP on Subsequences",
-    "/Obsidian Vault/! DSA/13. Dynamic Programming/3. DP on Grids",
-    "Pasted image 20250821120106.png",
-    "Pasted image 20250821115617.png",
-    "Pasted image 20250821115610.png",
-    "/Pasted image 20250821120106.png",
-    "/Pasted image 20250821115617.png",
-    "/Pasted image 20250821115610.png",
-    "Pasted image 20250820203652.png",
-    "Pasted image 20250820201642.png",
-    "Pasted image 20250820200849.png",
-    "/Pasted image 20250820203652.png"
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/5.md",
+    "Obsidian Vault/Chess/1. e4 2. c5 3. c4.md",
+    "/Obsidian Vault/Chess/1. e4 2. c5 3. c4.md",
+    "/Obsidian Vault/Chess/1. d4 2. e5 (Englund Gambit).md",
+    "/Obsidian Vault/Chess",
+    "Obsidian Vault/Chess",
+    "Obsidian Vault/Projects/Final Project/Untitled 1.md",
+    "/Obsidian Vault/Projects/Final Project/Untitled 1.md",
+    "Obsidian Vault/Projects/Final Project/To Do/2. Prompts.md",
+    "Obsidian Vault/Projects/Final Project/To Do/1. Update the SDD SRS.md",
+    "/Obsidian Vault/Projects/Final Project/To Do/2. Prompts.md",
+    "/Obsidian Vault/Projects/Final Project/To Do/1. Update the SDD SRS.md",
+    "/Obsidian Vault/Projects/Final Project/To Do",
+    "Obsidian Vault/College/Computer Networks/Module 1/Computer Network Applications.md",
+    "Obsidian Vault/College/Renewable Energy Systems/4.4 Biogas Plants.md",
+    "Obsidian Vault/College/Disaster Management/Disaster Risk Reduction DRR.md",
+    "Obsidian Vault/College/Renewable Energy Systems/PYQs/2..md"
   ]
 }

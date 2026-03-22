@@ -1,0 +1,8 @@
+[[3Sum]]
+[[2. Sort an array of 0s 1s and 2s without sort]]
+[[11. Kadanes Algorithm]]
+[[9. Majority Element I]]
+[[8. Majority Element Appearing More than 0.33 times]]
+[[10. Find Repeating And Missing Number]]
+[[8. Maximum Product Subarray]]
+[[reverse pairs]]
