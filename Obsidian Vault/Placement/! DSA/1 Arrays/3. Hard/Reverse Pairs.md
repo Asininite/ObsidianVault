@@ -29,7 +29,7 @@ Constraints
 - 1 <= nums.length <= 5 * 104
 - -231 <= nums[i] <= 231 - 1
 
-## Brute
+# Brute
 ### **Intuition**
 
 The straightforward approach to solve this problem is to iterate through each element in the array and run an inner loop say(j) to check all subsequent elements arr[j], if the condition arr[i] > 2 x arr[j] holds true, where i is the parent loop, then it is a reverse pair otherwise it's not a reverse pair.
@@ -107,3 +107,5 @@ int main() {
 **Time Complexity:** O(N2), where N is size of the given array. For using nested loops here and those two loops roughly run for N times.  
   
 **Space Complexity:** O(1), no extra space is used to solve this problem.
+
+# Optimal
