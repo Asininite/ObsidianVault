@@ -29,3 +29,81 @@ Constraints
 - 1 <= nums.length <= 5 * 104
 - -231 <= nums[i] <= 231 - 1
 
+## Brute
+### **Intuition**
+
+The straightforward approach to solve this problem is to iterate through each element in the array and run an inner loop say(j) to check all subsequent elements arr[j], if the condition arr[i] > 2 x arr[j] holds true, where i is the parent loop, then it is a reverse pair otherwise it's not a reverse pair.
+
+### **Approach**
+
+- iterate in the array from 0 to N-1 to select the arr[i]. As index j should be greater than index i, inside loop i, run another loop i.e. j from i+1 to N-1, and select the element arr[j].
+- Inside this second loop, check if arr[i] is greater than 2*arr[j] i.e. if arr[i] and arr[j] can be a pair. If they satisfy the condition, increase the count by 1. Finally, return the count as our answer.
+  
+
+C++
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    /* Function to count reverse
+    pairs where a[i] > 2 * a[j]*/
+    int reversePairs(vector<int>& nums) {
+        
+        // Call countPairs with the vector and its size
+        return countPairs(nums, nums.size()); 
+        
+    }
+
+private:
+    /* Helper function to count pairs
+    satisfying the condition a[i] > 2 * a[j]*/
+    int countPairs(vector<int>& nums, int n) {
+        
+        // Initialize count of reverse pairs
+        int cnt = 0;
+        
+        /* Nested loops to check each
+        pair (i, j) where i < j*/
+        for (int i = 0; i < n; i++) {
+            
+            for (int j = i + 1; j < n; j++) {
+                
+                /* Check if the condition 
+                a[i] > 2 * a[j] holds*/
+                if ((long long)nums[i] > (long long)2 * nums[j]) {
+                    
+                    /* Increment count if
+                    condition is satisfied*/
+                    cnt++; 
+                    
+                }
+            }
+        }
+        // Return the total count of reverse pairs
+        return cnt; 
+    }
+};
+
+int main() {
+    
+    vector<int> nums = {6, 4, 1, 2, 7}; 
+    
+    // Create an instance of the Solution class
+    Solution sol; 
+    
+    int cnt = sol.reversePairs(nums); 
+    
+    // Output the result
+    cout << "The number of reverse pairs is: " << cnt << endl;
+    return 0; 
+}
+```
+
+### **Complexity Analysis** 
+
+**Time Complexity:** O(N2), where N is size of the given array. For using nested loops here and those two loops roughly run for N times.  
+  
+**Space Complexity:** O(1), no extra space is used to solve this problem.
