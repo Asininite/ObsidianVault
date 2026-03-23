@@ -17,20 +17,15 @@ The reverse pairs are:
 Example 2
 **Input**: nums = [5, 4, 4, 3, 3]
 **Output**: 0
-
 **Explanation**:
-
 No pairs satisfy both the conditons.
 
 Example 3
-
 **Input**: nums = [6, 4, 4, 2, 2]
-
 Output:
-
 2
 
 Constraints
-
 - 1 <= nums.length <= 5 * 104
 - -231 <= nums[i] <= 231 - 1
+
