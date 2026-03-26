@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "9. Koko Eating Bananas"
             }
-          },
-          {
-            "id": "8c6e9e720588f8b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +169,7 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "8c6e9e720588f8b4",
+  "active": "00ab3177034a1327",
   "lastOpenFiles": [
     "Obsidian Vault/Placement/! DSA/1 Arrays/2. Medium/12. ! Maximum Product Subarray.md",
     "Obsidian Vault/Placement/! DSA/1 Arrays/2. Medium/10. Find Repeating And Missing Number.md",
