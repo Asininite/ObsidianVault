@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Distributed Computing/5.3 DFS.md",
+                "file": "Obsidian Vault/College/Distributed Computing/4.3 Checkpointing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.3 DFS"
+              "title": "4.3 Checkpointing"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Pasted image 20260419004237.png",
+    "Obsidian Vault/College/Distributed Computing/5.3 DFS.md",
     "Obsidian Vault/College/Distributed Computing/5.2 Byzantine Problem.md",
     "Obsidian Vault/College/Distributed Computing/4.3 Checkpointing.md",
     "Pasted image 20260419001557.png",
@@ -182,7 +184,6 @@
     "Pasted image 20260418145605.png",
     "Obsidian Vault/College/Distributed Computing/5.4 File Service Architecture.md",
     "Pasted image 20260418130949.png",
-    "Obsidian Vault/College/Distributed Computing/5.3 DFS.md",
     "Obsidian Vault/College/Distributed Computing/5.1.1 Consensus and Agreement.md",
     "Obsidian Vault/College/Distributed Computing/5.1 Assumptions.md",
     "Obsidian Vault/College/Distributed Computing/1.1 Data Warehouse.md",
