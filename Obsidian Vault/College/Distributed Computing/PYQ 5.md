@@ -902,4 +902,255 @@ If you want, I can next give:
 - **Perfect 14-mark answers condensed for revision**
     
 - OR **expected questions prediction for your exam**
-- 
+
+## FINAL SET — REMAINING / COMBINED QUESTIONS FOR MODULE 5 (HIGH PROBABILITY)
+
+---
+
+# Q10. Differentiate Byzantine Agreement and Consensus Problem.
+
+Both Byzantine Agreement and Consensus are agreement problems in distributed systems, but they differ in their assumptions and structure.
+
+## Byzantine Agreement
+
+- There is a **single source process**.
+    
+- Only the source has an initial value.
+    
+- Other processes must agree on that value.
+    
+- Designed to handle **malicious (Byzantine) failures**.
+    
+
+### Properties:
+
+- Agreement
+    
+- Validity (based on source)
+    
+- Termination
+    
+
+---
+
+## Consensus Problem
+
+- **Every process has its own initial value**.
+    
+- All non-faulty processes must agree on a single value.
+    
+- No special “source” process.
+    
+
+### Properties:
+
+- Agreement
+    
+- Validity (if all inputs same → output same)
+    
+- Termination
+    
+
+---
+
+## Key Differences
+
+|Byzantine Agreement|Consensus|
+|---|---|
+|Single source|Multiple inputs|
+|Handles malicious faults|Typically crash faults|
+|Agreement on source value|Agreement on common value|
+|More complex|Simpler comparatively|
+
+---
+
+# Q11. Explain Interactive Consistency Problem.
+
+Interactive consistency is another variant of agreement problems.
+
+## Definition
+
+Each process has its own initial value, and all non-faulty processes must agree on a **set (vector) of values**, where each entry corresponds to a process.
+
+---
+
+## Example
+
+If there are 3 processes:
+
+```text
+P1 = 5
+P2 = 7
+P3 = 9
+```
+
+All correct processes must agree on:
+
+```text
+[5, 7, 9]
+```
+
+---
+
+## Importance
+
+- Ensures complete system state agreement
+    
+- Used in fault-tolerant distributed systems
+    
+
+---
+
+# Q12. Compare AFS and NFS.
+
+|Feature|AFS|NFS|
+|---|---|---|
+|Caching|Whole-file caching|No full caching|
+|Performance|Faster (local access)|Slower (server access)|
+|Server type|Stateful|Stateless|
+|Network usage|Low|High|
+|Consistency|Callback-based|Server-controlled|
+|Scalability|High|Moderate|
+
+---
+
+## Explanation
+
+AFS improves performance by caching entire files locally, reducing network communication.
+
+NFS, on the other hand, accesses files from the server each time, which increases network load.
+
+---
+
+# Q13. Advantages of Google File System
+
+Google File System offers several advantages:
+
+- High fault tolerance through replication
+    
+- Scalable for large data
+    
+- Efficient for large file operations
+    
+- Handles frequent failures
+    
+- Optimized for data-intensive applications
+    
+
+---
+
+# Q14. Why is Consensus Difficult in Asynchronous Systems?
+
+In asynchronous systems:
+
+- No bound on message delay
+    
+- No global clock
+    
+- Cannot distinguish between:
+    
+    - Slow process
+        
+    - Failed process
+        
+
+This leads to the famous result:
+
+> It is impossible to guarantee consensus in a purely asynchronous system with even one failure (FLP impossibility).
+
+---
+
+## Implication
+
+Consensus algorithms must:
+
+- Assume synchrony  
+    OR
+    
+- Use probabilistic/randomized approaches
+    
+
+---
+
+# Q15. Explain Metadata in Distributed File Systems.
+
+Metadata refers to information about files used for managing them.
+
+## Examples:
+
+- File size
+    
+- Owner
+    
+- Permissions
+    
+- Timestamps
+    
+- File type
+    
+
+---
+
+## Importance
+
+Metadata helps:
+
+- Locate files
+    
+- Manage access control
+    
+- Maintain consistency
+    
+- Organize directories
+    
+
+---
+
+# FINAL REVISION SUMMARY (WHAT REALLY MATTERS)
+
+If you revise Module 5 quickly, prioritize:
+
+## Tier 1 (Almost Guaranteed)
+
+- Assumptions in consensus
+    
+- Byzantine agreement
+    
+- Consensus algorithm (crash failures)
+    
+- File service architecture
+    
+- DFS requirements
+    
+
+---
+
+## Tier 2 (Very Likely)
+
+- AFS
+    
+- GFS
+    
+- NFS
+    
+- Whole file caching vs serving
+    
+
+---
+
+## Tier 3 (Backup / Extra)
+
+- Interactive consistency
+    
+- Differences (AFS vs NFS, Byzantine vs consensus)
+    
+- Metadata
+    
+
+---
+
+If you want, I can next:
+
+- Turn all of Module 5 into **one-page revision sheets**
+    
+- OR give **exact 14-mark answer templates you can memorize**
