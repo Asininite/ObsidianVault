@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Programming Paradigms/Module 1/3. Programming Domain.md",
+                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/4. DP on Subsequences/1. Subset Sum Equals Target.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Programming Domain"
+              "title": "1. Subset Sum Equals Target"
             }
           }
         ]
@@ -171,11 +171,13 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/1. 1D DP/4. House Robber II.md",
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/1. 1D DP/1. Climbing Stairs.md",
+    "Obsidian Vault/College/Programming Paradigms/Module 1/3. Programming Domain.md",
     "Obsidian Vault/College/Programming Paradigms/Module 1/4. Binding Times.md",
     "Obsidian Vault/College/Programming Paradigms/Module 1/2. Storage Binding Categories.md",
     "Obsidian Vault/College/Programming Paradigms/Module 3/1. Closure.md",
     "Obsidian Vault/College/Programming Paradigms/Module 3/PYQ.md",
-    "Obsidian Vault/College/Programming Paradigms/Module 1/3. Programming Domain.md",
     "Obsidian Vault/College/Programming Paradigms/Module 1/1. Evaluation Criteria.md",
     "Obsidian Vault/College/Distributed Computing/5.4 File Service Architecture.md",
     "Obsidian Vault/College/Programming Paradigms/Module 1",
@@ -203,9 +205,7 @@
     "Untitled.md",
     "Pasted image 20260418145605.png",
     "Pasted image 20260418130949.png",
-    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/1. 1D DP/2. Frog Jump.md",
     "Obsidian Vault/College/Distributed Computing",
-    "Obsidian Vault/Placement/! DSA/5. Binary Search/2. Medium/9. Koko Eating Bananas.md",
     "Obsidian Vault/Projects/Final Project/To Do",
     "Obsidian Vault/Projects/Final Project/Presentation",
     "Obsidian Vault/College/ISE/Module 4",
