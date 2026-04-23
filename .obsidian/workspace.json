@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/4. DP on Subsequences/1. Subset Sum Equals Target.md",
+                "file": "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/6. DP on Strings/8. Maximum Product Subarray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Subset Sum Equals Target"
+              "title": "8. Maximum Product Subarray"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/4. DP on Subsequences/1. Subset Sum Equals Target.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/1. 1D DP/4. House Robber II.md",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/1. 1D DP/1. Climbing Stairs.md",
     "Obsidian Vault/College/Programming Paradigms/Module 1/3. Programming Domain.md",
@@ -202,7 +203,6 @@
     "Obsidian Vault/College/Distributed Computing/5.3 DFS.md",
     "Pasted image 20260419001557.png",
     "Untitled 1.md",
-    "Untitled.md",
     "Pasted image 20260418145605.png",
     "Pasted image 20260418130949.png",
     "Obsidian Vault/College/Distributed Computing",
