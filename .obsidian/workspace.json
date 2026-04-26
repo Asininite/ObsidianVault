@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Data Mining/Module 4/2. Apriori Algorithm.md",
+                "file": "Obsidian Vault/College/Data Mining/Module 4/3. Partitioning Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Apriori Algorithm"
+              "title": "3. Partitioning Method"
             }
           }
         ]
@@ -171,6 +171,11 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Pasted image 20260426120853.png",
+    "Pasted image 20260426120819.png",
+    "Pasted image 20260426120814.png",
+    "Obsidian Vault/College/Data Mining/Module 4/2. Apriori Algorithm.md",
+    "Obsidian Vault/College/Data Mining/Module 4/3. Partitioning Method.md",
     "Pasted image 20260426120716.png",
     "Pasted image 20260426120654.png",
     "Pasted image 20260426114225.png",
@@ -179,14 +184,10 @@
     "Pasted image 20260426114007.png",
     "Pasted image 20260426113600.png",
     "Pasted image 20260426113412.png",
-    "Pasted image 20260426113406.png",
     "Obsidian Vault/College/Data Mining/Module 4/1. Association Analysis.md",
-    "Obsidian Vault/College/Data Mining/Module 4/2. Apriori Algorithm.md",
-    "Pasted image 20260426112811.png",
     "Obsidian Vault/College/Data Mining/Module 2/1.4 Data Reduction.md",
     "Obsidian Vault/College/Data Mining/1. PAM.md",
     "Obsidian Vault/College/Data Mining/2. ROCK.md",
-    "Pasted image 20260426112722.png",
     "Obsidian Vault/College/Data Mining/Module 4",
     "Obsidian Vault/College/Data Mining/Module 2/1.3 Data Transformation.md",
     "Obsidian Vault/College/Data Mining/Module 2/1.2 Data Integration.md",
@@ -211,7 +212,6 @@
     "Obsidian Vault/College/Distributed Computing/5.5 NFS.md",
     "Obsidian Vault/College/Distributed Computing/5.1.1 Consensus and Agreement.md",
     "Obsidian Vault/College/Distributed Computing/5.2 Byzantine Problem.md",
-    "Obsidian Vault/College/Distributed Computing/PYQ 5.md",
     "Obsidian Vault/College/Distributed Computing",
     "Obsidian Vault/Projects/Final Project/To Do",
     "Obsidian Vault/Projects/Final Project/Presentation",
