@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Blockchain/3.2.2 PBFT.md",
+                "file": "Obsidian Vault/College/Blockchain/3.3 PoW and PoS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2.2 PBFT"
+              "title": "3.3 PoW and PoS"
             }
           }
         ]
@@ -171,9 +171,10 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/College/Blockchain/3.2.2 PBFT.md",
+    "Obsidian Vault/College/Blockchain/3.3 PoW and PoS.md",
     "Obsidian Vault/College/Blockchain/3.2 CFT BFT Algorithm.md",
     "Obsidian Vault/College/Blockchain/Centralized vs Decentralized.md",
-    "Obsidian Vault/College/Blockchain/3.2.2 PBFT.md",
     "Obsidian Vault/College/Blockchain/3.2.1 RAFT.md",
     "Obsidian Vault/College/Blockchain/3.1 Consensus.md",
     "Obsidian Vault/College/Blockchain/2.6 Blockchain and Full Ecosystem Decentralisation.md",
@@ -209,7 +210,6 @@
     "Untitled.md",
     "Obsidian Vault/College/Data Mining/Module 5/1. 3 Pillars of Web Mining.md",
     "Obsidian Vault/College/Data Mining/Module 5",
-    "Obsidian Vault/College/Data Mining/1. PAM.md",
     "Obsidian Vault/College/Data Mining/Module 3",
     "Obsidian Vault/College/Data Mining/Module 4",
     "Untitled.base",
