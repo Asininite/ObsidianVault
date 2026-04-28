@@ -11,12 +11,14 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20260418130949.png"
+                "file": "Obsidian Vault/College/Blockchain/2.1 Features.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260418130949"
+              "icon": "lucide-file",
+              "title": "2.1 Features"
             }
           }
         ]
@@ -167,8 +169,10 @@
       "ace-code-editor:Open CSS snippet manager": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Obsidian Vault/College/Blockchain/2.1 Features.md",
     "Obsidian Vault/College/Blockchain",
     "Obsidian Vault/Images/Pasted image 20260418130949.png",
     "Obsidian Vault/Images/Pasted image 20260425220829.png",
@@ -190,7 +194,6 @@
     "Obsidian Vault/Images/Pasted image 20260427014322.png",
     "Obsidian Vault/College/Data Mining/Module 5/4. Text Indexing Techniques.md",
     "Obsidian Vault/College/Data Mining/Module 1",
-    "Untitled 1.md",
     "Obsidian Vault/College/Data Mining/Module 5/3. Text Mining, IR and IE.md",
     "Obsidian Vault/College/Data Mining/Module 5/2. HITS & CLEVER.md",
     "Untitled.md",
@@ -213,7 +216,6 @@
     "Obsidian Vault/College/Data Mining/Module 2",
     "Obsidian Vault/Placement/! DSA/13. Dynamic Programming/1. 1D DP/1. Climbing Stairs.md",
     "Obsidian Vault/College/Programming Paradigms/Module 1",
-    "Obsidian Vault/College/Distributed Computing",
-    "Obsidian Vault/Projects/Final Project/To Do"
+    "Obsidian Vault/College/Distributed Computing"
   ]
 }
