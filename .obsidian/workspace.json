@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Blockchain/1.3 RSA.md",
+                "file": "Obsidian Vault/College/Blockchain/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 RSA"
+              "title": "Untitled"
             }
           }
         ]
@@ -171,11 +171,13 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/College/Blockchain/1.2 AES.md",
+    "Obsidian Vault/College/Blockchain/2.5 Consensus.md",
+    "Obsidian Vault/College/Blockchain/Untitled.md",
+    "Obsidian Vault/College/Blockchain/1.6 Merkle Tree.md",
     "Obsidian Vault/College/Blockchain/1.3 RSA.md",
+    "Obsidian Vault/College/Blockchain/1.2 AES.md",
     "Obsidian Vault/College/Blockchain/1.1.1 Stream vs Block Ciphers.md",
     "Obsidian Vault/College/Blockchain/1.1 Symmetric vs Asymmetric Cryptography.md",
-    "Obsidian Vault/College/Blockchain/2.5 Consensus.md",
     "Obsidian Vault/College/Blockchain/3.5 UTXO.md",
     "Obsidian Vault/College/Blockchain/3.4 Bitcoin.md",
     "Obsidian Vault/College/Blockchain/3.3 PoW and PoS.md",
@@ -203,8 +205,6 @@
     "Obsidian Vault/College/Data Mining/Module 1/2. Star Schema and Snowflake Schema.md",
     "Obsidian Vault/College/Data Mining/Module 2/1.2 Data Integration.md",
     "Obsidian Vault/College/Data Mining/Module 2/1.3 Data Transformation.md",
-    "Obsidian Vault/College/Data Mining/Module 2/1. Data Preprocessing.md",
-    "Obsidian Vault/College/Data Mining/Module 2/1.4 Data Reduction.md",
     "Obsidian Vault/Images/Pasted image 20260427014509.png",
     "Obsidian Vault/Images/Pasted image 20260427014502.png",
     "Obsidian Vault/Images/Pasted image 20260427014322.png",
