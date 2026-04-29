@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Blockchain/2.5 Consensus.md",
+                "file": "Obsidian Vault/College/Blockchain/1.1 Symmetric vs Asymmetric Cryptography.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.5 Consensus"
+              "title": "1.1 Symmetric vs Asymmetric Cryptography"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/College/Blockchain/2.5 Consensus.md",
+    "Obsidian Vault/College/Blockchain/1.1 Symmetric vs Asymmetric Cryptography.md",
     "Obsidian Vault/College/Blockchain/3.5 UTXO.md",
     "Obsidian Vault/College/Blockchain/3.4 Bitcoin.md",
     "Obsidian Vault/College/Blockchain/3.3 PoW and PoS.md",
@@ -180,7 +182,6 @@
     "Obsidian Vault/College/Blockchain/3.2.1 RAFT.md",
     "Obsidian Vault/College/Blockchain/3.1 Consensus.md",
     "Obsidian Vault/College/Blockchain/2.6 Blockchain and Full Ecosystem Decentralisation.md",
-    "Obsidian Vault/College/Blockchain/2.5 Consensus.md",
     "Obsidian Vault/College/Blockchain/2.4 Working.md",
     "Obsidian Vault/College/Blockchain/2.3 Block.md",
     "Pasted image 20260428160900.png",
@@ -208,7 +209,6 @@
     "Obsidian Vault/College/Data Mining/Module 5/4. Text Indexing Techniques.md",
     "Obsidian Vault/College/Data Mining/Module 1",
     "Obsidian Vault/College/Data Mining/Module 5/3. Text Mining, IR and IE.md",
-    "Obsidian Vault/College/Data Mining/Module 5/2. HITS & CLEVER.md",
     "Obsidian Vault/College/Data Mining/Module 5",
     "Obsidian Vault/College/Data Mining/Module 3",
     "Obsidian Vault/College/Data Mining/Module 4",
