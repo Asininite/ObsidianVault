@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Blockchain/1.1.1 Stream vs Block Ciphers.md",
+                "file": "Obsidian Vault/College/Blockchain/1.2 AES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1.1 Stream vs Block Ciphers"
+              "title": "1.2 AES"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/College/Blockchain/1.1.1 Stream vs Block Ciphers.md",
     "Obsidian Vault/College/Blockchain/4.1 Smart Contracts.md",
     "Obsidian Vault/College/Blockchain/5.8 Events.md",
     "Obsidian Vault/College/Blockchain/5.3 Ethereum Architecture.md",
@@ -182,7 +183,6 @@
     "Obsidian Vault/College/Blockchain/1.7 DHTs.md",
     "Obsidian Vault/College/Blockchain/2.5 Consensus.md",
     "Obsidian Vault/College/Blockchain/1.6 Merkle Tree.md",
-    "Obsidian Vault/College/Blockchain/1.1.1 Stream vs Block Ciphers.md",
     "Obsidian Vault/College/Blockchain/1.1 Symmetric vs Asymmetric Cryptography.md",
     "Obsidian Vault/College/Blockchain/3.4 Bitcoin.md",
     "Obsidian Vault/College/Blockchain/3.2.2 PBFT.md",
