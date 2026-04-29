@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Blockchain/3.3 PoW and PoS.md",
+                "file": "Obsidian Vault/College/Blockchain/3.5 UTXO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 PoW and PoS"
+              "title": "3.5 UTXO"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/College/Blockchain/3.3 PoW and PoS.md",
     "Obsidian Vault/College/Blockchain/1.3 RSA.md",
     "Obsidian Vault/College/Blockchain/1.2 AES.md",
     "Obsidian Vault/College/Blockchain/1.7 DHTs.md",
@@ -180,7 +181,6 @@
     "Obsidian Vault/College/Blockchain/1.1 Symmetric vs Asymmetric Cryptography.md",
     "Obsidian Vault/College/Blockchain/3.5 UTXO.md",
     "Obsidian Vault/College/Blockchain/3.4 Bitcoin.md",
-    "Obsidian Vault/College/Blockchain/3.3 PoW and PoS.md",
     "Obsidian Vault/College/Blockchain/3.2.2 PBFT.md",
     "Obsidian Vault/College/Blockchain/3.2 CFT BFT Algorithm.md",
     "Obsidian Vault/College/Blockchain/Centralized vs Decentralized.md",
