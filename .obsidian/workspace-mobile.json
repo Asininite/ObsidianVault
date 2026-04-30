@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/College/Blockchain/2.4 Working.md",
+                "file": "Obsidian Vault/College/Blockchain/2.6 Blockchain and Full Ecosystem Decentralisation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 Working"
+              "title": "2.6 Blockchain and Full Ecosystem Decentralisation"
             }
           }
         ],
@@ -181,6 +181,8 @@
   },
   "active": "205126ed71132d8e",
   "lastOpenFiles": [
+    "Obsidian Vault/College/Blockchain/2.5 Consensus.md",
+    "Obsidian Vault/College/Blockchain/2.4 Working.md",
     "Obsidian Vault/College/Blockchain/2.3 Block.md",
     "Obsidian Vault/College/Blockchain/2.1 Features.md",
     "Obsidian Vault/College/Blockchain/3.5 UTXO.md",
@@ -208,8 +210,6 @@
     "/Obsidian Vault/College/Blockchain/1.1 Symmetric vs Asymmetric Cryptography.md",
     "Obsidian Vault/College/Blockchain/1.1 Symmetric vs Asymmetric Cryptography.md",
     "Obsidian Vault/College/Blockchain/3.2.2 PBFT.md",
-    "Obsidian Vault/College/CGIP/Module 1/! Bresenhams Line algorithm.md",
-    "/Obsidian Vault/Placement/! DSA/13. Dynamic Programming/1. 1D DP/1. Climbing Stairs.md",
     "/Obsidian Vault/Placement/! DSA/13. Dynamic Programming/1. 1D DP",
     "/Obsidian Vault/Placement/! DSA/13. Dynamic Programming",
     "/Obsidian Vault/Placement/! DSA",
