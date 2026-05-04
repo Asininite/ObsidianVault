@@ -1,6 +1,6 @@
 **This Person Does Not Exist** : Random face generator
 
-### GAN
+## GAN
 A GAN (Generative Adversarial Network) is a machine learning model where two neural networks compete in a "cat-and-mouse" game:
 
 1. The Generator: Tries to create realistic fake data (like images).
@@ -8,10 +8,10 @@ A GAN (Generative Adversarial Network) is a machine learning model where two neu
 
 As they compete, the generator gets better at making convincing data, and the discriminator gets better at spotting flaws. This process continues until the generator produces data so realistic that the discriminator can no longer tell the difference.
 
-### What are adversarial Attacks?
+## What are adversarial Attacks?
 
 
-### Two Stage Training
+## Two Stage Training
 The two-stage training strategy is one of the most practical engineering decisions in your project. Evaluators love this because it shows you understand _how_ neural networks actually learn, rather than just throwing math at a wall.
 
 Here is the best way to explain the Two-Stage Strategy, breaking it down into the "What" and the "Why."
@@ -83,3 +83,5 @@ Here is exactly how to justify those two values to an external evaluator.
 **Pro-Tip for your delivery:** If you explain that $N=5$ was a conscious engineering decision to balance **model robustness** with **hardware training time**, the evaluators will immediately respect your practical engineering sense.
 
 Are there any other specific parameters, like your confidence threshold of 0.65, that you'd like to practice defending?
+
+## MesoNet
