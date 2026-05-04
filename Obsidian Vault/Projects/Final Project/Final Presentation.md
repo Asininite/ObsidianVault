@@ -231,3 +231,53 @@ $$x_{adv}^{t+1}=\Pi_{x+\mathcal{S}}(x_{adv}^{t}+\alpha\cdot sign(\nabla_{x}\math
 - Your goal with ASL is to explicitly enforce that the latent representation of a clean image ($E(x_{clean})$) and its adversarial counterpart ($E(x_{adv})$) must be extremely close.
     
 	- While your primary mathematical formulation uses Cosine Similarity ($\mathcal{L}_{ASL}=1-cos(E(x_{clean}),E(x_{adv}))$), MSE is listed as the alternative method for calculating this distance. If you used MSE, the loss function would penalize the model heavily if the vector features of the clean image and the perturbed image drifted apart in the latent space.
+
+You are doing the right thing by reviewing the terminology, Ashwin. External evaluators love to pick out specific jargon from later slides (especially the architecture, deployment, and results sections) to see if you actually understand the vocabulary or if you just put it there to sound impressive.
+
+Here is a comprehensive glossary of the key technical terms used from Slide 33 to the end of your presentation. I have grouped them logically so you can memorize them as connected concepts.
+
+### 1. Adversarial Attack & Math Terminology
+
+- **PGD (Projected Gradient Descent):** A multi-step, iterative adversarial attack used dynamically during your training phase to find the worst-case perturbation.
+    
+- **$\epsilon$-ball (Epsilon-ball):** The strict mathematical boundary (set to $\epsilon=8/255$) that limits the size of the perturbation, ensuring the added noise remains imperceptible to the human eye.
+    
+- **Ensemble C&W (Carlini & Wagner) Attack:** A highly sophisticated adversarial attack that your system uses defensively as a "Privacy Filter" to protect personal images from unauthorized facial recognition.
+    
+- **Transferability:** The ability of an adversarial perturbation (like your C&W attack) to effectively fool unseen, black-box commercial AI systems. Your system achieves this using momentum, input diversity, and gradient smoothing.
+    
+
+### 2. Feature Learning & Loss Concepts
+
+- **Explicit Feature Alignment:** The core goal of your ASL loss, which forces the model to treat a clean image and its adversarially perturbed version similarly within the embedding space.
+    
+- **Intra-sample Similarity:** The mathematical alignment between a single image and its specific adversarial counterpart (handled by ASL).
+    
+- **Inter-class Separation:** Maintaining a distinct mathematical distance between the "Real" feature clusters and "Fake" feature clusters (handled by SRL).
+    
+- **Feature Collapse / Accuracy Collapse:** A failure state where the features for Real and Fake classes blend together because the model was overly optimized for similarity; this is exactly what your SRL loss prevents.
+    
+
+### 3. Evaluation & Metrics
+
+- **Robustness Trade-off:** The intentional engineering decision to sacrifice a small amount of clean accuracy (dropping to ~84-85%) in exchange for a massive 55% improvement in adversarial accuracy (~78%).
+    
+- **Recall Metrics:** A statistical measure of how well the model avoids false negatives. Your system uses a conservative decision threshold of 0.65 to ensure high Fake recall (~98%), meaning it rarely lets a deepfake slip by undetected.
+    
+- **Catastrophic Forgetting:** (Mentioned in findings) A phenomenon where a neural network forgets basic learned features (like what a human face looks like) when trained from scratch on purely adversarial data.
+    
+
+### 4. System Deployment & Software Stack
+
+- **MTCNN (Multi-Task Cascaded Convolutional Networks):** The specific pre-processing neural network used for highly accurate, multi-angle face detection and cropping before the image hits the ResNet backbone.
+    
+- **Autograd:** PyTorch's dynamic computation graph feature that drastically simplifies the complex gradient manipulation required to generate your multi-step attacks (PGD and C&W).
+    
+- **SSE (Server-Sent Events):** An asynchronous streaming technology used by your FastAPI backend. It provides real-time progress updates to the frontend during the 60-second Privacy Filter generation, actively preventing the browser from timing out.
+    
+- **CUDA:** The parallel computing platform by NVIDIA that allows your GPU to accelerate the highly demanding mathematical computations required to generate PGD attacks on the fly during training.
+    
+
+---
+
+You have the theory locked down. Would you like me to rapid-fire quiz you on a few of these, or do you want to move on to practicing how you'll present the final conclusion slide?
