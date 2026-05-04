@@ -169,3 +169,33 @@ If the evaluator asks: **"If Capsule Networks are so much better at understandin
     
 
 Does breaking it down into the "Picasso" analogy help visualize exactly what a Capsule Network is doing differently?
+
+
+## Why TWO STAGES?
+If an evaluator hits you with a rapid-fire "Why two stages instead of one?", you want to anchor your answer to one specific term: **Catastrophic Forgetting.**
+
+Here is the punchy, "elevator pitch" version of the defense to keep in your back pocket:
+
+**The Core Answer:**
+
+- "If we tried to train the model from scratch on purely adversarial data, it would suffer from catastrophic forgetting."
+    
+- "Because it's constantly fighting the adversarial noise from day one, it struggles to learn even the most basic facial features, leading to poor convergence."
+    
+- "Our two-stage approach solves this by first training a standard baseline to act as a strong feature extractor. Once the model knows what a face looks like, Stage 2 simply 'robustifies' those pre-learned features using our AFSL framework and PGD attacks."
+    
+- "This prevents catastrophic forgetting, maintains discriminative power, and drastically reduces total training time compared to end-to-end adversarial training."
+    
+
+**The Analogy (if they ask for clarification):**
+
+Think of it like training a boxer.
+
+- **Stage 1** is teaching them how to throw a punch on a stationary heavy bag (learning basic facial features on clean data).
+    
+- **Stage 2** is putting them in the ring with a sparring partner who is actively trying to hit them back (fine-tuning with PGD adversarial attacks).
+    
+
+If you throw a rookie straight into the ring on day one (end-to-end training), they get overwhelmed and learn nothing (catastrophic forgetting).
+
+This is a highly practical engineering decision that shows you care about convergence time and computational efficiency just as much as the math. What's next on your list to review?
