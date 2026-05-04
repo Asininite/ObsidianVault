@@ -122,3 +122,50 @@ If the evaluator asks: **"You listed MesoNet in your existing systems. Since it 
     
 
 Does the distinction between "mesoscopic" patch-level features and the "deep semantic" features of your ResNet make sense?
+
+## CapsuleNet
+You have got it, Ashwin. Capsule Networks (CapsNets) are a really fascinating architecture, and if an evaluator asks about them, it is usually to test if you truly understand the limitations of standard CNNs.
+
+Here is the plain-English breakdown of what they are, how they work, and exactly how to defend your decision not to use them.
+
+### 1. The Core Problem with Standard CNNs: "The Picasso Effect"
+
+To understand Capsule Networks, you first have to understand the fundamental flaw they were designed to fix in standard Convolutional Neural Networks (CNNs).
+
+Standard CNNs are great at detecting _whether_ a feature exists, but terrible at understanding _where_ it is or its spatial relationship to other features. This is because CNNs use "pooling layers" (like Max Pooling) which deliberately throw away exact spatial information to shrink the image data.
+
+**The Picasso Analogy:** If you show a standard CNN a Picasso painting of a face—where the nose is on the forehead, one eye is on the chin, and the mouth is sideways—the CNN will say: _"I detect an eye, a nose, and a mouth. Therefore, I am 99% confident this is a human face!"_
+
+### 2. What is a Capsule Network?
+
+A Capsule Network fixes this spatial blindness. Instead of just using single neurons that output a simple scalar value (e.g., "0.9 probability there is an eye"), it groups neurons into "Capsules."
+
+A Capsule outputs a **vector**.
+
+- The _length_ of the vector represents the probability that the feature exists (e.g., "There is an eye").
+    
+- The _direction_ (or orientation) of the vector represents the feature's pose, scale, and spatial relationship (e.g., "The eye is located exactly 2 inches above and slightly left of the nose, angled at 15 degrees").
+    
+
+If a Capsule Network looks at that same Picasso painting, it says: _"I see an eye and a nose, but their spatial relationship to each other is mathematically impossible. This is NOT a face."_
+
+### 3. How this relates to Deepfakes
+
+Because of their ability to track exact spatial hierarchies, Capsule Networks are theoretically excellent at detecting when a deepfake algorithm slightly misaligns a synthetic face mask over an original head. They naturally catch the geometric blending errors that standard CNNs miss.
+
+---
+
+### How to Defend Your Choice to the Evaluator
+
+If the evaluator asks: **"If Capsule Networks are so much better at understanding spatial relationships and misaligned facial features, why did you choose ResNet-50 for your backbone instead of a CapsNet?"**
+
+**Your Answer:**
+
+- "While Capsule Networks are brilliant at analyzing spatial hierarchies to detect misaligned facial features, their routing algorithm—called dynamic routing by agreement—is extremely computationally expensive."
+    
+- "They struggle significantly to process standard high-resolution inputs like our $224\times224$ face crops."
+    
+- "Because our media verification tool and privacy filter need to be practical and performant, the massive computational overhead of a Capsule Network rendered them completely impractical for our use case. Instead, we chose the highly efficient ResNet-50 backbone and explicitly forced it to learn robust features using our AFSL dual-loss framework."
+    
+
+Does breaking it down into the "Picasso" analogy help visualize exactly what a Capsule Network is doing differently?
