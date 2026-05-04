@@ -85,3 +85,40 @@ Here is exactly how to justify those two values to an external evaluator.
 Are there any other specific parameters, like your confidence threshold of 0.65, that you'd like to practice defending?
 
 ## MesoNet
+Evaluators love asking about the alternative systems you listed in your literature survey. If you included MesoNet in your slides, you need to be able to explain exactly what it is and, more importantly, why it isn't good enough for your project.
+
+Here is the plain-English breakdown of MesoNet, followed by how you should answer a direct question about it tomorrow.
+
+### What is MesoNet?
+
+MesoNet is an early, compact neural network specifically designed to detect facial video forgeries (like deepfakes or Face2Face manipulations).
+
+To understand how it works, you have to understand the word **"Mesoscopic."** In image forensics, you can look at an image at three levels:
+
+1. **Macroscopic (High-level):** Looking at the whole face. (e.g., "Is there a nose and two eyes?"). Deepfakes easily pass this test because they look like real human faces.
+    
+2. **Microscopic (Low-level):** Looking at raw, pixel-level sensor noise. The problem is that social media compression (like uploading to WhatsApp or YouTube) completely destroys this microscopic noise, making it useless for detection.
+    
+3. **Mesoscopic (Intermediate-level):** This is the sweet spot that MesoNet targets. Instead of looking at the whole face or individual pixels, it looks at intermediate image patches. It searches for texture degradations, compression artifacts, and the slight blurring that happens at the edges where a fake 3D face mask is blended onto a real background video.
+    
+
+### Why MesoNet is a "Shallow Network"
+
+MesoNet is referred to as a "shallow network" because it has very few convolutional layers compared to massive models like ResNet-50. The original Meso-4 architecture, for example, only has four convolutional layers. It was designed to be lightweight and fast.
+
+---
+
+### How to Defend Your Choice to an Evaluator
+
+If the evaluator asks: **"You listed MesoNet in your existing systems. Since it is lightweight and designed specifically for deepfakes, why didn't you just use MesoNet instead of a heavy ResNet-50 backbone?"**
+
+**Your Answer:**
+
+- "While MesoNet was groundbreaking for intermediate, mesoscopic feature analysis, its shallow architecture is actually its biggest weakness today."
+    
+- "Because it is a shallow network, it inherently lacks the capacity to capture the high-level semantic features required to analyze high-resolution modern deepfakes."
+    
+- "Today's deepfakes generate incredibly complex manipulation artifacts that MesoNet's limited capacity simply cannot capture. We needed the deep, high-capacity feature extraction of ResNet-50 to provide a strong enough baseline, which we could then make robust using our AFSL dual-loss framework."
+    
+
+Does the distinction between "mesoscopic" patch-level features and the "deep semantic" features of your ResNet make sense?
