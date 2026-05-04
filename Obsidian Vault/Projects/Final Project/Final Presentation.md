@@ -199,3 +199,35 @@ Think of it like training a boxer.
 If you throw a rookie straight into the ring on day one (end-to-end training), they get overwhelmed and learn nothing (catastrophic forgetting).
 
 This is a highly practical engineering decision that shows you care about convergence time and computational efficiency just as much as the math. What's next on your list to review?
+
+You are focusing on exactly the right components, Ashwin. These three terms represent the beginning, middle, and core mathematical optimization of your pipeline. If an evaluator asks you to define them, they want to see that you understand their specific roles in _your_ system, not just their textbook definitions.
+
+Here is how you break them down confidently for the panel.
+
+### 1. MTCNN (Multi-Task Cascaded Convolutional Networks)
+
+**What it is:** MTCNN is the gatekeeper of your system. It is a highly accurate neural network used exclusively for robust face detection. **Why you need it:** Background clutter harms both deepfake detection and adversarial generation. If you feed the whole image to ResNet, it gets distracted by the background. **How it works in your project:**
+
+- It operates in a "cascade" (a sequence of stages) to first detect the overall bounding box of a face, and then pinpoint specific facial landmarks (like eyes, nose, mouth).
+    
+- It tightly crops the image around the face and expands that bounding box by a 20% margin to ensure edge blending artifacts are captured.
+    
+- Finally, it resizes the crop to a $224\times224$ tensor and normalizes it to a $[0, 1]$ range before passing it to the ResNet backbone.
+    
+
+### 2. PGD (Projected Gradient Descent)
+
+**What it is:** PGD is the primary white-box adversarial attack you use to "stress test" and train your model. **Why it is dangerous:** It is a multi-step iterative attack that actively searches for the absolute worst-case perturbation within a specific boundary (the $\epsilon$-ball). **How it works mathematically:** Instead of just taking one single jump to fool the model, it takes small, calculated steps (using step size $\alpha=2/255$ for $N=5$ iterations) to find the perfect pixel noise. The formula is:
+
+$$x_{adv}^{t+1}=\Pi_{x+\mathcal{S}}(x_{adv}^{t}+\alpha\cdot sign(\nabla_{x}\mathcal{L}(\theta,x_{adv}^{t},y)))$$
+
+- The "Projected" ($\Pi$) part of PGD means that after every step, if the noise gets too large and becomes visible to the human eye, the algorithm "projects" or forces it back inside the strict $\epsilon=8/255$ limit. By generating these on-the-fly during training, you ensure the model cannot overfit to a static set of adversarial examples.
+    
+
+### 3. MSE (Mean Squared Error)
+
+**What it is:** MSE is a standard mathematical metric used to measure the average squared difference between two sets of values. **How it applies to your AFSL Loss:** In your presentation, you mention MSE on Slide 30 when defining your Adversarial Similarity Loss ($\mathcal{L}_{ASL}$).
+
+- Your goal with ASL is to explicitly enforce that the latent representation of a clean image ($E(x_{clean})$) and its adversarial counterpart ($E(x_{adv})$) must be extremely close.
+    
+	- While your primary mathematical formulation uses Cosine Similarity ($\mathcal{L}_{ASL}=1-cos(E(x_{clean}),E(x_{adv}))$), MSE is listed as the alternative method for calculating this distance. If you used MSE, the loss function would penalize the model heavily if the vector features of the clean image and the perturbed image drifted apart in the latent space.
