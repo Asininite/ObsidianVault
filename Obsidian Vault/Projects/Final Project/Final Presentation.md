@@ -280,4 +280,92 @@ Here is a comprehensive glossary of the key technical terms used from Slide 33 t
 
 ---
 
-You have the theory locked down. Would you like me to rapid-fire quiz you on a few of these, or do you want to move on to practicing how you'll present the final conclusion slide?
+Here is a prioritized list of the exact keywords and concepts an external examiner is most likely to zero in on. Examiners love terms that imply a trade-off, a specific mathematical choice, or a deviation from standard practices.
+
+I have grouped them by category and included the "trap" the examiner is trying to set, along with your quick defense.
+
+### 1. Your Core Contribution (The "AFSL" Vocabulary)
+
+- **Adversarial Feature Similarity Learning (AFSL):**
+    
+    - _The Trap:_ They will ask how this is different from just adding noisy images to your dataset.
+        
+    - _The Defense:_ Standard training just memorizes noise; AFSL explicitly forces the network's internal representations to be identical for both clean and perturbed inputs.
+        
+- **Adversarial Similarity Loss (ASL) & Similarity Regularization Loss (SRL):**
+    
+    - _The Trap:_ Why do you need two loss functions?
+        
+    - _The Defense:_ ASL pulls the clean and adversarial features together using Cosine Similarity, but doing that alone causes **Feature Collapse**. SRL pushes the Real and Fake classes apart using a margin loss to maintain discriminative power.
+        
+- **Feature-Level Invariance (or Alignment):**
+    
+    - _The Trap:_ What does "invariance" actually mean here?
+        
+    - _The Defense:_ It means the convolutional layers entirely discard the adversarial noise in the latent/embedding space long before the data reaches the final classification layer.
+        
+
+### 2. The Attack Mechanisms (The Math & Constraints)
+
+- **White-Box Attack:**
+    
+    - _The Trap:_ Why did you test against this instead of a Black-Box attack?
+        
+    - _The Defense:_ A White-Box attack (like your PGD or FGSM) gives the attacker total access to model weights and exact gradients, representing the absolute worst-case security scenario.
+        
+- **PGD (Projected Gradient Descent) vs. FGSM:**
+    
+    - _The Trap:_ Why is PGD better or worse than FGSM?
+        
+    - _The Defense:_ FGSM takes one single mathematical step to add noise. PGD is a multi-step iterative attack that finds the absolute worst-case perturbation within the allowed boundary, making it a much stronger evaluation metric.
+        
+- **Epsilon Bound ($\epsilon = 8/255$):**
+    
+    - _The Trap:_ What does $8/255$ actually mean physically?
+        
+    - _The Defense:_ It is the strict norm constraint that ensures the maximum change to any pixel is minimal (~3%), guaranteeing the noise remains completely imperceptible to a human reviewer.
+        
+
+### 3. Engineering & Architecture Choices
+
+- **Two-Stage Training:**
+    
+    - _The Trap:_ Why not just train everything at once?
+        
+    - _The Defense:_ Training from scratch with adversarial data causes **Catastrophic Forgetting**, where the model fails to learn basic facial features. Stage 1 learns the face; Stage 2 robustifies it.
+        
+- **MTCNN (Multi-Task Cascaded Convolutional Networks):**
+    
+    - _The Trap:_ Why not just pass the whole image to ResNet?
+        
+    - _The Defense:_ Background clutter harms adversarial generation. MTCNN specifically detects landmarks and tightly crops the face so the ResNet backbone isn't distracted.
+        
+- **Server-Sent Events (SSE):**
+    
+    - _The Trap:_ Why did you use this specific streaming protocol in your FastAPI backend?
+        
+    - _The Defense:_ The C&W Privacy Filter takes up to 60 seconds to generate. SSE streams real-time progress to the frontend, preventing the browser from issuing an HTTP timeout during the heavy PyTorch computation.
+        
+
+### 4. Metrics & Trade-offs
+
+- **Robustness Trade-off:**
+    
+    - _The Trap:_ Your clean accuracy dropped to 84-85%. Isn't that a failure?
+        
+    - _The Defense:_ It is an intentional, justified trade-off. We sacrificed a few points of clean accuracy to gain a massive 55% improvement in adversarial accuracy (from 23% to 78%), ensuring reliability under real-world forensic attacks.
+        
+- **Decision Threshold (0.65):**
+    
+    - _The Trap:_ Why isn't your threshold 0.5 like a standard binary classifier?
+        
+    - _The Defense:_ A 0.65 threshold creates a conservative model that prioritizes Fake recall (~98%) over Real recall (~71%), which is critical in forensics to avoid false negatives (letting a deepfake slip by).
+        
+- **Transferability:**
+    
+    - _The Trap:_ How do you know your Privacy Filter actually works against commercial AI?
+        
+    - _The Defense:_ The ensemble C&W attack uses momentum and input diversity to generate perturbations that transfer effectively to unseen, black-box facial recognition systems.
+        
+
+Review these pairs of concepts (like ASL vs. SRL, or Clean Accuracy vs. Robustness). Examiners love to ask you to compare two related terms to see if you grasp the nuance!
