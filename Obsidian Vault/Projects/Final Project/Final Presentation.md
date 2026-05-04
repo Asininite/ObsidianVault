@@ -8,3 +8,5 @@ A GAN (Generative Adversarial Network) is a machine learning model where two neu
 
 As they compete, the generator gets better at making convincing data, and the discriminator gets better at spotting flaws. This process continues until the generator produces data so realistic that the discriminator can no longer tell the difference.
 
+### What are adversarial Attacks?
+
