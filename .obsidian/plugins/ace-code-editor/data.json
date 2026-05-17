@@ -24,5 +24,9 @@
   "showFoldWidgets": true,
   "embedMaxHeight": 500,
   "wrap": true,
+  "minimap": {
+    "enabled": true,
+    "mode": "always"
+  },
   "lineNumbers": true
 }
