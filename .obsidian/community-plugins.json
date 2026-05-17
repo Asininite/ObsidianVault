@@ -2,5 +2,6 @@
   "jupymd",
   "obsidian-git",
   "ace-code-editor",
-  "pdf-plus"
+  "pdf-plus",
+  "shiki-highlighter"
 ]
