@@ -161,11 +161,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "ace-code-editor:Open CSS snippet manager": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/IBM Python/PY0101EN-1-2-Strings.ipynb",
     "PY0101EN-1-2-Strings.ipynb",
     "Pasted image 20260517173341.png",
     "Pasted image 20260517173331.png",
@@ -210,7 +216,6 @@
     "Obsidian Vault/College/Data Mining/Module 3",
     "Obsidian Vault/College/Data Mining/Module 4",
     "Untitled.base",
-    "Obsidian Vault/College/Data Mining/Module 2/Untitled",
-    "Obsidian Vault/College/Data Mining/Module 2"
+    "Obsidian Vault/College/Data Mining/Module 2/Untitled"
   ]
 }
