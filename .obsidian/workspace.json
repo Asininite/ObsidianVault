@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/IBM Python/6. Lists.md",
+                "file": "Obsidian Vault/Courses/IBM Python/8. Dictionaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Lists"
+              "title": "8. Dictionaries"
             }
           }
         ]
@@ -171,23 +171,24 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/IBM Python/7. Tuples.md",
+    "Obsidian Vault/Images/Pasted image 20260517185610.png",
+    "Obsidian Vault/Courses/IBM Python/8. Dictionaries.md",
     "Obsidian Vault/Courses/IBM Python/6. Lists.md",
+    "Obsidian Vault/Courses/IBM Python/7. Tuples.md",
     "Obsidian Vault/Courses/IBM Python/5. cheat sheet.md",
     "Obsidian Vault/Courses/IBM Python/4. Strings.md",
     "Obsidian Vault/Courses/IBM Python/6. Tuples.ipynb",
-    "Pasted image 20260517185610.png",
-    "Pasted image 20260517185552.png",
-    "Pasted image 20260517185541.png",
-    "Pasted image 20260517185531.png",
-    "Pasted image 20260517185518.png",
+    "Obsidian Vault/Images/Pasted image 20260517185552.png",
+    "Obsidian Vault/Images/Pasted image 20260517185541.png",
+    "Obsidian Vault/Images/Pasted image 20260517185531.png",
+    "Obsidian Vault/Images/Pasted image 20260517185518.png",
     "Obsidian Vault/Courses/IBM Python/PY0101EN-1-2-Strings.ipynb",
     "PY0101EN-1-2-Strings.ipynb",
-    "Pasted image 20260517173341.png",
-    "Pasted image 20260517173331.png",
-    "Pasted image 20260517173159.png",
-    "Pasted image 20260517173117.png",
-    "Pasted image 20260517173109.png",
+    "Obsidian Vault/Images/Pasted image 20260517173341.png",
+    "Obsidian Vault/Images/Pasted image 20260517173331.png",
+    "Obsidian Vault/Images/Pasted image 20260517173159.png",
+    "Obsidian Vault/Images/Pasted image 20260517173117.png",
+    "Obsidian Vault/Images/Pasted image 20260517173109.png",
     "Obsidian Vault/Courses/IBM Python/2. Jupyter.md",
     "Obsidian Vault/Courses/IBM Python/1. Why Python.md",
     "Obsidian Vault/Projects/Final Project/Final Presentation.md",
@@ -210,8 +211,6 @@
     "Obsidian Vault/College/Blockchain/3.3 PoW and PoS.md",
     "Obsidian Vault/College/Blockchain/2.5 Consensus.md",
     "Obsidian Vault/College/Blockchain/1.1 Symmetric vs Asymmetric Cryptography.md",
-    "Obsidian Vault/College/Blockchain/3.4 Bitcoin.md",
-    "Obsidian Vault/College/Blockchain/3.2.2 PBFT.md",
     "Obsidian Vault/College/Blockchain",
     "Obsidian Vault/College/Data Mining/Module 1",
     "Obsidian Vault/College/Data Mining/Module 5",
