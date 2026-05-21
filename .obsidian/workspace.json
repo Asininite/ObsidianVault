@@ -11,14 +11,12 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/Remember.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260521072524.png"
               },
-              "icon": "lucide-file",
-              "title": "Remember"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260521072524"
             }
           }
         ]
@@ -172,11 +170,11 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Pasted image 20260521080551.png",
-    "Pasted image 20260521072524.png",
     "Pasted image 20260519213940.png",
-    "Obsidian Vault/Courses/IBM Python/12. Functions.md",
+    "Pasted image 20260521072524.png",
     "Obsidian Vault/Remember.md",
+    "Pasted image 20260521080551.png",
+    "Obsidian Vault/Courses/IBM Python/12. Functions.md",
     "Obsidian Vault/Courses/IBM Python/8. Dictionaries.md",
     "Obsidian Vault/Courses/IBM Python/11. Loops.md",
     "Obsidian Vault/Courses/IBM Python/9. Sets.md",
@@ -194,7 +192,6 @@
     "PY0101EN-1-2-Strings.ipynb",
     "Obsidian Vault/Images/Pasted image 20260517173341.png",
     "Obsidian Vault/Images/Pasted image 20260517173331.png",
-    "Obsidian Vault/Images/Pasted image 20260517173159.png",
     "Obsidian Vault/Courses/IBM Python/2. Jupyter.md",
     "Obsidian Vault/Courses/IBM Python/1. Why Python.md",
     "Obsidian Vault/Projects/Final Project/Final Presentation.md",
