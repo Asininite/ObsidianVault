@@ -11,12 +11,14 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260521072524.png"
+                "file": "Obsidian Vault/Remember.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260521072524"
+              "icon": "lucide-file",
+              "title": "Remember"
             }
           }
         ]
@@ -170,10 +172,10 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Pasted image 20260519213940.png",
-    "Pasted image 20260521072524.png",
-    "Obsidian Vault/Remember.md",
     "Pasted image 20260521080551.png",
+    "Pasted image 20260521072524.png",
+    "Pasted image 20260519213940.png",
+    "Obsidian Vault/Remember.md",
     "Obsidian Vault/Courses/IBM Python/12. Functions.md",
     "Obsidian Vault/Courses/IBM Python/8. Dictionaries.md",
     "Obsidian Vault/Courses/IBM Python/11. Loops.md",
