@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Module 2/2. ORM Tools.md",
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 2/3. SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. ORM Tools"
+              "title": "3. SQL"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/6. IBM Django/Module 1/1. Relational Databases.md",
+    "Pasted image 20260621054203.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/2. ORM Tools.md",
+    "Obsidian Vault/Courses/6. IBM Django/Module 2/3. SQL.md",
+    "Obsidian Vault/Courses/6. IBM Django/Module 1/1. Relational Databases.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2",
     "Pasted image 20260618204957.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 1",
@@ -212,8 +214,6 @@
     "Obsidian Vault/Courses/4. IBM Python/1. Why Python.md",
     "Obsidian Vault/Courses/4. IBM Python",
     "Obsidian Vault/Remember.md",
-    "Obsidian Vault/Courses/IBM Python/12. Functions.md",
-    "Obsidian Vault/Courses/IBM Python/8. Dictionaries.md",
     "Obsidian Vault/Courses/IBM Python/6. Tuples.ipynb",
     "Obsidian Vault/Courses/IBM Python/PY0101EN-1-2-Strings.ipynb",
     "PY0101EN-1-2-Strings.ipynb",
