@@ -11,12 +11,14 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20260618204957.png"
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260618204957"
+              "icon": "lucide-file",
+              "title": "4. Django Model"
             }
           }
         ]
@@ -168,8 +170,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Remember.md",
     "Obsidian Vault/Images/Pasted image 20260618204957.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
     "Obsidian Vault/Images/Pasted image 20260622065154.png",
