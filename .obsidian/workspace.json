@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Module 2/3. ORM.md",
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. ORM"
+              "title": "5. Django CRUD"
             }
           }
         ]
@@ -172,13 +172,14 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
+    "Obsidian Vault/Courses/6. IBM Django/Module 2/3. ORM.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/7. Related Objects.md",
     "Pasted image 20260624031915.png",
     "Pasted image 20260624031904.png",
     "Pasted image 20260624025513.png",
     "Pasted image 20260624025504.png",
     "Obsidian Vault/Courses/6. IBM Django/Script To Instantiate IBM Lab locally.md",
-    "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
     "Pasted image 20260623163340.png",
     "Pasted image 20260623163336.png",
     "Obsidian Vault/Images/Pasted image 20260623162939.png",
@@ -189,7 +190,6 @@
     "SOTI_8_Week_Prep_Plan.xlsx",
     "README.md",
     "Obsidian Vault/Remember.md",
-    "Obsidian Vault/Courses/6. IBM Django/Module 2/3. ORM.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/2. ORM Tools.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 1/1. Relational Databases.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2",
