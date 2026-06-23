@@ -11,12 +11,14 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20260623162939.png"
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260623162939"
+              "icon": "lucide-file",
+              "title": "5. Django CRUD"
             }
           }
         ]
@@ -168,22 +170,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
+    "README.md",
     "Obsidian Vault/Images/Pasted image 20260623162939.png",
-    "Pasted image 20260623162936.png",
-    "Pasted image 20260623162926.png",
-    "Pasted image 20260623162902.png",
-    "Pasted image 20260623162854.png",
-    "Pasted image 20260623162628.png",
-    "Pasted image 20260623162556.png",
-    "Pasted image 20260623162521.png",
-    "Pasted image 20260623161511.png",
-    "Pasted image 20260623161503.png",
+    "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
+    "Obsidian Vault/Images/Pasted image 20260623162936.png",
+    "Obsidian Vault/Images/Pasted image 20260623162926.png",
+    "Obsidian Vault/Images/Pasted image 20260623162902.png",
+    "Obsidian Vault/Images/Pasted image 20260623162854.png",
+    "Obsidian Vault/Images/Pasted image 20260623162628.png",
+    "Obsidian Vault/Images/Pasted image 20260623162556.png",
+    "Obsidian Vault/Images/Pasted image 20260623162521.png",
+    "Obsidian Vault/Images/Pasted image 20260623161511.png",
+    "Obsidian Vault/Images/Pasted image 20260623161503.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
     "SOTI_8_Week_Prep_Plan.xlsx",
-    "README.md",
     "Obsidian Vault/Remember.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/3. ORM.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/2. ORM Tools.md",
