@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 2/7. Related Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Django CRUD"
+              "title": "7. Related Objects"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/3. ORM.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/7. Related Objects.md",
@@ -186,7 +187,6 @@
     "Obsidian Vault/Images/Pasted image 20260623162936.png",
     "Obsidian Vault/Images/Pasted image 20260623162926.png",
     "Obsidian Vault/Images/Pasted image 20260623162902.png",
-    "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
     "SOTI_8_Week_Prep_Plan.xlsx",
     "README.md",
     "Obsidian Vault/Remember.md",
