@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Django Model"
+              "title": "5. Django CRUD"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Pasted image 20260623161503.png",
+    "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
+    "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
     "SOTI_8_Week_Prep_Plan.xlsx",
     "README.md",
     "Pasted image 20260622071043.png",
@@ -180,7 +183,6 @@
     "Pasted image 20260622070353.png",
     "Obsidian Vault/Remember.md",
     "Obsidian Vault/Images/Pasted image 20260618204957.png",
-    "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
     "Obsidian Vault/Images/Pasted image 20260622065154.png",
     "Obsidian Vault/Images/Pasted image 20260622065050.png",
     "Obsidian Vault/Images/Pasted image 20260621054904.png",
@@ -212,11 +214,9 @@
     "Obsidian Vault/Courses/4. IBM Python/5. cheat sheet.md",
     "Obsidian Vault/Courses/4. IBM Python/4. Strings.md",
     "Obsidian Vault/Courses/4. IBM Python/2. Jupyter.md",
-    "Obsidian Vault/Courses/4. IBM Python/12. Functions.md",
     "Obsidian Vault/Courses/4. IBM Python",
     "Obsidian Vault/Courses/IBM Python/6. Tuples.ipynb",
     "Obsidian Vault/Courses/IBM Python/PY0101EN-1-2-Strings.ipynb",
-    "PY0101EN-1-2-Strings.ipynb",
-    "Obsidian Vault/Courses/IBM Python"
+    "PY0101EN-1-2-Strings.ipynb"
   ]
 }
