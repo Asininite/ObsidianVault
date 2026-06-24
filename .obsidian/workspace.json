@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Module 3/3. Django Admin.md",
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 3/4. Django Views.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Django Admin"
+              "title": "4. Django Views"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/6. IBM Django/Module 3/3. Django Admin.md",
+    "Obsidian Vault/Courses/6. IBM Django/Module 3/4. Django Views.md",
     "Pasted image 20260625001610.png",
     "Pasted image 20260625001556.png",
     "Pasted image 20260625001537.png",
@@ -179,14 +181,12 @@
     "Pasted image 20260625001357.png",
     "Pasted image 20260625001352.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/2. Create a Django App.md",
-    "Obsidian Vault/Courses/6. IBM Django/Module 3/3. Django Admin.md",
     "Ashwin_SOTI_6_Week_Sprint .xlsx",
     "Ashwin_SOTI_6_Week_Sprint (1).xlsx",
     "Pasted image 20260624180359.png",
     "Pasted image 20260624180342.png",
     "Pasted image 20260624180243.png",
     "Pasted image 20260624180213.png",
-    "Pasted image 20260624180029.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/1. Django MVT.md",
     "Obsidian Vault/Courses/6. IBM Django/Script To Instantiate IBM Lab locally.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
