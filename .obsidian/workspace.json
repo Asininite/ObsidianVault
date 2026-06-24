@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Module 3/1. Django MVT.md",
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 3/2. Create a Django App.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Django MVT"
+              "title": "2. Create a Django App"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/6. IBM Django/Module 3/2. Create a Django App.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/1. Django MVT.md",
+    "Obsidian Vault/Courses/6. IBM Django/Module 3/2. Create a Django App.md",
     "Pasted image 20260624175408.png",
     "Pasted image 20260624175351.png",
     "Pasted image 20260624175311.png",
