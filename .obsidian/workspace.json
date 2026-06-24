@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Module 3/1. Django MVT.md",
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 3/4. Django Views and Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Django MVT"
+              "title": "4. Django Views and Templates"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/6. IBM Django/Module 3/1. Django MVT.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/2. Create a Django App.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/4. Django Views and Templates.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/5. Cheat Sheet.md",
@@ -188,7 +189,6 @@
     "Pasted image 20260625001610.png",
     "Ashwin_SOTI_6_Week_Sprint .xlsx",
     "Ashwin_SOTI_6_Week_Sprint (1).xlsx",
-    "Obsidian Vault/Courses/6. IBM Django/Module 3/1. Django MVT.md",
     "Obsidian Vault/Courses/6. IBM Django/Script To Instantiate IBM Lab locally.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/4. Django Model.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3",
