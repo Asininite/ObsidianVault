@@ -11,12 +11,14 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20260625011749.png"
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260625011749"
+              "icon": "lucide-file",
+              "title": "1. Class Views"
             }
           }
         ]
@@ -168,15 +170,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Pasted image 20260625013637.png",
+    "Pasted image 20260625013627.png",
+    "Pasted image 20260625013606.png",
+    "Obsidian Vault/Images/Pasted image 20260625011749.png",
+    "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 1/1. Relational Databases.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/4. Django Views and Templates.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/1. Django MVT.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/2. Create a Django App.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/5. Cheat Sheet.md",
-    "Obsidian Vault/Images/Pasted image 20260625011749.png",
     "Obsidian Vault/Images/Pasted image 20260625011728.png",
     "Obsidian Vault/Images/Pasted image 20260625011720.png",
     "Obsidian Vault/Images/Pasted image 20260625011706.png",
@@ -184,9 +190,7 @@
     "Obsidian Vault/Images/Pasted image 20260625011617.png",
     "Obsidian Vault/Images/Pasted image 20260625011539.png",
     "Obsidian Vault/Images/Pasted image 20260625011453.png",
-    "Obsidian Vault/Images/Pasted image 20260625011025.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/3. Django Admin.md",
-    "Obsidian Vault/Images/Pasted image 20260625001610.png",
     "Ashwin_SOTI_6_Week_Sprint .xlsx",
     "Ashwin_SOTI_6_Week_Sprint (1).xlsx",
     "Obsidian Vault/Courses/6. IBM Django/Script To Instantiate IBM Lab locally.md",
@@ -212,7 +216,6 @@
     "Obsidian Vault/Courses/6. IBM Django",
     "Obsidian Vault/Courses/5. IBM Developing AI apps with py flask/2. Web apps.md",
     "Obsidian Vault/Courses/5. IBM Developing AI apps with py flask/10. Flask Stuff.md",
-    "Obsidian Vault/Courses/5. IBM Developing AI apps with py flask/1. Application Development Lifecycle.md",
     "Obsidian Vault/Courses/5. IBM Developing AI apps with py flask",
     "Obsidian Vault/Courses/4. IBM Python/PY0101EN-1-2-Strings.ipynb"
   ]
