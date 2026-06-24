@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 1/1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Class Views"
+              "title": "1."
             }
           }
         ]
@@ -170,8 +170,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Pasted image 20260625032329.png",
+    "Pasted image 20260625032311.png",
+    "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1/1..md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1/Untitled",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1",
     "Obsidian Vault/Courses/7. IBM Containers",
     "Pasted image 20260625014206.png",
     "Pasted image 20260625013827.png",
@@ -182,14 +188,12 @@
     "Pasted image 20260625013627.png",
     "Pasted image 20260625013606.png",
     "Obsidian Vault/Images/Pasted image 20260625011749.png",
-    "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 1/1. Relational Databases.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/4. Django Views and Templates.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/1. Django MVT.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/2. Create a Django App.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/5. Cheat Sheet.md",
-    "Obsidian Vault/Images/Pasted image 20260625011728.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/3. Django Admin.md",
     "Ashwin_SOTI_6_Week_Sprint .xlsx",
     "Ashwin_SOTI_6_Week_Sprint (1).xlsx",
@@ -213,10 +217,6 @@
     "Obsidian Vault/Courses/6. IBM Django/Module 1/4. Questions.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 1/3. Relational Data Concepts.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 1/2. NoSQL.md",
-    "Obsidian Vault/Courses/6. IBM Django",
-    "Obsidian Vault/Courses/5. IBM Developing AI apps with py flask/2. Web apps.md",
-    "Obsidian Vault/Courses/5. IBM Developing AI apps with py flask/10. Flask Stuff.md",
-    "Obsidian Vault/Courses/5. IBM Developing AI apps with py flask",
-    "Obsidian Vault/Courses/4. IBM Python/PY0101EN-1-2-Strings.ipynb"
+    "Obsidian Vault/Courses/5. IBM Developing AI apps with py flask/2. Web apps.md"
   ]
 }
