@@ -11,12 +11,14 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20260625182811.png"
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 4/2. Django Authentication.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260625182811"
+              "icon": "lucide-file",
+              "title": "2. Django Authentication"
             }
           }
         ]
@@ -168,14 +170,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Images/Pasted image 20260625182811.png",
+    "Obsidian Vault/Courses/6. IBM Django/Module 4/2. Django Authentication.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/1. Containers.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/4. Docker Objects.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/5. Docker Architecture.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/6. Cheat Sheet.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
-    "Obsidian Vault/Images/Pasted image 20260625182811.png",
     "Obsidian Vault/Images/Pasted image 20260625182733.png",
     "Obsidian Vault/Images/Pasted image 20260625171510.png",
     "Obsidian Vault/Images/Pasted image 20260625171504.png",
@@ -212,7 +215,6 @@
     "Obsidian Vault/Courses/6. IBM Django/Module 1/6. Module 1 Cheatsheet.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 1/5.3 Join.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 1/5.2 Sorting Result Set.md",
-    "Obsidian Vault/Courses/6. IBM Django/Module 1/5.1 CREATE ALTER DROP.md",
     "Obsidian Vault/Courses/6. IBM Django",
     "Obsidian Vault/Courses/5. IBM Developing AI apps with py flask"
   ]
