@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 1/4. Docker Objects.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 1/5. Docker Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Docker Objects"
+              "title": "5. Docker Architecture"
             }
           }
         ]
@@ -172,11 +172,12 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1/4. Docker Objects.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1/5. Docker Architecture.md",
     "Pasted image 20260625171510.png",
     "Pasted image 20260625171504.png",
     "Pasted image 20260625171408.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/3. Building Running Containers.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 1/4. Docker Objects.md",
     "Pasted image 20260625171213.png",
     "Pasted image 20260625171105.png",
     "Pasted image 20260625171052.png",
@@ -186,7 +187,6 @@
     "Obsidian Vault/Images/Pasted image 20260625032522.png",
     "Obsidian Vault/Images/Pasted image 20260625032510.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/1. Containers.md",
-    "Obsidian Vault/Images/Pasted image 20260625032329.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/Untitled",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
