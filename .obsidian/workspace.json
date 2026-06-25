@@ -11,14 +11,12 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 1/2. Docker.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Images/Pasted image 20260625013606.png"
               },
-              "icon": "lucide-file",
-              "title": "2. Docker"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260625013606"
             }
           }
         ]
@@ -170,25 +168,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "00ab3177034a1327",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Pasted image 20260625032554.png",
-    "Pasted image 20260625032522.png",
-    "Pasted image 20260625032510.png",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 1/1. Containers.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/2. Docker.md",
-    "Pasted image 20260625032329.png",
-    "Pasted image 20260625032311.png",
+    "Obsidian Vault/Images/Pasted image 20260625032554.png",
+    "Obsidian Vault/Images/Pasted image 20260625032522.png",
+    "Obsidian Vault/Images/Pasted image 20260625032510.png",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1/1. Containers.md",
+    "Obsidian Vault/Images/Pasted image 20260625032329.png",
+    "Obsidian Vault/Images/Pasted image 20260625032311.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/Untitled",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
     "Obsidian Vault/Courses/7. IBM Containers",
-    "Pasted image 20260625014206.png",
-    "Pasted image 20260625013827.png",
-    "Pasted image 20260625013800.png",
-    "Pasted image 20260625013754.png",
-    "Pasted image 20260625013731.png",
-    "Pasted image 20260625013637.png",
+    "Obsidian Vault/Images/Pasted image 20260625014206.png",
+    "Obsidian Vault/Images/Pasted image 20260625013827.png",
+    "Obsidian Vault/Images/Pasted image 20260625013800.png",
+    "Obsidian Vault/Images/Pasted image 20260625013754.png",
+    "Obsidian Vault/Images/Pasted image 20260625013731.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 1/1. Relational Databases.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/4. Django Views and Templates.md",
