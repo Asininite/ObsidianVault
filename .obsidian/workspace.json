@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Module 4/5. Deploy Django Apps.md",
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 4/6. Cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Deploy Django Apps"
+              "title": "6. Cheatsheet"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/6. IBM Django/Module 4/4. Django Static Files.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/5. Deploy Django Apps.md",
+    "Obsidian Vault/Courses/6. IBM Django/Module 4/6. Cheatsheet.md",
+    "Obsidian Vault/Courses/6. IBM Django/Module 4/4. Django Static Files.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/3. Bootstrap.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/2. Django Authentication.md",
     "Obsidian Vault/Images/Pasted image 20260625182811.png",
@@ -215,7 +216,6 @@
     "Obsidian Vault/Courses/6. IBM Django/Module 1/1. Relational Databases.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2",
     "Obsidian Vault/Courses/6. IBM Django/Module 1",
-    "Obsidian Vault/Courses/6. IBM Django/Module 1/6. Module 1 Cheatsheet.md",
     "Obsidian Vault/Courses/6. IBM Django",
     "Obsidian Vault/Courses/5. IBM Developing AI apps with py flask"
   ]
