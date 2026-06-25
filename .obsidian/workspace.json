@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 4/4. Django Static Files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Class Views"
+              "title": "4. Django Static Files"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/6. Cheatsheet.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/5. Deploy Django Apps.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/4. Django Static Files.md",
@@ -197,7 +198,6 @@
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
     "Obsidian Vault/Courses/7. IBM Containers",
     "Obsidian Vault/Courses/6. IBM Django/Script To Instantiate IBM Lab locally.md",
-    "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/5. Cheat Sheet.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/4. Django Views and Templates.md",
