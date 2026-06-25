@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 1/3. Building Running Containers.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 1/4. Docker Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Building Running Containers"
+              "title": "4. Docker Objects"
             }
           }
         ]
@@ -172,10 +172,12 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1/3. Building Running Containers.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1/4. Docker Objects.md",
+    "Pasted image 20260625171213.png",
     "Pasted image 20260625171105.png",
     "Pasted image 20260625171052.png",
     "Obsidian Vault/Images/Pasted image 20260625013606.png",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 1/3. Building Running Containers.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/2. Docker.md",
     "Obsidian Vault/Images/Pasted image 20260625032554.png",
     "Obsidian Vault/Images/Pasted image 20260625032522.png",
@@ -188,8 +190,6 @@
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
     "Obsidian Vault/Courses/7. IBM Containers",
     "Obsidian Vault/Images/Pasted image 20260625014206.png",
-    "Obsidian Vault/Images/Pasted image 20260625013827.png",
-    "Obsidian Vault/Images/Pasted image 20260625013800.png",
     "Obsidian Vault/Courses/6. IBM Django/Module 1/1. Relational Databases.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4",
     "Obsidian Vault/Courses/6. IBM Django/Module 3/4. Django Views and Templates.md",
