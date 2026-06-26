@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 2/Untitled.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 2/4. Kubernetes Objects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "4. Kubernetes Objects"
             }
           }
         ]
@@ -173,7 +173,7 @@
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/3. Kubernetes Architecture.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/Untitled.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/4. Kubernetes Objects.md",
     "Obsidian Vault/Courses/6. IBM Django/Final Project.md",
     "07-final.png",
     "Untitled 1.md",
