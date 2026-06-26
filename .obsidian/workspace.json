@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/6. IBM Django/Final Project.md",
+                "file": "Obsidian Vault/Courses/6. IBM Django/Module 3/3. Django Admin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Project"
+              "title": "3. Django Admin"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/1. Container Orchestration.md",
     "Obsidian Vault/Courses/6. IBM Django/Final Project.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/1. Container Orchestration.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/3. Kubernetes Architecture.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/2. Kubernetes Intro.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/5. Deploy Django Apps.md",
