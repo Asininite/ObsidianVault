@@ -6,3 +6,4 @@
 5. https://github.com/Asininite/tfjzl-final-cloud-app-with-database/blob/main/onlinecourse/views.py
    https://github.com/Asininite/tfjzl-final-cloud-app-with-database/blob/main/onlinecourse/urls.py
 6. 
+7. ![[07-final.png]]
