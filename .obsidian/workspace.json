@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 2/4. Kubernetes Objects.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 2/5. Using Kubectl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Kubernetes Objects"
+              "title": "5. Using Kubectl"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/4. Kubernetes Objects.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/5. Using Kubectl.md",
     "Pasted image 20260627003902.png",
     "Pasted image 20260627003537.png",
     "Pasted image 20260627003521.png",
@@ -179,7 +181,6 @@
     "Pasted image 20260627003351.png",
     "Pasted image 20260627003341.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/3. Kubernetes Architecture.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/4. Kubernetes Objects.md",
     "Obsidian Vault/Courses/6. IBM Django/Final Project.md",
     "07-final.png",
     "Untitled 1.md",
@@ -203,7 +204,6 @@
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/6. Cheat Sheet.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
     "Obsidian Vault/Images/Pasted image 20260625182733.png",
-    "Obsidian Vault/Images/Pasted image 20260625171510.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/3. Building Running Containers.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/2. Docker.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
