@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 2/5. Using Kubectl.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Using Kubectl"
+              "title": "1. Replica Set"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/5. Using Kubectl.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/7. Antipatterns.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/6. Ingress Objects vs Controller.md",
     "Pasted image 20260627181733.png",
@@ -181,7 +184,6 @@
     "Pasted image 20260627181700.png",
     "Pasted image 20260627181637.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/4. Kubernetes Objects.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/5. Using Kubectl.md",
     "Pasted image 20260627003902.png",
     "Pasted image 20260627003537.png",
     "Pasted image 20260627003521.png",
@@ -211,12 +213,10 @@
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
     "Obsidian Vault/Courses/7. IBM Containers",
     "Obsidian Vault/Courses/6. IBM Django/Module 4",
-    "Obsidian Vault/Courses/6. IBM Django/Module 3/5. Cheat Sheet.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 3",
     "Ashwin_SOTI_6_Week_Sprint .xlsx",
     "SOTI_8_Week_Prep_Plan.xlsx",
     "Obsidian Vault/Courses/6. IBM Django/Module 2",
-    "Obsidian Vault/Courses/6. IBM Django/Module 1",
-    "Obsidian Vault/Courses/6. IBM Django"
+    "Obsidian Vault/Courses/6. IBM Django/Module 1"
   ]
 }
