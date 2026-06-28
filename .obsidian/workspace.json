@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/3. Deployment Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Autoscaling"
+              "title": "3. Deployment Strategy"
             }
           }
         ]
@@ -172,10 +172,11 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/3. Deployment Strategy.md",
     "Pasted image 20260629024231.png",
     "Pasted image 20260629024136.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
     "Pasted image 20260629022317.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/5. Using Kubectl.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3",
@@ -189,7 +190,6 @@
     "Pasted image 20260627181637.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/4. Kubernetes Objects.md",
     "Pasted image 20260627003902.png",
-    "Pasted image 20260627003537.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/3. Kubernetes Architecture.md",
     "Obsidian Vault/Courses/6. IBM Django/Final Project.md",
     "Untitled 1.md",
