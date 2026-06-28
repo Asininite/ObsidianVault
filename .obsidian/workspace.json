@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Replica Set"
+              "title": "2. Autoscaling"
             }
           }
         ]
@@ -172,9 +172,11 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Pasted image 20260629024136.png",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
     "Pasted image 20260629022317.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/5. Using Kubectl.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/7. Antipatterns.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/6. Ingress Objects vs Controller.md",
@@ -188,7 +190,6 @@
     "Pasted image 20260627003902.png",
     "Pasted image 20260627003537.png",
     "Pasted image 20260627003521.png",
-    "Pasted image 20260627003406.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2/3. Kubernetes Architecture.md",
     "Obsidian Vault/Courses/6. IBM Django/Final Project.md",
     "Untitled 1.md",
@@ -209,7 +210,6 @@
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/5. Docker Architecture.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/6. Cheat Sheet.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 2/5. Django CRUD.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 1/3. Building Running Containers.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
     "Obsidian Vault/Courses/7. IBM Containers",
     "Obsidian Vault/Courses/6. IBM Django/Module 4",
