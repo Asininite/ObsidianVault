@@ -11,12 +11,14 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20260627003341.png"
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260627003341"
+              "icon": "lucide-file",
+              "title": "6. Service Binding"
             }
           }
         ]
@@ -168,10 +170,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/6. IBM Django/03-admin-site.png",
     "Obsidian Vault/Images/Pasted image 20260627003341.png",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
+    "Obsidian Vault/Courses/6. IBM Django/03-admin-site.png",
     "~$Ashwin_SOTI_6_Week_Sprint .xlsx",
     "Obsidian Vault/Images/Pasted image 20260629043532.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/5. Config Map and Secrets.md",
@@ -184,7 +187,6 @@
     "Obsidian Vault/Images/Pasted image 20260629035413.png",
     "Obsidian Vault/Images/Pasted image 20260629035359.png",
     "Obsidian Vault/Images/Pasted image 20260629035346.png",
-    "Obsidian Vault/Images/Pasted image 20260629035329.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/4. Rolling Updates.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/3. Deployment Strategy.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
@@ -208,7 +210,6 @@
     "Obsidian Vault/Courses/6. IBM Django/Module 4/2. Django Authentication.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/4. Docker Objects.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/5. Docker Architecture.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 1/1. Containers.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/Untitled",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
     "Obsidian Vault/Courses/7. IBM Containers",
