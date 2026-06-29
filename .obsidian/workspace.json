@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Cheat Sheet"
+              "title": "2. Autoscaling"
             }
           }
         ]
@@ -173,12 +173,12 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/5. Config Map and Secrets.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
     "Pasted image 20260630020839.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/7. Lab Scaling and Updating apps.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/8. Impact of Kubernetes and Containerization.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/5. Config Map and Secrets.md",
     "Obsidian Vault/Images/Pasted image 20260629043532.png",
     "Obsidian Vault/Images/Pasted image 20260629040805.png",
     "Obsidian Vault/Images/Pasted image 20260629040433.png",
@@ -188,7 +188,6 @@
     "Obsidian Vault/Images/Pasted image 20260629035359.png",
     "Obsidian Vault/Images/Pasted image 20260629035346.png",
     "Obsidian Vault/Images/Pasted image 20260629035329.png",
-    "Obsidian Vault/Images/Pasted image 20260629034853.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/4. Rolling Updates.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/3. Deployment Strategy.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
