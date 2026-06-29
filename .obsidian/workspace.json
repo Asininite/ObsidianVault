@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/10. Revision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Replica Set"
+              "title": "10. Revision"
             }
           }
         ]
@@ -173,9 +173,10 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/10. Revision.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/4. Rolling Updates.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/7. Lab Scaling and Updating apps.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/8. Impact of Kubernetes and Containerization.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
