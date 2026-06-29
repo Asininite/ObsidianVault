@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/7. Lab Scaling and Updating apps.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Lab Scaling and Updating apps"
+              "title": "9. Cheat Sheet"
             }
           }
         ]
@@ -173,9 +173,10 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/8. Impact of Kubernetes and Containerization.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/7. Lab Scaling and Updating apps.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/7. Lab Scaling and Updating apps.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/8. Impact of Kubernetes and Containerization.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/5. Config Map and Secrets.md",
     "Obsidian Vault/Images/Pasted image 20260629043532.png",
     "Obsidian Vault/Images/Pasted image 20260629040805.png",
@@ -210,7 +211,6 @@
     "Obsidian Vault/Courses/6. IBM Django/Module 4/1. Class Views.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/6. Cheatsheet.md",
     "Obsidian Vault/Courses/6. IBM Django/Module 4/3. Bootstrap.md",
-    "Obsidian Vault/Courses/6. IBM Django/Module 4/2. Django Authentication.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
     "Obsidian Vault/Courses/7. IBM Containers",
     "Obsidian Vault/Courses/6. IBM Django/Module 4",
