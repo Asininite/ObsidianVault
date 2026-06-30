@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Final Project/10. rs.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Final Project/1. Dockerfile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. rs"
+              "title": "1. Dockerfile"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/7. IBM Containers/Final Project/9. rev.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/10. rs.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/9. rev.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/8. up-app.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/7. deployment.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/6. upguestbook.md",
