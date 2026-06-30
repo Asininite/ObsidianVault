@@ -1,4 +1,4 @@
-```
+```txt
 theia@theiaopenshift-asininite:/home/project/guestbook/v1/guestbook$ ibmcloud cr images
 Listing images...
 
