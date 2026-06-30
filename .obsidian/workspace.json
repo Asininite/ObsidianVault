@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Final Project/4. hpa.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Final Project/2. crimages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. hpa"
+              "title": "2. crimages"
             }
           }
         ]
@@ -170,12 +170,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "00ab3177034a1327",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/7. IBM Containers/Final Project/app.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/3. app.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/4. hpa.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Final Project/crimages.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Final Project/Dockerfile.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/2. crimages.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/1. Dockerfile.md",
     "Obsidian Vault/Courses/7. IBM Containers/8. Practice Lab Breakdown.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project",
