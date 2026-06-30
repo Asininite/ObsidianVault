@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Final Project/7. deployment.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Final Project/8. up-app.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. deployment"
+              "title": "8. up-app"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/7. deployment.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/6. upguestbook.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/5. hpa2.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/4. hpa.md",
@@ -181,7 +182,6 @@
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/10. rs.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/9. rev.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/8. up-app.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Final Project/7. deployment.md",
     "Obsidian Vault/Courses/7. IBM Containers/8. Practice Lab Breakdown.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project",
