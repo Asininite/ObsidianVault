@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Final Project/crimages.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Final Project/app.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "crimages"
+              "title": "app"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/7. IBM Containers/Final Project/Dockerfile.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/crimages.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/app.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/Dockerfile.md",
     "Obsidian Vault/Courses/7. IBM Containers/8. Practice Lab Breakdown.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project",
@@ -212,7 +213,6 @@
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/4. Kubernetes Objects.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1/Untitled",
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
