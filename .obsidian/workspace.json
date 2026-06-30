@@ -11,14 +11,12 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 4/3. Operators.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Images/Pasted image 20260630020839.png"
               },
-              "icon": "lucide-file",
-              "title": "3. Operators"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260630020839"
             }
           }
         ]
@@ -170,20 +168,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "00ab3177034a1327",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/3. Operators.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/4. Istio.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/2. Builds.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/1. Red Hat Openshift.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/5. Automate Builds with Build Triggers.md",
-    "Pasted image 20260630161744.png",
+    "Obsidian Vault/Images/Pasted image 20260630161744.png",
     "Pasted image 20260630161533.png",
     "Pasted image 20260630161510.png",
     "Pasted image 20260630161358.png",
     "Pasted image 20260630161338.png",
     "Pasted image 20260630161301.png",
     "Pasted image 20260630161236.png",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 4/3. Operators.md",
     "Pasted image 20260630160856.png",
     "Pasted image 20260630160808.png",
     "Pasted image 20260630160729.png",
