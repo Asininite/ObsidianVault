@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 4/2. Builds.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 4/5. Automate Builds with Build Triggers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Builds"
+              "title": "5. Automate Builds with Build Triggers"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/6. Cheat Sheet.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/2. Builds.md",
     "Pasted image 20260630204025.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/3. Operators.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/4. Istio.md",
@@ -182,14 +184,12 @@
     "Obsidian Vault/Images/Pasted image 20260630020839.png",
     "799FB660",
     "~$Ashwin_SOTI_6_Week_Sprint .xlsx",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 4/2. Builds.md",
     "Obsidian Vault/Images/Pasted image 20260630161744.png",
     "Obsidian Vault/Images/Pasted image 20260630161533.png",
     "Obsidian Vault/Images/Pasted image 20260630161510.png",
     "Obsidian Vault/Images/Pasted image 20260630161358.png",
     "Obsidian Vault/Images/Pasted image 20260630161338.png",
     "Obsidian Vault/Images/Pasted image 20260630161301.png",
-    "Obsidian Vault/Images/Pasted image 20260630161236.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
