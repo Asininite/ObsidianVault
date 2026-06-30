@@ -11,12 +11,14 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20260630020839.png"
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 4/3. Operators.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260630020839"
+              "icon": "lucide-file",
+              "title": "3. Operators"
             }
           }
         ]
@@ -170,10 +172,11 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/4. Istio.md",
+    "Obsidian Vault/Images/Pasted image 20260630020839.png",
     "799FB660",
     "~$Ashwin_SOTI_6_Week_Sprint .xlsx",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/3. Operators.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 4/4. Istio.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/2. Builds.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/1. Red Hat Openshift.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/5. Automate Builds with Build Triggers.md",
@@ -186,7 +189,6 @@
     "Obsidian Vault/Images/Pasted image 20260630161236.png",
     "Obsidian Vault/Images/Pasted image 20260630160856.png",
     "Obsidian Vault/Images/Pasted image 20260630160808.png",
-    "Obsidian Vault/Images/Pasted image 20260630160729.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
@@ -214,7 +216,6 @@
     "Obsidian Vault/Courses/7. IBM Containers/Module 1",
     "Obsidian Vault/Courses/7. IBM Containers",
     "Obsidian Vault/Courses/6. IBM Django/Module 4",
-    "Ashwin_SOTI_6_Week_Sprint .xlsx",
-    "Ashwin_SOTI_6_Week_Sprint (1).xlsx"
+    "Ashwin_SOTI_6_Week_Sprint .xlsx"
   ]
 }
