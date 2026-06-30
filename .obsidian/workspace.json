@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 4/4. Istio.md",
+                "file": "Obsidian Vault/Courses/7. IBM Containers/Module 4/5. Automate Builds with Build Triggers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Istio"
+              "title": "5. Automate Builds with Build Triggers"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/4. Istio.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/5. Automate Builds with Build Triggers.md",
     "Pasted image 20260630161744.png",
     "Pasted image 20260630161533.png",
     "Pasted image 20260630161510.png",
@@ -180,13 +182,11 @@
     "Pasted image 20260630161301.png",
     "Pasted image 20260630161236.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/3. Operators.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 4/4. Istio.md",
     "Pasted image 20260630160856.png",
     "Pasted image 20260630160808.png",
     "Pasted image 20260630160729.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/2. Builds.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
-    "Pasted image 20260630120558.png",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4/1. Red Hat Openshift.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
