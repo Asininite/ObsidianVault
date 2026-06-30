@@ -25,7 +25,7 @@ FROM ubuntu:18.04
 
   
 
-ADD --from=builder /app/main /app/guestbook
+COPY --from=builder /app/main /app/guestbook
 
   
 
