@@ -11,12 +11,14 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20260630020839.png"
+                "file": "Obsidian Vault/Courses/8. IBM Microservices/Module 2/1. REST.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260630020839"
+              "icon": "lucide-file",
+              "title": "1. REST"
             }
           }
         ]
@@ -170,7 +172,9 @@
   },
   "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Obsidian Vault/Courses/8. IBM Microservices/Untitled",
+    "Obsidian Vault/Images/Pasted image 20260630020839.png",
+    "Obsidian Vault/Courses/8. IBM Microservices/Module 2/1. REST.md",
+    "Obsidian Vault/Courses/8. IBM Microservices/Module 2",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/10. rs.md",
     "Obsidian Vault/Images/Pasted image 20260702023409.png",
     "Obsidian Vault/Images/Pasted image 20260702023336.png",
@@ -211,10 +215,8 @@
     "~$Ashwin_SOTI_6_Week_Sprint .xlsx",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 4",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 1/Untitled",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 1"
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1/Untitled"
   ]
 }
