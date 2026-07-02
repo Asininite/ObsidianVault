@@ -11,14 +11,12 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/Courses/8. IBM Microservices/Module 1/2. What are Microservices.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Images/Pasted image 20260630020839.png"
               },
-              "icon": "lucide-file",
-              "title": "2. What are Microservices"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260630020839"
             }
           }
         ]
@@ -152,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,53 +168,52 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "00ab3177034a1327",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Pasted image 20260702023409.png",
-    "Pasted image 20260702023336.png",
-    "Pasted image 20260702023316.png",
-    "Pasted image 20260702023232.png",
-    "Obsidian Vault/Courses/8. IBM Microservices/Module 1/1. 12-factor app.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/10. rs.md",
+    "Obsidian Vault/Images/Pasted image 20260702023409.png",
+    "Obsidian Vault/Images/Pasted image 20260702023336.png",
+    "Obsidian Vault/Images/Pasted image 20260702023316.png",
+    "Obsidian Vault/Images/Pasted image 20260702023232.png",
+    "Obsidian Vault/Images/Pasted image 20260702023144.png",
+    "Obsidian Vault/Images/Pasted image 20260702023128.png",
+    "Obsidian Vault/Images/Pasted image 20260702023111.png",
+    "Obsidian Vault/Images/Pasted image 20260702023056.png",
+    "Obsidian Vault/Images/Pasted image 20260702023038.png",
+    "Obsidian Vault/Images/Pasted image 20260702023018.png",
     "Obsidian Vault/Courses/8. IBM Microservices/Module 1/2. What are Microservices.md",
-    "Pasted image 20260702023144.png",
-    "Pasted image 20260702023128.png",
-    "Pasted image 20260702023111.png",
-    "Pasted image 20260702023056.png",
-    "Pasted image 20260702023038.png",
-    "Pasted image 20260702023018.png",
-    "Pasted image 20260702023003.png",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 4/1. Red Hat Openshift.md",
+    "Obsidian Vault/Courses/8. IBM Microservices/Module 1/1. 12-factor app.md",
     "Obsidian Vault/Courses/8. IBM Microservices/Module 1",
     "Obsidian Vault/Courses/8. IBM Microservices",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/10. Revision.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 4",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/4. Rolling Updates.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/7. Lab Scaling and Updating apps.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/8. Impact of Kubernetes and Containerization.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/9. rev.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/8. up-app.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/7. deployment.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/6. upguestbook.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/5. hpa2.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/4. hpa.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/3. app.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/2. crimages.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project/1. Dockerfile.md",
+    "Obsidian Vault/Courses/7. IBM Containers/8. Practice Lab Breakdown.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1/1. Containers.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/7. OpenShift Basics.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/4. Istio.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/1. Red Hat Openshift.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/3. Operators.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/2.1 ImageStream.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/2. Builds.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/5. Automate Builds with Build Triggers.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/6. Cheat Sheet.md",
+    "799FB660",
+    "~$Ashwin_SOTI_6_Week_Sprint .xlsx",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/5. Config Map and Secrets.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 3/3. Deployment Strategy.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/5. Using Kubectl.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 3",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/7. Antipatterns.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/6. Ingress Objects vs Controller.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/4. Kubernetes Objects.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/3. Kubernetes Architecture.md",
-    "Obsidian Vault/Courses/6. IBM Django/Final Project.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Obsidian Vault/Courses/6. IBM Django/Script To Instantiate IBM Lab locally.md",
-    "Obsidian Vault/Courses/6. IBM Django/Module 3/3. Django Admin.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/1. Container Orchestration.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 2/2. Kubernetes Intro.md",
     "Obsidian Vault/Courses/7. IBM Containers/Module 2",
-    "Obsidian Vault/Courses/7. IBM Containers/Module 1",
-    "Obsidian Vault/Courses/7. IBM Containers",
-    "Obsidian Vault/Courses/6. IBM Django/Module 4",
-    "Obsidian Vault/Courses/6. IBM Django/Module 3",
-    "Ashwin_SOTI_6_Week_Sprint .xlsx"
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1/Untitled",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1"
   ]
 }
