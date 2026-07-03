@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/3. FaaS intro.md",
+                "file": "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/4. Serverless Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. FaaS intro"
+              "title": "4. Serverless Framework"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/3. FaaS intro.md",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/4. Serverless Framework.md",
     "Pasted image 20260703081436.png",
     "Pasted image 20260703081407.png",
     "Pasted image 20260703081241.png",
@@ -181,10 +183,8 @@
     "Pasted image 20260703080956.png",
     "Pasted image 20260703080928.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/2. Serverless Pros and Cons.md",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/3. FaaS intro.md",
     "Pasted image 20260703080824.png",
     "Pasted image 20260703080805.png",
-    "Pasted image 20260703080734.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/1. Serverless Computing.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 2/5. Document Test REST APIs Swagger.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3",
