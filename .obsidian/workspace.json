@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20260703213759.png"
+                "file": "product_all_dealers_prices.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260703213759"
+              "title": "product_all_dealers_prices"
             }
           }
         ]
@@ -172,7 +172,7 @@
   "lastOpenFiles": [
     "product_dealer_price.png",
     "product_dealer.png",
-    "Pasted image 20260703213759.png",
+    "product_all_dealers_prices.png",
     "homepage.png",
     "frontend_deploy.png",
     "index_urlchanges.png",
