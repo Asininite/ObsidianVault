@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "dealer_details.png"
+                "file": "Pasted image 20260703210904.png"
               },
               "icon": "lucide-image",
-              "title": "dealer_details"
+              "title": "Pasted image 20260703210904"
             }
           }
         ]
@@ -168,10 +168,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "564ddfda9584e22f",
   "lastOpenFiles": [
+    "dealer_details_deploy.png",
     "Pasted image 20260703210904.png",
-    "dealer_details.png",
     "Pasted image 20260703213915.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/2..md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
