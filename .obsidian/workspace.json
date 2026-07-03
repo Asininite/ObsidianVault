@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/9. Application Security/Module 1/10. Vulnerability Scanning Threat Modeling.md",
+                "file": "Obsidian Vault/! Courses/9. Application Security/Module 1/15. Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Vulnerability Scanning Threat Modeling"
+              "title": "15. Cheat Sheet"
             }
           }
         ]
@@ -172,6 +172,9 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
+    "Obsidian Vault/! Courses/9. Application Security/Module 1/10. Vulnerability Scanning Threat Modeling.md",
+    "Obsidian Vault/! Courses/9. Application Security/Module 1/15. Cheat Sheet.md",
+    "Pasted image 20260704041544.png",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/12. Security Concepts.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/11. Threat Monitoring.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/13. Nmap Intro.md",
@@ -186,8 +189,6 @@
     "Pasted image 20260704040617.png",
     "Pasted image 20260704040606.png",
     "Pasted image 20260704040601.png",
-    "Pasted image 20260704040537.png",
-    "Obsidian Vault/! Courses/9. Application Security/Module 1/10. Vulnerability Scanning Threat Modeling.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/9. Questions.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/2. DevSecOps.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/4. Securing Layers for App Development.md",
@@ -213,7 +214,6 @@
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/4. Deploying and Running Applications.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/deploying docker image on ibm cloud engine.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/3. Building Container Images for Microservices.md",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/1. IBM Cloud Engine.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/7. AWS Lambda.pdf",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/AWS Lambda.pdf",
