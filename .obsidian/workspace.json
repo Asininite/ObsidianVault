@@ -11,14 +11,12 @@
             "id": "564ddfda9584e22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/2. Project, Application, Build and Jobs.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260703181102.png"
               },
-              "icon": "lucide-file",
-              "title": "2. Project, Application, Build and Jobs"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260703181102"
             }
           }
         ]
@@ -172,6 +170,11 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
+    "Pasted image 20260703210049.png",
+    "Pasted image 20260703181102.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/2. Project, Application, Build and Jobs.md",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/7. Deploy, Update, and Scale Microservices with Serverless Framework in Python.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/8. Glossary.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/6. Updating Deployed Applications.md",
@@ -185,12 +188,10 @@
     "Pasted image 20260703185900.png",
     "Pasted image 20260703185806.png",
     "Pasted image 20260703185748.png",
-    "Pasted image 20260703185745.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/5. deploying docker image on ibm cloud engine.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/4. Deploying and Running Applications.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/deploying docker image on ibm cloud engine.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/3. Building Container Images for Microservices.md",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/2. Project, Application, Build and Jobs.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/1. IBM Cloud Engine.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/1. Serverless Computing.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4",
@@ -212,11 +213,8 @@
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 2/1. REST.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 2",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/10. rs.md",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 1/2. What are Microservices.md",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 1/1. 12-factor app.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 1",
     "Obsidian Vault/! Courses/8. IBM Microservices",
-    "Obsidian Vault/Courses/7. IBM Containers/Final Project",
-    "799FB660"
+    "Obsidian Vault/Courses/7. IBM Containers/Final Project"
   ]
 }
