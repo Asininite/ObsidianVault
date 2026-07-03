@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/9. Application Security/Module 1/7. OpenSSL.md",
+                "file": "Obsidian Vault/! Courses/9. Application Security/Module 1/10. Vulnerability Scanning Threat Modeling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. OpenSSL"
+              "title": "10. Vulnerability Scanning Threat Modeling"
             }
           }
         ]
@@ -172,8 +172,8 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
-    "Obsidian Vault/! Courses/9. Application Security/Module 1/8. OpenSSL lab.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/7. OpenSSL.md",
+    "Obsidian Vault/! Courses/9. Application Security/Module 1/8. OpenSSL lab.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/4. Securing Layers for App Development.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/6. TLS SSL.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/5. Security Patterns.md",
