@@ -11,12 +11,14 @@
             "id": "564ddfda9584e22f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "product_all_dealers_prices.png"
+                "file": "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "product_all_dealers_prices"
+              "icon": "lucide-file",
+              "title": "1."
             }
           }
         ]
@@ -170,15 +172,15 @@
   },
   "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "product_dealer_price.png",
-    "product_dealer.png",
-    "product_all_dealers_prices.png",
-    "homepage.png",
-    "frontend_deploy.png",
-    "index_urlchanges.png",
-    "dealer_details_deploy.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/product_dealer_price.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/product_all_dealers_prices.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/product_dealer.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/homepage.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/frontend_deploy.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/index_urlchanges.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/dealer_details_deploy.png",
     "Pasted image 20260703210904.png",
-    "git_clone.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/git_clone.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/2..md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/product_details_deploy.png",
