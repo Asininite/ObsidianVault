@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
+                "file": "Obsidian Vault/! Courses/9. Application Security/Module 1/1. Security By Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1."
+              "title": "1. Security By Design"
             }
           }
         ]
@@ -170,8 +170,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "564ddfda9584e22f",
   "lastOpenFiles": [
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
+    "Obsidian Vault/! Courses/9. Application Security/Module 1/1. Security By Design.md",
+    "Obsidian Vault/! Courses/9. Application Security/Module 1",
+    "Obsidian Vault/! Courses/9. Application Security",
+    "Obsidian Vault/! Courses/9..md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/product_dealer_price.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/product_all_dealers_prices.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/product_dealer.png",
@@ -182,9 +187,7 @@
     "Pasted image 20260703210904.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/git_clone.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/2..md",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/product_details_deploy.png",
-    "Obsidian Vault/Images/Pasted image 20260703181102.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/2. Project, Application, Build and Jobs.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/7. Deploy, Update, and Scale Microservices with Serverless Framework in Python.md",
@@ -213,10 +216,7 @@
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 2/4. API Requests cURL Postman.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 2/3. Creating REST APIs.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 2/2. API Gateway.md",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 2/1. REST.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 2",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 1",
-    "Obsidian Vault/! Courses/8. IBM Microservices",
-    "Obsidian Vault/Courses/7. IBM Containers/Final Project"
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 1"
   ]
 }
