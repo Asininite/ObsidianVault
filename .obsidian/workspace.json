@@ -11,12 +11,14 @@
             "id": "564ddfda9584e22f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260703181102.png"
+                "file": "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260703181102"
+              "icon": "lucide-file",
+              "title": "1."
             }
           }
         ]
@@ -170,8 +172,8 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
-    "Pasted image 20260703210049.png",
-    "Pasted image 20260703181102.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/product_details_deploy.png",
+    "Obsidian Vault/Images/Pasted image 20260703181102.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/2. Project, Application, Build and Jobs.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5",
@@ -179,15 +181,15 @@
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/8. Glossary.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/6. Updating Deployed Applications.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/Unconfirmed 199675.crdownload",
-    "Pasted image 20260703190040.png",
-    "Pasted image 20260703190034.png",
-    "Pasted image 20260703190023.png",
-    "Pasted image 20260703190014.png",
-    "Pasted image 20260703185952.png",
-    "Pasted image 20260703185926.png",
-    "Pasted image 20260703185900.png",
-    "Pasted image 20260703185806.png",
-    "Pasted image 20260703185748.png",
+    "Obsidian Vault/Images/Pasted image 20260703190040.png",
+    "Obsidian Vault/Images/Pasted image 20260703190034.png",
+    "Obsidian Vault/Images/Pasted image 20260703190023.png",
+    "Obsidian Vault/Images/Pasted image 20260703190014.png",
+    "Obsidian Vault/Images/Pasted image 20260703185952.png",
+    "Obsidian Vault/Images/Pasted image 20260703185926.png",
+    "Obsidian Vault/Images/Pasted image 20260703185900.png",
+    "Obsidian Vault/Images/Pasted image 20260703185806.png",
+    "Obsidian Vault/Images/Pasted image 20260703185748.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/5. deploying docker image on ibm cloud engine.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/4. Deploying and Running Applications.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/deploying docker image on ibm cloud engine.md",
