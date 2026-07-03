@@ -11,14 +11,12 @@
             "id": "564ddfda9584e22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/2..md",
-                "mode": "source",
-                "source": false
+                "file": "dealer_details.png"
               },
-              "icon": "lucide-file",
-              "title": "2."
+              "icon": "lucide-image",
+              "title": "dealer_details"
             }
           }
         ]
@@ -170,18 +168,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "564ddfda9584e22f",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
+    "Pasted image 20260703210904.png",
+    "dealer_details.png",
     "Pasted image 20260703213915.png",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/2..md",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
     "Pasted image 20260703213759.png",
     "Pasted image 20260703212324.png",
     "Pasted image 20260703212149.png",
     "Pasted image 20260703212003.png",
     "Pasted image 20260703211031.png",
-    "Pasted image 20260703210904.png",
-    "Pasted image 20260703210825.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/product_details_deploy.png",
     "Obsidian Vault/Images/Pasted image 20260703181102.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/2. Project, Application, Build and Jobs.md",
@@ -190,7 +188,6 @@
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/8. Glossary.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/6. Updating Deployed Applications.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/Unconfirmed 199675.crdownload",
-    "Obsidian Vault/Images/Pasted image 20260703190040.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/5. deploying docker image on ibm cloud engine.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/4. Deploying and Running Applications.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/deploying docker image on ibm cloud engine.md",
