@@ -11,14 +11,12 @@
             "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/6. Popular Serverless Platforms.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260703092352.png"
               },
-              "icon": "lucide-file",
-              "title": "6. Popular Serverless Platforms"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260703092352"
             }
           }
         ]
@@ -172,19 +170,18 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/6. Popular Serverless Platforms.md",
+    "Pasted image 20260703092352.png",
     "Pasted image 20260703092317.png",
     "Pasted image 20260703083851.png",
     "Pasted image 20260703083816.png",
     "Pasted image 20260703083407.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/5. Serverless Reference Architecture.md",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/6. Popular Serverless Platforms.md",
     "Pasted image 20260703083025.png",
     "Pasted image 20260703083011.png",
     "Pasted image 20260703083001.png",
     "Pasted image 20260703082946.png",
     "Pasted image 20260703082935.png",
-    "Pasted image 20260703082929.png",
-    "Pasted image 20260703082919.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/4. Serverless Framework.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/3. FaaS intro.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/2. Serverless Pros and Cons.md",
