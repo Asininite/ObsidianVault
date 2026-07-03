@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/9. Application Security/Module 1/2. DevSecOps.md",
+                "file": "Obsidian Vault/! Courses/9. Application Security/Module 1/9. Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. DevSecOps"
+              "title": "9. Questions"
             }
           }
         ]
@@ -172,6 +172,11 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
+    "Pasted image 20260704040056.png",
+    "Pasted image 20260704040050.png",
+    "Pasted image 20260704040044.png",
+    "Obsidian Vault/! Courses/9. Application Security/Module 1/2. DevSecOps.md",
+    "Obsidian Vault/! Courses/9. Application Security/Module 1/9. Questions.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/4. Securing Layers for App Development.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/7. OpenSSL.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/8. OpenSSL lab.md",
@@ -185,11 +190,8 @@
     "Pasted image 20260704034339.png",
     "Pasted image 20260704034322.png",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/6. TLS SSL.md",
-    "Pasted image 20260704034231.png",
-    "Pasted image 20260704034222.png",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/5. Security Patterns.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/3. OSI Model.md",
-    "Obsidian Vault/! Courses/9. Application Security/Module 1/2. DevSecOps.md",
     "Obsidian Vault/! Courses/9..md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/1. Security By Design.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
@@ -214,7 +216,6 @@
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/8. Glossary.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/7. AWS Lambda.pdf",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/AWS Lambda.pdf",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/6. Popular Serverless Platforms.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 2"
   ]
