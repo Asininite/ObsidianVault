@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/5. deploying docker image on ibm cloud engine.md",
+                "file": "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/6. Updating Deployed Applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. deploying docker image on ibm cloud engine"
+              "title": "6. Updating Deployed Applications"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/4. Deploying and Running Applications.md",
+    "Pasted image 20260703185658.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/5. deploying docker image on ibm cloud engine.md",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/6. Updating Deployed Applications.md",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/4. Deploying and Running Applications.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/deploying docker image on ibm cloud engine.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/3. Building Container Images for Microservices.md",
     "Pasted image 20260703183509.png",
@@ -213,8 +215,6 @@
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 1",
     "Obsidian Vault/! Courses/8. IBM Microservices",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project/9. rev.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Final Project/8. up-app.md",
-    "Obsidian Vault/Courses/7. IBM Containers/Final Project/7. deployment.md",
     "Obsidian Vault/Courses/7. IBM Containers/Final Project",
     "799FB660",
     "~$Ashwin_SOTI_6_Week_Sprint .xlsx"
