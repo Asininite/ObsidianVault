@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4f80edbf5d0f44",
+        "id": "d444c40fbc89e06e",
         "type": "tabs",
         "children": [
           {
-            "id": "00ab3177034a1327",
+            "id": "564ddfda9584e22f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Obsidian Vault/Images/Pasted image 20260703092352.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260703092352"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,10 +166,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "564ddfda9584e22f",
   "lastOpenFiles": [
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/6. Popular Serverless Platforms.md",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/7. AWS Lambda.pdf",
     "Obsidian Vault/Images/Pasted image 20260703092352.png",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/AWS Lambda.pdf",
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/6. Popular Serverless Platforms.md",
     "Obsidian Vault/Images/Pasted image 20260703092317.png",
     "Obsidian Vault/Images/Pasted image 20260703083851.png",
     "Obsidian Vault/Images/Pasted image 20260703083816.png",
@@ -212,8 +212,6 @@
     "Obsidian Vault/Courses/7. IBM Containers/Final Project",
     "799FB660",
     "~$Ashwin_SOTI_6_Week_Sprint .xlsx",
-    "Obsidian Vault/! Courses/7. IBM Containers/Module 4",
-    "Obsidian Vault/! Courses/7. IBM Containers/Module 3",
-    "Obsidian Vault/! Courses/7. IBM Containers/Module 2"
+    "Obsidian Vault/! Courses/7. IBM Containers/Module 4"
   ]
 }
