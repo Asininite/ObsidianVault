@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/9. Application Security/Module 1/11. Threat Monitoring.md",
+                "file": "Obsidian Vault/! Courses/9. Application Security/Module 1/12. Security Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Threat Monitoring"
+              "title": "12. Security Concepts"
             }
           }
         ]
@@ -172,6 +172,12 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
+    "Pasted image 20260704040706.png",
+    "Obsidian Vault/! Courses/9. Application Security/Module 1/11. Threat Monitoring.md",
+    "Obsidian Vault/! Courses/9. Application Security/Module 1/12. Security Concepts.md",
+    "Pasted image 20260704040617.png",
+    "Pasted image 20260704040606.png",
+    "Pasted image 20260704040601.png",
     "Pasted image 20260704040537.png",
     "Pasted image 20260704040529.png",
     "Pasted image 20260704040523.png",
@@ -179,12 +185,7 @@
     "Pasted image 20260704040422.png",
     "Pasted image 20260704040402.png",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/10. Vulnerability Scanning Threat Modeling.md",
-    "Obsidian Vault/! Courses/9. Application Security/Module 1/11. Threat Monitoring.md",
     "Pasted image 20260704040332.png",
-    "Pasted image 20260704040319.png",
-    "Pasted image 20260704040251.png",
-    "Pasted image 20260704040244.png",
-    "Pasted image 20260704040225.png",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/9. Questions.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/2. DevSecOps.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/4. Securing Layers for App Development.md",
@@ -213,7 +214,6 @@
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/1. IBM Cloud Engine.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/1. Serverless Computing.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/10. Serverless Event Streaming.md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/7. AWS Lambda.pdf",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/AWS Lambda.pdf",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 3",
