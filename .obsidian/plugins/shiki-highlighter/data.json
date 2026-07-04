@@ -2,7 +2,11 @@
   "disabledLanguages": [],
   "customThemeFolder": "",
   "customLanguageFolder": "",
-  "theme": "laserwave",
+  "darkTheme": "laserwave",
+  "lightTheme": "laserwave",
   "preferThemeColors": true,
-  "inlineHighlighting": true
+  "inlineHighlighting": true,
+  "ecDefaultShowLineNumbers": true,
+  "ecDefaultWrap": true,
+  "ecDefaultFrame": "auto"
 }

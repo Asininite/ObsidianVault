@@ -19,7 +19,7 @@
     "icon": "code"
   },
   "showPrintMargin": true,
-  "showInvisibles": false,
+  "showInvisibles": true,
   "displayIndentGuides": true,
   "showFoldWidgets": true,
   "embedMaxHeight": 500,
