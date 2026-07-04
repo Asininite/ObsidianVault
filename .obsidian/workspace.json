@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 340.49999618530273
   },
   "right": {
     "id": "2285ec033214da64",
@@ -89,27 +89,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cc8b9ebcfa54c7a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "b7a0162bd6644092",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
+                "file": "Obsidian Vault/! Courses/9. Application Security/Module 3/1. Intro to OWASP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 16 Bit Addition With 8086"
+              "title": "Backlinks for 1. Intro to OWASP"
             }
           },
           {
@@ -152,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
