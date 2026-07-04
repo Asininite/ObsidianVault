@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/9. Application Security/Module 2/7. Vulnerability Analysis.md",
+                "file": "Obsidian Vault/! Courses/9. Application Security/Module 2/8. Evaluating Vulnerability Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Vulnerability Analysis"
+              "title": "8. Evaluating Vulnerability Analysis"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
-    "Obsidian Vault/! Courses/9. Application Security/Module 2/6. Code Review.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 2/7. Vulnerability Analysis.md",
+    "Obsidian Vault/! Courses/9. Application Security/Module 2/8. Evaluating Vulnerability Analysis.md",
+    "Obsidian Vault/! Courses/9. Application Security/Module 2/6. Code Review.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 2/1. Intro Security Testing Mitigation Strategy.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 2/4. Dynamic Analysis.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 2/3. SonarQube.md",
@@ -214,7 +215,6 @@
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/1..md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1",
     "Obsidian Vault/! Courses/9. Application Security",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/2..md",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4/Unconfirmed 199675.crdownload",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4"
