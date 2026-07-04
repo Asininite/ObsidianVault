@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/9. Application Security/Module 3/2. OWASP Top 10.md",
+                "file": "Obsidian Vault/! Courses/9. Application Security/Module 3/5. Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. OWASP Top 10"
+              "title": "5. Questions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/! Courses/9. Application Security/Module 3/2. OWASP Top 10.md",
+                "file": "Obsidian Vault/! Courses/9. Application Security/Module 3/5. Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. OWASP Top 10"
+              "title": "Backlinks for 5. Questions"
             }
           },
           {
@@ -158,10 +158,13 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
+    "Pasted image 20260705004900.png",
+    "Obsidian Vault/! Courses/9. Application Security/Module 3/2. OWASP Top 10.md",
+    "Obsidian Vault/! Courses/9. Application Security/Module 3/5. Questions.md",
+    "Obsidian Vault/! Courses/9. Application Security/Module 3/Untitled",
     "Obsidian Vault/! Courses/9. Application Security/Module 3/1. Intro to OWASP.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 3/4. Snyk Demo video.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 3/3. Snyk.md",
-    "Obsidian Vault/! Courses/9. Application Security/Module 3/2. OWASP Top 10.md",
     "Pasted image 20260705002709.png",
     "Pasted image 20260705000817.png",
     "Pasted image 20260705000808.png",
@@ -198,11 +201,8 @@
     "Obsidian Vault/! Courses/9. Application Security/Module 1/8. OpenSSL lab.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/4. Securing Layers for App Development.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/6. TLS SSL.md",
-    "Obsidian Vault/! Courses/9. Application Security/Module 1/5. Security Patterns.md",
-    "Obsidian Vault/! Courses/9. Application Security/Module 1/16. glossary.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/Unconfirmed 847575.crdownload",
     "Obsidian Vault/! Courses/9. Application Security/Module 1/Unconfirmed 455993.crdownload",
-    "Obsidian Vault/! Courses/9. Application Security/Module 1",
-    "Obsidian Vault/! Courses/9. Application Security"
+    "Obsidian Vault/! Courses/9. Application Security/Module 1"
   ]
 }
