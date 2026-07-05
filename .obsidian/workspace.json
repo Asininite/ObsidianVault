@@ -11,12 +11,14 @@
             "id": "564ddfda9584e22f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "deploy-getsong-2.png"
+                "file": "Obsidian Vault/! Courses/11. Final Project/4..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "deploy-getsong-2"
+              "icon": "lucide-file",
+              "title": "4."
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deploy-getsong-2.png",
+                "file": "Obsidian Vault/! Courses/11. Final Project/4..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for deploy-getsong-2"
+              "title": "Backlinks for 4."
             }
           },
           {
@@ -154,14 +156,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "564ddfda9584e22f",
   "lastOpenFiles": [
     "deploy-getsong-1.png",
-    "deploy-getsong-23.png",
+    "deploy-getsong-2.png",
+    "deploy-getsong-12.png",
     "Obsidian Vault/! Courses/11. Final Project/4..md",
     "Obsidian Vault/! Courses/11. Final Project/3..md",
     "Pasted image 20260706003409.png",
-    "deploy-getsong-2.png",
     "django-photos.png",
     "django-song-modal.png",
     "django-app-browser.png",
