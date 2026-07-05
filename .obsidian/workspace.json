@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/6. Mezmo.md",
+                "file": "Obsidian Vault/! Courses/11. Final Project/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Mezmo"
+              "title": "1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/6. Mezmo.md",
+                "file": "Obsidian Vault/! Courses/11. Final Project/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. Mezmo"
+              "title": "Backlinks for 1"
             }
           },
           {
@@ -158,8 +158,12 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/5. Log Storage.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/6. Mezmo.md",
+    "Obsidian Vault/! Courses/11. Final Project/1.md",
+    "Obsidian Vault/! Courses/11. Final Project/1/Untitled.md",
+    "Obsidian Vault/! Courses/11. Final Project/1",
+    "Obsidian Vault/! Courses/11. Final Project",
+    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/5. Log Storage.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/4. Implementing Logging.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/2. Log Monitoring Tools.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/3. Distributed Logging and Tracing.md",
@@ -186,17 +190,13 @@
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 1/2. Types of Monitoring.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 1/1. Intro to monitoring.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 1/8. Glossary.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 1/7. Importance of Monitoring.md",
-    "Obsidian Vault/! Courses/9. Application Security/GLOSSARY.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 1",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps",
     "Obsidian Vault/! Courses/Untitled.canvas",
     "Obsidian Vault/! Courses/9. Application Security/Module 4/Unconfirmed 886168.crdownload",
     "Obsidian Vault/! Courses/9. Application Security/Module 4/Unconfirmed 148279.crdownload",
-    "Obsidian Vault/! Courses/9. Application Security/Module 4",
     "Obsidian Vault/Images/Pasted image 20260705000626.png",
     "Obsidian Vault/Images/Pasted image 20260705032026.png",
-    "Obsidian Vault/! Courses/9. Application Security/Module 3/Unconfirmed 391542.crdownload",
     "Obsidian Vault/Images/Pasted image 20260705025722.png",
     "Obsidian Vault/Images/Pasted image 20260705025708.png",
     "Obsidian Vault/Images/Pasted image 20260705004900.png",
