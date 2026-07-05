@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 258.5
   },
   "right": {
     "id": "2285ec033214da64",
@@ -156,7 +156,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5ad115f57a44c449",
+  "active": "564ddfda9584e22f",
   "lastOpenFiles": [
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 1/6. Types of Metric in Monitoring System.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/1. Intro to Synthetic Monitoring.md",
