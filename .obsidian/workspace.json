@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/3. Intro to Application Monitoring.md",
+                "file": "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/4. Intro to Prometheus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Intro to Application Monitoring"
+              "title": "4. Intro to Prometheus"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/3. Intro to Application Monitoring.md",
+                "file": "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/4. Intro to Prometheus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Intro to Application Monitoring"
+              "title": "Backlinks for 4. Intro to Prometheus"
             }
           },
           {
@@ -158,8 +158,9 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/2. Tools of Synthetic Monitoring.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/3. Intro to Application Monitoring.md",
+    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/4. Intro to Prometheus.md",
+    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/2. Tools of Synthetic Monitoring.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/1. Intro to Synthetic Monitoring.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 1/6. Types of Metric in Monitoring System.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2",
@@ -190,7 +191,6 @@
     "Obsidian Vault/! Courses/9. Application Security/Module 3/7. SQL injection bandit.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 3/6. SQL Injections.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 3/14. Glossary.md",
-    "Obsidian Vault/! Courses/9. Application Security/Module 3/13. Cheat Sheet.md",
     "Obsidian Vault/Images/Pasted image 20260705000626.png",
     "Obsidian Vault/Images/Pasted image 20260705032026.png",
     "Obsidian Vault/! Courses/9. Application Security/Module 3/Unconfirmed 391542.crdownload",
