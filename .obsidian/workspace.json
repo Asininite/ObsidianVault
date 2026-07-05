@@ -11,14 +11,12 @@
             "id": "564ddfda9584e22f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/! Courses/11. Final Project/4.2.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260706013430.png"
               },
-              "icon": "lucide-file",
-              "title": "4.2"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260706013430"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/! Courses/11. Final Project/4.2.md",
+                "file": "Pasted image 20260706013430.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4.2"
+              "title": "Backlinks for Pasted image 20260706013430"
             }
           },
           {
@@ -158,22 +156,22 @@
   },
   "active": "564ddfda9584e22f",
   "lastOpenFiles": [
+    "Pasted image 20260706013951.png",
+    "Pasted image 20260706014348.png",
+    "Pasted image 20260706013430.png",
+    "Pasted image 20260706011359.png",
+    "Pasted image 20260706010947.png",
+    "deploy-getdjango-4.png",
+    "Pasted image 20260706010252.png",
+    "Obsidian Vault/! Courses/11. Final Project/4.2.md",
     "deploy-getsong-5.png",
     "Pasted image 20260706004031.png",
     "Pasted image 20260706003409.png",
     "Obsidian Vault/! Courses/11. Final Project/4..md",
     "deploy-getsong-1.png",
-    "deploy-getsong-2.png",
-    "deploy-getsong-12.png",
     "Obsidian Vault/! Courses/11. Final Project/3..md",
-    "django-photos.png",
-    "django-song-modal.png",
-    "django-app-browser.png",
     "Obsidian Vault/! Courses/11. Final Project/2..md",
     "Obsidian Vault/! Courses/11. Final Project/1.md",
-    "Obsidian Vault/! Courses/11. Final Project/4.2.md",
-    "Pasted image 20260706014348.png",
-    "Pasted image 20260706013951.png",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/6. Mezmo.md",
     "Obsidian Vault/! Courses/11. Final Project/1/Untitled.md",
     "Obsidian Vault/! Courses/11. Final Project/1",
