@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d444c40fbc89e06e",
+        "id": "bf4f80edbf5d0f44",
         "type": "tabs",
         "children": [
           {
-            "id": "564ddfda9584e22f",
+            "id": "00ab3177034a1327",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/6. Mezmo.md",
-                "mode": "source",
-                "source": false
+                "file": "Obsidian Vault/Images/Pasted image 20260630020839.png"
               },
-              "icon": "lucide-file",
-              "title": "6. Mezmo"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260630020839"
             }
           }
         ]
@@ -41,7 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 377.5
   },
   "right": {
     "id": "2285ec033214da64",
@@ -89,12 +87,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6cc8b9ebcfa54c7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
             "id": "b7a0162bd6644092",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/6. Mezmo.md",
+                "file": "Obsidian Vault/Microprocessor and Microcontroller/16 Bit Addition With 8086.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. Mezmo"
+              "title": "Backlinks for 16 Bit Addition With 8086"
             }
           },
           {
@@ -156,54 +169,52 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "564ddfda9584e22f",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/5. Log Storage.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/6. Mezmo.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/4. Implementing Logging.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/3. Distributed Logging and Tracing.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/7. Glossary.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/2. Log Monitoring Tools.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3/1. Intro to logging.md",
-    "Obsidian Vault/! Courses/11. Final Project/deploy-getdjango-4.png",
-    "Obsidian Vault/! Courses/11. Final Project/4.2.md",
-    "Obsidian Vault/! Courses/11. Final Project/Pasted image 20260706010252.png",
-    "Obsidian Vault/! Courses/11. Final Project/Pasted image 20260706003409.png",
-    "Obsidian Vault/! Courses/11. Final Project/django-song-modal.png",
-    "Obsidian Vault/! Courses/11. Final Project/django-app-browser.png",
-    "Obsidian Vault/! Courses/11. Final Project/deploy-getsong-12.png",
-    "Obsidian Vault/! Courses/11. Final Project/deploy-getsong-5.png",
-    "Obsidian Vault/! Courses/11. Final Project/django-photos.png",
-    "Obsidian Vault/! Courses/11. Final Project/deploy-getdjango-8.png",
-    "Obsidian Vault/! Courses/11. Final Project/deploy-getdjango-7.png",
-    "Obsidian Vault/! Courses/11. Final Project/4..md",
-    "Obsidian Vault/! Courses/11. Final Project/3..md",
-    "Obsidian Vault/! Courses/11. Final Project/2..md",
-    "Obsidian Vault/! Courses/11. Final Project/1.md",
-    "Obsidian Vault/! Courses/11. Final Project/1/Untitled.md",
-    "Obsidian Vault/! Courses/11. Final Project/1",
-    "Obsidian Vault/! Courses/11. Final Project",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/11. Cheat Sheet.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 3",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/10. Alerting in Monitoring.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/9. Visualization in Monitoring.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/7. Intro to grafana.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/8. Prometheus and Grafana.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/Unconfirmed 743204.crdownload",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/6. Choosing right app monitoring tool.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/4. Intro to Prometheus.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/5. Prometheus lab.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/Unconfirmed 500092.crdownload",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/3. Intro to Application Monitoring.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/2. Tools of Synthetic Monitoring.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2/1. Intro to Synthetic Monitoring.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 1/6. Types of Metric in Monitoring System.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 2",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 1/5. Components of Monitoring System.md",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 1",
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps",
-    "Obsidian Vault/! Courses/Untitled.canvas",
-    "Obsidian Vault/! Courses/9. Application Security/Module 4/Unconfirmed 886168.crdownload",
-    "Obsidian Vault/! Courses/9. Application Security/Module 4/Unconfirmed 148279.crdownload"
+    "Obsidian Vault/Courses/8. IBM Microservices/Module 1/2. What are Microservices.md",
+    "Pasted image 20260702023409.png",
+    "Pasted image 20260702023336.png",
+    "Pasted image 20260702023316.png",
+    "Pasted image 20260702023232.png",
+    "Obsidian Vault/Courses/8. IBM Microservices/Module 1/1. 12-factor app.md",
+    "Pasted image 20260702023144.png",
+    "Pasted image 20260702023128.png",
+    "Pasted image 20260702023111.png",
+    "Pasted image 20260702023056.png",
+    "Pasted image 20260702023038.png",
+    "Pasted image 20260702023018.png",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4/1. Red Hat Openshift.md",
+    "Obsidian Vault/Courses/8. IBM Microservices/Module 1",
+    "Obsidian Vault/Courses/8. IBM Microservices",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/10. Revision.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 4",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/1. Replica Set.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/4. Rolling Updates.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/7. Lab Scaling and Updating apps.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/8. Impact of Kubernetes and Containerization.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/6. Service Binding.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/2. Autoscaling.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/5. Config Map and Secrets.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/9. Cheat Sheet.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3/3. Deployment Strategy.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/5. Using Kubectl.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 3",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/7. Antipatterns.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/6. Ingress Objects vs Controller.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/4. Kubernetes Objects.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/3. Kubernetes Architecture.md",
+    "Obsidian Vault/Courses/6. IBM Django/Final Project.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Obsidian Vault/Courses/6. IBM Django/Script To Instantiate IBM Lab locally.md",
+    "Obsidian Vault/Courses/6. IBM Django/Module 3/3. Django Admin.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/1. Container Orchestration.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2/2. Kubernetes Intro.md",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 2",
+    "Obsidian Vault/Courses/7. IBM Containers/Module 1",
+    "Obsidian Vault/Courses/7. IBM Containers",
+    "Obsidian Vault/Courses/6. IBM Django/Module 4",
+    "Obsidian Vault/Courses/6. IBM Django/Module 3",
+    "Ashwin_SOTI_6_Week_Sprint .xlsx"
   ]
 }
