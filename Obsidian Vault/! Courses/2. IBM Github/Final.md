@@ -30,3 +30,13 @@ bug-fix-revert
 theia@theia-asininite:/home/project/mcino-Introduction-to-Git-and-GitHub$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/9102 | jq -r '.head.repo.clone_url'
 https://github.com/Asininite/mcino-Introduction-to-Git-and-GitHub.git
 ```
+
+github-branches
+```
+theia@theia-asininite:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+  big-fix-revert 48649a2 Revert "fixed_typo_in_footer_of_README"
+* bug-fix-revert 9c14a86 [origin/bug-fix-revert] Revert "fixed_typo_in_footer_of_README"
+  bug-fix-typo   5f64d36 [origin/bug-fix-typo] fixed_typo_in_footer_of_README
+  main           4bcb239 [origin/main] Revert "Revert "fixed_typo_in_footer_of_README""
+```
+
