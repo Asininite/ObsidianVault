@@ -15,3 +15,13 @@ https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-Gi
 theia@theia-asininite:/home/project$ 
 ```
 
+merge-branches
+```
+theia@theia-asininite:/home/project/mcino-Introduction-to-Git-and-GitHub$ git merge bug-fix-typo
+Updating ad95b0a..5f64d36
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+```
+
+
