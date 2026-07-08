@@ -9,3 +9,13 @@
 <script defer crossorigin="anonymous" src="https://eum.instana.io/1.8.1/eum.min.js" 
  integrity="sha384-qFzHZ5BC7HOPEBSYkbYSv+DBWrG34P1QW9mIaCR41db6yOJNYmH4antW6KLkc6v1"></script>
 
+```
+   --env="INSTANA_AGENT_ENDPOINT=ingress-blue-saas.instana.io" \
+
+   --env="INSTANA_AGENT_ENDPOINT_PORT=443" \
+
+   --env="INSTANA_AGENT_KEY=R0WD6rliRH69r7_iU4uDZg" \
+
+   --env="INSTANA_DOWNLOAD_KEY=R0WD6rliRH69r7_iU4uDZg" \
+```
+
