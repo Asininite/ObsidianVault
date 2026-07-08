@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/2. IBM Github/Final.md",
+                "file": "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 4/1. What is Observability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final"
+              "title": "1. What is Observability"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "00ab3177034a1327",
   "lastOpenFiles": [
-    "Obsidian Vault/! Courses/2. IBM Github/Cheatsheet.md",
     "Obsidian Vault/! Courses/2. IBM Github/Final.md",
+    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 4/1. What is Observability.md",
+    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 4",
+    "Obsidian Vault/! Courses/2. IBM Github/Cheatsheet.md",
     "Obsidian Vault/Images/Pasted image 20260630020839.png",
     "Obsidian Vault/! Courses/2. IBM Github",
     "Obsidian Vault/! Courses/9. Application Security/Module 4/7. glossary.md",
@@ -200,7 +202,6 @@
     "Obsidian Vault/! Courses/9. Application Security/Module 3/1. Intro to OWASP.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 2/9. pip-audit.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 2/8. Evaluating Vulnerability Analysis.md",
-    "Obsidian Vault/! Courses/9. Application Security/Module 2/7. Vulnerability Analysis.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 4",
     "Obsidian Vault/! Courses/9. Application Security/Module 3",
     "Obsidian Vault/! Courses/9. Application Security/Module 2",
@@ -217,7 +218,6 @@
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5/dealer_details_deploy.png",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 5",
     "Obsidian Vault/! Courses/8. IBM Microservices/Module 4",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/7. AWS Lambda.pdf",
-    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3"
+    "Obsidian Vault/! Courses/8. IBM Microservices/Module 3/7. AWS Lambda.pdf"
   ]
 }
