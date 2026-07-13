@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Final Project.md",
+                "file": "Flat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final Project"
+              "title": "Flat"
             }
           }
         ]
@@ -171,10 +171,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "00ab3177034a1327",
+  "active": "5ad115f57a44c449",
   "lastOpenFiles": [
-    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 4/9. Tracing Container Applications.md",
+    "README.md",
+    "Flat.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Final Project.md",
+    "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 4/9. Tracing Container Applications.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 4/8. Telemetry and Tracing Tools.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 4/7.  Intro to Telemetry.md",
     "Obsidian Vault/! Courses/10. Monitoring Observability DevOps/Module 4/6. IBM Instana.md",
@@ -200,8 +202,6 @@
     "Obsidian Vault/! Courses/9. Application Security/Module 3/7. SQL injection bandit.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 3/6. SQL Injections.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 3/5. Questions.md",
-    "Obsidian Vault/! Courses/9. Application Security/Module 3/4. Snyk Demo video.md",
-    "Obsidian Vault/! Courses/9. Application Security/Module 3/3. Snyk.md",
     "Obsidian Vault/! Courses/9. Application Security/Module 4",
     "Obsidian Vault/! Courses/9. Application Security/Module 3",
     "Obsidian Vault/! Courses/9. Application Security/Module 2",
