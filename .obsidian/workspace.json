@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/Angular/! Ahsan Crash Course/1. Creating app.md",
+                "file": "Obsidian Vault/Angular/! Ahsan Crash Course/2. Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Creating app"
+              "title": "2. Components"
             }
           }
         ],
@@ -202,9 +202,10 @@
   },
   "active": "8dd69c77392f7c0e",
   "lastOpenFiles": [
+    "Obsidian Vault/Angular/! Ahsan Crash Course/1. Creating app.md",
+    "Obsidian Vault/Angular/! Ahsan Crash Course/2. Components.md",
     "Pasted image 20260730164033.png",
     "Obsidian Vault/Angular/Testing/1. Creating app.md",
-    "Obsidian Vault/Angular/! Ahsan Crash Course/1. Creating app.md",
     "Obsidian Vault/Angular/! Ahsan Crash Course",
     "Obsidian Vault/Angular/Testing/2. Type Alias.md",
     "Obsidian Vault/Angular/Testing/! 3. Components.md",
@@ -246,7 +247,6 @@
     "Obsidian Vault/! Courses/11. Final Project/deploy-getsong-5.png",
     "Obsidian Vault/! Courses/11. Final Project/django-photos.png",
     "Obsidian Vault/! Courses/11. Final Project/deploy-getdjango-8.png",
-    "Obsidian Vault/! Courses/11. Final Project/deploy-getdjango-7.png",
     "Obsidian Vault/! Courses/11. Final Project/4..md",
     "Obsidian Vault/! Courses/Untitled.canvas"
   ]
